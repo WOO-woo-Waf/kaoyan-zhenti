@@ -1,7 +1,7 @@
 /* ============================================================
    考研真题精读库 · 总入口
    读 data/manifest.js 渲染三科卡片与总览；
-   读各科 localStorage 聚合生题本总账（file:// 下若被隔离则降级为「—」）。
+   从正式学习文件的启动快照聚合生题本；静态预览保留旧键名读取兼容。
    ============================================================ */
 (function () {
   'use strict';
@@ -20,7 +20,7 @@
 
   function readLS(key, dflt) {
     try {
-      var v = window.localStorage.getItem(key);
+      var v = window.StudyStorage.getItem(key);
       return v ? JSON.parse(v) : dflt;
     } catch (e) { return dflt; }
   }
@@ -28,7 +28,7 @@
   /* ---------------- 主题 ---------------- */
   function applyTheme(t) {
     document.documentElement.setAttribute('data-theme', t);
-    try { window.localStorage.setItem(LS_THEME, t); } catch (e) {}
+    try { window.StudyStorage.setItem(LS_THEME, JSON.stringify(t)); } catch (e) {}
     var ico = $('#btn-theme');
     if (ico) ico.innerHTML = t === 'light'
       ? '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.2 5.2l1.4 1.4M17.4 17.4l1.4 1.4M18.8 5.2l-1.4 1.4M6.6 17.4l-1.4 1.4"/></svg>'
@@ -68,6 +68,7 @@
 
   /* ---------------- 生题本聚合 ---------------- */
   function collectWrong() {
+    if (window.__STUDY_BOOT__ && window.__STUDY_BOOT__.overview) return window.__STUDY_BOOT__.overview;
     var out = {};   // subjectId -> {items: [...], groups: Map, extra}
     M.subjects.forEach(function (s) {
       var raw = readLS(s.storage.wrong, null);
@@ -188,7 +189,7 @@
   /* ---------------- 启动 ---------------- */
   function boot() {
     var t = 'dark';
-    try { t = window.localStorage.getItem(LS_THEME) || 'dark'; } catch (e) {}
+    try { t = JSON.parse(window.StudyStorage.getItem(LS_THEME)) || 'dark'; } catch (e) {}
     applyTheme(t);
 
     var wrong = collectWrong();
@@ -205,7 +206,8 @@
     });
 
     var rf = $('#btn-refresh');
-    if (rf) rf.addEventListener('click', function () {
+    if (rf) rf.addEventListener('click', async function () {
+      if (window.StudyFiles) { try { await window.StudyFiles.refresh(); } catch(e) { rf.title=e.message; return; } }
       var w = collectWrong();
       renderOverview(w); renderCards(w); renderWrongBook(w); renderCountdown();
     });

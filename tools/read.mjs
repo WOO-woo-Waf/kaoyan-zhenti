@@ -19,6 +19,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import vm from 'node:vm';
 import { fileURLToPath } from 'node:url';
+import { readState, buildReport } from './study-core.mjs';
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(HERE, '..');
@@ -95,6 +96,13 @@ function brief(q) {
 }
 
 switch (cmd) {
+  case 'learning': {
+    const report = buildReport(readState(path.join(ROOT, 'study-data')));
+    if (rest[0] === 'summary') j({revision:report.revision,updatedAt:report.updatedAt,summary:report.summary,instructions:report.instructions});
+    else if (rest[0]) j(report.subjects[subjectOf(rest[0])]);
+    else j(report);
+    break;
+  }
   case 'subjects': {
     const m = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'manifest.json'), 'utf8'));
     j(m.subjects.map((s) => ({
@@ -205,6 +213,9 @@ switch (cmd) {
 
   default:
     write(`真题库读取器
+
+  node tools/read.mjs learning summary            我的三科学习概况（智能体先读）
+  node tools/read.mjs learning [科]               完整错题、不会题、知识点、生词与上下文
 
   node tools/read.mjs subjects                     三科总览
   node tools/read.mjs years <科>                   年份与题量

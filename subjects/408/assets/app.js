@@ -34,10 +34,10 @@
   /* ---------------- 存储 ---------------- */
   const store = {
     get(k, d) {
-      try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; }
+      try { const v = window.StudyStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; }
     },
     set(k, v) {
-      try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) { toast('本地存储写入失败（可能已满）'); }
+      try { window.StudyStorage.setItem(k, JSON.stringify(v)); } catch (e) { toast('本地存储写入失败（可能已满）'); }
     }
   };
   let WRONG = store.get(LS.wrong, {});   // id -> {ts, subject, module, point, reason, pick}

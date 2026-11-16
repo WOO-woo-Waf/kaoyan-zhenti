@@ -1,0 +1,963 @@
+{
+  "schemaVersion": 1,
+  "revision": 18,
+  "updatedAt": "2026-11-16T14:34:48.229Z",
+  "values": {
+    "cs408.done.v1": {
+      "2020-22": {
+        "pick": "C",
+        "ok": true,
+        "ts": 1794827240966
+      }
+    },
+    "cs408.pref.v1": {
+      "theme": "light",
+      "anOpen": true,
+      "mode": "study",
+      "year": 2020,
+      "view": "paper",
+      "subject": ""
+    },
+    "cs408.wrong.v1": {
+      "2020-4": {
+        "ts": 1794826596372,
+        "subject": "数据结构",
+        "module": "树与二叉树",
+        "point": "树与森林的转换",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 4,
+        "kind": "choice"
+      },
+      "2020-7": {
+        "ts": 1794826981721,
+        "subject": "数据结构",
+        "module": "图",
+        "point": "最小生成树",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 7,
+        "kind": "choice"
+      },
+      "2020-8": {
+        "ts": 1794827010524,
+        "subject": "数据结构",
+        "module": "图",
+        "point": "关键路径",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 8,
+        "kind": "choice"
+      },
+      "2020-10": {
+        "ts": 1794827052320,
+        "subject": "数据结构",
+        "module": "查找",
+        "point": "B树与B+树",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 10,
+        "kind": "choice"
+      },
+      "2020-11": {
+        "ts": 1794827059576,
+        "subject": "数据结构",
+        "module": "排序",
+        "point": "排序算法稳定性与复杂度",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 11,
+        "kind": "choice"
+      },
+      "2020-12": {
+        "ts": 1794827190768,
+        "subject": "计算机组成原理",
+        "module": "中央处理器",
+        "point": "CPU功能与寄存器",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 12,
+        "kind": "choice"
+      },
+      "2020-13": {
+        "ts": 1794827194693,
+        "subject": "计算机组成原理",
+        "module": "数据的表示和运算",
+        "point": "原码反码补码移码",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 13,
+        "kind": "choice"
+      },
+      "2020-14": {
+        "ts": 1794827200534,
+        "subject": "计算机组成原理",
+        "module": "数据的表示和运算",
+        "point": "定点数与溢出判断",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 14,
+        "kind": "choice"
+      },
+      "2020-15": {
+        "ts": 1794827209854,
+        "subject": "计算机组成原理",
+        "module": "存储系统",
+        "point": "虚拟存储器与TLB",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 15,
+        "kind": "choice"
+      },
+      "2020-17": {
+        "ts": 1794827217552,
+        "subject": "计算机组成原理",
+        "module": "中央处理器",
+        "point": "流水线冲突与性能",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 17,
+        "kind": "choice"
+      },
+      "2020-21": {
+        "ts": 1794827224119,
+        "subject": "计算机组成原理",
+        "module": "输入输出系统",
+        "point": "中断方式与中断处理",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 21,
+        "kind": "choice"
+      },
+      "2020-22": {
+        "ts": 1794827240037,
+        "subject": "计算机组成原理",
+        "module": "输入输出系统",
+        "point": "DMA方式",
+        "reason": "wrong",
+        "pick": "B",
+        "year": 2020,
+        "no": 22,
+        "kind": "choice"
+      },
+      "2020-24": {
+        "ts": 1794827454163,
+        "subject": "操作系统",
+        "module": "文件管理",
+        "point": "文件物理结构分配",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 24,
+        "kind": "choice"
+      },
+      "2020-25": {
+        "ts": 1794827474667,
+        "subject": "操作系统",
+        "module": "操作系统概述",
+        "point": "系统调用与中断",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 25,
+        "kind": "choice"
+      },
+      "2020-30": {
+        "ts": 1794827581791,
+        "subject": "操作系统",
+        "module": "输入输出管理",
+        "point": "设备分配与SPOOLing",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 30,
+        "kind": "choice"
+      },
+      "2020-37": {
+        "ts": 1794827742270,
+        "subject": "计算机网络",
+        "module": "数据链路层",
+        "point": "CSMA/CD与CSMA/CA",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 37,
+        "kind": "choice"
+      },
+      "2020-36": {
+        "ts": 1794827744122,
+        "subject": "计算机网络",
+        "module": "数据链路层",
+        "point": "滑动窗口与流量控制",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 36,
+        "kind": "choice"
+      },
+      "2020-40": {
+        "ts": 1794827903928,
+        "subject": "计算机网络",
+        "module": "应用层",
+        "point": "DNS",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 40,
+        "kind": "choice"
+      },
+      "2020-42": {
+        "ts": 1794828069835,
+        "subject": "数据结构",
+        "module": "树与二叉树",
+        "point": "哈夫曼树与哈夫曼编码",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 42,
+        "kind": "big"
+      },
+      "2020-43": {
+        "ts": 1794828632621,
+        "subject": "计算机组成原理",
+        "module": "数据的表示和运算",
+        "point": "乘除法运算",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 43,
+        "kind": "big"
+      },
+      "2020-44": {
+        "ts": 1794828647967,
+        "subject": "计算机组成原理",
+        "module": "存储系统",
+        "point": "Cache地址映射",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 44,
+        "kind": "big"
+      },
+      "2020-45": {
+        "ts": 1794828785207,
+        "subject": "操作系统",
+        "module": "进程管理",
+        "point": "信号量与PV操作",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 45,
+        "kind": "big"
+      },
+      "2020-47": {
+        "ts": 1794829303357,
+        "subject": "计算机网络",
+        "module": "网络层",
+        "point": "NAT与私有地址",
+        "reason": "unsure",
+        "pick": "",
+        "year": 2020,
+        "no": 47,
+        "kind": "big"
+      }
+    },
+    "math.wrong.v1": {
+      "2016-1": {
+        "id": "2016-1",
+        "ts": 1794829545039
+      },
+      "2016-10": {
+        "id": "2016-10",
+        "ts": 1794830039894
+      },
+      "2016-16": {
+        "id": "2016-16",
+        "ts": 1794830253490
+      }
+    },
+    "math.pref.v1": {
+      "year": 2016,
+      "tab": "big",
+      "view": "paper",
+      "mode": "study",
+      "showAn": true,
+      "fs": 0
+    },
+    "wx.fontSize.v1": 17.5,
+    "wx.mode.v1": "study",
+    "wx.theme.v1": "light",
+    "wx.showZh.v1": true,
+    "hub.theme.v1": "light",
+    "paper.analysis": false,
+    "paper.deep": false,
+    "paper.size": 17.5,
+    "paper.tab": "reading",
+    "paper.theme": "dark",
+    "paper.view": "sent",
+    "paper.year": 2013,
+    "paper.zh": true
+  },
+  "versions": {
+    "cs408.done.v1": 1,
+    "cs408.pref.v1": 1,
+    "cs408.wrong.v1": 1,
+    "math.wrong.v1": 1,
+    "math.pref.v1": 1,
+    "wx.fontSize.v1": 1,
+    "wx.mode.v1": 1,
+    "wx.theme.v1": 1,
+    "wx.showZh.v1": 1,
+    "hub.theme.v1": 1,
+    "paper.analysis": 1,
+    "paper.deep": 1,
+    "paper.size": 1,
+    "paper.tab": 1,
+    "paper.theme": 1,
+    "paper.view": 1,
+    "paper.year": 1,
+    "paper.zh": 1
+  },
+  "history": [
+    {
+      "revision": 1,
+      "at": "2026-11-16T14:34:48.221Z",
+      "key": "cs408.done.v1",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "id": "2020-22",
+          "before": null,
+          "after": {
+            "pick": "C",
+            "ok": true,
+            "ts": 1794827240966
+          }
+        }
+      ]
+    },
+    {
+      "revision": 2,
+      "at": "2026-11-16T14:34:48.227Z",
+      "key": "cs408.pref.v1",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "before": null,
+          "after": {
+            "theme": "light",
+            "anOpen": true,
+            "mode": "study",
+            "year": 2020,
+            "view": "paper",
+            "subject": ""
+          }
+        }
+      ]
+    },
+    {
+      "revision": 3,
+      "at": "2026-11-16T14:34:48.227Z",
+      "key": "cs408.wrong.v1",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "id": "2020-4",
+          "before": null,
+          "after": {
+            "ts": 1794826596372,
+            "subject": "数据结构",
+            "module": "树与二叉树",
+            "point": "树与森林的转换",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 4,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-7",
+          "before": null,
+          "after": {
+            "ts": 1794826981721,
+            "subject": "数据结构",
+            "module": "图",
+            "point": "最小生成树",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 7,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-8",
+          "before": null,
+          "after": {
+            "ts": 1794827010524,
+            "subject": "数据结构",
+            "module": "图",
+            "point": "关键路径",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 8,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-10",
+          "before": null,
+          "after": {
+            "ts": 1794827052320,
+            "subject": "数据结构",
+            "module": "查找",
+            "point": "B树与B+树",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 10,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-11",
+          "before": null,
+          "after": {
+            "ts": 1794827059576,
+            "subject": "数据结构",
+            "module": "排序",
+            "point": "排序算法稳定性与复杂度",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 11,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-12",
+          "before": null,
+          "after": {
+            "ts": 1794827190768,
+            "subject": "计算机组成原理",
+            "module": "中央处理器",
+            "point": "CPU功能与寄存器",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 12,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-13",
+          "before": null,
+          "after": {
+            "ts": 1794827194693,
+            "subject": "计算机组成原理",
+            "module": "数据的表示和运算",
+            "point": "原码反码补码移码",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 13,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-14",
+          "before": null,
+          "after": {
+            "ts": 1794827200534,
+            "subject": "计算机组成原理",
+            "module": "数据的表示和运算",
+            "point": "定点数与溢出判断",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 14,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-15",
+          "before": null,
+          "after": {
+            "ts": 1794827209854,
+            "subject": "计算机组成原理",
+            "module": "存储系统",
+            "point": "虚拟存储器与TLB",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 15,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-17",
+          "before": null,
+          "after": {
+            "ts": 1794827217552,
+            "subject": "计算机组成原理",
+            "module": "中央处理器",
+            "point": "流水线冲突与性能",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 17,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-21",
+          "before": null,
+          "after": {
+            "ts": 1794827224119,
+            "subject": "计算机组成原理",
+            "module": "输入输出系统",
+            "point": "中断方式与中断处理",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 21,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-22",
+          "before": null,
+          "after": {
+            "ts": 1794827240037,
+            "subject": "计算机组成原理",
+            "module": "输入输出系统",
+            "point": "DMA方式",
+            "reason": "wrong",
+            "pick": "B",
+            "year": 2020,
+            "no": 22,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-24",
+          "before": null,
+          "after": {
+            "ts": 1794827454163,
+            "subject": "操作系统",
+            "module": "文件管理",
+            "point": "文件物理结构分配",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 24,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-25",
+          "before": null,
+          "after": {
+            "ts": 1794827474667,
+            "subject": "操作系统",
+            "module": "操作系统概述",
+            "point": "系统调用与中断",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 25,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-30",
+          "before": null,
+          "after": {
+            "ts": 1794827581791,
+            "subject": "操作系统",
+            "module": "输入输出管理",
+            "point": "设备分配与SPOOLing",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 30,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-37",
+          "before": null,
+          "after": {
+            "ts": 1794827742270,
+            "subject": "计算机网络",
+            "module": "数据链路层",
+            "point": "CSMA/CD与CSMA/CA",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 37,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-36",
+          "before": null,
+          "after": {
+            "ts": 1794827744122,
+            "subject": "计算机网络",
+            "module": "数据链路层",
+            "point": "滑动窗口与流量控制",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 36,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-40",
+          "before": null,
+          "after": {
+            "ts": 1794827903928,
+            "subject": "计算机网络",
+            "module": "应用层",
+            "point": "DNS",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 40,
+            "kind": "choice"
+          }
+        },
+        {
+          "id": "2020-42",
+          "before": null,
+          "after": {
+            "ts": 1794828069835,
+            "subject": "数据结构",
+            "module": "树与二叉树",
+            "point": "哈夫曼树与哈夫曼编码",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 42,
+            "kind": "big"
+          }
+        },
+        {
+          "id": "2020-43",
+          "before": null,
+          "after": {
+            "ts": 1794828632621,
+            "subject": "计算机组成原理",
+            "module": "数据的表示和运算",
+            "point": "乘除法运算",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 43,
+            "kind": "big"
+          }
+        },
+        {
+          "id": "2020-44",
+          "before": null,
+          "after": {
+            "ts": 1794828647967,
+            "subject": "计算机组成原理",
+            "module": "存储系统",
+            "point": "Cache地址映射",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 44,
+            "kind": "big"
+          }
+        },
+        {
+          "id": "2020-45",
+          "before": null,
+          "after": {
+            "ts": 1794828785207,
+            "subject": "操作系统",
+            "module": "进程管理",
+            "point": "信号量与PV操作",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 45,
+            "kind": "big"
+          }
+        },
+        {
+          "id": "2020-47",
+          "before": null,
+          "after": {
+            "ts": 1794829303357,
+            "subject": "计算机网络",
+            "module": "网络层",
+            "point": "NAT与私有地址",
+            "reason": "unsure",
+            "pick": "",
+            "year": 2020,
+            "no": 47,
+            "kind": "big"
+          }
+        }
+      ]
+    },
+    {
+      "revision": 4,
+      "at": "2026-11-16T14:34:48.228Z",
+      "key": "math.wrong.v1",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "id": "2016-1",
+          "before": null,
+          "after": {
+            "id": "2016-1",
+            "ts": 1794829545039
+          }
+        },
+        {
+          "id": "2016-10",
+          "before": null,
+          "after": {
+            "id": "2016-10",
+            "ts": 1794830039894
+          }
+        },
+        {
+          "id": "2016-16",
+          "before": null,
+          "after": {
+            "id": "2016-16",
+            "ts": 1794830253490
+          }
+        }
+      ]
+    },
+    {
+      "revision": 5,
+      "at": "2026-11-16T14:34:48.228Z",
+      "key": "math.pref.v1",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "before": null,
+          "after": {
+            "year": 2016,
+            "tab": "big",
+            "view": "paper",
+            "mode": "study",
+            "showAn": true,
+            "fs": 0
+          }
+        }
+      ]
+    },
+    {
+      "revision": 6,
+      "at": "2026-11-16T14:34:48.228Z",
+      "key": "wx.fontSize.v1",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "before": null,
+          "after": 17.5
+        }
+      ]
+    },
+    {
+      "revision": 7,
+      "at": "2026-11-16T14:34:48.228Z",
+      "key": "wx.mode.v1",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "before": null,
+          "after": "study"
+        }
+      ]
+    },
+    {
+      "revision": 8,
+      "at": "2026-11-16T14:34:48.228Z",
+      "key": "wx.theme.v1",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "before": null,
+          "after": "light"
+        }
+      ]
+    },
+    {
+      "revision": 9,
+      "at": "2026-11-16T14:34:48.228Z",
+      "key": "wx.showZh.v1",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "before": null,
+          "after": true
+        }
+      ]
+    },
+    {
+      "revision": 10,
+      "at": "2026-11-16T14:34:48.228Z",
+      "key": "hub.theme.v1",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "before": null,
+          "after": "light"
+        }
+      ]
+    },
+    {
+      "revision": 11,
+      "at": "2026-11-16T14:34:48.228Z",
+      "key": "paper.analysis",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "before": null,
+          "after": false
+        }
+      ]
+    },
+    {
+      "revision": 12,
+      "at": "2026-11-16T14:34:48.229Z",
+      "key": "paper.deep",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "before": null,
+          "after": false
+        }
+      ]
+    },
+    {
+      "revision": 13,
+      "at": "2026-11-16T14:34:48.229Z",
+      "key": "paper.size",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "before": null,
+          "after": 17.5
+        }
+      ]
+    },
+    {
+      "revision": 14,
+      "at": "2026-11-16T14:34:48.229Z",
+      "key": "paper.tab",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "before": null,
+          "after": "reading"
+        }
+      ]
+    },
+    {
+      "revision": 15,
+      "at": "2026-11-16T14:34:48.229Z",
+      "key": "paper.theme",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "before": null,
+          "after": "dark"
+        }
+      ]
+    },
+    {
+      "revision": 16,
+      "at": "2026-11-16T14:34:48.229Z",
+      "key": "paper.view",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "before": null,
+          "after": "sent"
+        }
+      ]
+    },
+    {
+      "revision": 17,
+      "at": "2026-11-16T14:34:48.229Z",
+      "key": "paper.year",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "before": null,
+          "after": 2013
+        }
+      ]
+    },
+    {
+      "revision": 18,
+      "at": "2026-11-16T14:34:48.229Z",
+      "key": "paper.zh",
+      "source": "browser-migration",
+      "changes": [
+        {
+          "before": null,
+          "after": true
+        }
+      ]
+    }
+  ],
+  "migrations": [
+    {
+      "capturedAt": "2026-11-16T14:34:48.229Z",
+      "sha256": "7723d91dbde8de319b06fa6a34a2aafb8b1514af2a533ea875cce3475d5b2280",
+      "sources": [
+        {
+          "browser": "Edge",
+          "profile": "Default",
+          "origin": "file://"
+        }
+      ],
+      "keys": [
+        "cs408.done.v1",
+        "cs408.pref.v1",
+        "cs408.wrong.v1",
+        "math.wrong.v1",
+        "math.pref.v1",
+        "wx.fontSize.v1",
+        "wx.mode.v1",
+        "wx.theme.v1",
+        "wx.showZh.v1",
+        "hub.theme.v1",
+        "paper.analysis",
+        "paper.deep",
+        "paper.size",
+        "paper.tab",
+        "paper.theme",
+        "paper.view",
+        "paper.year",
+        "paper.zh"
+      ]
+    }
+  ]
+}

@@ -68,12 +68,12 @@
   var store = {
     get: function (k, d) {
       try {
-        var v = window.localStorage.getItem(k);
+        var v = window.StudyStorage.getItem(k);
         return v == null ? d : JSON.parse(v);
       } catch (e) { return d; }
     },
     set: function (k, v) {
-      try { window.localStorage.setItem(k, JSON.stringify(v)); } catch (e) { /* 隐私模式忽略 */ }
+      try { window.StudyStorage.setItem(k, JSON.stringify(v)); } catch (e) { /* 隐私模式忽略 */ }
     }
   };
 

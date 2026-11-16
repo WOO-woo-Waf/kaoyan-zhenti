@@ -1,5 +1,16 @@
 # 考研真题精读库
 
+## 个人学习：自动保存到文件
+
+**请双击根目录 `启动学习库.cmd` 开始学习。** 页面会自动打开；错题、生题本、答题记录、英语生词和本人标记的知识点自动写入 `study-data/`，不再依赖浏览器作为正式存储。已迁入的个人记录也在这里。
+
+- 人直接读：[我的学习档案](study-data/学习档案.md)
+- 智能体先读：`node tools/read.mjs learning summary`，再按科读取 `learning 408` / `learning math` / `learning english`
+- 完整机器资料：[agent-context.json](study-data/agent-context.json)，正式原始记录：[state.json](study-data/state.json)
+- 页面左下角显示保存状态，也可明确标记不会的知识点。详见 [保存、恢复与同步说明](study-data/README.md)。
+
+以下“纯静态 / file://”说明适用于浏览题库；**自动写文件必须通过上述启动入口**。仅需 Node.js 22+，无 npm 安装步骤，可离线使用。
+
 > 英语（一）· 数学（一）· 408 计算机学科专业基础 —— 近十余年真题**逐题解析**、**知识体系**、**生题本**。
 > 纯静态页面，`file://` 双击即用，**离线无 CDN**。
 
@@ -25,7 +36,9 @@
 
 ## 打开方式
 
-双击 `index.html`（Chrome / Edge）。不需要服务器、不需要联网、不需要安装任何依赖。
+个人学习请双击 **`启动学习库.cmd`**，自动打开本机地址并开启文件保存。停止时双击 `停止学习库.cmd`。
+
+双击 `index.html`（Chrome / Edge）只用于静态浏览，不提供自动文件保存。
 
 > 想要「跨页共享进度」，用 `file://` 直接打开即可；若浏览器把每个 `file://` 当独立源，进度只在本页生效 —— 这时用 `python -m http.server 8000` 起个本地服务再访问 `http://localhost:8000` 即可。
 

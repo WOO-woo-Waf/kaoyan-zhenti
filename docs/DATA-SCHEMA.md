@@ -176,6 +176,12 @@ window.__KB__ = {
 
 ## 4. 本地存储
 
+个人学习的正式存储现为 `study-data/state.json`（schemaVersion 1）：`values` 以本节字段名保存解析后的 JSON 值，`versions` 保存各字段版本，`history` 保存带时间和来源的逐次差异，`migrations` 保存迁移溯源。页面使用本机保存程序自动写入。下表沿用旧键名以便迁移，已不代表仅保存在浏览器。
+
+新增 `math.answers.v1`：`{题号: {pick, ok, ts}}`；`study.questions.v1`：`{"english:2026:21": {at, reason}}` 等本人标记的不会题；`study.knowledge.v1`：`{"math:知识点": {subject, point, note, at}}`。派生完整资料见 `study-data/agent-context.json`，可阅读版为 `study-data/学习档案.md`。
+
+英语全文页的 `paper.answers` / `paper.words` 与完形页的 `wx.answers.v1` / `wx.bookmarks.v1` 分别保存；导出档案必须覆盖两种来源。数学旧记录可能只有对/错，新机制不补造历史选项。
+
 | 科目 | 生题本 | 已做 | 偏好 |
 |---|---|---|---|
 | 408 | `cs408.wrong.v1` | `cs408.done.v1` | `cs408.pref.v1` |

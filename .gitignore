@@ -47,3 +47,8 @@ assets/_shot_*.png
 assets/_v2_*.png
 assets/_selftest*.py
 *_chk.py
+
+# 文件保存程序的运行锁和原子写入中间文件；正式学习档案必须纳入 Git。
+study-data/.writer-lock.json
+study-data/*.tmp
+study-data/**/*.tmp

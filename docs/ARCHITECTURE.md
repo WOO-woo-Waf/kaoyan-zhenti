@@ -1,5 +1,15 @@
 # 架构
 
+## 个人学习文件持久化（2026-11-16）
+
+个人学习入口为 `启动学习库.cmd` → `tools/launch-study.mjs` → `tools/study-server.mjs`（仅本机）。页面加载 `/api/bootstrap.js`，从 `study-data/state.json` 恢复记录；共享 `shared/study-storage.js` 提供同步内存读取与串行异步保存。五个页面均通过此适配层读写，单字段版本检查阻止旧标签页覆盖新文件，关闭前有未保存提示。
+
+`tools/study-core.mjs` 管理允许字段、版本、历史变更、原子写入与题库关联，自动生成 `study-data/agent-context.json` 和 `study-data/学习档案.md`。原始正式状态先原子落盘，派生资料带相同 revision；`tools/read.mjs learning` 从原始状态实时构建资料。异常不伪报保存成功。单写入者锁位于学习目录，锁不纳入 Git。
+
+新增 `math.answers.v1` 保存数学选择题的选项；`study.questions.v1` 保存显式不会题（`科目:题号`），`study.knowledge.v1` 保存本人不会的知识点。英语答错根据标准答案关联，词汇保留出处。数据文件随个人仓库提交，临时依赖、日志和测试夹具只放 `_tmp/`。
+
+下面的静态架构保留题库内容分发设计；浏览器 localStorage 已降为旧记录迁入/断线应急用途，不再是个人学习记录的正式来源。
+
 ## 一句话
 
 **一个总入口 + 三个自包含子系统 + 一份共享内核 + 一份机器可读清单。**

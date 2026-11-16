@@ -66,8 +66,8 @@
 
   /* ============ 1. 状态 ============ */
   const LS = { wrong: 'math.wrong.v1', done: 'math.done.v1', pref: 'math.pref.v1' };
-  const readLS = (k, d) => { try { return JSON.parse(localStorage.getItem(k)) || d; } catch (e) { return d; } };
-  const writeLS = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} };
+  const readLS = (k, d) => { try { return JSON.parse(window.StudyStorage.getItem(k)) || d; } catch (e) { return d; } };
+  const writeLS = (k, v) => { try { window.StudyStorage.setItem(k, JSON.stringify(v)); } catch (e) {} };
 
   const YEARS = Object.keys(window.__MATH__ || {}).map(Number).sort((a, b) => a - b);
   const prefs = readLS(LS.pref, {});
@@ -86,6 +86,7 @@
   };
   let WRONG = readLS(LS.wrong, {});   // {id: {id, ts, myAnswer?}}
   let DONE = readLS(LS.done, {});     // {id: true}  已作答(自测)
+  let ANSWERS = readLS('math.answers.v1', {}); // 保留所选选项，供文件档案与历史分析。
   function savePref() {
     writeLS(LS.pref, { year: S.year, tab: S.tab, view: S.view, mode: S.mode, showAn: S.showAn, fs: S.fs });
   }
@@ -536,6 +537,8 @@
 
   function answerChoice(id, opt) {
     const q = BY_ID.get(id); if (!q) return;
+    ANSWERS[id] = {pick: opt, ok: opt === q.answer, ts: Date.now()};
+    writeLS('math.answers.v1', ANSWERS);
     DONE[id] = (opt === q.answer) ? 'right' : 'wrong';
     if (opt !== q.answer && !WRONG[id]) WRONG[id] = { id: id, ts: Date.now(), myAnswer: opt };
     writeLS(LS.done, DONE); writeLS(LS.wrong, WRONG);

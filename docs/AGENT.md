@@ -1,5 +1,13 @@
 # 智能体接口
 
+## 先看本人的学习记录
+
+运行 `node tools/read.mjs learning summary` 获取三科概况，再按需运行 `node tools/read.mjs learning 408` / `learning math` / `learning english`。这些命令从正式文件 `study-data/state.json` 读取，并关联题库中的完整题目，不依赖浏览器。
+
+`study-data/学习档案.md` 可直接阅读；`study-data/agent-context.json` 提供完整结构化档案，包括错题/不会题、作答、答案解析、英语生词与上下文、明确标记知识点、推断薄弱点、原始数据及历史变更。`unresolvedRecords` 是无法匹配题库的记录，不能丢掉或假装已匹配。明确“不会”与根据错题推断的薄弱点不能混为一谈。
+
+新学习记录由 `启动学习库.cmd` 启动的本机保存程序自动写盘。详见 [保存说明](../study-data/README.md)。题库通用查询仍使用下列 CLI。
+
 > 这份文档定义**机器怎么读这个库**，以及**模型拿到生题本该怎么讲**。
 > 人看的说明在 [README](../README.md)，数据字段在 [DATA-SCHEMA](DATA-SCHEMA.md)。
 
