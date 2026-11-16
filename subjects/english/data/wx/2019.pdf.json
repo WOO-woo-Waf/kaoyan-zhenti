@@ -1,0 +1,253 @@
+{
+ "year": 2019,
+ "paper": "英语一",
+ "section": "完形填空",
+ "topic": "",
+ "source": {
+  "textUrl": "",
+  "answerUrl": ""
+ },
+ "text": "Today we live in a world where GPS systems, digital maps, and other navigation apps are available on our\nsmartphones. [[1]] of us just walk straight into the woods without a phone. But phones [[2]] on batteries,\nand batteries can die faster than we realize. [[3]] you get lost without a phone or a compass, and you\n[[4]] can't find north, we have a few tricks to help you navigate [[5]] to civilization, one of which is to\nfollow the land.\n\nWhen you find yourself well [[6]] a trail, but not in a completely [[7]] area, you have to answer\ntwo questions: Which [[8]] is downhill, in this particular area? And where is the nearest water source?\nHumans overwhelmingly live in valleys, and on supplies of fresh water. [[9]], if you head downhill, and\nfollow any H2O you find, you should [[10]] see signs of people.\n\nIf you've explored the area before, keep an eye out for familiar sights – you may be [[11]] how quickly\nidentifying a distinctive rock or tree can restore your bearings.\n\nAnother [[12]]: Climb high and look for signs of human habitation. [[13]], even in dense forest,\nyou should be able to [[14]] gaps in the tree line due to roads, train tracks, and other paths people carve\n[[15]] the woods. Head toward these [[16]] to find a way out. At night, scan the horizon for [[17]] light\nsources, such as fires and streetlights, then walk toward the glow of light pollution.\n\n[[18]], assuming you're lost in an area humans tend to frequent, look for the [[19]] we leave on the\nlandscape. Trail blazes, tire tracks, and other features can [[20]] you to civilization.",
+ "blanks": [
+  {
+   "no": 1,
+   "options": {
+    "A": "Some",
+    "B": "Most",
+    "C": "Few",
+    "D": "All"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 2,
+   "options": {
+    "A": "put",
+    "B": "take",
+    "C": "run",
+    "D": "come"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 3,
+   "options": {
+    "A": "Since",
+    "B": "If",
+    "C": "Though",
+    "D": "Until"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 4,
+   "options": {
+    "A": "formally",
+    "B": "relatively",
+    "C": "gradually",
+    "D": "literally"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 5,
+   "options": {
+    "A": "back",
+    "B": "next",
+    "C": "around",
+    "D": "away"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 6,
+   "options": {
+    "A": "onto",
+    "B": "off",
+    "C": "across",
+    "D": "alone"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 7,
+   "options": {
+    "A": "unattractive",
+    "B": "uncrowded",
+    "C": "unchanged",
+    "D": "unfamiliar"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 8,
+   "options": {
+    "A": "site",
+    "B": "point",
+    "C": "way",
+    "D": "place"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 9,
+   "options": {
+    "A": "So",
+    "B": "Yet",
+    "C": "Instead",
+    "D": "Besides"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 10,
+   "options": {
+    "A": "immediately",
+    "B": "intentionally",
+    "C": "unexpectedly",
+    "D": "eventually"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 11,
+   "options": {
+    "A": "surprised",
+    "B": "annoyed",
+    "C": "frightened",
+    "D": "confused"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 12,
+   "options": {
+    "A": "problem",
+    "B": "option",
+    "C": "view",
+    "D": "result"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 13,
+   "options": {
+    "A": "Above all",
+    "B": "In contrast",
+    "C": "On average",
+    "D": "For example"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 14,
+   "options": {
+    "A": "bridge",
+    "B": "avoid",
+    "C": "spot",
+    "D": "separate"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 15,
+   "options": {
+    "A": "from",
+    "B": "through",
+    "C": "beyond",
+    "D": "under"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 16,
+   "options": {
+    "A": "posts",
+    "B": "links",
+    "C": "shades",
+    "D": "breaks"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 17,
+   "options": {
+    "A": "artificial",
+    "B": "mysterious",
+    "C": "hidden",
+    "D": "limited"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 18,
+   "options": {
+    "A": "Finally",
+    "B": "Consequently",
+    "C": "Incidentally",
+    "D": "Generally"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 19,
+   "options": {
+    "A": "memories",
+    "B": "marks",
+    "C": "notes",
+    "D": "belongings"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 20,
+   "options": {
+    "A": "restrict",
+    "B": "adopt",
+    "C": "lead",
+    "D": "expose Section II Reading Comprehension Part A Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points) Text 1 Financial regulators in Britain have imposed a rather unusual rule on the bosses of big banks. Starting next year, any guaranteed bonus of top executives could be delayed 10 years if their banks are under investigation for wrongdoing. The main purpose of this \"clawback\" rule is to hold bankers accountable for harmful risk-taking and to restore public trust in financial institutions. Yet officials also hope for a much larger benefit: more long-term decision-making, not only by banks but by all corporations, to build a stronger economy for future generations. \"Short-termism\" or the desire for quick profits, has worsened in publicly traded companies, says the Bank of England's top economist, Andrew Haldane. He quotes a giant of classical economics, Alfred Marshall, in describing this financial impatience as acting like \"children who pick the plums out of their pudding to eat them at once\" rather than putting them aside to be eaten last. The average time for holding a stock in both the United States and Britain, he notes, has dropped from seven years to seven months in recent decades. Transient investors, who demand high quarterly profits from companies, can hinder a firm's efforts to invest in long-term research or to build up customer loyalty. This has been dubbed \"quarterly capitalism.\" In addition, new digital technologies have allowed more rapid trading of equities, quicker use of information, and thus shorter attention spans in financial markets. \"There seems to be a predominance of short- term thinking at the expense of long-term investing,\" said Commissioner Daniel Gallagher of the US Securities and Exchange Commission in a speech this week. In the US, the Sarbanes-Oxley Act of 2002 has pushed most public companies to defer performance bonuses for senior executives by about a year, slightly helping reduce \"short-termism.\" In its latest survey of CEO pay, The Wall Street Journal finds that \"a substantial part\" of executive pay is now tied to performance. Much more could be done to encourage \"long-termism,\" such as changes in the tax code and quicker disclosure of stock acquisitions. In France, shareholders who hold onto a company investment for at least two years can sometimes earn more voting rights in a company. Within companies, the right compensation design can provide incentives for executives to think beyond their own time at the company and on behalf of all stakeholders. Britain's new rule is a reminder to bankers that society has an interest in their performance, not just for the short term but for the long term."
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  }
+ ]
+}

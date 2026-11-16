@@ -1,0 +1,275 @@
+window.__WX__ = window.__WX__ || {};
+window.__WX__[2025] = {
+ "year": 2025,
+ "paper": "英语一",
+ "section": "完形填空",
+ "topic": "",
+ "difficulty": 0,
+ "source": {
+  "textUrl": "",
+  "answerUrl": ""
+ },
+ "text": "Located in the southern Peloponnesian peninsula, Pavlopetri (the modern name of the site) emerged as a Neolithic settlement around 3500 B.C. and became an important trading center for Mycenaean Greece (1650– 1180 B.C.). This area of the Aegean Sea is [[1]] to earthquakes and tsunamis, which caused the city to [[2]] sink. The slow sea level rise in the Mediterranean [[3]] the city more than 3,000 years ago.\n\nFor millennia, the city's [[4]] lay unseen below some 13 feet of water. They were covered by a thick layer of sand [[5]] the island of Laconia. In recent decades, shifting [[6]] and climate change have eroded a natural barrier that [[7]] Pavlopetri. In 1967 a scientific survey of the Peloponnesian coast was [[8]] data to analyze changes in sea levels [[9]] British oceanographer Nicholas Flemming first spotted the sunken [[10]]. A year later, he returned with a few students to [[11]] the location and map the site. The team identified some 15 buildings, courtyards, a network of streets, and two chamber tombs. [[12]] the exciting initial finds, the site would lie [[13]] for decades before archaeologists would return.\n\nIn 2009 archaeologists Chrysanthi Gallou and Jon Henderson [[14]] the excavation of Pavlopetri in cooperation with the Greek Ministry of Culture. Since the 1960s, underwater archaeology [[15]] and tools had made huge advances. The team [[16]] robotics, sonar mapping, and state-of-the-art graphics to survey the site. From 2009 to 2013 they were able to bring the underwater town to [[17]]. Covering about two and a half acres, Pavlopetri's three main roads [[18]] some 50 rectangular buildings, all of which had open courtyards. Excavations revealed a large number of Minoan-style loom weights, [[19]] Pavlopetri was a thriving trade center with a [[20]] textile industry.",
+ "blanks": [
+  {
+   "no": 1,
+   "options": {
+    "A": "relevant",
+    "B": "prone",
+    "C": "available",
+    "D": "alien"
+   },
+   "answer": "B",
+   "type": "固定搭配",
+   "explain": "to earthquakes and tsunamis 锁定\"易遭受\"语义",
+   "analysis": "【答案】[ B ] prone\n固定搭配\n【线索】to earthquakes and tsunamis 锁定\"易遭受\"语义\n线索就在本句内：is __(1)__ to earthquakes and tsunamis, which caused the city to\n__(2)__ sink——后半句说地震与海啸\"导致城市下沉\"，反推空处必须表达\"易遭受地震海\n啸\"，候选词须能与 to 搭配且承载\"易受……影响\"之义。\n【选项】A) relevant ✗搭配虽通但语义跑偏\nbe relevant to 意为\"与……相关\"，是中性的\"相关性\"，无法表达\"易遭受灾害\"这一受害方向；放回\nis __(1)__ to earthquakes and tsunamis只会变成\"与地震海啸有关\"，与下半句\"导致城市下沉\"的\n因果不衔接。\nB) prone ✓be prone to 正中\"易遭受\"\nbe prone to + n. 是英语里的固定表达，意为\"易于、有……倾向\"，常用于易发自然灾害；代入\n后\"该海域易遭受地震和海啸\"，与下文caused the city to __(2)__ sink的因果链严丝合缝。\nC) available ✗对象错配\navailable to 一般搭配人或机构（对某人开放/可获得），与\"地震海啸\"这种自然灾害事件搭配不\n通；说\"海域对地震海啸是可获得的\"在中文里就立即露馅。\nD) alien ✗语义反向\nbe alien to 意为\"与……格格不入、对……陌生\"，恰恰是\"不易遭受\"的反向；与下半句因地震海啸而\n下沉的事实矛盾。\n【验证】代入后整句为\"This area of the Aegean Sea is __(1)__ to earthquakes and tsunamis,\nwhich caused the city to __(2)__ sink\"——\"易遭受地震海啸→导致城市下沉\"，与第一段\n交代沉没原因的脉络一致。"
+  },
+  {
+   "no": 2,
+   "options": {
+    "A": "accidentally",
+    "B": "frequently",
+    "C": "gradually",
+    "D": "temporarily"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "下句 slow sea level rise 直接呼应",
+   "analysis": "【答案】[ C ] gradually\n词义辨析\n【线索】下句 slow sea level rise 直接呼应\n跨句线索就在下一句：The slow sea level rise in the Mediterranean __(3)__ the city\nmore than 3,000 years ago——\"地中海缓慢的海平面上升\"明确把沉没过程定性为长期、\n渐进，本空必须与\"slow\"同向。\n【选项】A) accidentally ✗语义不对路\naccidentally 强调\"偶然\"，但城市下沉是地质过程，不是偶发事件，与下句slow sea level rise的渐\n进性也不合。\nB) frequently ✗把一次性过程误读为反复事件\nfrequently 表\"频繁\"，意味着多次发生，但城市\"下沉\"是一个一次性的长期演变，并非反复；与\nslow 也不同向。\nC) gradually ✓与 slow 同向、贴渐进过程\ngradually \"逐渐地\"正是 slow sea level rise 的同义改写，把\"下沉\"刻画为长期渐进过程，与全\n段地质成因的语境完全吻合。\nD) temporarily ✗与事实相反\ntemporarily 表\"暂时地\"，而城市此后lay unseen below some 13 feet of water数千年，完全不\n是暂时性下沉；逻辑反向。\n【验证】代入后caused the city to __(2)__ sink→\"导致城市逐渐下沉\"，与下一句\"地中海海平面的缓\n慢上升\"形成同义复述，与本段整体的渐进成因链自洽。"
+  },
+  {
+   "no": 3,
+   "options": {
+    "A": "disguised",
+    "B": "submerged",
+    "C": "relocated",
+    "D": "isolated"
+   },
+   "answer": "B",
+   "type": "词义辨析",
+   "explain": "上句已说城市下沉、下段又说在水下",
+   "analysis": "【答案】[ B ] submerged\n词义辨析\n【线索】上句已说城市下沉、下段又说在水下\n线索跨句：上一句caused the city to __(2)__ sink+下一段the city's __(4)__ lay unseen\nbelow some 13 feet of water共同把城市的最终状态钉死为\"沉没于水下\"，本空必须表\n达\"海水使城市被淹没\"。\n【选项】A) disguised ✗对象不对\ndisguise 意为\"伪装、掩饰\"，主语通常是有意图的施动者或具有遮盖功能的物，且与城市下沉的物\n理过程不搭。\nB) submerged ✓正中\"淹没\"语义\nsubmerge \"使没入水中\"恰好对应海平面上升将城市\"淹没\"的物理过程，与下一段lay unseen\nbelow some 13 feet of water的结果状态完全衔接。\nC) relocated ✗把\"淹没\"误读为\"搬迁\"\nrelocate 表\"重新安置、迁移\"，城市的位置并未改变，是水位上升把城市淹了；语义错位。\nD) isolated ✗范围对不上\nisolate \"使孤立\"侧重切断联系，与海水彻底覆盖城市的物理事实不匹配。\n【验证】代入后\"地中海缓慢上升的海平面在3000多年前淹没了这座城市\"，与下一段开头For\nmillennia, the city's __(4)__ lay unseen below some 13 feet of water衔接，前因后果\n一致。"
+  },
+  {
+   "no": 4,
+   "options": {
+    "A": "legends",
+    "B": "programs",
+    "C": "remains",
+    "D": "surroundings"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "下文清点建筑、街道、墓室",
+   "analysis": "【答案】[ C ] remains\n词义辨析\n【线索】下文清点建筑、街道、墓室\n跨段呼应：The team identified some 15 buildings, courtyards, a network of streets,\nand two chamber tombs与Pavlopetri's three main roads __(18)__ some 50\nrectangular buildings说明水下保留的是建筑与街道，本空必须表\"遗迹/遗存\"。\n【选项】A) legends ✗抽象项不合\"沉于水下\"\nlegends 是\"传说\"，属语言/叙述层面，不能物理上\"lay below water\"；与下文清点的实物（建\n筑、街道）也对不上。\nB) programs ✗范畴跑偏\nprograms \"项目/计划/节目\"是抽象事务，不能沉在海底；与本段历史遗存语境无关。\nC) remains ✓\"遗迹/遗存\"正解\nremains 表\"遗迹、遗存\"，正好涵盖15 buildings, courtyards, a network of streets, and two\nchamber tombs这些被发掘的实物，能与\"lay unseen below water\"自然搭配。\nD) surroundings ✗指向错对象\nsurroundings 指\"周围环境\"，强调外围而非城市本体，但本段要谈的是城市自身被埋的部分（建\n筑、街道、墓室），不是周边环境。\n【验证】代入后\"数千年里，这座城市的遗迹长期沉于约13英尺水下而无人察觉\"，紧接其后They\nwere covered by a thick layer of sand的代词 They 也恰好指代\"remains\"，前后衔接\n顺畅。"
+  },
+  {
+   "no": 5,
+   "options": {
+    "A": "across",
+    "B": "off",
+    "C": "under",
+    "D": "via"
+   },
+   "answer": "B",
+   "type": "固定搭配",
+   "explain": "上一段已交代位于希腊本土近海",
+   "analysis": "【答案】[ B ] off\n固定搭配\n【线索】上一段已交代位于希腊本土近海\n线索来自第一段开头Located in the southern Peloponnesian peninsula, Pavlopetri——\n遗址位于伯罗奔尼撒半岛南端近海，沙层位于\"拉科尼亚岛沿岸/近海\"，方位关系是\"离岸\n不远\"。\n【选项】A) across ✗方向错\nacross 表\"横跨\"，意味着穿越岛屿或从一端到另一端，与\"沙层位于岛屿附近海域\"的实际方位\n不符。\nB) off ✓off + 岛屿名 = 近海\noff the island of Laconia 是地理表达定式，意为\"在拉科尼亚岛沿岸近海\"，与全文\"水下古城\"的\n语境完美匹配。\nC) under ✗位置关系错配\nunder 意为\"在……下方\"，但沙层不可能位于整座岛屿下方；岛屿是陆地，与沙层是近海覆盖物的\n关系不同。\nD) via ✗搭配类型错\nvia 表\"经由\"，是路径介词，与静态位置描述无关。\n【验证】代入后\"沙层覆盖物来自拉科尼亚岛沿岸/近海\"，与第一段Located in the southern\nPeloponnesian peninsula的地理定位贯通。"
+  },
+  {
+   "no": 6,
+   "options": {
+    "A": "currents",
+    "B": "rivers",
+    "C": "seasons",
+    "D": "winds"
+   },
+   "answer": "A",
+   "type": "词义辨析",
+   "explain": "海洋环境下\"shifting + 侵蚀屏障\"指洋流",
+   "analysis": "【答案】[ A ] currents\n词义辨析\n【线索】海洋环境下\"shifting + 侵蚀屏障\"指洋流\n线索就在本句：shifting __(6)__ and climate change have eroded a natural barrier that\n__(7)__ Pavlopetri——海洋环境里能\"shifting\"并\"侵蚀沿海屏障\"的自然要素，是海流；季\n节/风/河流要么与海洋侵蚀不直接、要么搭 shifting 不自然。\n【选项】\nA) currents ✓海流契合度最高\ncurrents 既常与 shifting 搭配描述方向改变的洋流，又是侵蚀海岸屏障的直接动力，与下句\neroded a natural barrier that __(7)__ Pavlopetri衔接最紧。\nB) rivers ✗场景错配\nrivers 是河流，主要在陆地与河口起作用，而本句的屏障位于海洋一侧（保护已沉于地中海的遗\n址），用河流来\"shifting\"侵蚀这里的屏障不自然。\nC) seasons ✗搭配不通\nshifting seasons 虽可指\"季节更迭\"，但季节本身不是直接侵蚀海岸屏障的物理力量，与 climate\nchange 也几近重复。\nD) winds ✗次优但不及 currents\nshifting winds 虽然可说，但风对水下沙层屏障的直接侵蚀作用不及洋流明显，且海洋语境里\ncurrents 更对位。\n【验证】代入后\"变化的海流与气候变化侵蚀了曾保护帕夫洛佩特里的天然屏障\"，与下文eroded a\nnatural barrier that __(7)__ Pavlopetri的因果一脉相承。"
+  },
+  {
+   "no": 7,
+   "options": {
+    "A": "elevated",
+    "B": "separated",
+    "C": "comprised",
+    "D": "protected"
+   },
+   "answer": "D",
+   "type": "词义辨析",
+   "explain": "前句\"eroded barrier\"暗含失去保护",
+   "analysis": "【答案】[ D ] protected\n词义辨析\n【线索】前句\"eroded barrier\"暗含失去保护\n线索就在主句：eroded a natural barrier that __(7)__ Pavlopetri——屏障被侵蚀，导致古\n城此后失去保护而暴露，反推屏障原本承担的是\"保护\"功能。\n【选项】A) elevated ✗对宾语动作不当\nelevate 表\"抬高、提升\"，屏障并未把古城\"抬高\"，与下沉于水下的事实矛盾。\nB) separated ✗侧重错位\nseparate 强调\"使分离\"，但本句要表达的是屏障\"保护\"古城免遭侵蚀，而非把古城与外界隔开；语\n义偏离主旨。\nC) comprised ✗主宾关系反了\ncomprise 意为\"包含/构成\"，屏障并未\"包含\"整座古城；逻辑关系不对。\nD) protected ✓屏障的本职功能\nprotect 正好与 barrier 的本职功能对位，表\"保护\"，与\"屏障被侵蚀导致古城重见水下\"的因果链\n严密匹配。\n【验证】代入后\"侵蚀了原本保护帕夫洛佩特里的天然屏障\"，正好为下文\"古城此后被重新发现\"奠定\n因果——屏障毁→古城显，全段逻辑自洽。"
+  },
+  {
+   "no": 8,
+   "options": {
+    "A": "gathering",
+    "B": "restoring",
+    "C": "updating",
+    "D": "supplying"
+   },
+   "answer": "A",
+   "type": "",
+   "explain": "to analyze changes 暗示\"为分析而收集\"",
+   "analysis": "【答案】[ A ] gathering\n语法形态\n【线索】to analyze changes 暗示\"为分析而收集\"\n线索在不定式：was __(8)__ data to analyze changes in sea levels——目的是分析海平面\n变化，这要求先\"收集\"数据；逻辑顺序是\"收集→分析\"。\n【选项】\nA) gathering ✓\"收集数据\"与目的对位\ngather data 是高频搭配，与不定式 to analyze 形成\"先收集后分析\"的标准科研流程，主语\nsurvey 主动收集数据，时态语态均合。\nB) restoring ✗对象不合\nrestore data 意为\"恢复/还原数据\"，常指数据丢失后的恢复，与首次科考的\"采集\"语境不符。\nC) updating ✗前提不成立\nupdate data 需要已有数据基础，可这次科考刚开始，文中并未提到既有数据集，无从\"更新\"。\nD) supplying ✗方向错位\nsupply data 表\"向外提供数据\"，主语成了供给方，但 survey 本身是采集方，与 to analyze 的目\n的不符。\n【验证】代入后\"一项科考正在收集数据以分析海平面变化\"，与下文Nicholas Flemming first\nspotted the sunken __(10)__——在数据收集途中偶然发现古城——的剧情转折自然\n衔接。"
+  },
+  {
+   "no": 9,
+   "options": {
+    "A": "when",
+    "B": "until",
+    "C": "after",
+    "D": "once"
+   },
+   "answer": "A",
+   "type": "逻辑关系",
+   "explain": "首次发现发生在科考进行中",
+   "analysis": "【答案】[ A ] when\n逻辑关系\n【线索】首次发现发生在科考进行中\n线索是动作的时间叠合：was __(8)__ data是一段进行中的科考；首次发现古城正发生在这\n段过程中，本空需要表达\"正当……时\"或\"就在那时\"的同时关系。\n【选项】\nA) when ✓\"正……时\"匹配偶然发现\nwhen 引导\"正当此时\"，与主句\"调查正在采集数据\"配合，表达\"科考进行中弗莱明偶然发现沉没\n结构\"的同时关系，文意流畅。\nB) until ✗时间逻辑反向\nuntil 表\"直到……才/才停止\"，会暗示调查为发现古城而进行，但调查目的是分析海平面，发现古城\n只是意外；语义偏。\nC) after ✗先后关系不对\nafter 把发现古城放在调查结束之后，但文中显示发现发生在调查进行中，而非之后。\nD) once ✗条件意味过重\nonce 强调\"一旦……就\"，常用条件触发，但这里只是偶然撞见，并非条件成立后必然发生。\n【验证】代入后\"1967年正对伯罗奔尼撒海岸进行科考采集数据时，英国海洋学家弗莱明首次发现了\n沉没的结构\"，符合常见\"科考中偶然发现\"的叙事，前后呼应自然。"
+  },
+  {
+   "no": 10,
+   "options": {
+    "A": "belongings",
+    "B": "resources",
+    "C": "products",
+    "D": "structures"
+   },
+   "answer": "D",
+   "type": "词义辨析",
+   "explain": "下文清点的建筑+街道+墓室对应 structures",
+   "analysis": "【答案】[ D ] structures\n词义辨析\n【线索】下文清点的建筑+街道+墓室对应 structures\n线索来自紧邻下句：The team identified some 15 buildings, courtyards, a network\nof streets, and two chamber tombs——这些都是\"建筑/构筑物\"，对应统称\n应是\"structures\"。\n【选项】A) belongings ✗范畴太小\nbelongings 偏向\"个人随身物品\"，与15座建筑、街道、墓室这种宏观建筑物不在同一范畴。\nB) resources ✗概念不对位\nresources 指\"资源\"，过于抽象笼统，且不能直接对应建筑物清单。\nC) products ✗对象错配\nproducts 指\"产品\"，多用于工业制成品；考古中描述沉于海底的建筑物不会用这个词。\nD) structures ✓建筑物的统称正解\nstructures 涵盖建筑、街道网、墓室等人工构筑物，与下句清单形成统称—分项的对应，与\nsunken 也搭配自然。\n【验证】代入后\"首次发现沉没的（建筑）构筑物\"，下文紧接\"15座建筑、庭院、街道、两座墓室\"逐\n项展开，符合先总后分的叙述次序。"
+  },
+  {
+   "no": 11,
+   "options": {
+    "A": "preserve",
+    "B": "select",
+    "C": "display",
+    "D": "examine"
+   },
+   "answer": "D",
+   "type": "词义辨析",
+   "explain": "and map the site 提示先勘查再绘图",
+   "analysis": "【答案】[ D ] examine\n词义辨析\n【线索】and map the site 提示先勘查再绘图\n线索就在并列结构：to __(11)__ the location and map the site——map the site 是\"绘制\n遗址图\"，其前必有\"实地察看/检查\"的环节，本空对应该阶段。\n【选项】A) preserve ✗工作阶段错位\npreserve 表\"保护、保存\"，是后期文物维护阶段动作，与首次回返实地勘查不符。\nB) select ✗对象错\nselect \"选择\"宾语通常是众多对象中的部分，但这里只有一处遗址，无从\"挑选\"。\nC) display ✗动作场景错\ndisplay 表\"展示\"，与现场科考无关；此时遗址刚被发现，还谈不上展示。\nD) examine ✓\"察看现场\"对位\nexamine the location 即\"实地察看现场\"，与后续\"map the site\"形成自然的工作链：先察看，\n再制图，符合科考流程。\n【验证】代入后\"次年他带几名学生回到此处，察看现场并绘制遗址图\"，与第三段提到的\"识别出15\n座建筑等\"的成果链衔接顺畅。"
+  },
+  {
+   "no": 12,
+   "options": {
+    "A": "Despite",
+    "B": "Unlike",
+    "C": "Besides",
+    "D": "Among"
+   },
+   "answer": "A",
+   "type": "逻辑关系",
+   "explain": "exciting finds vs. lie undisturbed for decades",
+   "analysis": "【答案】[ A ] Despite\n逻辑关系\n【线索】exciting finds vs. lie undisturbed for decades\n前半句强调\"令人兴奋的初步发现\"，后半句却是\"遗址此后数十年无人问津\"——一正一负，\n明显是让步转折。\n【选项】\nA) Despite ✓让步关系唯一解\nDespite + 名词短语表\"尽管……\"，正好把\"令人兴奋的初步发现\"与\"此后数十年无人问津\"连成让\n步—主句的对照，文意贴合。\nB) Unlike ✗比较对象不成立\nUnlike 引出\"与……不同\"的比较项，但后半句的主语 site 并不与\"initial finds\"做横向比较，逻辑\n不合。\nC) Besides ✗并列关系错向\nBesides 表\"除……之外还\"，是补充并列，但前后是反向，使用 Besides 会让\"令人兴奋的发\n现\"与\"无人问津\"被并列叙述，明显矛盾。\nD) Among ✗范围介词不合句式\nAmong 表\"在……之中\"，后接复数集合作范围，但此处不需要表\"位于若干发现之中\"，与主句逻辑\n无关。\n【验证】代入后\"尽管有令人兴奋的初步发现，该遗址在考古学家重返之前依然数十年无人问津\"，与\n下一段In 2009 ... resumed the excavation的\"重启\"形成时间—事件的反转链条。"
+  },
+  {
+   "no": 13,
+   "options": {
+    "A": "unchallenged",
+    "B": "unknown",
+    "C": "unorganized",
+    "D": "undisturbed"
+   },
+   "answer": "D",
+   "type": "词义辨析",
+   "explain": "before archaeologists would return 决定\"无人扰动\"",
+   "analysis": "【答案】[ D ] undisturbed\n词义辨析\n【线索】before archaeologists would return 决定\"无人扰动\"\n线索在时间状语：for decades before archaeologists would return——考古学家此后数\n十年才回来发掘，期间\"无人发掘扰动\"。同时上文已说Flemming first spotted the sunken\n__(10)__，遗址已被知晓，不是\"未知\"。\n【选项】A) unchallenged ✗对象错配\nunchallenged 多指观点、地位\"未受挑战\"，与遗址的物理状态无关。\nB) unknown ✗与事实矛盾\n上文已说弗莱明首次发现并制图，遗址已被知晓；若用 unknown\"无人知晓\"，会与上文逻辑直接\n打架。这是本题最大干扰项。\nC) unorganized ✗形容主体错\nunorganized\"杂乱无章\"形容人或活动的组织状态，不形容一处遗址的存在状态。\nD) undisturbed ✓\"无人扰动\"正中\nundisturbed\"未被打扰/未被扰动\"，正好刻画\"遗址虽已被发现，但数十年无人继续发掘扰动\"，\n与下文In 2009 archaeologists ... resumed the excavation的\"恢复发掘\"对位。\n【验证】代入后\"在考古学家重返之前，该遗址此后数十年无人扰动\"，与下文 2009 年\"resumed the\nexcavation\"恢复发掘形成完整的\"中断—恢复\"链。"
+  },
+  {
+   "no": 14,
+   "options": {
+    "A": "suspended",
+    "B": "transferred",
+    "C": "resumed",
+    "D": "canceled"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "上段中断 → 本段恢复",
+   "analysis": "【答案】[ C ] resumed\n词义辨析\n【线索】上段中断 → 本段恢复\n线索跨段：the site would lie __(13)__ for decades before archaeologists would return\n说明几十年中断，In 2009点明时间节点，本空动词必为\"恢复\"。\n【选项】A) suspended ✗方向相反\nsuspend\"中止、暂停\"与本段\"重启发掘\"的剧情完全相反；这本是上一段的状态。\nB) transferred ✗动作类型错\ntransfer\"转移\"指换地点或换主体，文中并未提到把发掘工作转给别人或别处。\nC) resumed ✓恢复发掘正解\nresume\"恢复、重启\"与上一段\"中断数十年\"完美对位，且 resume the excavation 是地道搭配。\nD) canceled ✗与下文成果矛盾\ncancel\"取消\"会让 2009 年这段重启努力的剧情无从展开，与下文用新技术取得成果直接矛盾。\n【验证】代入后\"2009年两位考古学家与希腊文化部合作恢复了对帕夫洛佩特里的发掘\"，与上段几十\n年无人扰动、与下文新技术取得成果两边都贯通。"
+  },
+  {
+   "no": 15,
+   "options": {
+    "A": "policies",
+    "B": "theories",
+    "C": "documents",
+    "D": "techniques"
+   },
+   "answer": "D",
+   "type": "词义辨析",
+   "explain": "下句列举的全是技术手段",
+   "analysis": "【答案】[ D ] techniques\n词义辨析\n【线索】下句列举的全是技术手段\n线索在下句：The team __(16)__ robotics, sonar mapping, and state-of-the-art\ngraphics——机器人、声呐、先进图形技术都属于\"技术 techniques\"，反推上一句中与\ntools 并列的应是\"技术\"。\n【选项】A) policies ✗范畴错\npolicies\"政策\"是行政层面，与机器人、声呐这些技术手段不在同一语义场。\nB) theories ✗次优但不对位\ntheories\"理论\"虽然也能取得进步，但与 tools 并列且与下句具体技术对应的，应是\"技术\"而\n非\"理论\"。\nC) documents ✗对象错配\ndocuments\"文献\"与 tools 不构成自然并列，也与下句具体技术无关。\nD) techniques ✓技术正解\ntechniques 与 tools 同属\"技术手段\"层面，能与下句 robotics、sonar mapping、graphics 这\n些具体技术形成总—分对应，逻辑严密。\n【验证】代入后\"自20世纪60年代以来，水下考古的技术与工具已取得长足进步\"，与下句\"团队使用\n了机器人、声呐测绘和顶尖图形技术\"具体例证完全贴合。"
+  },
+  {
+   "no": 16,
+   "options": {
+    "A": "ordered",
+    "B": "provided",
+    "C": "employed",
+    "D": "adjusted"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "to survey the site 表目的",
+   "analysis": "【答案】[ C ] employed\n词义辨析\n【线索】to survey the site 表目的\n线索是目的状语：to survey the site——使用这些技术的目的是为了勘测遗址，本空动词\n应表\"使用、运用\"。\n【选项】A) ordered ✗搭配错位\norder\"订购、命令\"与三类技术作宾语不合（不能\"订购声呐测绘\"）。\nB) provided ✗施动方向反\nprovide\"提供\"意味着团队向外提供这些技术，但实际上团队是使用方而非提供方。\nC) employed ✓\"运用\"正解\nemploy\"运用、采用\"是较正式的\"使用\"，搭配 robotics、sonar mapping、graphics 自然，且\n与 to survey the site 的目的链衔接。\nD) adjusted ✗动作对象错\nadjust\"调整\"通常针对设备参数，不用于刚介绍登场的整类技术。\n【验证】代入后\"团队运用了机器人、声呐测绘和顶尖图形技术来勘测遗址\"，与下文\"将水下城带回光\n天化日之下\"的进度链衔接。"
+  },
+  {
+   "no": 17,
+   "options": {
+    "A": "effect",
+    "B": "light",
+    "C": "reality",
+    "D": "mind"
+   },
+   "answer": "B",
+   "type": "固定搭配",
+   "explain": "From 2009 to 2013 揭示成果",
+   "analysis": "【答案】[ B ] light\n固定搭配\n【线索】From 2009 to 2013 揭示成果\n线索就在前置时间状语：From 2009 to 2013 they were able to bring the underwater\ntown to __(17)__——四年发掘把水下城\"重见天日\"，与习语 bring to light 完美对应。\n【选项】A) effect ✗搭配主语不对\nbring ... into effect 常用 into 而非 to，且主语通常是法律法规等抽象政策，与遗址不合。\nB) light ✓bring to light 习语正中\nbring sth to light 意为\"使……重见天日/被揭示\"，与考古发掘揭示水下城的语境严丝合缝。\nC) reality ✗习语错记\nbring sth to reality 不是规范习语；表\"实现\"通常是 bring sth into reality 且用于抽象目标。\nD) mind ✗搭配方向反\nbring sth to mind 意为\"让人想起\"，主语通常是某事物，但本句要表\"使遗址重现\"，与\"使人想\n起\"不符。\n【验证】代入后\"从2009年到2013年，他们使这座水下城重见天日\"，与下文展开介绍其规模与功能\n形成自然递进。"
+  },
+  {
+   "no": 18,
+   "options": {
+    "A": "crossed",
+    "B": "connected",
+    "C": "blocked",
+    "D": "altered"
+   },
+   "answer": "B",
+   "type": "词义辨析",
+   "explain": "courtyards 与 50 栋建筑的整体格局",
+   "analysis": "【答案】[ B ] connected\n词义辨析\n【线索】courtyards 与 50 栋建筑的整体格局\n线索是城市格局描述：Covering about two and a half acres, Pavlopetri's three main\nroads __(18)__ some 50 rectangular buildings, all of which had open courtyards——\n三条主路串起约50栋带庭院的建筑，描述的是城市规划上的\"连接、贯通\"关系。\n【选项】A) crossed ✗侧重错位\ncross\"横穿\"侧重\"穿过\"，常用于穿越一个区域或一条线，但本句要表道路串起诸多建筑的\"连通\"，\n不是单纯穿越。\nB) connected ✓连通正解\nconnect 表\"连接\"，三条主路把50栋建筑连为一体，正合城市规划描述的本意。\nC) blocked ✗方向相反\nblock\"阻断\"与道路本职功能相悖，且与下文展示城市繁荣的氛围不符。\nD) altered ✗动作类型错\nalter\"改变\"无法描述道路与建筑之间的静态格局关系。\n【验证】代入后\"占地约两英亩半，帕夫洛佩特里的三条主路连接着约50栋长方形建筑，全部带有开\n放式庭院\"，与下一句对纺织业繁荣的描述形成\"城市规模—产业繁荣\"的链条。"
+  },
+  {
+   "no": 19,
+   "options": {
+    "A": "expecting",
+    "B": "suggesting",
+    "C": "predicting",
+    "D": "recalling"
+   },
+   "answer": "B",
+   "type": "逻辑关系",
+   "explain": "loom weights → 纺织业兴旺的推断",
+   "analysis": "【答案】[ B ] suggesting\n语法形态\n【线索】loom weights → 纺织业兴旺的推断\n线索是逻辑关系：revealed a large number of Minoan-style loom weights是证据，\nPavlopetri was a thriving trade center是结论，本空必须表\"由证据指向结论\"。\n【选项】A) expecting ✗时态向错\nexpect\"期待\"指向未来，但本句结论是对过去帕夫洛佩特里的状态判断，时间向不对。\nB) suggesting ✓暗示正解\nsuggest 表\"表明、暗示\"，由发现的大量织布机砝码自然推出\"帕夫洛佩特里是繁荣贸易中心\"的\n结论，逻辑严密、搭配地道。\nC) predicting ✗对象错配\npredict\"预测\"也指向未来，且预测对象通常是未发生事件；这里是回顾历史，逻辑不合。\nD) recalling ✗对象错\nrecall\"回忆\"主语通常是有意识的人，而本句主语隐含为前面的发现/砝码，无法主动\"回忆\"。\n【验证】代入后\"发掘揭示出大量米诺斯风格的织布机砝码，表明帕夫洛佩特里是一座繁荣的贸易中\n心\"，与第一段提到的became an important trading center for Mycenaean Greece遥相\n呼应。"
+  },
+  {
+   "no": 20,
+   "options": {
+    "A": "robust",
+    "B": "diverse",
+    "C": "marginal",
+    "D": "dependent Section II Reading Comprehension Part A Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points) Text 1 The grammar school boy from Stratford-upon-Avon has landed a scholarly punch after groundbreaking research showed that Shakespeare does benefit children's literacy and emotional development. But only if you act him out. A study found that a \"rehearsal room\" approach to teaching Shakespeare broadened children's vocabulary and the complexity of their writing as well as their emotional literacy. \"The research shows that the way actors work makes a big difference to the way children use language and also how they think about themselves,\" Jacqui O'Hanlon of the Royal Shakespeare Company (RSC), which commissioned the study, said. The randomised control trial involved hundreds of year 5 pupils aged nine and ten—at 45 state primary schools that had not been \"previously exposed to RSC pedagogy\". They were split into target and control groups and asked to write, for example, a message in a bottle as Ferdinand after the shipwreck in *The Tempest*. The target group was given a 30-minute drama-based activity to accompany the passage. The peer-reviewed results showed that the target group of pupils drew on a wider vocabulary, used words \"classed as more sophisticated or rarer\", and wrote at greater length. They also \"appear to be more comfortable writing in role … while [control] pupils imagine how they themselves would react to being shipwrecked, [target] children put themselves in the shoes of a literary character and express that character's emotion\". The Time to Act study also found that while control pupils relied on \"desert island clichés\" such as palm trees, target pupils were \"more expansive [giving] a broader picture of the sky, the sea and the atmospheric conditions\". O'Hanlon said she had been most surprised by the \"emotional literacy that was evident in the [target] children's writing\" and that they were \"more resilient in their writing, more hopeful\". She added: \"The emotional understanding was very evident and it is probably related to the [rehearsal room process] where you are used to trying to imagine your way through. They were comfortable in describing different emotional states and part of what you do in drama is put yourself in different shoes.\" The study showed the importance of embedding arts in education, she said. But could the results be replicated with any old dramatist? O'Hanlon said more research would be needed but suggested that Shakespeare's use of 20,000 words, compared with the everyday 2,000 words, gave a \"massive expansion of language into children's lives\", which was combined with children \"using their whole bodies to bring words to life\"."
+   },
+   "answer": "A",
+   "type": "词义辨析",
+   "explain": "thriving trade center 同向呼应",
+   "analysis": "【答案】[ A ] robust\n词义辨析\n【线索】thriving trade center 同向呼应\n线索就在同句：Pavlopetri was a thriving trade center with a __(20)__ textile industry\n——\"繁荣的贸易中心 + ___ 的纺织业\"，前后形容词色彩同向，本空必为正向、强势之意。\n【选项】\nA) robust ✓\"强劲\"正中\nrobust 表\"强劲、繁盛\"，与 thriving 同向，形容支柱产业稳健有力，是描述产业兴旺的高频\n选词。\nB) diverse ✗维度错\ndiverse 表\"多样\"，强调种类丰富，但本句关注产业强弱而非多样性；与上下文重心不符。\nC) marginal ✗色彩反向\nmarginal\"边缘的、微不足道的\"与 thriving 完全相反；若纺织业边缘化，怎能支撑繁荣贸易？逻辑\n直接打架。\nD) dependent ✗概念失焦\ndependent\"依赖他人的\"暗示弱势，且需要带 on，与产业自身实力的描述不合。\n【验证】代入后\"帕夫洛佩特里是一座以强劲纺织业为支柱的繁荣贸易中心\"，与全文从沉没古城到揭\n示其贸易中心地位的整体走向一致。\nO V E R V I E W · 通读建境\n全文主旨与行文脉络\n完形是语篇题——单看空所在的半句往往四个选项都「像」。下面是全文主旨与行文脉\n络，是每个空锁定线索、代入验证时核对的全局工作台。\n全文主旨\n希腊水下古城帕夫洛佩特里的沉没与重见天日\n全文以一座沉入海底的史前/迈锡尼贸易城邦为对象，先讲它emerged as a Neolithic\nsettlement around 3500 B.C. and became an important trading center for Mycenaean\nGreece的身份背景与沉没原因，再讲它在1967年被首次发现却lie __(13)__ for decades\nbefore archaeologists would return，最后讲In 2009 archaeologists Chrysanthi Gallou and\nJon Henderson __(14)__ the excavation后用新技术揭开它纺织业繁荣的真貌。基调是中性\n的科普叙事。\n行文脉络\n三段时间线：沉没—首次发现—重启发掘\n第一段交代古城身份与沉没机制——earthquakes and tsunamis与The slow sea level rise in\nthe Mediterranean两类力量；第二段交代被沙层掩盖、1967年Nicholas Flemming first\nspotted the sunken __(10)__并简要测绘，但此后the site would lie __(13)__ for decades；第\n三段交代2009年重启、用robotics, sonar mapping, and state-of-the-art graphics揭出三条\n主路与约50栋建筑，并据Minoan-style loom weights推断它是纺织贸易重镇。三段呈\"原因\n—中断—复兴\"链。\nS E N T E N C E I N S I G H T S · 句子精讲\n7 句真题句逐层精讲\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nLocated in the southern Peloponnesian peninsula, Pavlopetri (the modern name of\nthe site) emerged as a Neolithic settlement around 3500 B.C. and became an\nimportant trading center for Mycenaean Greece (1650–1180 B.C.).\n第1段，第1句\n本句涵盖了主语、并列谓语、同位语、表语、过去分词短语作状语、多个介词短语作状语等多种成\n分，且同位语、过去分词状语是学习者容易混淆的考点；适合用于训练成分识别的全面性和对修饰\n成分的判断能力\nThis area of the Aegean Sea is prone to earthquakes and tsunamis, which caused\nthe city to gradually sink.\n第1段，第2句\n非限制性定语从句加主句的组合是四六级和考研阅读中的高频句式，\"cause + 宾语 + to do\" 结构\n也是常考搭配。句子结构具有较强的代表性，掌握后可迁移到大量真题句中。\nThe slow sea level rise in the Mediterranean submerged the city more than 3,000\nyears ago.\n第1段，第3句\n本句涵盖主语、谓语、宾语、时间状语四种基本成分,主语内部还包含形容词定语、名词定语和介\n词短语定语三种定语类型,成分种类较为丰富;但句式过于平直,没有易混淆的双宾语、宾补、形式主\n语等常考易错点,训练价值中等偏下。\nA year later, he returned with a few students to examine the location and map the\nsite.\n第2段，第5句\n包含时间状语、方式状语和目的状语三种状语类型，可用于练习状语的识别与分类，但成分种类仍\n较单一（无宾语、表语、定语等），训练价值中等偏下。\nDespite the exciting initial finds, the site would lie undisturbed for decades before\narchaeologists would return.\n第2段，第7句\n\"主句 + before 时间状语从句\" 是四六级和考研阅读中高频出现的句式，表达时间先后关系。句首\n介词短语作让步状语（Despite...）也是常见的转折表达。过去将来时虽不如一般过去时常见，但在\n叙述历史事件或回顾性描述中较为典型。整体结构代表性强，掌握后可迁移到大量类似句子。\nCovering about two and a half acres, Pavlopetri's three main roads connected\nsome 50 rectangular buildings, all of which had open courtyards.\n第3段，第5句\n\"分词短语作状语 + 主句 + 非限制性定语从句\" 是四六级和考研阅读中的常见句式组合。这种先给\n背景信息、再陈述主干、最后补充细节的结构在学术描述类文本中频繁出现,掌握后迁移性强。\nExcavations revealed a large number of Minoan-style loom weights, suggesting\nPavlopetri was a thriving trade center with a robust textile industry.\n第3段，第6句\n现在分词短语引出宾语从句的结构在学术写作和考试阅读中非常常见,尤其是表示推断、暗示等逻\n辑关系时。with 介词短语作后置定语也是高频句式,掌握后可大量复用\nH I G H - F R E Q U E N C Y · 真题高频词\n本篇出现的 24 个考研英语一真题高频词\n下列单词既在本篇完形原文中出现，又是 考研英语一 历年真题的高频词（在该考试真题\n中出现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查\n看该词的释义、音标、词形与真题例句。\nsite\nA2\nn. 地点\n本篇4 次 · 真题 45 句\ndecade\nB1\nn. 十年\n本篇2 次 · 真题 61 句\narchaeologist\nB2\nn. 考古学家\n本篇2 次 · 真题 14 句\nscientific\nB1\nadj. 科学的\n本篇1 次 · 真题 83 句\ndata\nB1\nn. 数据\n本篇1 次 · 真题 80 句\nclimate\nB1\nn. 气候\n本篇1 次 · 真题 50 句\ncurrent\nB1\nadj. 现在的\n本篇1 次 · 真题 41 句\nidentify\nB1\nv. 识别\n本篇1 次 · 真题 37 句\nstructure\nB1\nn. 结构\n本篇1 次 · 真题 36 句\nreveal\nB2\nv. 揭示\n本篇1 次 · 真题 35 句\nadvance\nB1\nv. 前进\n本篇1 次 · 真题 33 句\nnetwork\nB1\nn. 网络\n本篇1 次 · 真题 33 句\ndespite\nB1\nprep. 尽管\n本篇1 次 · 真题 32 句\nemerge\nB2\nv. 出现;浮现\n本篇1 次 · 真题 25 句\nanalyze\nB2\nv. 分析\n本篇1 次 · 真题 21 句\nspot\nA2\nn. 地点\n本篇1 次 · 真题 19 句\nemploy\nB1\nv. 雇用\n本篇1 次 · 真题 17 句\ncooperation\nB2\nn. 合作\n本篇1 次 · 真题 15 句\ntechnique\nB1\nn. 技术\n本篇1 次 · 真题 14 句\nlocate\nB1\nv. 找到;找出…的位置\n本篇1 次 · 真题 13 句\ngather\nB1\nv. 聚集，集合\n本篇1 次 · 真题 11 句\nlocation\nB1\nn. 地点，位置\n本篇1 次 · 真题 9 句\ninitial\nB1\nadj. 最初的\n本篇1 次 · 真题 8 句\nmillennium\nC1\nn. 千年，一千年\n本篇1 次 · 真题 8 句\nV O C A B U L A R Y · 词汇难度分布\n全文 127 词按 CEFR 难度累积覆盖\n带空短文去重后共 127 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」\n的累积占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 7 个 ·\n约 6%。\n39%\nA1\n及以下\n55%\nA2\n及以下\n80%\nB1\n及以下\n94%\nB2\n及以下\n99%\nC1\n及以下\n100%\nC2\n及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 127 个 · 末柱为 100%\n去重总词数\n127\nB2 以上难词\n6%\nB1 及以下覆盖\n80%\n考研英语一\n2025年 · 全卷构成\nSection I\n完形填空（四选一）\n本题\nSection II Part A (1)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (2)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (3)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (4)\n阅读理解（四选一）\n题目解析 →\nSection II Part B\n段落排序\n题目解析 →\nSection II Part C\n英译汉（划线句子翻译）\n题目解析 →\nSection III Part A\n写作\n题目解析 →\nSection III Part B\n写作\n题目解析 →\n2025年 考研英语一阅读理解（四选一） 第 1 篇 · 21–25 题答案与解\n析\nQ U E S T I O N S & A N A L Y S I S ·"
+  }
+ ]
+};

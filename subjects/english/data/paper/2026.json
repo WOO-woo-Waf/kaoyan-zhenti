@@ -1,0 +1,2599 @@
+{
+ "reading": [
+  {
+   "no": 1,
+   "paras": [
+    {
+     "en": "For thousands of years, donkeys have been critical for propelling human civilizations forward. They've helped pull wheeled vehicles, carry travelers and move goods across the world. But where and when these animals first became intertwined with humans has been a mystery. Now, researchers have used genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa — about 3,000 years before humans tamed horses. The team published their findings in the journal Science this month.",
+     "zh": "数千年来，驴对于推动人类文明前进至关重要。它们帮助拉动轮式车辆，载运旅行者，并在世界各地运输 货物。但这些动物最初在何时何地与人类交织在一起一直是个谜。现在，研究人员利用200多头驴的基因 组，将它们的驯化追溯到大约7000年前东非的一次单一事件——比人类驯服马匹早约3000年。该团队本 月在《科学》杂志上发表了他们的研究结果。",
+     "no": 1,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "For thousands of years, donkeys have been critical for propelling human civilizations forward.",
+       "zh": "数千年来，驴对于推动人类文明前进至关重要。",
+       "main": "donkeys have been critical for propelling human civilizations forward.",
+       "chunks": [
+        {
+         "t": "For thousands of years",
+         "r": "状语从句"
+        },
+        {
+         "t": "donkeys have been critical for propelling human civilizations forward.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "They've helped pull wheeled vehicles, carry travelers and move goods across the world.",
+       "zh": "它们帮助拉动轮式车辆，载运旅行者，并在世界各地运输 货物。",
+       "main": "They've helped pull wheeled vehicles",
+       "chunks": [
+        {
+         "t": "They've",
+         "r": "主语"
+        },
+        {
+         "t": "helped pull wheeled vehicles",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "carry travelers and move goods across the world.",
+         "r": "并列谓语"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "But where and when these animals first became intertwined with humans has been a mystery.",
+       "zh": "但这些动物最初在何时何地与人类交织在一起一直是个谜。",
+       "main": "But",
+       "chunks": [
+        {
+         "t": "But",
+         "r": "主语"
+        },
+        {
+         "t": "where and",
+         "r": "定语从句"
+        },
+        {
+         "t": "when these animals first became intertwined with humans has been a mystery.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "Now, researchers have used genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa — about 3,000 years before humans tamed horses.",
+       "zh": "现在，研究人员利用200多头驴的基因 组，将它们的驯化追溯到大约7000年前东非的一次单一事件——比人类驯服马匹早约3000年。",
+       "main": "Now researchers have used genomes of over 200 donkeys to trace their domestication back to a single event around 7",
+       "chunks": [
+        {
+         "t": "Now",
+         "r": "主语"
+        },
+        {
+         "t": "researchers have used genomes of over 200 donkeys to trace their domestication back to a single event around 7",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "000 years ago in East Africa",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "about 3",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "000 years before humans tamed horses.",
+         "r": "并列谓语"
+        }
+       ]
+      },
+      {
+       "i": 5,
+       "en": "The team published their findings in the journal Science this month.",
+       "zh": "该团队本 月在《科学》杂志上发表了他们的研究结果。",
+       "main": "The team published their findings in the journal Science this month.",
+       "chunks": [
+        {
+         "t": "The team",
+         "r": "主语"
+        },
+        {
+         "t": "published their findings in the journal Science this month.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "\"Through their DNA, the animals are telling their history themselves,\" co-author Samantha Brooks, an equine researcher at the University of Florida, says in a statement. \"We usually only get the human's side of history through written accounts, but of course written history does not always record exactly how something happened. Looking at these DNA sequences, we get a biological testimony to the environment these animals lived in and the experiences they survived.\"",
+     "zh": "佛罗里达大学马科动物研究员、共同作者Samantha Brooks在一份声明中说：\"通过它们的DNA，这些动 物正在讲述自己的历史。我们通常只能通过书面记载了解人类一方的历史，但书面历史当然并不总是准确 记录事情是如何发生的。通过观察这些DNA序列,我们获得了关于这些动物生活环境和它们经历的生物学 证词。",
+     "no": 2,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "\"Through their DNA, the animals are telling their history themselves,\" co-author Samantha Brooks, an equine researcher at the University of Florida, says in a statement.",
+       "zh": "佛罗里达大学马科动物研究员、共同作者Samantha Brooks在一份声明中说：\"通过它们的DNA，这些动 物正在讲述自己的历史。",
+       "main": "\"Through their DNA, the animals are telling their history themselves,\" co-author Samantha Brooks, an equine researcher at the University of Florida, says in a statement.",
+       "chunks": [
+        {
+         "t": "\"Through their DNA, the",
+         "r": "主语"
+        },
+        {
+         "t": "animals are telling their history themselves,\" co-author Samantha Brooks, an equine researcher at the University of Florida, says in a statement.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "\"We usually only get the human's side of history through written accounts, but of course written history does not always record exactly how something happened.",
+       "zh": "我们通常只能通过书面记载了解人类一方的历史，但书面历史当然并不总是准确 记录事情是如何发生的。",
+       "main": "\"We usually only get the human's side of history through written accounts, but of course written history does not always record exactly how something happened.",
+       "chunks": [
+        {
+         "t": "\"We usually only get the",
+         "r": "主语"
+        },
+        {
+         "t": "human's side of history through written accounts, but of course written history does not always record exactly how something happened.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "Looking at these DNA sequences, we get a biological testimony to the environment these animals lived in and the experiences they survived.\"",
+       "zh": "通过观察这些DNA序列,我们获得了关于这些动物生活环境和它们经历的生物学 证词。",
+       "main": "we get a biological testimony to the environment these animals lived in and the experiences they survived.\"",
+       "chunks": [
+        {
+         "t": "Looking at these DNA sequences",
+         "r": "分词短语（插入语/定语）"
+        },
+        {
+         "t": "we get a biological testimony to the environment these",
+         "r": "主语"
+        },
+        {
+         "t": "animals lived in and the experiences they survived.\"",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "The researchers examined 207 genomes from modern donkeys living in 31 countries across the globe. They also looked at genomes from 15 wild equids and 31 earlier donkeys that lived between Text 1  about 4,000 and 100 years ago. The team reconstructed the animals' evolutionary tree and used computer models to pinpoint the domestication event when herders in Kenya and the Horn of Africa tamed wild asses. They then traced how the animals spread across the rest of the continent into Europe and Asia about 2,500 years later.",
+     "zh": "研究人员检查了来自全球31个国家的207个现代驴基因组。他们还研究了15个野生马科动物和31头生活在 大约4000年至100年前的早期驴的基因组。该团队重建了这些动物的进化树,并使用计算机模型精确定位 了肯尼亚和非洲之角的牧民驯化野驴的驯化事件。然后他们追踪了这些动物如何在大约2500年后传播到 非洲其他地区、欧洲和亚洲。",
+     "no": 3,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "The researchers examined 207 genomes from modern donkeys living in 31 countries across the globe.",
+       "zh": "研究人员检查了来自全球31个国家的207个现代驴基因组。",
+       "main": "The researchers examined 207 genomes from modern donkeys living in 31 countries across the globe.",
+       "chunks": [
+        {
+         "t": "The",
+         "r": "主语"
+        },
+        {
+         "t": "researchers examined 207 genomes from modern donkeys living in 31 countries across the globe.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "They also looked at genomes from 15 wild equids and 31 earlier donkeys that lived between Text 1  about 4,000 and 100 years ago.",
+       "zh": "他们还研究了15个野生马科动物和31头生活在 大约4000年至100年前的早期驴的基因组。",
+       "main": "They also looked at genomes from 15 wild equids and 31 earlier donkeys",
+       "chunks": [
+        {
+         "t": "They also",
+         "r": "主语"
+        },
+        {
+         "t": "looked at genomes from 15 wild equids and 31 earlier donkeys",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that lived between Text 1  about 4",
+         "r": "定语从句"
+        },
+        {
+         "t": "000 and 100 years ago.",
+         "r": "补充说明（同位/修饰）"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "The team reconstructed the animals' evolutionary tree and used computer models to pinpoint the domestication event when herders in Kenya and the Horn of Africa tamed wild asses.",
+       "zh": "该团队重建了这些动物的进化树,并使用计算机模型精确定位 了肯尼亚和非洲之角的牧民驯化野驴的驯化事件。",
+       "main": "The team reconstructed the animals' evolutionary tree and used computer models to pinpoint the domestication event",
+       "chunks": [
+        {
+         "t": "The team",
+         "r": "主语"
+        },
+        {
+         "t": "reconstructed the animals' evolutionary tree and used computer models to pinpoint the domestication event",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "when herders in Kenya and the Horn of Africa tamed wild asses.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "They then traced how the animals spread across the rest of the continent into Europe and Asia about 2,500 years later.",
+       "zh": "然后他们追踪了这些动物如何在大约2500年后传播到 非洲其他地区、欧洲和亚洲。",
+       "main": "They then traced how the animals spread across the rest of the continent into Europe and Asia about 2",
+       "chunks": [
+        {
+         "t": "They then",
+         "r": "主语"
+        },
+        {
+         "t": "traced how the animals spread across the rest of the continent into Europe and Asia about 2",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "500 years later.",
+         "r": "并列谓语"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "Though it's still unclear why the original domestication happened, Science News' Freda Kreier reports that the event coincided with the Sahara growing larger and drier. \"Donkeys are champions when it comes to carrying stuff and are good at crossing deserts,\" co-author Ludovic Orlando, an evolutionary biologist at Paul Sabatier University in France, tells the publication. Prehistoric humans may have tamed donkeys to help navigate the expanding Sahara.",
+     "zh": "尽管最初驯化发生的原因仍不清楚,《科学新闻》的Freda Kreier报道称,该事件与撒哈拉沙漠变得更大更干 燥的时期相吻合。法国保罗·萨巴蒂埃大学进化生物学家、共同作者Ludovic Orlando告诉该刊物:\"驴在运 载物品方面是冠军,而且擅长穿越沙漠。\"史前人类可能驯化了驴来帮助穿越不断扩大的撒哈拉沙漠。",
+     "no": 4,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "Though it's still unclear why the original domestication happened, Science News' Freda Kreier reports that the event coincided with the Sahara growing larger and drier.",
+       "zh": "尽管最初驯化发生的原因仍不清楚,《科学新闻》的Freda Kreier报道称,该事件与撒哈拉沙漠变得更大更干 燥的时期相吻合。",
+       "main": "Though it's still unclear why the original domestication happened",
+       "chunks": [
+        {
+         "t": "Though",
+         "r": "主语"
+        },
+        {
+         "t": "it's still unclear why the original domestication happened",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "Science News' Freda Kreier reports",
+         "r": "并列谓语"
+        },
+        {
+         "t": "that the event coincided with the Sahara growing larger and drier.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "\"Donkeys are champions when it comes to carrying stuff and are good at crossing deserts,\" co-author Ludovic Orlando, an evolutionary biologist at Paul Sabatier University in France, tells the publication.",
+       "zh": "法国保罗·萨巴蒂埃大学进化生物学家、共同作者Ludovic Orlando告诉该刊物:\"驴在运 载物品方面是冠军,而且擅长穿越沙漠。",
+       "main": "\" Donkeys are champions",
+       "chunks": [
+        {
+         "t": "\"",
+         "r": "主语"
+        },
+        {
+         "t": "Donkeys are champions",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "when it comes to carrying stuff and are good at crossing deserts,\" co-author Ludovic Orlando, an evolutionary biologist at Paul Sabatier University in France, tells the publication.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "Prehistoric humans may have tamed donkeys to help navigate the expanding Sahara.",
+       "zh": "\"史前人类可能驯化了驴来帮助穿越不断扩大的撒哈拉沙漠。",
+       "main": "Prehistoric humans may have tamed donkeys to help navigate the expanding Sahara.",
+       "chunks": [
+        {
+         "t": "Prehistoric",
+         "r": "主语"
+        },
+        {
+         "t": "humans may have tamed donkeys to help navigate the expanding Sahara.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "Researchers say these findings could help put donkeys in the spotlight. The animals could benefit from more research: Currently, there are no published genomes from donkeys located south of the Equator in Africa. But understanding where the animals were first domesticated could guide archaeologists to a narrow region to search for insights about the original tamed donkeys.",
+     "zh": "研究人员表示,这些发现可能有助于让驴受到关注。这些动物可以从更多研究中受益:目前,没有已发表的来 自非洲赤道以南地区驴的基因组。但了解这些动物最初在哪里被驯化,可以引导考古学家在一个狭窄的区域 内寻找关于最初驯化的驴的见解。",
+     "no": 5,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "Researchers say these findings could help put donkeys in the spotlight.",
+       "zh": "研究人员表示,这些发现可能有助于让驴受到关注。",
+       "main": "Researchers say these findings could help put donkeys in the spotlight.",
+       "chunks": [
+        {
+         "t": "Researchers say these findings could help put donkeys in the spotlight.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "The animals could benefit from more research: Currently, there are no published genomes from donkeys located south of the Equator in Africa.",
+       "zh": "这些动物可以从更多研究中受益:目前,没有已发表的来 自非洲赤道以南地区驴的基因组。",
+       "main": "The animals could benefit from more research",
+       "chunks": [
+        {
+         "t": "The",
+         "r": "主语"
+        },
+        {
+         "t": "animals could benefit from more research",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "Currently",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "there are no published genomes from donkeys located south of the Equator in Africa.",
+         "r": "并列谓语"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "But understanding where the animals were first domesticated could guide archaeologists to a narrow region to search for insights about the original tamed donkeys.",
+       "zh": "但了解这些动物最初在哪里被驯化,可以引导考古学家在一个狭窄的区域 内寻找关于最初驯化的驴的见解。",
+       "main": "But understanding",
+       "chunks": [
+        {
+         "t": "But understanding",
+         "r": "主语"
+        },
+        {
+         "t": "where the animals were first domesticated could guide archaeologists to a narrow region to search for insights about the original tamed donkeys.",
+         "r": "定语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "Not only does understanding the equines' genetic makeup help reveal their contribution to human history, but it also might improve their management in the future, as climate change alters the planet's environment, write the authors.",
+     "zh": "作者写道,了解这些马科动物的基因构成不仅有助于揭示它们对人类历史的贡献,而且随着气候变化改变地 球环境,这也可能改善它们未来的管理。 题目与逐题解析 从第一段可以了解到关于驴的什么信息? A) 它们对人类祖先来说似乎很神秘。 B) 它们经历了多次驯化事件。 C) 它们被驯化的时间早于马。 D) 它们被古代旅行者生动地描绘过。 【答案】C （细节题）",
+     "no": 6,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "Not only does understanding the equines' genetic makeup help reveal their contribution to human history, but it also might improve their management in the future, as climate change alters the planet's environment, write the authors.",
+       "zh": "",
+       "main": "Not only does understanding the equines' genetic makeup help reveal their contribution to human history",
+       "chunks": [
+        {
+         "t": "Not only",
+         "r": "主语"
+        },
+        {
+         "t": "does understanding the equines' genetic makeup help reveal their contribution to human history",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "but it also might improve their management in the future",
+         "r": "状语从句"
+        },
+        {
+         "t": "as climate change alters the planet's environment",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "write the authors.",
+         "r": "并列谓语"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "no": 21,
+     "stem": "What can be learned about donkeys from Paragraph 1?",
+     "options": {
+      "A": "They seemed mysterious to human ancestors.",
+      "B": "They underwent multiple domestication events.",
+      "C": "They were tamed at an earlier time than horses.",
+      "D": "They were vividly portrayed by ancient travelers."
+     },
+     "answer": "C",
+     "type": "（细节题）",
+     "analysis": "21. What can be learned about donkeys from Paragraph 1?\n[ A ] They seemed mysterious to human ancestors.\n[ B ] They underwent multiple domestication events.\n[ C ] They were tamed at an earlier time than horses.\n[ D ] They were vividly portrayed by ancient travelers.\n\n【判型】What can be learned about donkeys from Paragraph 1?问的是从指定段落能获取的事\n实信息，没有 infer/imply/suggest 之类的推断信号词。\n【拆句】What can be learned about donkeys from Paragraph 1?为一般疑问转化的特殊疑问\n句，主干 What can be learned... about donkeys 是被动语态，逻辑主语隐含为「读\n者」；from Paragraph 1 是状语限定信息来源。无陷阱。\n【定位】Now, researchers have used genomes of over 200 donkeys to trace their domestication back\nto a single event around 7,000 years ago in East Africa — about 3,000 years before humans\ntamed horses.\n如今，研究者用 200 多份驴基因组将其驯化追溯到约 7000 年前东非的一次单一事件——\n比人类驯化马早约 3000 年。\n【选项】A)\n偷换概念\n原文But where and when these animals first became intertwined with humans\nhas been a mystery说的是驯化的时空对人类「是个谜」，并非驴对人类祖先显得神\n秘；选项把「研究未解的问题」偷换为「驴本身的形象」。\nB)\n与原文相反\n原文trace their domestication back to a single event明确为「单一一次驯化事件」，\n选项称 multiple domestication events，正话反说。\nC)\n✓ 正确\nabout 3,000 years before humans tamed horses ↔\nThey were tamed at an earlier time than horses\n预判「驴比马更早被驯化」与They were tamed at an earlier time than horses在比较\n对象（horses）与方向（earlier）上完全对接，无歧义。\nD)\n无中生有\n第 1 段提到 carry travelers，但全文无任何「古代旅行者生动描绘驴」的内容；选项把\n「驴载旅行者」改造成「旅行者画驴」，凭空捏造行为方向。\nBrooks的陈述传达了什么信息?\nA) 驴的最早栖息地几乎无法追溯。\nB) 读取驴的DNA序列变得越来越容易。\nC) 文字记载包含驴研究的重要线索。\nD) 基因分析为驴的历史提供了见解。"
+    },
+    {
+     "no": 22,
+     "stem": "What message is conveyed in Brooks' statement?",
+     "options": {
+      "A": "The earliest habitats of donkeys are hardly traceable.",
+      "B": "It is increasingly easy to read donkeys' DNA sequences.",
+      "C": "Written accounts contain vital clues for donkey research.",
+      "D": "Genetic analysis offers insight into the history of donkeys."
+     },
+     "answer": "D",
+     "type": "（细节题）",
+     "analysis": "【判型】What message is conveyed in Brooks' statement?问的是引语本身传达的信息，是对引\n语内容的同义概括，不要求跨段推断。\n22. What message is conveyed in Brooks' statement?\n[ A ] The earliest habitats of donkeys are hardly traceable.\n[ B ] It is increasingly easy to read donkeys' DNA sequences.\n[ C ] Written accounts contain vital clues for donkey research.\n[ D ] Genetic analysis offers insight into the history of donkeys.\n\n【拆句】What message is conveyed in Brooks' statement?主干 What message is conveyed，\n被动语态；in Brooks' statement 是地点状语，限定信息出处。所有格 Brooks' 容易被基础\n薄弱考生误读为复数，注意是单数所有格。\n【定位】Through their DNA, the animals are telling their history themselves. ... Looking at these DNA\nsequences, we get a biological testimony to the environment these animals lived in and the\nexperiences they survived.\n通过它们的 DNA，动物们自己在讲述自己的历史。……审视这些 DNA 序列，我们获得了关\n于这些动物所处环境与所历经历的生物学证词。\n【选项】A)\n张冠李戴\nBrooks 引语没有谈及驴的「最早栖息地难以追溯」；本段是讲 DNA 能讲述历史，而\n非讲历史多么难讲。选项把全文背景（驯化时空一度是 mystery）拿来冒充 Brooks 的\n观点。\nB)\n无中生有\nBrooks 只说通过 DNA 可获洞见，并未提及「读 DNA 越来越容易」；选项的\n「increasingly easy」是凭空添加的趋势判断。\nC)\n与原文相反\nBrooks 明确说written history does not always record exactly how something\nhappened——文字记载不一定准确；选项却称「文字记载含关键线索」，恰恰反\n着说。\nD)\n✓ 正确\nThrough their DNA, the animals are telling their history themselves ↔\nGenetic analysis offers insight into the history of donkeys\nwe get a biological testimony to the environment these animals lived in and the experiences they\nsurvived\n↔Genetic analysis offers insight into the history of donkeys\n预判「DNA 揭示驴的历史」与Genetic analysis offers insight into the history of\ndonkeys在工具（DNA/Genetic analysis）、动作（揭示/offer insight）、对象\n（history）上完全对应。\n在他们的研究中,研究人员调查了驴是如何____\nA) 在世界各地广泛分散的。\nB) 在牧民的帮助下存活下来的。\nC) 发展出某些行为特征的。\nD) 适应不断变化的环境的。"
+    },
+    {
+     "no": 23,
+     "stem": "In their study, the researchers investigated how donkeys ____",
+     "options": {
+      "A": "dispersed widely in the world.",
+      "B": "survived with the help of herders.",
+      "C": "developed certain behavioral traits.",
+      "D": "adapted to the changing environment."
+     },
+     "answer": "A",
+     "type": "（细节题）",
+     "analysis": "23. In their study, the researchers investigated how donkeys ____\n[ A ] dispersed widely in the world.\n[ B ] survived with the help of herders.\n[ C ] developed certain behavioral traits.\n[ D ] adapted to the changing environment.\n\n【判型】Q23是不完整陈述句，选项作句子延续，问的是研究的客观内容，本质是对方法段一句话的\n同义改写。\n【拆句】In their study, the researchers investigated how donkeys ____主干 the researchers\ninvestigated how donkeys 后跟动词残缺；how 引导宾语从句，选项是该从句的谓语部\n分。无陷阱。\n【定位】They then traced how the animals spread across the rest of the continent into Europe and Asia\nabout 2,500 years later.\n随后他们追踪了动物如何在约 2500 年后向非洲其他地区扩散，并进入欧洲与亚洲。\n【选项】A)\n✓ 正确\nspread across the rest of the continent into Europe and Asia ↔dispersed widely in the world\n预判「驴如何向全球扩散」与dispersed widely in the world在动作（扩散）与范围\n（全球）上一一对应。\nB)\n张冠李戴\n原文 herders 出现在描述「肯尼亚与非洲之角的牧民驯服野驴」处（herders in Kenya\nand the Horn of Africa tamed wild asses），是驯化场景；选项却说「在牧民帮助下\n生存」，把「被驯化」改写为「靠牧民活下去」，对象关系完全错位。\nC)\n无中生有\n全文未提及任何驴的「行为特征/习性」研究；第 3 段仅讲基因组、演化树、扩散路径，\n没有 behavioral traits 这条线。\nD)\n过度推断\n第 4 段虽提到撒哈拉扩张与驴驯化同期，但那是 Orlando 对「为什么驯化」的推测，不\n是「研究者实际研究的内容」；选项把 Q24 的内容偷渡到 Q23，越界推断。\n关于驴最初驯化发生的原因,Orlando____\nA) 挑战传统观念。\nB) 提供了一种可能的解释。\nC) 呼吁来自撒哈拉的证据。\nD) 持有与Kreier不同的观点。"
+    },
+    {
+     "no": 24,
+     "stem": "As to why the original domestication of donkeys happened, Orlando ____",
+     "options": {
+      "A": "challenges conventional ideas.",
+      "B": "provides a possible explanation.",
+      "C": "calls for evidence from the Sahara.",
+      "D": "holds a different view from Kreier."
+     },
+     "answer": "B",
+     "type": "（细节题）",
+     "analysis": "【判型】As to why the original domestication of donkeys happened, Orlando ____问 Orlando\n关于「为什么」做了什么动作（解释/反驳/质疑），是对该人物言论性质的客观判定。\n【拆句】As to why the original domestication of donkeys happened, Orlando ____中 As to\nwhy... 是介词短语作状语（=regarding the question of why），主干 Orlando ____，谓\n语残缺由选项补。As to = regarding，等同 about，不是「至于做某事」。\n24. As to why the original domestication of donkeys happened, Orlando ____\n[ A ] challenges conventional ideas.\n[ B ] provides a possible explanation.\n[ C ] calls for evidence from the Sahara.\n[ D ] holds a different view from Kreier.\n\n【定位】\"Donkeys are champions when it comes to carrying stuff and are good at crossing deserts,\"\nco-author Ludovic Orlando, an evolutionary biologist at Paul Sabatier University in France,\ntells the publication. Prehistoric humans may have tamed donkeys to help navigate the\nexpanding Sahara.\n「驴在驮物方面是冠军，且擅长穿越沙漠」，合作者、法国保罗·萨巴蒂耶大学进化生物学家\nOrlando 告诉该刊。史前人类可能驯化驴是为了帮助穿越扩张中的撒哈拉。\n【选项】A)\n无中生有\nOrlando 并未挑战任何「传统观点」，原文也没有提到所谓「传统观点」存在；他只是\n顺着「为何驯化」这个公开未解的问题给出一种可能解释。\nB)\n✓ 正确\nPrehistoric humans may have tamed donkeys to help navigate the expanding Sahara ↔\nprovides a possible explanation\nDonkeys are champions when it comes to carrying stuff and are good at crossing deserts ↔\nprovides a possible explanation\n预判「Orlando 给出可能解释」与provides a possible explanation在动作（提供）、\n性质（可能/解释）上完全吻合。\nC)\n无中生有\nOrlando 没有呼吁任何「从撒哈拉获取证据」；他只是提到撒哈拉扩张这一同期背景，\n作为推测的合理化情境。\nD)\n无中生有\nKreier 是转述 Orlando 观点的记者（Science News' Freda Kreier reports that），与\nOrlando 之间无任何观点对立；选项把「报道与被报道」的关系误读为「观点对立」。\n作者认为他们的研究可以有助于____\nA) 更好地保护野生动物。\nB) 更好地管理驴。\nC) 恢复早期类型的驴。\nD) 提高对气候变化的认识。"
+    },
+    {
+     "no": 25,
+     "stem": "The authors think that their research could help with ____",
+     "options": {
+      "A": "greater protection of wildlife.",
+      "B": "better management of donkeys.",
+      "C": "recovering early types of donkeys.",
+      "D": "raising awareness of climate change."
+     },
+     "answer": "B",
+     "type": "（细节题）",
+     "analysis": "【判型】The authors think that their research could help with ____问的是作者明确表述的研究用\n途，是对原文一句话的同义替换。\n【拆句】The authors think that their research could help with ____主干 The authors think +\nthat 宾语从句，从句主语 their research，谓语 could help with（情态动词表可能性，与\n原文 might 对应）；help with 后接名词性宾语，由选项补足。无陷阱。\n25. The authors think that their research could help with ____\n[ A ] greater protection of wildlife.\n[ B ] better management of donkeys.\n[ C ] recovering early types of donkeys.\n[ D ] raising awareness of climate change.\n\n【定位】Not only does understanding the equines' genetic makeup help reveal their contribution to\nhuman history, but it also might improve their management in the future, as climate change\nalters the planet's environment, write the authors.\n作者写道，理解这些马科动物的遗传构成不仅有助于揭示它们对人类历史的贡献，还可能在\n气候变化改变全球环境之际改善对它们的管理。\n【选项】A)\n偷换概念\n原文讲的是改善对驴（已被驯化的家畜）的管理，而非保护「野生动物」；选项把家畜\ndonkeys 偷换为 wildlife，对象类别完全错位。\nB)\n✓ 正确\nit also might improve their management in the future ↔better management of donkeys\n预判「改善对驴的管理」与better management of donkeys在动作（改善/变好）与对\n象（驴的管理）上完全对接。\nC)\n过度推断\n第 5 段提到了解最初驯化地能帮助考古学家寻找「最早被驯化驴的线索」，但只是「寻\n找线索」，并非「恢复早期驴的类型」；选项把搜寻线索升级为「恢复/复原物种」，越\n界过度。\nD)\n偷换概念\n原文 climate change 是「驴管理需要适应的外部背景」（as climate change alters\nthe planet's environment），并非研究要「提升对其的认识」；选项把背景条件错当\n成研究目标。\nS E N T E N C E I N S I G H T S · 句子精讲\n11 句真题句逐层精讲\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nNow, researchers have used genomes of over 200 donkeys to trace their\ndomestication back to a single event around 7,000 years ago in East Africa —\nabout 3,000 years before humans tamed horses.\n第1段，第4句\n主句使用现在完成时陈述研究成果，搭配目的状语说明研究目的，这是科技类文章中的典型句式。\n时间状语从句补充历史对比信息，也是说明文常见结构。该句式在四六级和考研阅读中经常出现，\n掌握后可迁移到大量科普、新闻类文本。\n\nWe usually only get the human's side of history through written accounts, but of\ncourse written history does not always record exactly how something happened.\n第2段，第2句\n并列主句加宾语从句的组合是四六级和考研阅读中的高频句式。转折连词 \"but\" 连接对比观点、疑\n问词引导名词性从句，都是常考结构。掌握后可大量复用到类似长难句的分析中。\nLooking at these DNA sequences, we get a biological testimony to the environment\nthese animals lived in and the experiences they survived.\n第2段，第3句\n句子包含省略关系代词的定语从句,这是四六级和考研阅读中的高频结构。并列名词后分别带定语\n从句的模式也很常见。现在分词短语作状语是基础语法点,经常出现。整体结构具有较强的代表性,\n掌握后可应用于大量类似长句的分析\nThe team reconstructed the animals' evolutionary tree and used computer models\nto pinpoint the domestication event when herders in Kenya and the Horn of Africa\ntamed wild asses.\n第3段，第3句\n主句并列谓语 + 目的状语（不定式）+ 定语从句嵌套，是学术类文章和考研阅读中常见的句式；\n特别是 to do 表目的、when 引导定语从句修饰表示时间或事件的名词，都是高频结构，典型性较\n强，掌握后可迁移到大量类似句子。\nThough it's still unclear why the original domestication happened, Science News'\nFreda Kreier reports that the event coincided with the Sahara growing larger and\ndrier.\n第4段，第1句\n句子涵盖形式主语（it）与真正主语（why 从句）的对应关系、宾语从句（that 从句）、with 复合\n结构作状语、让步状语从句等多种成分，且主语从句嵌套在让步状语从句内部，练习价值较高。对\n划分主系表结构、识别形式主语、理解嵌套从句有较好训练效果。\n\n\"Donkeys are champions when it comes to carrying stuff and are good at crossing\ndeserts,\" co-author Ludovic Orlando, an evolutionary biologist at Paul Sabatier\nUniversity in France, tells the publication.\n第4段，第2句\n涵盖主谓宾、主系表、双宾语、同位语、状语从句、并列谓语等多种成分类型;引号作宾语从句、\n固定搭配when it comes to、并列谓语共享主语等都是值得练习的结构点;成分种类较丰富,适合作为\n综合性成分划分练习\nPrehistoric humans may have tamed donkeys to help navigate the expanding\nSahara.\n第4段，第3句\n句中包含主语、谓语、宾语、目的状语、定语等多种成分,尤其情态动词加完成式的谓语识别、不\n定式作目的状语的判断、现在分词作定语的区分都是常见考点,成分种类较丰富且实用\nThe animals could benefit from more research: Currently, there are no published\ngenomes from donkeys located south of the Equator in Africa.\n第5段，第2句\n冒号连接的并列主句结构在学术写作和考试阅读中较为常见，there be 存在句和情态动词用法也是\n典型考点。第二分句中 \"过去分词 + 介词短语\" 层层修饰名词的模式在长难句中频繁出现，具有一\n定代表性，掌握后有助于理解类似结构。\nNot only does understanding the equines' genetic makeup help reveal their\ncontribution to human history, but it also might improve their management in the\nfuture, as climate change alters the planet's environment, write the authors.\n第6段，第1句\n本句成分丰富且含多个值得练习的点。主句中有倒装结构下的主语识别、动名词短语作主语、'not\nonly...but also' 并列谓语、形式主语 'it' 的指代关系、两个宾语的定位、时间状语的识别。状语从\n句虽简单,但提供了主谓宾基本结构的标准示范。整体来看,本句覆盖了主语(含动名词和形式主语)、\n谓语(含助动词和情态动词)、宾语、状语等多种核心成分,且倒装和并列结构是常见易错点,训练价值\n较高。\n\nWhat can be learned about donkeys from Paragraph 1?\n第21题题干\n这是四六级和考研阅读理解中极其典型的题干句式，使用 \"What can be\nlearned/inferred/concluded\" 结构询问文章内容，掌握后可直接迁移到大量类似题目。\nIt is increasingly easy to read donkeys' DNA sequences.\n第22题，B\n\"It is + 形容词 + to do\" 句型是四六级和考研阅读及翻译中的高频结构，广泛用于表达\"做某事\n是……的\"这一意义。本句完整展示了该句型的标准形式，包括形式主语、系表结构和不定式真正主\n语，学生掌握后可直接迁移到大量类似句子（如 It is important to..., It is difficult to... 等）。虽然本\n句本身较简单，但其句型的典型性和复用性很高。\nH I G H - F R E Q U E N C Y · 真题高频词\n本篇出现的 60 个考研英语一真题高频词\n下列单词既在本篇真题中出现，又是 考研英语一 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n词的释义、音标、词形与真题例句。\ndonkey\nA2\nn. 驴\n本篇18 次 · 真题 18 句\nresearcher\nB2\nn. 研究人员\n本篇5 次 · 真题 112 句\nevent\nA2\nn. 事件\n本篇4 次 · 真题 36 句\noriginal\nB1\nadj. 最初的，原始的\n本篇3 次 · 真题 19 句\nauthor\nA2\nn. 作者\n本篇2 次 · 真题 209 句\nclimate\nB1\nn. 气候\n本篇2 次 · 真题 50 句\n\naccount\nA2\nn. 账户\n本篇2 次 · 真题 42 句\nmanagement\nB1\nn. 管理\n本篇2 次 · 真题 36 句\nfinding\nB2\nn. 调查结果\n本篇2 次 · 真题 30 句\nstatement\nB1\nn. 声明\n本篇2 次 · 真题 25 句\nunderstanding\nB1\nn. 理解;领悟\n本篇2 次 · 真题 25 句\ngenetic\nB2\nadj. 遗传的\n本篇2 次 · 真题 21 句\nsurvive\nB1\nv. 幸存\n本篇2 次 · 真题 19 句\ntrace\nB2\nv. 追踪;查找\n本篇2 次 · 真题 13 句\nwild\nA2\nadj. 野生的\n本篇2 次 · 真题 13 句\nevolutionary\nC1\nadj. 进化的\n本篇2 次 · 真题 11 句\ntraveler\nA2\nn. 旅行者\n本篇2 次 · 真题 9 句\ninsight\nB2\nn. 洞察力\n本篇2 次 · 真题 8 句\nview\nA2\nn. 观点，看法\n本篇1 次 · 真题 91 句\nbenefit\nB1\nn. 好处\n本篇1 次 · 真题 88 句\njournal\nB1\nn. 杂志\n本篇1 次 · 真题 57 句\npublish\nB1\nv. 出版，发行（书籍、杂志等）\n本篇1 次 · 真题 52 句\n\nevidence\nB1\nn. 证据\n本篇1 次 · 真题 48 句\nincreasingly\nB2\nadv. 越来越;日益;不断增加地\n本篇1 次 · 真题 40 句\nprotection\nB1\nn. 保护\n本篇1 次 · 真题 39 句\nlater\nA1\nadv. 以后，later\n本篇1 次 · 真题 38 句\nreveal\nB2\nv. 揭示\n本篇1 次 · 真题 35 句\ntype\nA2\nn. 类型\n本篇1 次 · 真题 30 句\npublication\nB2\nn. 出版物\n本篇1 次 · 真题 27 句\ncritical\nB2\nadj. 批评的\n本篇1 次 · 真题 26 句\nanalysis\nB2\nn. 分析\n本篇1 次 · 真题 24 句\nwidely\nB1\nadv. 广泛地\n本篇1 次 · 真题 21 句\nexpand\nB2\nv. 扩大;扩展;增长\n本篇1 次 · 真题 19 句\nmultiple\nB2\nadj. 多个的\n本篇1 次 · 真题 16 句\ncontinent\nA2\nn. 大陆\n本篇1 次 · 真题 15 句\ncontribution\nB2\nn. 贡献\n本篇1 次 · 真题 15 句\nexactly\nB1\nadv. 精确地\n本篇1 次 · 真题 15 句\nregion\nB1\nn. 地区\n本篇1 次 · 真题 15 句\n\nvehicle\nB1\nn. 交通工具\n本篇1 次 · 真题 15 句\narchaeologist\nB2\nn. 考古学家\n本篇1 次 · 真题 14 句\nexplanation\nB1\nn. 解释\n本篇1 次 · 真题 14 句\nalter\nB2\nv. 改变，更改（使某物与之前不同）\n本篇1 次 · 真题 13 句\ncurrently\nB1\nadv. 目前，当前\n本篇1 次 · 真题 13 句\nguide\nA2\nn. 指南;手册\n本篇1 次 · 真题 13 句\nhabitat\nB2\nn. （动植物的）栖息地，生长环境\n本篇1 次 · 真题 13 句\nlocate\nB1\nv. 找到;找出…的位置\n本篇1 次 · 真题 13 句\ntrait\nB2\nn. 特征\n本篇1 次 · 真题 13 句\nwildlife\nB1\nn. 野生动植物\n本篇1 次 · 真题 13 句\nadapt\nB2\nv. 适应，适合（新环境、新情况）\n本篇1 次 · 真题 12 句\nawareness\nB2\nn. 意识\n本篇1 次 · 真题 12 句\ncontain\nB1\nv. 包含，含有\n本篇1 次 · 真题 12 句\nconvey\nB2\nv. 传达、表达（信息、思想、感情等）\n本篇1 次 · 真题 12 句\nnarrow\nB1\nadj. 狭窄的\n本篇1 次 · 真题 12 句\nbehavioral\nB2\nadj. 行为的\n本篇1 次 · 真题 11 句\n\nbiological\nB2\nadj. 生物的\n本篇1 次 · 真题 11 句\nbiologist\nB2\nn. 生物学家\n本篇1 次 · 真题 10 句\nancestor\nB2\nn. 祖先，祖宗\n本篇1 次 · 真题 9 句\nvital\nB2\nadj. 极其重要的，必不可少的\n本篇1 次 · 真题 9 句\ninvestigate\nB2\nv. 调查\n本篇1 次 · 真题 8 句\nnavigate\nB2\nv. 导航\n本篇1 次 · 真题 8 句\nV O C A B U L A R Y · 词汇难度分布\n全文 202 词按 CEFR 难度累积覆盖\n全文去重后共 202 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」的累积\n占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 14 个 · 约 7%。\n39%\nA1\n及以下\n56%\nA2\n及以下\n77%\nB1\n及以下\n93%\nB2\n及以下\n99%\nC1\n及以下\n100%\nC2\n及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 202 个 · 末柱为 100%\n去重总词数\n202\nB2 以上难词\n7%\nB1 及以下覆盖\n77%\n\n考研英语一\n2026年 · 全卷构成\n题目解析 →\n本题\n题目解析 →\n题目解析 →\n题目解析 →\n段落排序\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →"
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "paras": [
+    {
+     "en": "There's no business like show business — but in Los Angeles, it feels like there's no business at all.",
+     "zh": "没有哪个行业比演艺业更精彩——但在洛杉矶,感觉根本就没有生意可做。",
+     "no": 1,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "There's no business like show business — but in Los Angeles, it feels like there's no business at all.",
+       "zh": "没有哪个行业比演艺业更精彩——但在洛杉矶,感觉根本就没有生意可做。",
+       "main": "it There's no business like show business",
+       "chunks": [
+        {
+         "t": "There's no business like show business",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "but in Los Angeles",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "it",
+         "r": "主语"
+        },
+        {
+         "t": "feels like there's no business at all.",
+         "r": "并列谓语"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "If that sounds melodramatic, consider this: The Art Directors Guild, a labor union representing about 3,000 film workers, has suspended a training program and issued a statement explaining that \"we cannot in good conscience encourage you to pursue our profession.\" This is a reaction to Hollywood's decline, which is reaching a critical point for the industry and Southern California.",
+     "zh": "如果这听起来过于戏剧化,不妨考虑一下:代表约3000名电影工作者的劳工组织艺术指导协会已经暂停了一 个培训项目,并发表声明解释说\"我们不能昧着良心鼓励你们从事我们这个职业\"。这是对好莱坞衰退的反 应,该行业和南加州正面临关键时刻。",
+     "no": 2,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "If that sounds melodramatic, consider this: The Art Directors Guild, a labor union representing about 3,000 film workers, has suspended a training program and issued a statement explaining that \"we cannot in good conscience encourage you to pursue our profession.",
+       "zh": "如果这听起来过于戏剧化,不妨考虑一下:代表约3000名电影工作者的劳工组织艺术指导协会已经暂停了一 个培训项目,并发表声明解释说\"我们不能昧着良心鼓励你们从事我们这个职业\"。",
+       "main": "If The Art Directors Guild",
+       "chunks": [
+        {
+         "t": "If",
+         "r": "主语"
+        },
+        {
+         "t": "that sounds melodramatic",
+         "r": "定语从句"
+        },
+        {
+         "t": "consider this",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "The Art Directors Guild",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "a labor union representing about 3",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "000 film workers",
+         "r": "并列谓语"
+        },
+        {
+         "t": "has suspended a training program and issued a statement explaining",
+         "r": "并列谓语"
+        },
+        {
+         "t": "that \"we cannot in good conscience encourage you to pursue our profession.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "This is a reaction to Hollywood's decline, which is reaching a critical point for the industry and Southern California.",
+       "zh": "这是对好莱坞衰退的反 应,该行业和南加州正面临关键时刻。",
+       "main": "This is a reaction to Hollywood's decline",
+       "chunks": [
+        {
+         "t": "This",
+         "r": "主语"
+        },
+        {
+         "t": "is a reaction to Hollywood's decline",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "which is reaching a critical point for the industry and Southern California.",
+         "r": "定语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "Production has been slipping away from Hollywood since the 1950s, but the effects have never been more apparent than at present. Other regions in the United States, Canada and Europe have steadily increased incentives to attract TV shows and movies, leaving California in the dust. Georgia offers up to 30% in transferable tax credits on film and TV production costs, plus an additional 10% increase on the base tax credit if the project includes a Georgia promotional logo.",
+     "zh": "自20世纪50年代以来,制作业务一直在从好莱坞流失,但其影响从未像现在这样明显。美国其他地区、加拿 大和欧洲稳步增加激励措施以吸引电视节目和电影,让加州望尘莫及。Georgia州对影视制作成本提供高达 30%的可转让税收抵免,如果项目包含Georgia州宣传标识,还可在基础税收抵免上额外增加10%。",
+     "no": 3,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "Production has been slipping away from Hollywood since the 1950s, but the effects have never been more apparent than at present.",
+       "zh": "自20世纪50年代以来,制作业务一直在从好莱坞流失,但其影响从未像现在这样明显。",
+       "main": "Production has been slipping away from Hollywood",
+       "chunks": [
+        {
+         "t": "Production",
+         "r": "主语"
+        },
+        {
+         "t": "has been slipping away from Hollywood",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "since the 1950s",
+         "r": "状语从句"
+        },
+        {
+         "t": "but the effects have never been more apparent than at present.",
+         "r": "状语从句"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "Other regions in the United States, Canada and Europe have steadily increased incentives to attract TV shows and movies, leaving California in the dust.",
+       "zh": "美国其他地区、加拿 大和欧洲稳步增加激励措施以吸引电视节目和电影,让加州望尘莫及。",
+       "main": "Other regions in the United States",
+       "chunks": [
+        {
+         "t": "Other regions in the",
+         "r": "主语"
+        },
+        {
+         "t": "United States",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "Canada and Europe have steadily increased incentives to attract TV shows and movies",
+         "r": "并列谓语"
+        },
+        {
+         "t": "leaving California in the dust.",
+         "r": "分词短语（插入语/定语）"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "Georgia offers up to 30% in transferable tax credits on film and TV production costs, plus an additional 10% increase on the base tax credit if the project includes a Georgia promotional logo.",
+       "zh": "Georgia州对影视制作成本提供高达 30%的可转让税收抵免,如果项目包含Georgia州宣传标识,还可在基础税收抵免上额外增加10%。",
+       "main": "Georgia offers up to 30% in transferable tax credits on film and TV production costs",
+       "chunks": [
+        {
+         "t": "Georgia offers up to 30% in transferable tax credits on film and TV production",
+         "r": "主语"
+        },
+        {
+         "t": "costs",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "plus an additional 10% increase on the base tax credit",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "if the project includes a Georgia promotional logo.",
+         "r": "状语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "Even as California lost a huge volume of production to other locations, there was still plenty of film production taking place in Los Angeles before this year. We were kept afloat by \"peak TV\", the Text 2  glut of content that was required by the explosion of streaming services.",
+     "zh": "尽管加州将大量制作业务输给了其他地区,但在今年之前洛杉矶仍有大量电影制作活动。我们靠\"巅峰电 视\"维持运转,即流媒体服务爆炸式增长所需的过剩内容。",
+     "no": 4,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "Even as California lost a huge volume of production to other locations, there was still plenty of film production taking place in Los Angeles before this year.",
+       "zh": "尽管加州将大量制作业务输给了其他地区,但在今年之前洛杉矶仍有大量电影制作活动。",
+       "main": "Even as California lost a huge volume of production to other locations",
+       "chunks": [
+        {
+         "t": "Even as California lost a huge volume of production to other",
+         "r": "主语"
+        },
+        {
+         "t": "locations",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "there was still plenty of film production taking place in Los Angeles before this year.",
+         "r": "并列谓语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "We were kept afloat by \"peak TV\", the Text 2  glut of content that was required by the explosion of streaming services.",
+       "zh": "我们靠\"巅峰电 视\"维持运转,即流媒体服务爆炸式增长所需的过剩内容。",
+       "main": "We were kept afloat by \"peak TV\", the Text 2  glut of content",
+       "chunks": [
+        {
+         "t": "We",
+         "r": "主语"
+        },
+        {
+         "t": "were kept afloat by \"peak TV\", the Text 2  glut of content",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that was required by the explosion of streaming services.",
+         "r": "定语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "But 2022 was the peak of peak TV. Back then platforms such as Netflix, Amazon and Apple TV hemorrhaged billions of dollars to generate content to attract new subscribers, resulting in 633 scripted series being released that year. As the streamers' emphasis changed from subscriber growth to profitability, prices for the services went up and the number of new shows went down to 481 released in 2023, with the number expected to dip into the 300s within a few years.",
+     "zh": "但2022年是巅峰电视的顶点。当时Netflix、Amazon和Apple TV等平台为吸引新订户而投入数十亿美元 制作内容,导致那一年发布了633部剧本系列剧。随着流媒体公司的重点从订户增长转向盈利能力,服务价格 上涨,新节目数量下降至2023年发布的481部,预计在几年内将降至300多部。",
+     "no": 5,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "But 2022 was the peak of peak TV.",
+       "zh": "但2022年是巅峰电视的顶点。",
+       "main": "But 2022 was the peak of peak TV.",
+       "chunks": [
+        {
+         "t": "But 2022 was the peak of peak TV.",
+         "r": "状语从句"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "Back then platforms such as Netflix, Amazon and Apple TV hemorrhaged billions of dollars to generate content to attract new subscribers, resulting in 633 scripted series being released that year.",
+       "zh": "当时Netflix、Amazon和Apple TV等平台为吸引新订户而投入数十亿美元 制作内容,导致那一年发布了633部剧本系列剧。",
+       "main": "Back then platforms such as Netflix",
+       "chunks": [
+        {
+         "t": "Back then",
+         "r": "主语"
+        },
+        {
+         "t": "platforms such as Netflix",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "Amazon and Apple TV hemorrhaged billions of dollars to generate content to attract new subscribers",
+         "r": "并列谓语"
+        },
+        {
+         "t": "resulting in 633 scripted series being released",
+         "r": "分词短语（插入语/定语）"
+        },
+        {
+         "t": "that year.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "As the streamers' emphasis changed from subscriber growth to profitability, prices for the services went up and the number of new shows went down to 481 released in 2023, with the number expected to dip into the 300s within a few years.",
+       "zh": "随着流媒体公司的重点从订户增长转向盈利能力,服务价格 上涨,新节目数量下降至2023年发布的481部,预计在几年内将降至300多部。",
+       "main": "prices for the services went up and the number of new shows went down to 481 released in 2023",
+       "chunks": [
+        {
+         "t": "As the streamers' emphasis changed from subscriber growth to profitability",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "prices for the",
+         "r": "主语"
+        },
+        {
+         "t": "services went up and the number of new shows went down to 481 released in 2023",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "with the number expected to dip into the 300s within a few years.",
+         "r": "介词短语（状语/定语）"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "If productions in Southern California dip below a critical level for too long, the industry's essential talent will drift away along with enormous sums of revenue. Persuading studios to film here would become much more challenging if we couldn't offer a deep bench of local film workers, on-screen talent and local businesses that support the entertainment industry.",
+     "zh": "如果南加州的制作活动长期低于临界水平,该行业的核心人才将随着巨额收入一起流失。如果我们无法提供 大量本地电影工作者、银幕人才和支持娱乐业的本地企业,说服制片厂在这里拍摄将变得更具挑战性。",
+     "no": 6,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "If productions in Southern California dip below a critical level for too long, the industry's essential talent will drift away along with enormous sums of revenue.",
+       "zh": "如果南加州的制作活动长期低于临界水平,该行业的核心人才将随着巨额收入一起流失。",
+       "main": "If productions in Southern California dip below a critical level for too long the industry's essential talent will drift away along with enormous sums of revenue.",
+       "chunks": [
+        {
+         "t": "If productions in Southern California dip below a critical level for too long",
+         "r": "主语"
+        },
+        {
+         "t": "the industry's essential talent will drift away along with enormous sums of revenue.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "Persuading studios to film here would become much more challenging if we couldn't offer a deep bench of local film workers, on-screen talent and local businesses that support the entertainment industry.",
+       "zh": "如果我们无法提供 大量本地电影工作者、银幕人才和支持娱乐业的本地企业,说服制片厂在这里拍摄将变得更具挑战性。",
+       "main": "Persuading studios to film here would become much more challenging",
+       "chunks": [
+        {
+         "t": "Persuading studios to film here would become much more challenging",
+         "r": "分词短语（插入语/定语）"
+        },
+        {
+         "t": "if we couldn't offer a deep bench of local film workers",
+         "r": "状语从句"
+        },
+        {
+         "t": "on-screen talent and local businesses",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "that support the entertainment industry.",
+         "r": "定语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "That's why the California Film Commission and its Los Angeles counterpart, Film LA, now should act, before it's too late. These agencies and other government bodies should dramatically improve incentives to keep our current shows and attract new productions to Los Angeles. Let's go on with the show…and make sure the show doesn't go on without us.",
+     "zh": "这就是为什么加州电影委员会及其洛杉矶对应机构Film LA现在应该采取行动,趁还来得及。这些机构和其 他政府部门应该大幅改善激励措施,以保留我们现有的节目并吸引新制作来到洛杉矶。让我们继续表演…… 并确保演出不会在没有我们的情况下继续。 题目与逐题解析 美国艺术指导协会的声明揭示了____ A) 人们对电影的兴趣下降 B) 电影从业者对过去的怀念 C) 南加州的吸引力 D) 好莱坞的严峻形势 【答案】D （细节题） 【判型】Q26 用 reveals 配上专有机构名，问的是该声明所揭示的内容，本质上是问声明这件事在文 中对应的事实，答案应能在原文找到原句支撑。 【拆句】主语 The Art Directors Guild's statement 是名词性短语，谓语 reveals 后接宾语空位等待 选项补全，是「主＋谓＋宾」的待补全陈述句，结构平铺直叙，无陷阱。",
+     "no": 7,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "That's why the California Film Commission and its Los Angeles counterpart, Film LA, now should act, before it's too late.",
+       "zh": "这就是为什么加州电影委员会及其洛杉矶对应机构Film LA现在应该采取行动,趁还来得及。 这些机构和其 他政府部门应该大幅改善激励措施,以保留我们现有的节目并吸引新制作来到洛杉矶。",
+       "main": "Film LA That's why the California Film Commission and its Los Angeles counterpart",
+       "chunks": [
+        {
+         "t": "That's why the California Film Commission and its Los Angeles counterpart",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "Film LA",
+         "r": "主语"
+        },
+        {
+         "t": "now should act",
+         "r": "并列谓语"
+        },
+        {
+         "t": "before it's too late.",
+         "r": "介词短语（状语/定语）"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "These agencies and other government bodies should dramatically improve incentives to keep our current shows and attract new productions to Los Angeles.",
+       "zh": "让我们继续表演…… 并确保演出不会在没有我们的情况下继续。 题目与逐题解析 美国艺术指导协会的声明揭示了____ A) 人们对电影的兴趣下降 B) 电影从业者对过去的怀念 C) 南加州的吸引力 D) 好莱坞的严峻形势 【答案】D （细节题） 【判型】Q26 用 reveals 配上专有机构名，问的是该声明所揭示的内容，本质上是问声明这件事在文 中对应的事实，答案应能在原文找到原句支撑。",
+       "main": "These agencies and other government bodies should dramatically improve incentives to keep our current shows and attract new productions to Los Angeles.",
+       "chunks": [
+        {
+         "t": "These",
+         "r": "主语"
+        },
+        {
+         "t": "agencies and other government bodies should dramatically improve incentives to keep our current shows and attract new productions to Los Angeles.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "Let's go on with the show…and make sure the show doesn't go on without us.",
+       "zh": "【拆句】主语 The Art Directors Guild's statement 是名词性短语，谓语 reveals 后接宾语空位等待 选项补全，是「主＋谓＋宾」的待补全陈述句，结构平铺直叙，无陷阱。",
+       "main": "Let's go on with the show…and make sure the show doesn't go on without us.",
+       "chunks": [
+        {
+         "t": "Let's go on with the show…and make sure the show doesn't go on without us.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "no": 26,
+     "stem": "The Art Directors Guild's statement reveals ____",
+     "options": {
+      "A": "people's reduced interest in film.",
+      "B": "film workers' nostalgia for the past.",
+      "C": "the appeal of Southern California.",
+      "D": "the gloomy situation of Hollywood."
+     },
+     "answer": "D",
+     "type": "（细节题）",
+     "analysis": "【判型】Q26 用 reveals 配上专有机构名，问的是该声明所揭示的内容，本质上是问声明这件事在文\n中对应的事实，答案应能在原文找到原句支撑。\n【拆句】主语 The Art Directors Guild's statement 是名词性短语，谓语 reveals 后接宾语空位等待\n选项补全，是「主＋谓＋宾」的待补全陈述句，结构平铺直叙，无陷阱。\n26. The Art Directors Guild's statement reveals ____\n[ A ] people's reduced interest in film.\n[ B ] film workers' nostalgia for the past.\n[ C ] the appeal of Southern California.\n[ D ] the gloomy situation of Hollywood.\n\n【定位】This is a reaction to Hollywood's decline, which is reaching a critical point for the industry\nand Southern California.\n这是对好莱坞衰落的一种反应，这种衰落对该行业和南加州来说已达到临界点。\n【选项】A)\n偷换概念\npeople's reduced interest in film 把 Guild 声明所反映的「行业供给端衰落」偷换成\n「观众需求端兴趣下降」，原文未谈观众兴趣，谈的是制作端流失。\nB)\n无中生有\nfilm workers' nostalgia for the past 中的 nostalgia for the past（怀旧）在 P2 中完\n全没有依据；Guild 谈的是当下行业现状，并未追忆过去。\nC)\n与原文相反\nthe appeal of Southern California 暗示南加州具有吸引力，而 reaching a critical\npoint for the industry and Southern California 恰恰说南加州正在失去吸引力、走向\n危机，二者方向相反。\nD)\n✓ 正确\nHollywood's decline, which is reaching a critical point ↔the gloomy situation of Hollywood\nwe cannot in good conscience encourage you to pursue our profession ↔\nthe gloomy situation of Hollywood\n预判要找的是「好莱坞处于低迷／衰落」，the gloomy situation of Hollywood 直接\n对应 Hollywood's decline，且未引入文中没有的细节，是与预判同义的唯一选项。\nGeorgia的例子被用来说明____方面的努力\nA) 用税收优惠吸引制作\nB) 推动电影设施的改善\nC) 刺激各州之间的竞争\nD) 为影视制作筹集资金"
+    },
+    {
+     "no": 27,
+     "stem": "The example of Georgia is used to illustrate the efforts to ____",
+     "options": {
+      "A": "lure production with tax incentives.",
+      "B": "drive improvements in film facilities.",
+      "C": "stimulate competition among states.",
+      "D": "collect funds for film and TV making."
+     },
+     "answer": "A",
+     "type": "（例证目的题）",
+     "analysis": "【判型】The example of Georgia is used to illustrate 是典型例证目的题句式，问的不是例子本身\n的细节而是它为某个论点服务的目的。\n【拆句】主干是 The example of Georgia is used to illustrate the efforts to ____，is used to\nillustrate 是被动＋不定式表用途，宾语 the efforts 后再接 to 不定式作定语补全，选项填\n的是不定式短语，结构清晰无陷阱。\n27. The example of Georgia is used to illustrate the efforts to ____\n[ A ] lure production with tax incentives.\n[ B ] drive improvements in film facilities.\n[ C ] stimulate competition among states.\n[ D ] collect funds for film and TV making.\n\n【定位】Other regions in the United States, Canada and Europe have steadily increased incentives to\nattract TV shows and movies, leaving California in the dust. Georgia offers up to 30% in\ntransferable tax credits on film and TV production costs, plus an additional 10% increase on\nthe base tax credit if the project includes a Georgia promotional logo.\n美国、加拿大和欧洲的其他地区一直在稳步加大激励力度，以吸引电视剧和电影制作，把加\n州甩在身后。佐治亚州对影视制作成本提供高达 30% 的可转让税收抵免，如果项目中包含\n佐治亚州的宣传标志，还可在基础税收抵免上再加 10%。\n【选项】A)\n✓ 正确\nincreased incentives to attract TV shows and movies ↔lure production with tax incentives\nlure production with tax incentives 同时覆盖了预判中的「吸引制作」和「税收激\n励」两个核心语义，是与论点句＋例证句联合表达完全一致的唯一选项。\nB)\n无中生有\ndrive improvements in film facilities 把激励政策的目的偷换为改善影视设施，P3 通\n篇谈的是税收抵免吸引制作，对设施改造只字未提。\nC)\n过度推断\nstimulate competition among states 谈的是「激发州际竞争」这一抽象结果，而\nQ27 问的是这个例子用来说明什么具体「efforts」；竞争是宏观推断，不是 Georgia\n例子的直接目的。\nD)\n偷换概念\ncollect funds for film and TV making 把「税收抵免（给出优惠）」偷换为「为影视筹\n钱（吸纳资金）」，方向恰好相反——原文是政府给片方让利，而非政府向片方筹款。\n巅峰电视时代度过了巅峰是因为____\nA) 流媒体平台失去了技术优势\nB) 流媒体平台改变了战略重点\nC) 订阅者对大型平台产生了警惕\nD) 订阅者对新节目不满意"
+    },
+    {
+     "no": 28,
+     "stem": "Peak TV passed its peak as ____",
+     "options": {
+      "A": "streamers lost their technical advantages.",
+      "B": "streamers changed their strategic priorities.",
+      "C": "subscribers grew wary of large platforms.",
+      "D": "subscribers were unhappy with new shows."
+     },
+     "answer": "B",
+     "type": "（细节题）",
+     "analysis": "【判型】Q28 问的是巅峰已过这一现象发生的具体原因，原文应有直接表述，不需要跨句推断。\n【拆句】Peak TV passed its peak as ____ 中前半句是主句，as 引导原因状语从句，选项补的是从\n句主谓宾。Peak 既作专名一部分又作普通名词重复出现，属修辞而非陷阱。\n28. Peak TV passed its peak as ____\n[ A ] streamers lost their technical advantages.\n[ B ] streamers changed their strategic priorities.\n[ C ] subscribers grew wary of large platforms.\n[ D ] subscribers were unhappy with new shows.\n\n【定位】As the streamers' emphasis changed from subscriber growth to profitability, prices for the\nservices went up and the number of new shows went down to 481 released in 2023, with the\nnumber expected to dip into the 300s within a few years.\n随着流媒体的重心从用户增长转向盈利能力，服务价格上涨，新剧数量下降至 2023 年的\n481 部，预计未来几年将进一步跌入 300 多部区间。\n【选项】A)\n无中生有\nstreamers lost their technical advantages 中 technical advantages 在 P5 乃至全段\n都没有出现；原文谈的是战略与财务问题，没有谈技术。\nB)\n✓ 正确\nthe streamers' emphasis changed from subscriber growth to profitability ↔\nstreamers changed their strategic priorities\nstreamers changed their strategic priorities 把原文的具体战略转变上升为「战略重\n心改变」这一上位概括，与预判完全吻合，是唯一直接对应原因句的选项。\nC)\n张冠李戴\nsubscribers grew wary of large platforms 把「流媒体主动调整策略」张冠李戴为「订\n户对大平台心生戒备」，主体从 streamers 偷换成 subscribers；原文中 subscriber 只\n出现在 subscriber growth 这一战略对象上，未谈订户态度。\nD)\n无中生有\nsubscribers were unhappy with new shows 把原因偷换为订户对新剧不满，原文只说\n新剧数量下降，未提订户对剧集质量的态度。\n根据第6段,加州的娱乐产业可能面临____\nA) 产品质量的下降\nB) 对外国人才的需求\nC) 人才流失到其他地方\nD) 劳动力成本的急剧上升"
+    },
+    {
+     "no": 29,
+     "stem": "According to Paragraph 6, California's entertainment industry might face ____",
+     "options": {
+      "A": "a decline in product quality.",
+      "B": "a demand for foreign talent.",
+      "C": "a brain drain to other places.",
+      "D": "a dramatic rise in labor costs."
+     },
+     "answer": "C",
+     "type": "（细节题）",
+     "analysis": "【判型】题干已锁定第 6 段并问产业可能面临什么，本质是看该段写了什么风险，无需推断。\n【拆句】According to Paragraph 6, California's entertainment industry might face ____ 中\nAccording to Paragraph 6 是状语，主语是产业，might face 是谓语，选项填名词性宾\n语，结构简洁无陷阱。\n【定位】If productions in Southern California dip below a critical level for too long, the industry's\nessential talent will drift away along with enormous sums of revenue.\n如果南加州的影视制作量长期低于临界水平，行业的核心人才将与巨额收入一起流失。\n29. According to Paragraph 6, California's entertainment industry might face ____\n[ A ] a decline in product quality.\n[ B ] a demand for foreign talent.\n[ C ] a brain drain to other places.\n[ D ] a dramatic rise in labor costs.\n\n【选项】A)\n无中生有\na decline in product quality 把后果偷换为产品质量下降，P6 谈的是人才与收入流\n失，并未提到剧集质量。\nB)\n与原文相反\na demand for foreign talent 暗示要从国外引进人才，与 the industry's essential\ntalent will drift away 「本地人才流失」方向相反；原文担心的是留不住人，不是引进\n外人。\nC)\n✓ 正确\nthe industry's essential talent will drift away ↔a brain drain to other places\nPersuading studios to film here would become much more challenging if we couldn't offer a\ndeep bench of local film workers, on-screen talent and local businesses\n↔a brain drain to other places\na brain drain to other places 是预判「核心人才流失到别处」的标准术语化表达，直\n接对应 essential talent will drift away，无附加成分。\nD)\n无中生有\na dramatic rise in labor costs 把后果偷换为人力成本暴涨，P6 没有涉及劳动力价格变\n化，只谈人才与收入流失。\n作者在文末强调加州应该努力____\nA) 保持其在行业中的地位\nB) 吸引比以往更多的投资\nC) 追求更高的制作标准\nD) 加强与其他州的协调"
+    },
+    {
+     "no": 30,
+     "stem": "The author concludes the text by emphasizing that California should strive to ____",
+     "options": {
+      "A": "maintain its position in the industry.",
+      "B": "attract more investment than it had.",
+      "C": "pursue a higher standard of production.",
+      "D": "strengthen coordination with other states."
+     },
+     "answer": "A",
+     "type": "（主旨题）",
+     "analysis": "【判型】Q30 问作者结尾强调的内容，本质是问全文中心主张／结论，需要串末段及全文行文走向。\n【拆句】The author concludes the text by emphasizing that California should strive to ____：\n主句 The author concludes the text，by 短语作方式状语，that 引导宾语从句 California\nshould strive to ____，选项补 strive to 之后的不定式短语，结构清晰无陷阱。\n30. The author concludes the text by emphasizing that California should strive to ____\n[ A ] maintain its position in the industry.\n[ B ] attract more investment than it had.\n[ C ] pursue a higher standard of production.\n[ D ] strengthen coordination with other states.\n\n【选项】A)\n✓ 正确\nmake sure the show doesn't go on without us ↔maintain its position in the industry\ndramatically improve incentives to keep our current shows and attract new productions to Los\nAngeles\n↔maintain its position in the industry\nmaintain its position in the industry 直接对应末段号召，且能覆盖前文「别处崛起、\npeak TV 已过、人才将流失」共同指向的「再不行动就会失去地位」这一主线，是唯一\n与全文主旨一致的选项。\nB)\n偷换概念\nattract more investment than it had 把目的偷换为「比过去吸引更多投资」，原文呼\n吁的是改进激励留住剧目、吸引制作，并未把「投资」作为目标，更未与过去做比较；\nthan it had 这一比较成分原文也无对应。\nC)\n无中生有\npursue a higher standard of production 中 higher standard 在全文没有依据；原文\n谈的是数量、收入、人才流失，从未涉及制作标准／质量层面。\nD)\n与原文相反\nstrengthen coordination with other states 提议与别州加强协调，而原文 Other\nregions … leaving California in the dust 把别州明确定为竞争对手；末段呼吁的是与\n别州争夺制作，而非与之协调。\nS E N T E N C E I N S I G H T S · 句子精讲\n7 句真题句逐层精讲\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nThere's no business like show business — but in Los Angeles, it feels like there's no\nbusiness at all.\n第1段，第1句\n句子包含两个高频考点：there be存在句和it feels like + 宾语从句结构。并列转折句式（but连接）\n也是四六级和考研阅读中的常见句式。第一主句中like作介词引导定语也是典型用法。整体结构具\n有较强的代表性和迁移价值。\n\nIf that sounds melodramatic, consider this: The Art Directors Guild, a labor union\nrepresenting about 3,000 film workers, has suspended a training program and\nissued a statement explaining that \"we cannot in good conscience encourage you\nto pursue our profession.\"\n第2段，第1句\n句式高度典型:条件状语从句 + 主句 + 宾语从句的组合,以及同位语、分词短语作定语、带宾补的动\n词结构,都是四六级和考研阅读中的常见句式。掌握后可大量复用于理解类似复杂句。\nBack then platforms such as Netflix, Amazon and Apple TV hemorrhaged billions\nof dollars to generate content to attract new subscribers, resulting in 633 scripted\nseries being released that year.\n第5段，第2句\n主句加不定式目的状语、加现在分词结果状语的组合，是四六级和考研阅读中的常见句式。特别是\n\"resulting in\" 引出结果的用法，在真题中频繁出现，掌握后可大量迁移。\nAs the streamers' emphasis changed from subscriber growth to profitability, prices\nfor the services went up and the number of new shows went down to 481 released\nin 2023, with the number expected to dip into the 300s within a few years.\n第5段，第3句\n本句包含并列主句、状语从句、后置定语(过去分词短语)、独立主格结构(with复合结构)等多种成\n分,覆盖面较广,且独立主格是容易混淆的考点,训练价值较高。\nPersuading studios to film here would become much more challenging if we\ncouldn't offer a deep bench of local film workers, on-screen talent and local\nbusinesses that support the entertainment industry.\n第6段，第2句\n覆盖动名词短语作主语、系表结构、条件状语从句、限制性定语从句、并列宾语等多种成分；动名\n词短语内部包含不定式补语，定语从句中关系代词作主语，提供了丰富的成分划分练习点，适合训\n练主语识别和从句分析。\n\nThat's why the California Film Commission and its Los Angeles counterpart, Film\nLA, now should act, before it's too late.\n第7段，第1句\n主句采用 That is why 句型表达因果，时间状语从句用 before 引导紧迫性条件，这两种结构在四六\n级和考研阅读中频繁出现。表语从句和状语从句的组合也是常考句式，掌握后可迁移到大量类似\n句子。\nLet's go on with the show…and make sure the show doesn't go on without us.\n第7段，第3句\n句子涵盖并列主句、宾语从句、状语等多种成分,且第二个主句展示了及物动词带宾语从句的典型\n结构。祈使句的省略主语和宾语从句的识别是值得练习的点,成分种类较丰富,训练价值中等偏上。\nH I G H - F R E Q U E N C Y · 真题高频词\n本篇出现的 68 个考研英语一真题高频词\n下列单词既在本篇真题中出现，又是 考研英语一 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n词的释义、音标、词形与真题例句。\nproduction\nB1\nn. 生产\n本篇8 次 · 真题 42 句\npeak\nB1\nn. 山峰\n本篇5 次 · 真题 12 句\nattract\nB1\nv. 吸引（注意力、兴趣）\n本篇4 次 · 真题 30 句\nsubscriber\nB2\nn. 订阅者\n本篇4 次 · 真题 9 句\ntax\nA2\nn. 税\n本篇3 次 · 真题 54 句\nincentive\nB2\nn. 激励\n本篇3 次 · 真题 16 句\n\ntalent\nB1\nn. 天赋\n本篇3 次 · 真题 14 句\nlocal\nA2\nadj. 当地的\n本篇2 次 · 真题 65 句\ndecline\nB2\nv. 下降\n本篇2 次 · 真题 56 句\nlabor\nB1\nn. 劳动\n本篇2 次 · 真题 41 句\ncontent\nB1\nn. 内容\n本篇2 次 · 真题 31 句\ncritical\nB2\nadj. 批评的\n本篇2 次 · 真题 26 句\nstatement\nB1\nn. 声明\n本篇2 次 · 真题 25 句\nrelease\nB1\nv. 释放\n本篇2 次 · 真题 15 句\npursue\nB2\nv. 追求\n本篇2 次 · 真题 14 句\nplatform\nB1\nn. 平台\n本篇2 次 · 真题 12 句\ncredit\nB1\nn. 赊购，赊账\n本篇2 次 · 真题 11 句\nwould\nA1\naux. （will 的过去式）将要，会\n本篇1 次 · 真题 304 句\nauthor\nA2\nn. 作者\n本篇1 次 · 真题 209 句\naccord\nC1\nn. （国家、团体间的）协议\n本篇1 次 · 真题 172 句\nissue\nB1\nn. 问题\n本篇1 次 · 真题 89 句\nsupport\nA2\nv. 支持\n本篇1 次 · 真题 87 句\n\neffect\nA2\nn. 影响\n本篇1 次 · 真题 80 句\ngrowth\nB1\nn. 增长\n本篇1 次 · 真题 80 句\nproduct\nA2\nn. 产品\n本篇1 次 · 真题 77 句\ndemand\nB1\nv. 坚决要求\n本篇1 次 · 真题 63 句\nunited\nB1\nadj. 联合的\n本篇1 次 · 真题 52 句\nfund\nB2\nn. 资金\n本篇1 次 · 真题 45 句\nquality\nA2\nn. 质量\n本篇1 次 · 真题 45 句\nbase\nA2\nn. 基础\n本篇1 次 · 真题 43 句\nstates\nA1\nn. 国家\n本篇1 次 · 真题 42 句\ncurrent\nB1\nadj. 现在的\n本篇1 次 · 真题 41 句\nproject\nA2\nn. 项目\n本篇1 次 · 真题 40 句\nbillion\nB1\nnum. 十亿（1,000,000,000）\n本篇1 次 · 真题 39 句\ninvestment\nB1\nn. 投资\n本篇1 次 · 真题 38 句\nreveal\nB2\nv. 揭示\n本篇1 次 · 真题 35 句\nagency\nB2\nn. 代理机构\n本篇1 次 · 真题 32 句\ncommission\nB2\nn. 佣金\n本篇1 次 · 真题 32 句\n\nmaintain\nB1\nv. 维持\n本篇1 次 · 真题 31 句\nrevenue\nB2\nn. （公司、组织的）收入，收益\n本篇1 次 · 真题 31 句\nunion\nB2\nn. 工会\n本篇1 次 · 真题 29 句\nappeal\nB2\nv. 呼吁\n本篇1 次 · 真题 27 句\nessential\nB1\nadj. 必不可少的\n本篇1 次 · 真题 27 句\nrepresent\nB1\nv. 代表\n本篇1 次 · 真题 25 句\nconclude\nB2\nv. 断定;推断出\n本篇1 次 · 真题 24 句\ngenerate\nB2\nv. 产生，引起（结果、反应等）\n本篇1 次 · 真题 23 句\nillustrate\nB2\nv. 说明\n本篇1 次 · 真题 23 句\nemphasize\nB2\nv. 强调\n本篇1 次 · 真题 22 句\nseries\nB1\nn. 系列\n本篇1 次 · 真题 21 句\nimprovement\nB1\nn. 改进\n本篇1 次 · 真题 20 句\nprofession\nB2\nn. 职业（尤指需要专门技能和培训的）\n本篇1 次 · 真题 18 句\nreaction\nB1\nn. 反应\n本篇1 次 · 真题 18 句\npriority\nB2\nn. 优先事项\n本篇1 次 · 真题 17 句\nadditional\nB1\nadj. 额外的\n本篇1 次 · 真题 15 句\n\nregion\nB1\nn. 地区\n本篇1 次 · 真题 15 句\nstrengthen\nB2\nv. 加强\n本篇1 次 · 真题 15 句\nchallenging\nB2\nadj. 有挑战性的\n本篇1 次 · 真题 14 句\nemphasis\nB2\nn. 强调\n本篇1 次 · 真题 13 句\nenormous\nB1\nadj. 巨大的\n本篇1 次 · 真题 12 句\ntechnical\nB2\nadj. 技术的\n本篇1 次 · 真题 12 句\ncounterpart\nC1\nn. 对应的人或物\n本篇1 次 · 真题 11 句\ndramatic\nB2\nadj. 巨大的\n本篇1 次 · 真题 10 句\nfacility\nB2\nn. 设施\n本篇1 次 · 真题 9 句\nlocation\nB1\nn. 地点，位置\n本篇1 次 · 真题 9 句\nmaking\nA2\nn. 制作\n本篇1 次 · 真题 9 句\napparent\nB2\nadj. 显而易见的，明显的\n本篇1 次 · 真题 8 句\nstrive\nB2\nv. 努力，奋斗，力求\n本篇1 次 · 真题 8 句\nvolume\nB1\nn. 音量\n本篇1 次 · 真题 8 句\nV O C A B U L A R Y · 词汇难度分布\n全文 210 词按 CEFR 难度累积覆盖\n全文去重后共 210 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」的累积\n占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 8 个 · 约 4%。\n\n34%\nA1\n及以下\n56%\nA2\n及以下\n80%\nB1\n及以下\n96%\nB2\n及以下\n100%\nC1\n及以下\n100%\nC2\n及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 210 个 · 末柱为 100%\n去重总词数\n210\nB2 以上难词\n4%\nB1 及以下覆盖\n80%\n考研英语一\n2026年 · 全卷构成\n题目解析 →\n题目解析 →\n本题\n题目解析 →\n题目解析 →\n段落排序\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →"
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "paras": [
+    {
+     "en": "The pioneers of wireless saw it as a gift to all the people. Sir John Reith said that it would end \"isolation of the spirit\" and rejoiced: \"It does not matter how many thousands may be listening, there is always enough for others…the genius and the fool, the wealthy and the poor listen simultaneously.\"",
+     "zh": "无线电的先驱们将其视为献给全体人民的礼物。John Reith爵士说它将终结\"精神的孤立\",并欣喜地表 示:\"无论有多少成千上万的人在收听,总还有足够的空间留给其他人……天才和愚人,富人和穷人同时收听。\"",
+     "no": 1,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "The pioneers of wireless saw it as a gift to all the people.",
+       "zh": "无线电的先驱们将其视为献给全体人民的礼物。",
+       "main": "The pioneers of wireless saw it as a gift to all the people.",
+       "chunks": [
+        {
+         "t": "The pioneers of wireless saw it as a gift to all the people.",
+         "r": "主语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "Sir John Reith said that it would end \"isolation of the spirit\" and rejoiced: \"It does not matter how many thousands may be listening, there is always enough for others…the genius and the fool, the wealthy and the poor listen simultaneously.\"",
+       "zh": "John Reith爵士说它将终结\"精神的孤立\",并欣喜地表 示:\"无论有多少成千上万的人在收听,总还有足够的空间留给其他人……天才和愚人,富人和穷人同时收听。 \"",
+       "main": "Sir John Reith said",
+       "chunks": [
+        {
+         "t": "Sir John Reith said",
+         "r": "主语"
+        },
+        {
+         "t": "that it would end \"isolation of the spirit\" and rejoiced: \"It does not matter how many thousands may be listening, there is always enough for others…the genius and the fool, the wealthy and the poor listen simultaneously.\"",
+         "r": "定语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "Between two great wars this technological innovation built a new kind of national consciousness. Opening this week, a book and exhibition curated by Beatty Rubens at the Bodleian in Oxford records how radio changed everyday life from 1922 to 1939. She draws on letters, diaries and fiction, and a 1939 field notebook of verbatim audience research by Winifred Gill.",
+     "zh": "在两次世界大战之间,这项技术创新建立了一种新型的国民意识。本周开幕的一本书和展览由Beatty Rubens在牛津Bodleian图书馆策展,记录了1922年至1939年间无线电如何改变日常生活。她借鉴了信 件、日记和小说,以及Winifred Gill在1939年进行的逐字逐句的受众研究田野笔记。",
+     "no": 2,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "Between two great wars this technological innovation built a new kind of national consciousness.",
+       "zh": "在两次世界大战之间,这项技术创新建立了一种新型的国民意识。",
+       "main": "Between two great wars this technological innovation built a new kind of national consciousness.",
+       "chunks": [
+        {
+         "t": "Between two great wars this technological innovation built a new kind of national consciousness.",
+         "r": "介词短语（状语/定语）"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "Opening this week, a book and exhibition curated by Beatty Rubens at the Bodleian in Oxford records how radio changed everyday life from 1922 to 1939.",
+       "zh": "本周开幕的一本书和展览由Beatty Rubens在牛津Bodleian图书馆策展,记录了1922年至1939年间无线电如何改变日常生活。",
+       "main": "a book and exhibition",
+       "chunks": [
+        {
+         "t": "Opening this week",
+         "r": "分词短语（插入语/定语）"
+        },
+        {
+         "t": "a book and exhibition",
+         "r": "主语"
+        },
+        {
+         "t": "curated by Beatty Rubens at the Bodleian in Oxford records how radio changed everyday life from 1922 to 1939.",
+         "r": "分词短语（插入语/定语）"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "She draws on letters, diaries and fiction, and a 1939 field notebook of verbatim audience research by Winifred Gill.",
+       "zh": "她借鉴了信 件、日记和小说,以及Winifred Gill在1939年进行的逐字逐句的受众研究田野笔记。",
+       "main": "She draws on letters",
+       "chunks": [
+        {
+         "t": "She draws on",
+         "r": "主语"
+        },
+        {
+         "t": "letters",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "diaries and fiction",
+         "r": "并列谓语"
+        },
+        {
+         "t": "and a 1939 field notebook of verbatim audience research by Winifred Gill.",
+         "r": "状语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "There's fun in testimonies of people enjoying the sheer newness. A cartoon mocks a group failing to converse because they're all in headphones. People report that broadcast music made workmen whistle new tunes. A woman says there have been fewer street fights since the arrival of the wireless but also less stopping and \"talking on the brush handle\". Text 3",
+     "zh": "人们享受纯粹新鲜感的见证充满趣味。一幅漫画嘲讽一群人无法交谈,因为他们都戴着耳机。有人报告说广 播音乐让工人们哼起了新曲调。一位女士说自从无线电到来后街头斗殴减少了,但停下来\"靠在扫帚把上聊 天\"的情况也少了。",
+     "no": 3,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "There's fun in testimonies of people enjoying the sheer newness. A cartoon mocks a group failing to converse because they're all in headphones.",
+       "zh": "人们享受纯粹新鲜感的见证充满趣味。 一幅漫画嘲讽一群人无法交谈,因为他们都戴着耳机。",
+       "main": "There's fun in testimonies of people enjoying the sheer newness. A cartoon mocks a group failing to converse",
+       "chunks": [
+        {
+         "t": "There's fun in testimonies of people enjoying the sheer newness. A cartoon mocks a group failing to converse",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "because they're all in headphones.",
+         "r": "状语从句"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "People report that broadcast music made workmen whistle new tunes.",
+       "zh": "有人报告说广 播音乐让工人们哼起了新曲调。",
+       "main": "People report",
+       "chunks": [
+        {
+         "t": "People report",
+         "r": "主语"
+        },
+        {
+         "t": "that broadcast music made workmen whistle new tunes.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "A woman says there have been fewer street fights since the arrival of the wireless but also less stopping and \"talking on the brush handle\". Text 3",
+       "zh": "一位女士说自从无线电到来后街头斗殴减少了,但停下来\"靠在扫帚把上聊 天\"的情况也少了。",
+       "main": "A woman says there have been fewer street fights",
+       "chunks": [
+        {
+         "t": "A woman",
+         "r": "主语"
+        },
+        {
+         "t": "says there have been fewer street fights",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "since the arrival of the wireless but also less stopping and \"talking on the brush handle\". Text 3",
+         "r": "状语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "By and large the wireless was welcome. I loved the man from the Thirties research who found that wireless suddenly offered \"a lot of variety…things I thought I'd never be interested in…ice hockey perhaps\". True: for more than 80 pre-digital years, linear speech broadcasting brought the gift of serendipity, random enlivening of a car journey or dull manual task. In my own book about radio I recorded how, on one drive: \"I caught up with the news, learnt some 17th-century history, and was startlingly educated by an unpretentious programme on the history of the stethoscope.\"",
+     "zh": "总的来说,无线电是受欢迎的。我喜欢那位来自三十年代研究中的男士,他发现无线电突然提供了\"很多种 类……我以为自己永远不会感兴趣的东西……也许是冰球\"。确实如此:在超过80年的前数字时代,线性语音 广播带来了意外惊喜的礼物,为汽车旅程或枯燥的体力劳动随机注入活力。在我自己关于广播的书中,我记 录了在一次驾驶中如何:\"我了解了新闻,学习了一些17世纪的历史,并被一个关于听诊器历史的朴实节目令 人惊讶地教育了一番。\"",
+     "no": 4,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "By and large the wireless was welcome.",
+       "zh": "总的来说,无线电是受欢迎的。",
+       "main": "By and large the wireless was welcome.",
+       "chunks": [
+        {
+         "t": "By and large the wireless was welcome.",
+         "r": "介词短语（状语/定语）"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "I loved the man from the Thirties research who found that wireless suddenly offered \"a lot of variety…things I thought I'd never be interested in…ice hockey perhaps\". True: for more than 80 pre-digital years, linear speech broadcasting brought the gift of serendipity, random enlivening of a car journey or dull manual task.",
+       "zh": "我喜欢那位来自三十年代研究中的男士,他发现无线电突然提供了\"很多种 类……我以为自己永远不会感兴趣的东西……也许是冰球\"。 确实如此:在超过80年的前数字时代,线性语音 广播带来了意外惊喜的礼物,为汽车旅程或枯燥的体力劳动随机注入活力。",
+       "main": "I loved the man from the Thirties research",
+       "chunks": [
+        {
+         "t": "I",
+         "r": "主语"
+        },
+        {
+         "t": "loved the man from the Thirties research",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "who found",
+         "r": "定语从句"
+        },
+        {
+         "t": "that wireless suddenly offered \"a lot of variety…things I thought I'd never be interested in…ice hockey perhaps\". True: for more than 80 pre-digital years, linear speech broadcasting brought the gift of serendipity, random enlivening of a car journey or dull manual task.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "In my own book about radio I recorded how, on one drive: \"I caught up with the news, learnt some 17th-century history, and was startlingly educated by an unpretentious programme on the history of the stethoscope.\"",
+       "zh": "在我自己关于广播的书中,我记 录了在一次驾驶中如何:\"我了解了新闻,学习了一些17世纪的历史,并被一个关于听诊器历史的朴实节目令 人惊讶地教育了一番。 \"",
+       "main": "\"I caught up with the news, learnt some 17th-century history, and was startlingly educated by an unpretentious programme on the history of the stethoscope.\"",
+       "chunks": [
+        {
+         "t": "In my own book about radio I recorded how",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "on one drive",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "\"I caught up with the news, learnt some 17th-century history, and",
+         "r": "主语"
+        },
+        {
+         "t": "was startlingly educated by an unpretentious programme on the history of the stethoscope.\"",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "But radio's enriching serendipity is ebbing. With multiple networks and countless podcasts, a smartphone user selects what to hear and when. And while it is wonderful to take a walk with anything in your headphones, infinite choice encourages us to shrink into niche interests and sympathetic beliefs.",
+     "zh": "但广播丰富的意外惊喜正在消退。有了多个网络和无数播客,智能手机用户可以选择听什么和何时听。虽然 戴着耳机散步听任何内容都很美好,但无限的选择鼓励我们缩进小众兴趣和投合的信念。",
+     "no": 5,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "But radio's enriching serendipity is ebbing.",
+       "zh": "但广播丰富的意外惊喜正在消退。",
+       "main": "But radio's enriching serendipity is ebbing.",
+       "chunks": [
+        {
+         "t": "But radio's enriching serendipity is ebbing.",
+         "r": "状语从句"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "With multiple networks and countless podcasts, a smartphone user selects what to hear and when.",
+       "zh": "有了多个网络和无数播客,智能手机用户可以选择听什么和何时听。",
+       "main": "a smartphone user selects what to hear and",
+       "chunks": [
+        {
+         "t": "With multiple networks and countless podcasts",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "a smartphone user",
+         "r": "主语"
+        },
+        {
+         "t": "selects what to hear and",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "when.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "And while it is wonderful to take a walk with anything in your headphones, infinite choice encourages us to shrink into niche interests and sympathetic beliefs.",
+       "zh": "虽然 戴着耳机散步听任何内容都很美好,但无限的选择鼓励我们缩进小众兴趣和投合的信念。",
+       "main": "And infinite choice encourages us to shrink into niche interests and sympathetic beliefs.",
+       "chunks": [
+        {
+         "t": "And",
+         "r": "主语"
+        },
+        {
+         "t": "while it is wonderful to take a walk with anything in your headphones",
+         "r": "状语从句"
+        },
+        {
+         "t": "infinite choice encourages us to shrink into niche interests and sympathetic beliefs.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "A hundred years on from Marconi and Reith, is the art of mere listening endangered? Some will say the audiobook boom revives it, though I suppose you can then worry about the decline of reading. But inventions shape all of us and it is worth noticing when techno-social habits do change, and asking whether to control them a bit or shield the youngest. Whatever we do, innovation will happen. Today we fret about the isolating culture of smartphone-staring and selfie-vanity, but already in 1939 there was that lady regretting how, when all her street got wirelesses, it lost the neighbourly habit of \"talking on the brush handle\". It's enough to make a person put down the smartphone and go out front with a yard broom.",
+     "zh": "在Marconi和Reith之后一百年,单纯倾听的艺术是否正处于危险之中?有人会说有声书的繁荣复兴了它,尽 管我想你也可以担心阅读的衰落。但发明塑造了我们所有人,当技术社会习惯确实发生改变时,值得注意并 询问是否要稍加控制或保护最年轻的一代。无论我们做什么,创新都会发生。今天我们为盯着智能手机和自 拍虚荣的孤立文化而苦恼,但早在1939年就有那位女士遗憾地说,当她所在的街道都有了无线电后,就失去 了\"靠在扫帚把上聊天\"的邻里习惯。这足以让人放下智能手机,拿着院子扫帚走到前面去。 题目与逐题解析 从 John Reith 爵士那里可以了解到无线电的什么情况? A) 它对每个人都是可及的。 B) 它改善了人际关系。 C) 它是人类智慧的奇迹。 D) 它导致了一个孤立文化的新时代。 【答案】A （细节题）",
+     "no": 6,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "A hundred years on from Marconi and Reith, is the art of mere listening endangered? Some will say the audiobook boom revives it, though I suppose you can then worry about the decline of reading.",
+       "zh": "在Marconi和Reith之后一百年,单纯倾听的艺术是否正处于危险之中?有人会说有声书的繁荣复兴了它,尽 管我想你也可以担心阅读的衰落。 但发明塑造了我们所有人,当技术社会习惯确实发生改变时,值得注意并 询问是否要稍加控制或保护最年轻的一代。",
+       "main": "A hundred years on from Marconi and Reith",
+       "chunks": [
+        {
+         "t": "A",
+         "r": "主语"
+        },
+        {
+         "t": "hundred years on from Marconi and Reith",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "is the art of mere listening endangered? Some will say the audiobook boom revives it",
+         "r": "并列谓语"
+        },
+        {
+         "t": "though I suppose you can then worry about the decline of reading.",
+         "r": "状语从句"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "But inventions shape all of us and it is worth noticing when techno-social habits do change, and asking whether to control them a bit or shield the youngest.",
+       "zh": "无论我们做什么,创新都会发生。 今天我们为盯着智能手机和自 拍虚荣的孤立文化而苦恼,但早在1939年就有那位女士遗憾地说,当她所在的街道都有了无线电后,就失去 了\"靠在扫帚把上聊天\"的邻里习惯。",
+       "main": "and asking",
+       "chunks": [
+        {
+         "t": "But inventions shape all of us and it is worth noticing",
+         "r": "状语从句"
+        },
+        {
+         "t": "when techno-social habits do change",
+         "r": "定语从句"
+        },
+        {
+         "t": "and asking",
+         "r": "主语"
+        },
+        {
+         "t": "whether to control them a bit or shield the youngest.",
+         "r": "状语从句"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "Whatever we do, innovation will happen.",
+       "zh": "这足以让人放下智能手机,拿着院子扫帚走到前面去。 题目与逐题解析 从 John Reith 爵士那里可以了解到无线电的什么情况? A) 它对每个人都是可及的。",
+       "main": "Whatever we do",
+       "chunks": [
+        {
+         "t": "Whatever we",
+         "r": "主语"
+        },
+        {
+         "t": "do",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "innovation will happen.",
+         "r": "并列谓语"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "Today we fret about the isolating culture of smartphone-staring and selfie-vanity, but already in 1939 there was that lady regretting how, when all her street got wirelesses, it lost the neighbourly habit of \"talking on the brush handle\".",
+       "zh": "B) 它改善了人际关系。 C) 它是人类智慧的奇迹。",
+       "main": "Today we fret about the isolating culture of smartphone-staring and selfie-vanity",
+       "chunks": [
+        {
+         "t": "Today we fret about the isolating culture of smartphone-staring and selfie-vanity",
+         "r": "主语"
+        },
+        {
+         "t": "but already in 1939 there was",
+         "r": "状语从句"
+        },
+        {
+         "t": "that lady regretting how",
+         "r": "定语从句"
+        },
+        {
+         "t": "when all her street got wirelesses",
+         "r": "定语从句"
+        },
+        {
+         "t": "it lost the neighbourly habit of \"talking on the brush handle\".",
+         "r": "补充说明（同位/修饰）"
+        }
+       ]
+      },
+      {
+       "i": 5,
+       "en": "It's enough to make a person put down the smartphone and go out front with a yard broom.",
+       "zh": "D) 它导致了一个孤立文化的新时代。 【答案】A （细节题）",
+       "main": "It's enough to make a person put down the smartphone and go out front with a yard broom.",
+       "chunks": [
+        {
+         "t": "It's enough to make a person put down the smartphone and go out front with a yard broom.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "no": 31,
+     "stem": "What can be learnt about wireless from Sir John Reith?",
+     "options": {
+      "A": "It was accessible to everyone.",
+      "B": "It improved interpersonal relations.",
+      "C": "It was a miracle of human ingenuity.",
+      "D": "It led to a new era of isolating culture."
+     },
+     "answer": "A",
+     "type": "（细节题）",
+     "analysis": "31. What can be learnt about wireless from Sir John Reith?\n[ A ] It was accessible to everyone.\n[ B ] It improved interpersonal relations.\n[ C ] It was a miracle of human ingenuity.\n[ D ] It led to a new era of isolating culture.\n\n【判型】What can be learnt about wireless from Sir John Reith? 没有 infer/imply/suggest 等\n推断信号，问的是从某人原话里能读到的客观信息，属典型细节题。\n【拆句】What can be learnt about wireless from Sir John Reith? 为一般疑问的特殊问句，主干\n是 What can be learnt，about wireless 限定话题，from Sir John Reith 限定信息来源。\n句式平铺直叙，无陷阱。\n【定位】Sir John Reith said that it would end \"isolation of the spirit\" and rejoiced: \"It does not matter\nhow many thousands may be listening, there is always enough for others…the genius and the\nfool, the wealthy and the poor listen simultaneously.\"\n约翰·里斯爵士说，无线电会结束\"精神上的孤立\"，并欣然表示：\"无论有多少千人在收听都\n没关系，永远有足够的份额留给其他人……天才与傻瓜、富人与穷人可以同时收听。\"\n【选项】A)\n✓ 正确\nthe genius and the fool, the wealthy and the poor listen simultaneously ↔\naccessible to everyone\nthere is always enough for others ↔accessible\n预判结论\"无线电不分阶层、人人可享\"与 It was accessible to everyone 几乎逐字对\n应，A 即为正确项。\nB)\n无中生有\nimproved interpersonal relations 在 P1 中没有依据，Reith 谈的是\"人人可听\"而非人\n与人之间关系的改善——这是后文 P3 才出现的话题。\nC)\n偷换概念\na miracle of human ingenuity 是对技术本身的礼赞，原文 Reith 强调的是\"人人可\n享\"，而非\"人类智慧的奇迹\"——评价对象不同。\nD)\n与原文相反\nReith 谈的是无线电能 end \"isolation of the spirit\"——终结精神孤立；led to a new\nera of isolating culture 反说成造成孤立文化，与原文方向完全相反。\n牛津 Bodleian 图书馆展览的主题是什么?\nA) 无线电对其早期听众的影响。\nB) 无线电在公共音乐教育中的作用。\nC) 无线电技术的创新过程。\nD) 无线电广播的杰出先驱。"
+    },
+    {
+     "no": 32,
+     "stem": "What is the theme of the exhibition at the Bodleian in Oxford?",
+     "options": {
+      "A": "The impact of radio on its early audience.",
+      "B": "The role of radio in public music education.",
+      "C": "The innovation process of radio technology.",
+      "D": "The eminent pioneers in radio broadcasting."
+     },
+     "answer": "A",
+     "type": "（细节题）",
+     "analysis": "【判型】What is the theme of the exhibition at the Bodleian in Oxford? 问的是该展览的明确主\n题，能在文中直接找到客观依据，不需作者意图推断。\n32. What is the theme of the exhibition at the Bodleian in Oxford?\n[ A ] The impact of radio on its early audience.\n[ B ] The role of radio in public music education.\n[ C ] The innovation process of radio technology.\n[ D ] The eminent pioneers in radio broadcasting.\n\n【拆句】What is the theme of the exhibition at the Bodleian in Oxford? 主干 What is the\ntheme，of 短语层层修饰展览。结构清晰，无陷阱。\n【定位】Opening this week, a book and exhibition curated by Beatty Rubens at the Bodleian in\nOxford records how radio changed everyday life from 1922 to 1939.\n本周开幕、由 Beatty Rubens 在牛津 Bodleian 图书馆策划的一本书及一场展览，记录了\n1922 年至 1939 年间无线电如何改变了日常生活。\n【选项】A)\n✓ 正确\nhow radio changed everyday life from 1922 to 1939 ↔\nThe impact of radio on its early audience\n把动词 changed 转换为名词 impact、把时间段 1922-1939 概括为 early，且对象\neveryday life 对应 audience，预判到锁定 A 自然完成。\nB)\n以偏概全\npublic music education 在 P2 没有任何依据；P3 虽提到广播让工人哼新曲，但那只是\n众多影响之一，并非展览主题。\nC)\n偷换概念\nThe innovation process of radio technology 谈无线电技术本身的创新过程，但 P2\n明说 records how radio changed everyday life——是社会生活的变化，不是技术\n演进。\nD)\n张冠李戴\neminent pioneers in radio broadcasting 把展览说成是关于著名先驱的展览，但 P2\n的描述对象是 everyday life，先驱只在 P1 出现一次，并非展览主题。\n第4段表明____\nA) 对无线电的研究过去是不充分的。\nB) 无线电的魅力在数字时代依然存在。\nC) 无线电听众可能获得意外收获。\nD) 无线电节目多年来变化很小。"
+    },
+    {
+     "no": 33,
+     "stem": "It is indicated in Paragraph 4 that ____",
+     "options": {
+      "A": "the research on radio used to be inadequate.",
+      "B": "the charm of radio remains in the digital age.",
+      "C": "radio listeners could make unexpected gains.",
+      "D": "radio shows have changed little over the years."
+     },
+     "answer": "C",
+     "type": "（细节题）",
+     "analysis": "【判型】It is indicated in Paragraph 4 that 中 indicated 偏中性，问的是该段已明示的内容，并非\n作者隐含态度，归为细节题更稳。\n【拆句】It is indicated in Paragraph 4 that ____ it 形式主语 + that 引导真正主语从句；从句被选\n项补完，无陷阱。\n33. It is indicated in Paragraph 4 that ____\n[ A ] the research on radio used to be inadequate.\n[ B ] the charm of radio remains in the digital age.\n[ C ] radio listeners could make unexpected gains.\n[ D ] radio shows have changed little over the years.\n\n【定位】for more than 80 pre-digital years, linear speech broadcasting brought the gift of serendipity,\nrandom enlivening of a car journey or dull manual task.\n在数字时代之前的八十多年里，线性的语音广播带来了\"意外发现\"的礼物——它能随机点亮\n一段乏味的开车旅程或无聊的体力劳动。\n【选项】A)\n无中生有\nthe research on radio used to be inadequate 谈研究本身的不充分，但 P4 谈的是听\n众的体验，而非 radio research 的研究水准。\nB)\n与原文相反\nthe charm of radio remains in the digital age 谈数字时代广播的魅力仍存，但 P4 的\n时间状语是 80 pre-digital years——前数字时代，并未声称数字时代仍存魅力；P5 的\n转折反而暗示在数字时代下广播的偶遇之乐在消退。\nC)\n✓ 正确\nthe gift of serendipity ↔unexpected gains\nthings I thought I'd never be interested in…ice hockey perhaps ↔unexpected\n预判得到的\"意外收获\"与 radio listeners could make unexpected gains 几乎逐字对\n应，C 即正确答案。\nD)\n无中生有\nradio shows have changed little over the years 谈节目本身变化不大，但 P4 谈的是\n听众收获的性质（意外性），并未对节目内容的演变作纵向比较。\n第3段和第6段中的表达\"talking on the brush handle\"指的是____的行为\nA) 制造大声噪音。\nB) 进行随意闲聊。\nC) 开始琐碎争吵。\nD) 哼唱流行歌曲。"
+    },
+    {
+     "no": 34,
+     "stem": "The expression \"talking on the brush handle\" in Paragraphs 3 and 6 refers to the act of ____",
+     "options": {
+      "A": "making a loud noise.",
+      "B": "having a casual chat.",
+      "C": "starting a trivial quarrel.",
+      "D": "humming a popular song."
+     },
+     "answer": "B",
+     "type": "（词义句意题）",
+     "analysis": "【判型】The expression…refers to the act of ____ 问短语指代的行为，属典型的词义/短语句\n意题。\n【拆句】The expression \"talking on the brush handle\" in Paragraphs 3 and 6 refers to the act\nof ____ 主语 The expression，介词短语限定段落，refers to 谓语；act of 后接选项动名\n词。结构平铺直叙。\n【定位】A woman says there have been fewer street fights since the arrival of the wireless but also\nless stopping and \"talking on the brush handle\".\n一位女士说，自从无线电出现以来，街头打架变少了，但也少了人们驻足在扫帚柄上闲聊的\n情景。\n34. The expression \"talking on the brush handle\" in Paragraphs 3 and 6 refers to the act of ____\n[ A ] making a loud noise.\n[ B ] having a casual chat.\n[ C ] starting a trivial quarrel.\n[ D ] humming a popular song.\n\n【选项】A)\n偷换概念\nmaking a loud noise 谈大声噪音，但 P3 把它与 fewer street fights 并列，brush\nhandle 不可能也是负面行为，与并列方向不符。\nB)\n✓ 正确\nless stopping and \"talking on the brush handle\" ↔having a casual chat\nlost the neighbourly habit of \"talking on the brush handle\" ↔casual chat\nP3 的并列与 P6 的 neighbourly habit 共同把 brush handle 锁定为邻里闲聊，B 与预\n判完全一致。\nC)\n偷换概念\nstarting a trivial quarrel 谈引发小争吵，仍是负面活动，与 brush handle 在并列结构\n里的正面属性不符。\nD)\n张冠李戴\nhumming a popular song 谈哼唱流行歌，是 P3 前文 workmen whistle new tunes\n的内容，与 brush handle 所处的并列结构无关。\n在最后一段,作者意图表达的观点是____\nA) 技术应该以造福人类为目标。\nB) 应该采取行动来复兴倾听的艺术。\nC) 青少年应该养成健康的社交媒体习惯。\nD) 人们应该对创新采取明智的态度。"
+    },
+    {
+     "no": 35,
+     "stem": "In the last paragraph, the author intends to express the opinion that ____",
+     "options": {
+      "A": "technology should be aimed at benefiting humans.",
+      "B": "actions should be taken to revive the art of listening.",
+      "C": "adolescents should form healthy social media habits.",
+      "D": "people should adopt a sensible attitude to innovations."
+     },
+     "answer": "D",
+     "type": "（主旨题）",
+     "analysis": "【判型】the author intends to express the opinion that ____ 限定在末段并问意图主张，属局部\n主旨题，需对末段做串线归纳。\n【拆句】In the last paragraph, the author intends to express the opinion that ____ 介词短语作\n状语限定段落，主干 the author intends to express the opinion，that 从句被选项补完。\n无陷阱。\n35. In the last paragraph, the author intends to express the opinion that ____\n[ A ] technology should be aimed at benefiting humans.\n[ B ] actions should be taken to revive the art of listening.\n[ C ] adolescents should form healthy social media habits.\n[ D ] people should adopt a sensible attitude to innovations.\n\n【选项】A)\n无中生有\ntechnology should be aimed at benefiting humans 谈技术应以人为本，但末段并未\n对技术开发的目标导向作任何规范性主张——作者只谈如何应对，不谈如何研发。\nB)\n以偏概全\nactions should be taken to revive the art of listening 把恢复听的艺术作为主张，但\n末段 is the art of mere listening endangered? 只是抛出问题，作者随后用 Some will\nsay…though I suppose you can then worry about… 的让步否定了\"复兴听之艺术\"作\n为主张的强度。\nC)\n以偏概全\nadolescents should form healthy social media habits 把建议对象缩到青少年的社交\n媒体习惯，但原文 shield the youngest 只是建议中的一小部分，且谈的是\"保护\"而\n非\"养成习惯\"。\nD)\n✓ 正确\nasking whether to control them a bit or shield the youngest ↔\na sensible attitude to innovations\ninnovation will happen ↔innovations\n末段建议被概括为\"理性看待创新\"，与 people should adopt a sensible attitude to\ninnovations 一一对应，D 即正确答案。\nS E N T E N C E I N S I G H T S · 句子精讲\n15 句真题句逐层精讲\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nThe pioneers of wireless saw it as a gift to all the people.\n第1段，第1句\n\"see...as...\"（把……看作……）是四六级阅读和写作中的常见结构，且宾语补足语的识别是考试高频\n考点，掌握后可迁移至大量类似句式。\n\nSir John Reith said that it would end \"isolation of the spirit\" and rejoiced: \"It does\nnot matter how many thousands may be listening, there is always enough for\nothers…the genius and the fool, the wealthy and the poor listen simultaneously.\"\n第1段，第2句\n本句覆盖主语、谓语、宾语、宾语从句、主语从句、形式主语、状语、并列主语等多种成分，且包\n含 there be 结构和情态动词结构。形式主语与真正主语的区分、并列主语的识别、从句边界的划\n分都是典型的易错点，训练价值较高。\nOpening this week, a book and exhibition curated by Beatty Rubens at the\nBodleian in Oxford records how radio changed everyday life from 1922 to 1939.\n第2段，第2句\n本句结构高度典型,符合四六级和考研阅读中常见的长难句模式:主句主语较长且带后置定语,谓语后\n接宾语从句,句首有分词短语作状语。这种「修饰成分 + 主语(带后置定语) + 谓语 + 宾语从句」的\n模式在新闻报道和学术文本中频繁出现,掌握后可大量迁移。宾语从句由疑问词引导也是常考结\n构。唯一不足是句子整体长度和复杂度尚未达到最难级别,但已具备很强的代表性。\nShe draws on letters, diaries and fiction, and a 1939 field notebook of verbatim\naudience research by Winifred Gill.\n第2段，第3句\n本句可练习短语动词 \"draw on\" 的识别、并列宾语的划分以及后置定语 \"of verbatim audience\nresearch\" 和 \"by Winifred Gill\" 的归属判断。但成分种类较单一，缺少定语从句、状语从句等复杂\n成分，训练价值中等偏低。\nA woman says there have been fewer street fights since the arrival of the wireless\nbut also less stopping and \"talking on the brush handle\".\n第3段，第4句\n主句 + 宾语从句的结构在四六级和考研阅读中非常常见，宾语从句省略 that 也是高频现象。从句\n中 there have been 搭配 since 时间状语的现在完成时用法，以及 but also 连接并列成分的模式，\n都是典型的考试句式，掌握后可广泛迁移。\n\nI loved the man from the Thirties research who found that wireless suddenly\noffered \"a lot of variety…things I thought I'd never be interested in…ice hockey\nperhaps\".\n第4段，第2句\n句子覆盖主谓宾、定语从句（含关系代词作主语和省略关系代词两种情况）、宾语从句、插入语、\n状语等多种成分，且存在定语从句嵌套和介词宾语前置等易错点，作为成分划分练习句能有效训练\n学生识别嵌套结构和省略现象的能力。\nIn my own book about radio I recorded how, on one drive: \"I caught up with the\nnews, learnt some 17th-century history, and was startlingly educated by an\nunpretentious programme on the history of the stethoscope.\"\n第4段，第4句\n本句涵盖的成分较为丰富:主句包含主语、谓语、宾语和地点状语;宾语从句包含主语、三个并列谓\n语、两个直接宾语、一个介词宾语、时间状语、程度状语和方式状语。特别是宾语从句的并列谓语\n结构和被动语态的识别,以及介词短语在不同位置的作用判断,都是很好的练习点。\nAnd while it is wonderful to take a walk with anything in your headphones, infinite\nchoice encourages us to shrink into niche interests and sympathetic beliefs.\n第5段，第3句\n主句包含宾语补足语 \"to shrink...\"，状语从句含形式主语 \"it\" 和真正主语 \"to take...\"，涵盖两个易\n混淆的语法点，且有并列介词宾语 \"niche interests and sympathetic beliefs\"，成分丰富，训练价值\n较高\nSome will say the audiobook boom revives it, though I suppose you can then worry\nabout the decline of reading.\n第6段，第2句\n主句 + 让步状语从句的结构在四六级和考研阅读中非常典型，省略 that 的宾语从句也是常考点，\n情态动词 can 的使用同样高频。句式代表性强，掌握后可迁移到大量真题句型\n\nBut inventions shape all of us and it is worth noticing when techno-social habits\ndo change, and asking whether to control them a bit or shield the youngest.\n第6段，第3句\n综合来看，本句主干识别难度适中（形式主语需识别但不算特别隐蔽），嵌套层次合理（两层嵌套\n+ 并列），时态简单，但成分种类丰富、结构典型性高。作为 句子结构 + 时态 训练材料，本句能\n够让学生练习多种核心考点（形式主语、宾语从句、并列结构），且句式常见、可迁移性强，推荐\n优先用于教学。\nWhatever we do, innovation will happen.\n第6段，第4句\n\"Whatever\" 引导的让步状语从句是四六级和考研中的常见结构,这类复合关系代词引导的从句在阅\n读理解和写作中频繁出现,掌握后迁移价值高。\nToday we fret about the isolating culture of smartphone-staring and selfie-vanity,\nbut already in 1939 there was that lady regretting how, when all her street got\nwirelesses, it lost the neighbourly habit of \"talking on the brush handle\".\n第6段，第5句\n句子覆盖成分丰富:包含there be存在句、现在分词作后置定语、宾语从句、时间状语从句、介词短\n语作定语等多种结构,且there be结构中真正主语的识别、分词定语的判定都是常见易错点,训练价\n值高。\nIt's enough to make a person put down the smartphone and go out front with a\nyard broom.\n第6段，第6句\n形式主语 it + 系动词 + 形容词 + 不定式真实主语的结构在四六级和考研阅读中高频出现，是典型\n的书面语句式。\"形容词 + enough + to do\" 也是常考搭配。掌握本句可迁移到大量同类句型。\nWhat can be learnt about wireless from Sir John Reith?\n第31题题干\n特殊疑问句配合情态动词被动语态是四六级和考研阅读中的高频句式，特别是学术类文本中询问某\n个来源或研究能提供什么信息的表达非常典型，掌握后可大量复用。\n\nthe research on radio used to be inadequate.\n第33题，A\n\"used to\" 结构在考试阅读中较为常见，用于对比过去与现在的状态变化，具有一定代表性，但简\n单句本身在真题长难句中占比不高，典型性中等。\nH I G H - F R E Q U E N C Y · 真题高频词\n本篇出现的 41 个考研英语一真题高频词\n下列单词既在本篇真题中出现，又是 考研英语一 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n词的释义、音标、词形与真题例句。\ninnovation\nB2\nn. 创新;革新(指行为或过程)\n本篇4 次 · 真题 33 句\nhandle\nA2\nv. 处理\n本篇3 次 · 真题 19 句\nwould\nA1\naux. （will 的过去式）将要，会\n本篇2 次 · 真题 304 句\naudience\nA2\nn. 观众\n本篇2 次 · 真题 16 句\nsmartphone\nB1\nn. 智能手机\n本篇2 次 · 真题 10 句\nauthor\nA2\nn. 作者\n本篇1 次 · 真题 209 句\nless\nA1\ndet. 较少的\n本篇1 次 · 真题 150 句\nbenefit\nB1\nn. 好处\n本篇1 次 · 真题 88 句\nprocess\nB1\nn. 过程\n本篇1 次 · 真题 80 句\ndigital\nB1\nadj. 数字的\n本篇1 次 · 真题 72 句\n\ndecline\nB2\nv. 下降\n本篇1 次 · 真题 56 句\nimpact\nB2\nn. 影响\n本篇1 次 · 真题 53 句\nuser\nA2\nn. 使用者\n本篇1 次 · 真题 52 句\nopinion\nA2\nn. 观点\n本篇1 次 · 真题 44 句\ngain\nB1\nv. 获得;赢得\n本篇1 次 · 真题 43 句\nreading\nA1\nn. 阅读\n本篇1 次 · 真题 42 句\naim\nB1\nv. 瞄准\n本篇1 次 · 真题 35 句\nmedium\nB1\nadj. 中等的\n本篇1 次 · 真题 35 句\nnetwork\nB1\nn. 网络\n本篇1 次 · 真题 33 句\nintend\nB1\nv. 打算，计划\n本篇1 次 · 真题 31 句\nbelief\nB1\nn. 相信\n本篇1 次 · 真题 25 句\nselect\nB1\nv. 选择，挑选\n本篇1 次 · 真题 24 句\nindicate\nB2\nv. 表明\n本篇1 次 · 真题 23 句\nexpression\nB1\nn. 表达\n本篇1 次 · 真题 22 句\nvariety\nB1\nn. 多样化\n本篇1 次 · 真题 22 句\ntechnological\nB2\nadj. 技术的\n本篇1 次 · 真题 20 句\n\nmultiple\nB2\nadj. 多个的\n本篇1 次 · 真题 16 句\nadopt\nB1\nv. 采纳\n本篇1 次 · 真题 14 句\nboom\nB1\nn. 繁荣\n本篇1 次 · 真题 13 句\nera\nB2\nn. 时代\n本篇1 次 · 真题 13 句\nrandom\nB2\nadj. 随机的\n本篇1 次 · 真题 13 句\ninterested\nA1\nadj. 感兴趣的\n本篇1 次 · 真题 12 句\nfiction\nB2\nn. 小说\n本篇1 次 · 真题 11 句\nsuddenly\nA2\nadv. 突然地\n本篇1 次 · 真题 11 句\ninadequate\nB2\nadj. 不充分的\n本篇1 次 · 真题 10 句\nconsciousness\nC1\nn. 意识\n本篇1 次 · 真题 9 句\nmere\nB2\nadj. 仅仅的\n本篇1 次 · 真题 9 句\naccessible\nB2\nadj. 可到达的\n本篇1 次 · 真题 8 句\ninterpersonal\nB2\nadj. 人际的\n本篇1 次 · 真题 8 句\njourney\nA2\nn. 旅行，旅程\n本篇1 次 · 真题 8 句\nwealthy\nB2\nadj. 富有的\n本篇1 次 · 真题 8 句\nV O C A B U L A R Y · 词汇难度分布\n全文 269 词按 CEFR 难度累积覆盖\n\n全文去重后共 269 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」的累积\n占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 13 个 · 约 5%。\n44%\nA1\n及以下\n65%\nA2\n及以下\n83%\nB1\n及以下\n95%\nB2\n及以下\n100%\nC1\n及以下\n100%\nC2\n及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 269 个 · 末柱为 100%\n去重总词数\n269\nB2 以上难词\n5%\nB1 及以下覆盖\n83%\n\n考研英语一\n2026年 · 全卷构成\n题目解析 →\n题目解析 →\n题目解析 →\n本题\n题目解析 →\n段落排序\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →"
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "paras": [
+    {
+     "en": "When Tom Swetnam joined the U.S. Forest Service in the 1970s, his mandate was to \"put everything out,\" he recalled. But when Swetnam enrolled in graduate school at the University of Arizona's Laboratory of Tree-Ring Research, he was surprised to find a record of repeated blazes dating back hundreds of years before European colonists arrived on the continent. Some of the trees he analyzed bore more than 20 fire scars among their rings.",
+     "zh": "当Tom Swetnam在20世纪70年代加入美国林务局时,他回忆说,自己的任务是\"扑灭一切火灾\"。但当 Swetnam进入亚利桑那大学树木年轮研究实验室攻读研究生时,他惊讶地发现,在欧洲殖民者到达这片大陆 之前的数百年间,有反复发生火灾的记录。他分析的一些树木的年轮中有超过20处火灾疤痕。",
+     "no": 1,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "When Tom Swetnam joined the U.S. Forest Service in the 1970s, his mandate was to \"put everything out,\" he recalled.",
+       "zh": "当Tom Swetnam在20世纪70年代加入美国林务局时,他回忆说,自己的任务是\"扑灭一切火灾\"。",
+       "main": "When Tom Swetnam joined the U.S. Forest Service in the 1970s",
+       "chunks": [
+        {
+         "t": "When Tom Swetnam",
+         "r": "主语"
+        },
+        {
+         "t": "joined the U.S. Forest Service in the 1970s",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "his mandate was to \"put everything out,\" he recalled.",
+         "r": "并列谓语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "But when Swetnam enrolled in graduate school at the University of Arizona's Laboratory of Tree-Ring Research, he was surprised to find a record of repeated blazes dating back hundreds of years before European colonists arrived on the continent.",
+       "zh": "但当 Swetnam进入亚利桑那大学树木年轮研究实验室攻读研究生时,他惊讶地发现,在欧洲殖民者到达这片大陆 之前的数百年间,有反复发生火灾的记录。",
+       "main": "But he was surprised to find a record of repeated blazes dating back hundreds of years before European colonists arrived on the continent.",
+       "chunks": [
+        {
+         "t": "But",
+         "r": "主语"
+        },
+        {
+         "t": "when Swetnam enrolled in graduate school at the University of Arizona's Laboratory of Tree-Ring Research",
+         "r": "定语从句"
+        },
+        {
+         "t": "he was surprised to find a record of repeated blazes dating back hundreds of years before European colonists arrived on the continent.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "Some of the trees he analyzed bore more than 20 fire scars among their rings.",
+       "zh": "他分析的一些树木的年轮中有超过20处火灾疤痕。",
+       "main": "Some of the trees he analyzed bore more than 20 fire scars among their rings.",
+       "chunks": [
+        {
+         "t": "Some of the",
+         "r": "主语"
+        },
+        {
+         "t": "trees he analyzed bore more than 20 fire scars among their rings.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "The fact that fires happened so often meant they couldn't have been severe enough to kill most trees. Instead, a growing body of research showed that frequent, low-severity fires made many ecosystems healthier. They rid the forest of dead and sick trees, reducing competition and curbing the spread of disease. Because flammable material couldn't build up on the landscape, blazes tended to move slowly and peter out when they reached the footprints of previous burns.",
+     "zh": "火灾如此频繁发生的事实意味着它们不可能严重到足以杀死大多数树木。相反,越来越多的研究表明,频繁 的低强度火灾使许多生态系统更加健康。它们清除了森林中死亡和患病的树木,减少了竞争并抑制了疾病的 传播。由于易燃物质无法在地表堆积,火势往往移动缓慢,并在到达先前燃烧过的区域时逐渐熄灭。",
+     "no": 2,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "The fact that fires happened so often meant they couldn't have been severe enough to kill most trees.",
+       "zh": "火灾如此频繁发生的事实意味着它们不可能严重到足以杀死大多数树木。",
+       "main": "The fact",
+       "chunks": [
+        {
+         "t": "The fact",
+         "r": "主语"
+        },
+        {
+         "t": "that fires happened so often meant they couldn't have been severe enough to kill most trees.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "Instead, a growing body of research showed that frequent, low-severity fires made many ecosystems healthier.",
+       "zh": "相反,越来越多的研究表明,频繁 的低强度火灾使许多生态系统更加健康。",
+       "main": "Instead a growing body of research showed",
+       "chunks": [
+        {
+         "t": "Instead",
+         "r": "主语"
+        },
+        {
+         "t": "a growing body of research showed",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that frequent",
+         "r": "定语从句"
+        },
+        {
+         "t": "low-severity fires made many ecosystems healthier.",
+         "r": "并列谓语"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "They rid the forest of dead and sick trees, reducing competition and curbing the spread of disease.",
+       "zh": "它们清除了森林中死亡和患病的树木,减少了竞争并抑制了疾病的 传播。",
+       "main": "They rid the forest of dead and sick trees",
+       "chunks": [
+        {
+         "t": "They rid the forest of dead and sick",
+         "r": "主语"
+        },
+        {
+         "t": "trees",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "reducing competition and curbing the spread of disease.",
+         "r": "分词短语（插入语/定语）"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "Because flammable material couldn't build up on the landscape, blazes tended to move slowly and peter out when they reached the footprints of previous burns.",
+       "zh": "由于易燃物质无法在地表堆积,火势往往移动缓慢,并在到达先前燃烧过的区域时逐渐熄灭。",
+       "main": "Because flammable material couldn't build up on the landscape blazes tended to move slowly and peter out",
+       "chunks": [
+        {
+         "t": "Because flammable material couldn't build up on the landscape",
+         "r": "主语"
+        },
+        {
+         "t": "blazes tended to move slowly and peter out",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "when they reached the footprints of previous burns.",
+         "r": "定语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "In 2022, Swetnam and other scientists teamed up to compile a database of fire-scarred trees from across the continent. Their North American tree-ring fire-scar network (NAFSN) provided the basis for a study published last month. In the study, the researchers compared the historical fire cadence with the wildfires recorded over the past few decades, and uncovered a striking shortfall. The NAFSN sites Text 4  experienced less than a quarter of the number of fires that would have been expected without fire suppression.",
+     "zh": "2022年,Swetnam和其他科学家合作编制了一个来自整个大陆的火灾疤痕树木数据库。他们的北美树木年 轮火灾疤痕网络(NAFSN)为上个月发表的一项研究提供了基础。在该研究中,研究人员将历史火灾频率与 过去几十年记录的野火进行了比较,发现了显著的短缺。NAFSN站点经历的火灾数量不到没有火灾抑制情 况下预期数量的四分之一。",
+     "no": 3,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "In 2022, Swetnam and other scientists teamed up to compile a database of fire-scarred trees from across the continent.",
+       "zh": "2022年,Swetnam和其他科学家合作编制了一个来自整个大陆的火灾疤痕树木数据库。",
+       "main": "Swetnam and other scientists teamed up to compile a database of fire-scarred trees from across the continent.",
+       "chunks": [
+        {
+         "t": "In 2022",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "Swetnam and other",
+         "r": "主语"
+        },
+        {
+         "t": "scientists teamed up to compile a database of fire-scarred trees from across the continent.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "Their North American tree-ring fire-scar network (NAFSN) provided the basis for a study published last month.",
+       "zh": "他们的北美树木年 轮火灾疤痕网络(NAFSN)为上个月发表的一项研究提供了基础。",
+       "main": "Their North American tree-ring fire-scar network (NAFSN) provided the basis for a study published last month.",
+       "chunks": [
+        {
+         "t": "Their North American tree-ring fire-scar network (NAFSN)",
+         "r": "主语"
+        },
+        {
+         "t": "provided the basis for a study published last month.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "In the study, the researchers compared the historical fire cadence with the wildfires recorded over the past few decades, and uncovered a striking shortfall.",
+       "zh": "在该研究中,研究人员将历史火灾频率与 过去几十年记录的野火进行了比较,发现了显著的短缺。",
+       "main": "the researchers compared the historical fire cadence with the wildfires recorded over the past few decades",
+       "chunks": [
+        {
+         "t": "In the study",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "the",
+         "r": "主语"
+        },
+        {
+         "t": "researchers compared the historical fire cadence with the wildfires recorded over the past few decades",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "and uncovered a striking shortfall.",
+         "r": "状语从句"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "The NAFSN sites Text 4  experienced less than a quarter of the number of fires that would have been expected without fire suppression.",
+       "zh": "NAFSN站点经历的火灾数量不到没有火灾抑制情 况下预期数量的四分之一。",
+       "main": "The NAFSN sites Text 4  experienced less than a quarter of the number of fires",
+       "chunks": [
+        {
+         "t": "The NAFSN",
+         "r": "主语"
+        },
+        {
+         "t": "sites Text 4  experienced less than a quarter of the number of fires",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that would have been expected without fire suppression.",
+         "r": "定语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "This deficit is a testament to the effectiveness of modern firefighting, said Kelly Martin, a past president of the International Association of Wildland Fire. \"Yet the combined consequences of suppression and climate change have eroded humanity's ability to suppress fires, particularly those that ignite under the most dangerous weather conditions.\"",
+     "zh": "国际荒地火灾协会前主席Kelly Martin说,这一缺口证明了现代消防的有效性。\"然而,抑制和气候变化的综 合后果削弱了人类抑制火灾的能力,特别是那些在最危险天气条件下点燃的火灾。\"",
+     "no": 4,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "This deficit is a testament to the effectiveness of modern firefighting, said Kelly Martin, a past president of the International Association of Wildland Fire.",
+       "zh": "国际荒地火灾协会前主席Kelly Martin说,这一缺口证明了现代消防的有效性。",
+       "main": "This deficit is a testament to the effectiveness of modern firefighting",
+       "chunks": [
+        {
+         "t": "This deficit",
+         "r": "主语"
+        },
+        {
+         "t": "is a testament to the effectiveness of modern firefighting",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "said Kelly Martin",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "a past president of the International Association of Wildland Fire.",
+         "r": "补充说明（同位/修饰）"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "\"Yet the combined consequences of suppression and climate change have eroded humanity's ability to suppress fires, particularly those that ignite under the most dangerous weather conditions.\"",
+       "zh": "\"然而,抑制和气候变化的综 合后果削弱了人类抑制火灾的能力,特别是那些在最危险天气条件下点燃的火灾。 \"",
+       "main": "\"Yet the combined consequences of suppression and climate change have eroded humanity's ability to suppress fires, particularly those",
+       "chunks": [
+        {
+         "t": "\"Yet the",
+         "r": "主语"
+        },
+        {
+         "t": "combined consequences of suppression and climate change have eroded humanity's ability to suppress fires, particularly those",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that ignite under the most dangerous weather conditions.\"",
+         "r": "定语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "To prevent entire ecosystems from going up in smoke, Martin said, people must bring healthy fire back to places that need it. At Yosemite National Park, Martin oversaw the use of what is known as prescribed burns to make the landscape more resilient. These fires were carefully planned and intentionally ignited during periods when weather kept the blazes easy to control, and helped eliminate some of the fuel that had built up around the important park's facilities. Research shows that these prescribed burns make subsequent wildfires less severe, even if later fires happen under the most dangerous weather conditions.",
+     "zh": "Martin说,为了防止整个生态系统化为灰烬,人们必须将健康的火灾带回需要它的地方。在Yosemite国家公 园,Martin监督使用所谓的计划性燃烧来使景观更具韧性。这些火灾是经过精心规划的,并在天气条件使火 势易于控制的时期有意点燃,有助于消除在公园重要设施周围积累的部分燃料。研究表明,这些计划性燃烧 使随后的野火强度降低,即使后来的火灾发生在最危险的天气条件下。",
+     "no": 5,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "To prevent entire ecosystems from going up in smoke, Martin said, people must bring healthy fire back to places that need it.",
+       "zh": "Martin说,为了防止整个生态系统化为灰烬,人们必须将健康的火灾带回需要它的地方。",
+       "main": "Martin said people must bring healthy fire back to places",
+       "chunks": [
+        {
+         "t": "To prevent entire ecosystems from going up in smoke",
+         "r": "不定式（目的/结果）"
+        },
+        {
+         "t": "Martin said",
+         "r": "主语"
+        },
+        {
+         "t": "people must bring healthy fire back to places",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that need it.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "At Yosemite National Park, Martin oversaw the use of what is known as prescribed burns to make the landscape more resilient.",
+       "zh": "在Yosemite国家公 园,Martin监督使用所谓的计划性燃烧来使景观更具韧性。",
+       "main": "Martin oversaw the use of what is known as prescribed burns to make the landscape more resilient.",
+       "chunks": [
+        {
+         "t": "At Yosemite National Park",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "Martin oversaw the use of what",
+         "r": "主语"
+        },
+        {
+         "t": "is known as prescribed burns to make the landscape more resilient.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "These fires were carefully planned and intentionally ignited during periods when weather kept the blazes easy to control, and helped eliminate some of the fuel that had built up around the important park's facilities.",
+       "zh": "这些火灾是经过精心规划的,并在天气条件使火 势易于控制的时期有意点燃,有助于消除在公园重要设施周围积累的部分燃料。",
+       "main": "These fires were carefully planned and intentionally ignited during periods",
+       "chunks": [
+        {
+         "t": "These",
+         "r": "主语"
+        },
+        {
+         "t": "fires were carefully planned and intentionally ignited during periods",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "when weather kept the blazes easy to control",
+         "r": "定语从句"
+        },
+        {
+         "t": "and helped eliminate some of the fuel",
+         "r": "状语从句"
+        },
+        {
+         "t": "that had built up around the important park's facilities.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "Research shows that these prescribed burns make subsequent wildfires less severe, even if later fires happen under the most dangerous weather conditions.",
+       "zh": "研究表明,这些计划性燃烧 使随后的野火强度降低,即使后来的火灾发生在最危险的天气条件下。",
+       "main": "Research shows",
+       "chunks": [
+        {
+         "t": "Research",
+         "r": "主语"
+        },
+        {
+         "t": "shows",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that these prescribed burns make subsequent wildfires less severe",
+         "r": "定语从句"
+        },
+        {
+         "t": "even",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "if later fires happen under the most dangerous weather conditions.",
+         "r": "状语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "Yet even as scientists and public officials increasingly agree on the need for more fires in our forests, climate change is making this tactic more challenging, experts said. \"It's a double-edged sword because wildfires are getting more severe and larger under climate change and we need this work even more, but then the work gets more challenging,\" said Susan Prichard, a fire ecologist at the University of Washington.",
+     "zh": "专家说,然而,尽管科学家和公职人员越来越一致认为我们的森林需要更多火灾,但气候变化正在使这一策略 更具挑战性。华盛顿大学火灾生态学家Susan Prichard说:\"这是一把双刃剑,因为在气候变化下野火变得更 加严重和更大,我们更需要这项工作,但这项工作也变得更具挑战性。\" 题目与逐题解析 根据第1段,Swetnam对什么感到惊讶 A) 美国树木年轮研究的稀缺性 B) 古代欧洲的灭火措施 C) 20世纪70年代的森林管理做法",
+     "no": 6,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "Yet even as scientists and public officials increasingly agree on the need for more fires in our forests, climate change is making this tactic more challenging, experts said.",
+       "zh": "专家说,然而,尽管科学家和公职人员越来越一致认为我们的森林需要更多火灾,但气候变化正在使这一策略 更具挑战性。",
+       "main": "climate change is making this tactic more challenging",
+       "chunks": [
+        {
+         "t": "Yet even as scientists and public officials increasingly agree on the need for more fires in our forests",
+         "r": "状语从句"
+        },
+        {
+         "t": "climate change",
+         "r": "主语"
+        },
+        {
+         "t": "is making this tactic more challenging",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "experts said.",
+         "r": "并列谓语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "\"It's a double-edged sword because wildfires are getting more severe and larger under climate change and we need this work even more, but then the work gets more challenging,\" said Susan Prichard, a fire ecologist at the University of Washington.",
+       "zh": "华盛顿大学火灾生态学家Susan Prichard说:\"这是一把双刃剑,因为在气候变化下野火变得更 加严重和更大,我们更需要这项工作,但这项工作也变得更具挑战性。 \" 题目与逐题解析 根据第1段,Swetnam对什么感到惊讶 A) 美国树木年轮研究的稀缺性 B) 古代欧洲的灭火措施 C) 20世纪70年代的森林管理做法",
+       "main": "\" It's a double-edged sword",
+       "chunks": [
+        {
+         "t": "\"",
+         "r": "主语"
+        },
+        {
+         "t": "It's a double-edged sword",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "because wildfires are getting more severe and larger under climate change and we need this work even more, but then the work gets more challenging,\" said Susan Prichard, a fire ecologist at the University of Washington.",
+         "r": "状语从句"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "no": 36,
+     "stem": "According to Paragraph 1, Swetnam was surprised by ____",
+     "options": {
+      "A": "the scarcity of tree-ring research in the U.S.",
+      "B": "the firefighting measures in ancient Europe.",
+      "C": "the forest management practices in the 1970s.",
+      "D": "the number of wildfires in precolonial times."
+     },
+     "answer": "D",
+     "type": "（细节题）",
+     "analysis": "【判型】According to Paragraph 1, Swetnam was surprised by 直问段内一个具体事实，无\ninfer/imply/suggest 等推断信号。\n【拆句】Swetnam was surprised by ____ 是含被动语态的不完整陈述句，by 后接的就是让他惊讶\n的对象，选项是这个 by 短语的延续；句法上无陷阱。\n【定位】But when Swetnam enrolled in graduate school at the University of Arizona's Laboratory of\nTree-Ring Research, he was surprised to find a record of repeated blazes dating back\nhundreds of years before European colonists arrived on the continent.\n但是当 Swetnam 进入亚利桑那大学树轮研究室读研时，他惊讶地发现一份记录显示，早在\n欧洲殖民者抵达这片大陆几百年前就已存在反复发生的火灾。\n【选项】A)\n无中生有\nthe scarcity of tree-ring research in the U.S. 说“美国树轮研究稀缺“，但 P1 只提到\nSwetnam 进入了一所树轮研究室，未评价研究是否稀缺。\nB)\n偷换概念\nthe firefighting measures in ancient Europe. 说“古代欧洲的灭火措施“，但 European\ncolonists 只用欧洲殖民者作时间参照，从未谈古代欧洲如何灭火。\nC)\n答非所问\nthe forest management practices in the 1970s. 看似贴近 When Tom Swetnam\njoined the U.S. Forest Service in the 1970s, his mandate was to put everything\nout，但这是他的职责，不是让他惊讶的内容；让他惊讶的在 But 之后。\nD)\n✓ 正确\nrepeated blazes dating back hundreds of years before European colonists arrived on the\ncontinent\n↔the number of wildfires in precolonial times\nSome of the trees he analyzed bore more than 20 fire scars among their rings. ↔\nthe number of wildfires in precolonial times\n预判的“殖民前反复火灾“两要素——殖民前 + 火灾很多——恰好被 the number of\nwildfires in precolonial times 一句覆盖，无多无少。\n第2段主要关注\nA) 以往火灾的原因\nB) 病树的处理\nC) 低烈度火灾的益处\nD) 森林生态系统的重要性\n37. Paragraph 2 mainly focuses on ____\n[ A ] the causes of previous burns.\n[ B ] the treatment of diseased trees.\n[ C ] the benefits of low-severity fires.\n[ D ] the importance of forest ecosystems."
+    },
+    {
+     "no": 37,
+     "stem": "Paragraph 2 mainly focuses on ____",
+     "options": {
+      "A": "the causes of previous burns.",
+      "B": "the treatment of diseased trees.",
+      "C": "the benefits of low-severity fires.",
+      "D": "the importance of forest ecosystems."
+     },
+     "answer": "C",
+     "type": "（主旨题）",
+     "analysis": "【判型】Paragraph 2 mainly focuses on 问的是整段焦点，是典型的段落主旨题（属主旨题的段级\n版本）。\n【拆句】Paragraph 2 mainly focuses on ____ 是简单陈述句加空格，on 的宾语就是焦点对象，结\n构平铺直叙，无陷阱。\n【定位】Instead, a growing body of research showed that frequent, low-severity fires made many\necosystems healthier.\n相反，越来越多的研究表明，频繁、低强度的火灾让许多生态系统更健康。\n【选项】A)\n偷换概念\nthe causes of previous burns. 表“旧火的成因“，但 previous burns 只在末句作位置参\n照（火走到旧火痕处就熄），并未追溯其原因。\nB)\n以偏概全\nthe treatment of diseased trees. 来自 They rid the forest of dead and sick trees，\n但这只是益处之一，远不能覆盖段内的多项并列益处。\nC)\n✓ 正确\nfrequent, low-severity fires made many ecosystems healthier ↔\nthe benefits of low-severity fires.\nreducing competition and curbing the spread of disease ↔the benefits of low-severity fires.\n预判的“低强度火带来好处“被 the benefits of low-severity fires. 直接命中，无任何\n遗漏。\nD)\n答非所问\nthe importance of forest ecosystems. 说“森林生态系统的重要性“，但本段焦点是“低\n强度火带来的好处“，森林本身的重要性并不是段落话题。\n关于过去几十年的野火,该研究发现了什么\nA) 它们的强度大幅波动\nB) 它们的频率显著下降\nC) 它们的威胁被低估了\nD) 它们的记录被误读了"
+    },
+    {
+     "no": 38,
+     "stem": "What did the study find about the wildfires over the past few decades?",
+     "options": {
+      "A": "Their intensity has vastly fluctuated.",
+      "B": "Their frequency has markedly decreased.",
+      "C": "Their threats have been underestimated.",
+      "D": "Their records have been misinterpreted."
+     },
+     "answer": "B",
+     "type": "（细节题）",
+     "analysis": "【判型】What did the study find about the wildfires over the past few decades? 直接问研究的\n发现，是被研究句承载的客观事实，归类为细节题。\n【拆句】What did the study find about the wildfires over the past few decades? 是 wh- 一般\n疑问句；about 短语限定 find 的范围；选项均为 Their + 名词 + 谓语 句式，是对\nwildfires 这一主题的属性描述，结构清晰。\n38. What did the study find about the wildfires over the past few decades?\n[ A ] Their intensity has vastly fluctuated.\n[ B ] Their frequency has markedly decreased.\n[ C ] Their threats have been underestimated.\n[ D ] Their records have been misinterpreted.\n\n【定位】In the study, the researchers compared the historical fire cadence with the wildfires\nrecorded over the past few decades, and uncovered a striking shortfall. The NAFSN sites\nexperienced less than a quarter of the number of fires that would have been expected without\nfire suppression.\n在这项研究中，研究者把历史上的火灾节律与近几十年记录的野火相比较，发现了一个惊人\n的缺口：NAFSN 各站点经历的火灾数量不到原本（在没有灭火措施时）应当出现数量的四\n分之一。\n【选项】A)\n无中生有\nTheir intensity has vastly fluctuated. 谈强度的剧烈波动，但 P3 只比较“数量“，未对\n强度做时间序列上的波动评估。\nB)\n✓ 正确\nless than a quarter of the number of fires that would have been expected ↔\nTheir frequency has markedly decreased.\nuncovered a striking shortfall ↔Their frequency has markedly decreased.\n预判的“实际数量大幅下降“被 Their frequency has markedly decreased. 同义替换覆\n盖，且没有引入定位句以外的信息。\nC)\n无中生有\nTheir threats have been underestimated. 说野火的威胁被低估，但 P3 全段未对野火\n威胁的“被认知程度“做评论。\nD)\n与原文相反\nTheir records have been misinterpreted. 说野火记录被误解，但 P3 没说任何“既有解\n读出错“的内容，研究只是做了新比较。\n关于现代消防可以推断出什么\nA) 其工作人员需要更多培训\nB) 其有效性受到公众质疑\nC) 它可能使传统战术失效\nD) 它可能使严重火灾更难扑灭"
+    },
+    {
+     "no": 39,
+     "stem": "What can be inferred about modern firefighting?",
+     "options": {
+      "A": "Its workforce needs more training.",
+      "B": "Its effectiveness is questioned by the public.",
+      "C": "It may render traditional tactics useless.",
+      "D": "It may make severe fires harder to put out."
+     },
+     "answer": "D",
+     "type": "（推断题）",
+     "analysis": "【判型】What can be inferred about modern firefighting? 句中 inferred 是推断题硬标志。\n【拆句】What can be inferred about modern firefighting? 是含情态被动 can be inferred 的\nwh- 疑问句，about 短语界定推断对象；选项主语是 Its，回指 modern firefighting；无\n陷阱。\n39. What can be inferred about modern firefighting?\n[ A ] Its workforce needs more training.\n[ B ] Its effectiveness is questioned by the public.\n[ C ] It may render traditional tactics useless.\n[ D ] It may make severe fires harder to put out.\n\n【定位】Yet the combined consequences of suppression and climate change have eroded\nhumanity's ability to suppress fires, particularly those that ignite under the most dangerous\nweather conditions.\n然而，灭火措施与气候变化的共同后果已经削弱了人类压制火灾的能力——尤其是那些在最\n危险天气条件下被点燃的火。\n【选项】A)\n无中生有\nIts workforce needs more training. 把问题归结到消防员培训，但 P4 没有任何句子提\n到培训、人手或队伍。\nB)\n与原文相反\nIts effectiveness is questioned by the public. 说公众质疑现代灭火，但 This deficit\nis a testament to the effectiveness of modern firefighting 恰恰肯定了它的有效性，\n文中也没有公众态度。\nC)\n过度推断\nIt may render traditional tactics useless. 说现代灭火让传统手段变得无用，但 P4 既\n未对比新旧手段，也未否定任何传统做法。\nD)\n✓ 正确\neroded humanity's ability to suppress fires ↔It may make severe fires harder to put out.\nthose that ignite under the most dangerous weather conditions ↔\nIt may make severe fires harder to put out.\n预判的“极端条件下的火更难扑灭“恰好是 It may make severe fires harder to put out.\n的客观转述，且 may 一词正对应推断的语气。\nMartin和Prichard都会同意\nA) 预测大型野火具有挑战性\nB) 评估计划火灾的使用是紧迫的\nC) 引入规定烧除是必要的\nD) 加倍火灾探测工作是值得的"
+    },
+    {
+     "no": 40,
+     "stem": "Both Martin and Prichard would agree that ____",
+     "options": {
+      "A": "it is challenging to predict large wildfires.",
+      "B": "it is urgent to assess the use of planned fires.",
+      "C": "it is necessary to introduce prescribed burns.",
+      "D": "it is rewarding to double fire detection efforts."
+     },
+     "answer": "C",
+     "type": "（态度题）",
+     "analysis": "【判型】Both Martin and Prichard would agree that 问的是两人共同的态度/立场，是态度题的双\n人共识子类型。\n【拆句】Both Martin and Prichard would agree that ____ 是用 would agree 引出宾语从句的不\n完整陈述句；选项是 it is + 形容词 + to do 句式的延续；从句结构平铺直叙，无陷阱。\n40. Both Martin and Prichard would agree that ____\n[ A ] it is challenging to predict large wildfires.\n[ B ] it is urgent to assess the use of planned fires.\n[ C ] it is necessary to introduce prescribed burns.\n[ D ] it is rewarding to double fire detection efforts.\n\n【选项】A)\n偷换概念\nit is challenging to predict large wildfires. 谈“预测大型野火困难“，但 Martin 与\nPrichard 都未谈预测，wildfires are getting more severe and larger 只是给出趋势，\n而不是说预测难。\nB)\n偷换概念\nit is urgent to assess the use of planned fires. 说“紧迫地评估计划火的使用“，但两位\n专家都没有谈评估这件事——他们直接谈“使用“。\nC)\n✓ 正确\nMartin oversaw the use of what is known as prescribed burns to make the landscape more\nresilient\n↔it is necessary to introduce prescribed burns.\nwe need this work even more ↔it is necessary to introduce prescribed burns.\nC 项是 Martin 的明确主张 + Prichard 的强烈呼应的最大公约数；预判的“共同支持引入\n受控火“正是 C 项的内容。\nD)\n无中生有\nit is rewarding to double fire detection efforts. 说“加倍火灾探测有回报“，但 P5、\nP6 都没提火灾探测/侦测，更没说要“加倍“。\nS E N T E N C E I N S I G H T S · 句子精讲\n21 句真题句逐层精讲\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nBut when Swetnam enrolled in graduate school at the University of Arizona's\nLaboratory of Tree-Ring Research, he was surprised to find a record of repeated\nblazes dating back hundreds of years before European colonists arrived on the\ncontinent.\n第1段，第2句\n本句结构高度典型：时间状语从句 + 主句 + 嵌套时间从句的组合，以及被动语态 + 不定式状语 +\n分词定语的搭配，是四六级和考研阅读中常见的叙事性长句模式。掌握本句的切分和成分分析方\n法，可直接迁移到大量类似真题句式中。\n\nSome of the trees he analyzed bore more than 20 fire scars among their rings.\n第1段，第3句\n本句涵盖了主谓宾结构、定语从句（尤其是省略关系代词的限制性定语从句）、介词短语作状语等\n多种成分，且定语从句嵌套在主语中是考试常见易错点，适合练习主语边界划分和从句识别\nThe fact that fires happened so often meant they couldn't have been severe enough\nto kill most trees.\n第2段，第1句\n名词 + 同位语从句（尤其是 fact that）是四六级和考研阅读中的高频结构；主句 + 宾语从句的组\n合也极为常见；句中还涉及情态动词表推测、enough to 表程度等典型用法，学习后可迁移到大量\n真题句式。\nInstead, a growing body of research showed that frequent, low-severity fires made\nmany ecosystems healthier.\n第2段，第2句\n本句包含常见的 that 引导宾语从句和 make 使役动词结构，均为四六级和考研阅读中的高频句\n式。结构具有一定代表性，掌握后可迁移到类似句型。\nThey rid the forest of dead and sick trees, reducing competition and curbing the\nspread of disease.\n第2段，第3句\n简单句 + 现在分词短语作状语是四六级和考研阅读中的常见句式。'rid...of...' 固定搭配和分词短语\n的运用具有较强的代表性，掌握后可在类似句型中复用。\nIn 2022, Swetnam and other scientists teamed up to compile a database of fire-\nscarred trees from across the continent.\n第3段，第1句\n句中涵盖了主语、谓语、时间状语、目的状语四种成分，且目的状语是不定式短语（内含动词、宾\n语、介词短语定语），可以练习不定式作状语的识别，但整体成分种类不算丰富，缺少宾语、表\n语、定语从句等常见易错点。\n\nTheir North American tree-ring fire-scar network (NAFSN) provided the basis for\na study published last month.\n第3段，第2句\n结构具有较高的典型性。这种\"主语 + 谓语 + 宾语 + 后置定语修饰\"的模式在学术英语和四六级阅\n读中极为常见，尤其是主语和宾语均由多个修饰成分扩展的情况，学习者掌握这类句式后可以迁移\n到大量类似的长句阅读和理解中。\nIn the study, the researchers compared the historical fire cadence with the\nwildfires recorded over the past few decades, and uncovered a striking shortfall.\n第3段，第3句\n本句体现了学术类文章中常见的简单句结构：句首状语 + 主语 + 并列谓语 + 各自的宾语，以及后\n置定语修饰名词。这种 \"一个主语带两个动作\" 的并列谓语句式、以及过去分词作后置定语的用\n法，在四六级和考研阅读中频繁出现，具有较高的代表性和迁移价值。\nThe NAFSN sites experienced less than a quarter of the number of fires that would\nhave been expected without fire suppression.\n第3段，第4句\n主句 + 限制性定语从句的组合是四六级和考研阅读中的高频句式;定语从句修饰宾语中的名词、且\n使用虚拟语气表达假设,也是学术文本常见模式;量词比较结构 less than a quarter of 在科技和社科\n类真题中反复出现;本句结构具有很强的代表性,掌握后可迁移到大量类似句子\nThis deficit is a testament to the effectiveness of modern firefighting, said Kelly\nMartin, a past president of the International Association of Wildland Fire.\n第4段，第1句\n涵盖主系表结构、后置定语短语、插入语等成分，有一定练习价值，但成分种类有限，缺少宾语、\n状语从句等更丰富的结构。\nTo prevent entire ecosystems from going up in smoke, Martin said, people must\nbring healthy fire back to places that need it.\n第5段，第1句\n覆盖主谓宾、目的状语、地点状语、定语从句,成分种类丰富;情态动词作谓语、不定式作状语、定\n语从句中关系代词作主语都是易错点,适合练习成分划分和从句识别,训练价值较高\n\nAt Yosemite National Park, Martin oversaw the use of what is known as prescribed\nburns to make the landscape more resilient.\n第5段，第2句\n句子涵盖主谓宾结构、地点状语、目的状语、介词宾语从句、被动语态等多种成分，特别是 what\n引导的名词性从句作介词宾语这一结构是考试常见易错点，训练价值较高。\nThese fires were carefully planned and intentionally ignited during periods when\nweather kept the blazes easy to control, and helped eliminate some of the fuel that\nhad built up around the important park's facilities.\n第5段，第3句\n主句包含主语、并列谓语（被动 + 主动）、时间状语（含嵌套的状语从句）、宾语（含嵌套的定\n语从句），成分种类丰富。状语从句包含主语、谓语、宾语、宾补结构，定语从句包含关系代词作\n主语、谓语、地点状语。涉及的易错点包括：并列谓语的识别、被动语态与主动语态的混合、定语\n从句关系代词的成分判定、过去完成时与一般过去时的区分、keep + 宾语 + 宾补结构。适合作为\n综合划分练习句。\nResearch shows that these prescribed burns make subsequent wildfires less\nsevere, even if later fires happen under the most dangerous weather conditions.\n第5段，第4句\n主句 + 宾语从句 + 让步状语从句的结构在学术类文章和考试真题中非常常见。shows that 引导宾\n语从句、even if 引导让步状语从句、make + 宾语 + 宾补的使役结构,都是四六级和考研的高频考\n点句式,具有很高的代表性和迁移价值\nYet even as scientists and public officials increasingly agree on the need for more\nfires in our forests, climate change is making this tactic more challenging, experts\nsaid.\n第6段，第1句\n引述结构后置、宾语从句嵌套状语从句、让步状语从句前置、使役动词带宾补，这些都是四六级和\n考研阅读中的高频句式；转折逻辑（尽管...但是...）也是典型议论文结构，掌握后可迁移到大量类\n似长句。\n\n\"It's a double-edged sword because wildfires are getting more severe and larger\nunder climate change and we need this work even more, but then the work gets\nmore challenging,\" said Susan Prichard, a fire ecologist at the University of\nWashington.\n第6段，第2句\n本句覆盖主谓宾、主系表、双宾、状语从句、并列结构等多种成分类型，包含倒装、引语、并列\n连词 and/but 的使用、原因状语从句的识别等考点，成分丰富且具有实战价值，适合作为综合练\n习句。\nWhat can be inferred about modern firefighting?\n第39题题干\n疑问句加被动语态加情态动词的组合在四六级和考研阅读理解的题干中非常常见,尤其是\"What can\nbe inferred/concluded\"这类提问方式是标准的推断题句式,掌握后可直接迁移到大量真题\nit is challenging to predict large wildfires.\n第40题，A\n'it is + 形容词 + to do'是四六级和考研阅读中极为高频的句式，掌握这一结构后可以迁移到大量类\n似句子的理解和写作中，具有很强的代表性。\nit is urgent to assess the use of planned fires.\n第40题，B\n\"It is + 形容词 + to do\" 是四六级和考研中高频出现的句型，在学术写作和正式表达中极为常见，\n掌握后可直接迁移到大量类似句子的理解和写作中\nit is necessary to introduce prescribed burns.\n第40题，C\n结构典型性较高。\"it is + 形容词 + to do\" 是四六级和考研阅读中的高频句型,在议论文、说明文中\n大量出现,用于表达客观判断或普遍看法。掌握这一结构后,学生可以迁移至大量类似句型,如 \"it is\nimportant/possible/difficult to do\" 等。句型本身简洁规范,具有较强的代表性和学习价值。\n\nit is rewarding to double fire detection efforts.\n第40题，D\n\"it is + 形容词 + to do\" 是四六级和考研阅读中高频出现的句式，具有较强的代表性和迁移价值，\n掌握后可应用于大量类似结构。\nH I G H - F R E Q U E N C Y · 真题高频词\n本篇出现的 56 个考研英语一真题高频词\n下列单词既在本篇真题中出现，又是 考研英语一 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n词的释义、音标、词形与真题例句。\nwildfire\nB2\nn. 野火\n本篇6 次 · 真题 12 句\nsevere\nB2\nadj. 严重的\n本篇4 次 · 真题 17 句\nclimate\nB1\nn. 气候\n本篇3 次 · 真题 50 句\nchallenging\nB2\nadj. 有挑战性的\n本篇3 次 · 真题 14 句\nwould\nA1\naux. （will 的过去式）将要，会\n本篇2 次 · 真题 304 句\nless\nA1\ndet. 较少的\n本篇2 次 · 真题 150 句\ndecade\nB1\nn. 十年\n本篇2 次 · 真题 61 句\nlandscape\nB1\nn. 风景\n本篇2 次 · 真题 29 句\nprevious\nB1\nadj. 先前的\n本篇2 次 · 真题 24 句\ncontinent\nA2\nn. 大陆\n本篇2 次 · 真题 15 句\n\naccord\nC1\nn. （国家、团体间的）协议\n本篇1 次 · 真题 172 句\nresearcher\nB2\nn. 研究人员\n本篇1 次 · 真题 112 句\nbenefit\nB1\nn. 好处\n本篇1 次 · 真题 88 句\nfocus\nB1\nn. 重点\n本篇1 次 · 真题 77 句\nreduce\nB1\nv. 减少，降低（数量、大小、程度等）\n本篇1 次 · 真题 75 句\ntend\nB1\nv. 倾向于，往往会\n本篇1 次 · 真题 71 句\nmeasure\nB1\nv. 测量\n本篇1 次 · 真题 65 句\npublish\nB1\nv. 出版，发行（书籍、杂志等）\n本篇1 次 · 真题 52 句\nsite\nA2\nn. 地点\n本篇1 次 · 真题 45 句\nexpert\nB1\nn. 专家\n本篇1 次 · 真题 42 句\nofficial\nB1\nadj. 官方的\n本篇1 次 · 真题 42 句\nmaterial\nB1\nn. 材料\n本篇1 次 · 真题 41 句\nincreasingly\nB2\nadv. 越来越;日益;不断增加地\n本篇1 次 · 真题 40 句\nlater\nA1\nadv. 以后，later\n本篇1 次 · 真题 38 句\nmanagement\nB1\nn. 管理\n本篇1 次 · 真题 36 句\ngraduate\nB1\nn. 毕业生\n本篇1 次 · 真题 34 句\n\nconsequence\nB2\nn. 结果\n本篇1 次 · 真题 33 句\nnetwork\nB1\nn. 网络\n本篇1 次 · 真题 33 句\nparticularly\nB2\nadv. 尤其，特别（强调某事物）\n本篇1 次 · 真题 32 句\nimportance\nB1\nn. 重要性\n本篇1 次 · 真题 31 句\nthreat\nB1\nn. 威胁\n本篇1 次 · 真题 31 句\nhumanity\nB2\nn. 人类（总称）\n本篇1 次 · 真题 29 句\ntraditional\nB1\nadj. 传统的\n本篇1 次 · 真题 28 句\nassociation\nB2\nn. 协会\n本篇1 次 · 真题 27 句\nhistorical\nB2\nadj. 历史的\n本篇1 次 · 真题 26 句\nmainly\nB1\nadv. 主要地\n本篇1 次 · 真题 26 句\nbasis\nB2\nn. 基础;根据\n本篇1 次 · 真题 23 句\nanalyze\nB2\nv. 分析\n本篇1 次 · 真题 21 句\neliminate\nB2\nv. 消除\n本篇1 次 · 真题 21 句\nworkforce\nB2\nn. （一国或一地区的）劳动力，劳动人口\n本篇1 次 · 真题 21 句\ndatabase\nB2\nn. 数据库\n本篇1 次 · 真题 18 句\nassess\nB2\nv. 评估\n本篇1 次 · 真题 17 句\n\ngrowing\nA2\nadj. 增长的\n本篇1 次 · 真题 17 句\nfuel\nB1\nn. 燃料\n本篇1 次 · 真题 14 句\nentire\nB1\nadj. 整个的\n本篇1 次 · 真题 13 句\nunderestimate\nB2\nv. 低估\n本篇1 次 · 真题 13 句\ncurb\nB2\nv. 抑制\n本篇1 次 · 真题 12 句\ndecrease\nB1\nv. 减少，降低\n本篇1 次 · 真题 12 句\nslowly\nA1\nadv. 缓慢地\n本篇1 次 · 真题 11 句\nurgent\nB2\nadj. 紧急的，急迫的\n本篇1 次 · 真题 11 句\nfrequent\nB1\nadj. 频繁的\n本篇1 次 · 真题 10 句\nrecall\nB2\nv. 回忆起，记起\n本篇1 次 · 真题 10 句\nsurprised\nA2\nadj. 感到惊讶的\n本篇1 次 · 真题 10 句\ncarefully\nA2\nadv. 仔细地\n本篇1 次 · 真题 9 句\nfacility\nB2\nn. 设施\n本篇1 次 · 真题 9 句\nmandate\nC1\nn. 授权\n本篇1 次 · 真题 8 句\nV O C A B U L A R Y · 词汇难度分布\n全文 228 词按 CEFR 难度累积覆盖\n全文去重后共 228 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」的累积\n占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 14 个 · 约 6%。\n\n37%\nA1\n及以下\n54%\nA2\n及以下\n74%\nB1\n及以下\n94%\nB2\n及以下\n100%\nC1\n及以下\n100%\nC2\n及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 228 个 · 末柱为 100%\n去重总词数\n228\nB2 以上难词\n6%\nB1 及以下覆盖\n74%\n考研英语一\n2026年 · 全卷构成\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →\n本题\n段落排序\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →"
+    }
+   ]
+  }
+ ],
+ "partB": {
+  "options": {
+   "A": "And just read a single poem. In his Oxford lectures, Seamus Heaney argued that a poem draws a picture of reality, a \"glimpsed alternative\" that sets up a contradiction with your own, in ways little and large. The negotiation, between you and it, is the heart of the matter. What does the poet see that you don't? What does the difference mean? It could be one of the best conversations you ever have. Forget self-help books; reading is self-help in action. 只需读一首诗。Seamus Heaney在牛津的讲座中指出,一首诗描绘了现实的图景,一种\"瞥见的替代\", 以或大或小的方式与你自己的现实形成矛盾。你与诗之间的协商正是问题的核心。诗人看到了什么 你看不到的东西?这种差异意味着什么?这可能是你经历过的最好的对话之一。忘掉自助书籍吧;阅读 就是实践中的自助。",
+   "B": "But for the most part, this isn't what the business community does. I have yet to meet a chief executive who reads regularly. Many skip newspapers, and magazines are a stretch. They don't have time, they say. It's inefficient; they can get the information they need from those around them. At a pinch, they might pick up a business book before a long flight, in the hope that, like a cookbook, it will provide a foolproof recipe. Some are drawn to what I think of as \"business car crash\" books — the stories of Theranos, Purdue, or WeWork. But outside those narrow pools of interest, a vast ocean awaits, bountiful with simmering ideas, mental adventure and imaginative refreshment. 但在大多数情况下,商界并非如此。我还没遇到过一位定期阅读的首席执行官。许多人不看报纸,杂志 更是勉强。他们说没有时间。这样做效率低下;他们可以从周围的人那里获得所需的信息。在紧要关 头,他们可能会在长途飞行前拿起一本商业书籍,希望像烹饪书一样,它能提供万无一失的配方。有些 人被我认为是\"商业车祸\"类书籍所吸引——关于Theranos、Purdue或WeWork的故事。但在这些 狭窄的兴趣池之外,一片广阔的海洋正等待着,充满了酝酿中的思想、精神冒险和想象力的焕然一新。",
+   "C": "Neuroscientists have been at pains to demonstrate that the pleasure a book provides isn't indulgence; it's good for you. Reading will keep you better informed about the world but it can also improve our tech-shattered ability to concentrate. Standing in the shoes of others fine tunes our social understanding, useful as we struggle to understand friends, neighbours, customers and co-workers. Different parts of our brain engage as we simulate scenes, characters and mental states. Our imagination — remember that? — is rekindled. 神经科学家一直竭力证明,书籍提供的愉悦并非放纵;它对你有益。阅读会让你更好地了解世界,但它 也能改善我们被技术破坏的专注能力。站在他人的立场上能微调我们的社会理解力,这在我们努力理 解朋友、邻居、客户和同事时很有用。当我们模拟场景、人物和心理状态时,大脑的不同部分会参与 其中。我们的想象力——还记得吗?——被重新点燃。",
+   "D": "It is undoubtedly true that all work and no play really does make Jack, or Jill, dull. The cure is right at hand. Reading is cheap, easy and, most important, it's fun. Liberate your imagination this year. 毫无疑问,只工作不玩耍确实会让Jack或Jill变得迟钝。治愈方法就在手边。阅读便宜、简单,最重要 的是,它很有趣。今年解放你的想象力吧。",
+   "E": "We are living through a golden age of science writing, so lucid and accessible that even lay readers can relish the unpredictability of discovery. Daunted by uncertainty? Stand in the shoes of scientists and witness the degree to which breakthroughs emerge from accidents, conflict and sheer mental stamina. \"We are never sure of anything,\" says the physicist (and writer) Carlo Rovelli. 我们正生活在科学写作的黄金时代,如此清晰易懂,即使是普通读者也能享受发现的不可预测性。对不 确定性感到畏惧?站在科学家的立场上,见证突破在多大程度上源于意外、冲突和纯粹的精神毅力。 物理学家(也是作家)Carlo Rovelli说:\"我们从不确定任何事情。\"",
+   "F": "You don't need to get out more. If, like most business people, you spend your life dashing from office to plane, train to home, boardroom to washroom, what you really need to do is stay in more, sit down — and read a book. 你不需要多出门。如果像大多数商务人士一样,你的生活就是从办公室赶到飞机,从火车赶到家,从会 议室赶到洗手间,那么你真正需要做的是多待在家里,坐下来——读一本书。",
+   "G": "Reading has also been found to make us more helpful, to reduce bias, and even to increase longevity — something we will enjoy all the more if we have a good book in our hands. (And yes, all these benefits are more closely associated with physical books than digital ones.) 阅读还被发现能让我们更乐于助人,减少偏见,甚至延长寿命——如果手里有一本好书,我们会更加享 受这一切。(是的,所有这些好处与实体书的关联比与电子书的关联更密切。) [ H ] Read fiction. Any fiction. Free yourself from algorithms and choose—anything. You don't need technology for an immersive experience—just surrender to narratives across time and place. Modern (Sebastian Barry or Olga Tokarczuk), classic (Virginia Woolf or James Baldwin) or genre (Stephen King, Margaret Atwood, Georges Simenon)—it doesn't matter. Fiction invites you to F → → → H → → C → → 正确顺序 预给F →41 B →42 E →预给H →43 A →预给C →44 G →45 D 通读验证按 F→B→E→H→A→C→G→D 从头通读：F 立主张 read a book；B 段首 But ... this isn't what the business community does 的 this 回指 F 的主张，转折点出现状（缝1·指代）；B 段尾 a vast ocean awaits 总说书海，E 段首 golden age of science writing 推荐第一类读物科普（缝2·总说→ 分项）；E 与 H 段尾 a golden age of translation too 句式复现+too，E→H 咬合（缝3·词汇复现）；H 推荐小说，A 段首 And just read a single poem 用 And 续推荐诗（缝4·并列）；A 段尾 reading is self-help in action 转向价值，C 段首 it's good for you 开讲益处（缝5·语义顺承）；C 列益处后，G 段 首 Reading has also been found 用 also 追加益处（缝6·递进）；G 段尾 all these benefits 收口，D 段首 The cure 收尾、段尾 Liberate your imagination this year 落幕（缝7·收束）。八段各出现一次、 首段独立开篇、尾段收束成立，整篇连贯。最易勉强的是 E↔A 谁先谁后：靠 E↔H 的 golden age + too 复现链把 E 钉在 H 前、A 钉在 H 后，方不致错位。"
+  },
+  "paras": [],
+  "questions": [
+   {
+    "no": 41,
+    "stem": "→",
+    "options": {}
+   },
+   {
+    "no": 42,
+    "stem": "→ H →",
+    "options": {}
+   },
+   {
+    "no": 43,
+    "stem": "→ C →",
+    "options": {}
+   },
+   {
+    "no": 44,
+    "stem": "→",
+    "options": {}
+   },
+   {
+    "no": 45,
+    "stem": "正确顺序 预给F →41 B →42 E →预给H →43 A →预给C →44 G →45 D 通读验证按 F→B→E→H→A→C→G→D 从头通读：F 立主张 read a book；B 段首 But ... this isn't what the business community does 的 this 回指 F 的主张，转折点出现状（缝1·指代）；B 段尾 a vast ocean awaits 总说书海，E 段首 golden age of science writing 推荐第一类读物科普（缝2·总说→ 分项）；E 与 H 段尾 a golden age of translation too 句式复现+too，E→H 咬合（缝3·词汇复现）；H 推荐小说，A 段首 And just read a single poem 用 And 续推荐诗（缝4·并列）；A 段尾 reading is self-help in action 转向价值，C 段首 it's good for you 开讲益处（缝5·语义顺承）；C 列益处后，G 段 首 Reading has also been found 用 also 追加益处（缝6·递进）；G 段尾 all these benefits 收口，D 段首 The cure 收尾、段尾 Liberate your imagination this year 落幕（缝7·收束）。八段各出现一次、 首段独立开篇、尾段收束成立，整篇连贯。最易勉强的是 E↔A 谁先谁后：靠 E↔H 的 golden age + too 复现链把 E 钉在 H 前、A 钉在 H 后，方不致错位。",
+    "options": {}
+   }
+  ]
+ },
+ "partC": {
+  "paras": [
+   {
+    "en": "Science education today revolves around the idea of scientific literacy — the base-level knowledge about science that nonscientists require to effectively get on in the world. This concept has served as a central goal for curriculum developers, local school boards, business and community leaders, and policymakers ever since its introduction nearly 80 years ago.",
+    "zh": "当今的科学教育围绕科学素养这一理念展开——即非科学家在世界上有效生活所需的关于科学的基础知 识。自近80年前提出以来,这一概念一直是课程开发者、地方学校董事会、商业和社区领导者以及政策制 定者的核心目标。",
+    "no": 1,
+    "sentences": [
+     {
+      "i": 1,
+      "en": "Science education today revolves around the idea of scientific literacy — the base-level knowledge about science that nonscientists require to effectively get on in the world.",
+      "zh": "当今的科学教育围绕科学素养这一理念展开——即非科学家在世界上有效生活所需的关于科学的基础知 识。",
+      "main": "Science education today revolves around the idea of scientific literacy",
+      "chunks": [
+       {
+        "t": "Science education today",
+        "r": "主语"
+       },
+       {
+        "t": "revolves around the idea of scientific literacy",
+        "r": "谓语 + 宾语/表语"
+       },
+       {
+        "t": "the base-level knowledge about science",
+        "r": "补充说明（同位/修饰）"
+       },
+       {
+        "t": "that nonscientists require to effectively get on in the world.",
+        "r": "定语从句"
+       }
+      ]
+     },
+     {
+      "i": 2,
+      "en": "This concept has served as a central goal for curriculum developers, local school boards, business and community leaders, and policymakers ever since its introduction nearly 80 years ago.",
+      "zh": "自近80年前提出以来,这一概念一直是课程开发者、地方学校董事会、商业和社区领导者以及政策制 定者的核心目标。",
+      "main": "This concept has served as a central goal for curriculum developers",
+      "chunks": [
+       {
+        "t": "This concept",
+        "r": "主语"
+       },
+       {
+        "t": "has served as a central goal for curriculum developers",
+        "r": "谓语 + 宾语/表语"
+       },
+       {
+        "t": "local school boards",
+        "r": "并列谓语"
+       },
+       {
+        "t": "business and community leaders",
+        "r": "并列谓语"
+       },
+       {
+        "t": "and policymakers ever",
+        "r": "状语从句"
+       },
+       {
+        "t": "since its introduction nearly 80 years ago.",
+        "r": "状语从句"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "And that's a shame, because there is much to recommend in the idea of scientific literacy as it was originally articulated in 1945, a time when science appeared to be the key to progress and scientists seemingly held the fate of the world in their hands.",
+    "zh": "追溯这一术语的历史,我们可以看到科学素养的定义如何随时间推移而变化,在确定科学教育目标时使情况 变得模糊不清。这很遗憾,因为科学素养这一理念在1945年最初阐述时有很多值得推崇之处,那时科学似乎 是进步的关键,科学家看似将世界的命运掌握在手中。回归那个版本的科学素养,它更侧重于教授什么是科 学以及科学如何运作,而非死记硬背科学事实,似乎是当今社会迫切需要的。",
+    "no": 2,
+    "sentences": [
+     {
+      "i": 1,
+      "en": "And that's a shame, because there is much to recommend in the idea of scientific literacy as it was originally articulated in 1945, a time when science appeared to be the key to progress and scientists seemingly held the fate of the world in their hands.",
+      "zh": "",
+      "main": "And that's a shame",
+      "chunks": [
+       {
+        "t": "And",
+        "r": "主语"
+       },
+       {
+        "t": "that's a shame",
+        "r": "谓语 + 宾语/表语"
+       },
+       {
+        "t": "because there is much to recommend in the idea of scientific literacy as it was originally articulated in 1945",
+        "r": "状语从句"
+       },
+       {
+        "t": "a time",
+        "r": "补充说明（同位/修饰）"
+       },
+       {
+        "t": "when science appeared to be the key to progress and scientists seemingly held the fate of the world in their hands.",
+        "r": "定语从句"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "In the United States, the desire to provide the public with a general, nontechnical education in science originated as far back as the late 1800s. (46)Tracing the history of the term, we can see how the definition of scientific literacy has shifted over time, muddying the waters when it comes to determining the goals of science education. (47)A return to that version of scientific literacy, which focused more on teaching what science is and how it works and less on memorizing scientific facts, seems like something society today desperately needs. (48)Educators advanced the idea of having students complete detailed laboratory exercises in high schools in the belief that such work was beneficial  The development in 1915 of the popular new subject \"general science\" was another effort to train students to apply the principles of science to everyday, nonscience problems.",
+    "zh": "在美国,为公众提供科学方面的通识性、非技术性教育的愿望最早可追溯到19世纪末。教育工作者提出让 学生在高中完成详细实验练习的想法,认为这类工作的益处主要在于增强逻辑推理和观察技能。1915年流 行的新学科\"普通科学\"的发展是另一项努力,旨在训练学生将科学原理应用于日常的非科学问题。",
+    "no": 3,
+    "sentences": [
+     {
+      "i": 1,
+      "en": "In the United States, the desire to provide the public with a general, nontechnical education in science originated as far back as the late 1800s. (46)Tracing the history of the term, we can see how the definition of scientific literacy has shifted over time, muddying the waters when it comes to determining the goals of science education.",
+      "zh": "在美国,为公众提供科学方面的通识性、非技术性教育的愿望最早可追溯到19世纪末。",
+      "main": "the desire to provide the public with a general nontechnical education in science originated as far back as the late 1800s. (46)Tracing the history of the term",
+      "chunks": [
+       {
+        "t": "In the United States",
+        "r": "介词短语（状语/定语）"
+       },
+       {
+        "t": "the desire to provide the public with a general",
+        "r": "主语"
+       },
+       {
+        "t": "nontechnical education in science originated as far back as the late 1800s. (46)Tracing the history of the term",
+        "r": "谓语 + 宾语/表语"
+       },
+       {
+        "t": "we can see how the definition of scientific literacy has shifted over time",
+        "r": "并列谓语"
+       },
+       {
+        "t": "muddying the waters",
+        "r": "分词短语（插入语/定语）"
+       },
+       {
+        "t": "when it comes to determining the goals of science education.",
+        "r": "定语从句"
+       }
+      ]
+     },
+     {
+      "i": 2,
+      "en": "(47)A return to that version of scientific literacy, which focused more on teaching what science is and how it works and less on memorizing scientific facts, seems like something society today desperately needs. (48)Educators advanced the idea of having students complete detailed laboratory exercises in high schools in the belief that such work was beneficial  The development in 1915 of the popular new subject \"general science\" was another effort to train students to apply the principles of science to everyday, nonscience problems.",
+      "zh": "教育工作者提出让 学生在高中完成详细实验练习的想法,认为这类工作的益处主要在于增强逻辑推理和观察技能。 1915年流 行的新学科\"普通科学\"的发展是另一项努力,旨在训练学生将科学原理应用于日常的非科学问题。",
+      "main": "(47)A return to seems like something society today desperately needs. (48)Educators advanced the idea of having students complete detailed laboratory exercises in high schools in the belief",
+      "chunks": [
+       {
+        "t": "(47)A return to",
+        "r": "主语"
+       },
+       {
+        "t": "that version of scientific literacy",
+        "r": "定语从句"
+       },
+       {
+        "t": "which focused more on teaching what science is and how it works and less on memorizing scientific facts",
+        "r": "定语从句"
+       },
+       {
+        "t": "seems like something society today desperately needs. (48)Educators advanced the idea of having students complete detailed laboratory exercises in high schools in the belief",
+        "r": "谓语 + 宾语/表语"
+       },
+       {
+        "t": "that such work was beneficial  The development in 1915 of the popular new subject \"general science\" was another effort to train students to apply the principles of science to everyday, nonscience problems.",
+        "r": "定语从句"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "Although these efforts were aimed at the nonscience-bound student, they never really made their way into mainstream thought and public discourse as a means to rally widespread support for the importance of science teaching in schools.",
+    "zh": "尽管这些努力针对的是非理科方向的学生,但它们从未真正进入主流思想和公共话语,成为广泛支持学校科 学教学重要性的手段。直到20世纪40年代\"科学素养\"这一短语出现,科学才有了所需的有力口号来引起公 众关注,并使改善科学教育成为重要的国家目标。",
+    "no": 4,
+    "sentences": [
+     {
+      "i": 1,
+      "en": "Although these efforts were aimed at the nonscience-bound student, they never really made their way into mainstream thought and public discourse as a means to rally widespread support for the importance of science teaching in schools.",
+      "zh": "尽管这些努力针对的是非理科方向的学生,但它们从未真正进入主流思想和公共话语,成为广泛支持学校科 学教学重要性的手段。 直到20世纪40年代\"科学素养\"这一短语出现,科学才有了所需的有力口号来引起公 众关注,并使改善科学教育成为重要的国家目标。",
+      "main": "Although these efforts were aimed at the nonscience-bound student",
+      "chunks": [
+       {
+        "t": "Although these",
+        "r": "主语"
+       },
+       {
+        "t": "efforts were aimed at the nonscience-bound student",
+        "r": "谓语 + 宾语/表语"
+       },
+       {
+        "t": "they never really made their way into mainstream thought and public discourse as a means to rally widespread support for the importance of science teaching in schools.",
+        "r": "并列谓语"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "As the war unfolded, science rapidly assumed a central role. Battles increasingly depended on new military technologies such as radar and the proximity fuze. Science-based analytical approaches proved remarkably successful in the hunt for German submarines in the Atlantic Ocean. And there was the (then-secret) work building the world's first atomic bomb. As a result, scientists — physicists in particular — found themselves in high demand.",
+    "zh": "美国对科学素养的高度关注最初源于科学技术在第二次世界大战中的关键作用,以及美国士兵被认为存在的 不足。随着战争展开,科学迅速承担起核心角色。战斗越来越依赖雷达和近炸引信等新军事技术。基于科学 的分析方法在大西洋猎杀德国潜艇的行动中被证明极为成功。还有制造世界上第一颗原子弹的(当时保密 的)工作。因此,科学家——尤其是物理学家——发现自己需求量很大。",
+    "no": 5,
+    "sentences": [
+     {
+      "i": 1,
+      "en": "As the war unfolded, science rapidly assumed a central role. Battles increasingly depended on new military technologies such as radar and the proximity fuze.",
+      "zh": "美国对科学素养的高度关注最初源于科学技术在第二次世界大战中的关键作用,以及美国士兵被认为存在的 不足。 随着战争展开,科学迅速承担起核心角色。",
+      "main": "science rapidly assumed a central role. Battles increasingly depended on new military technologies such as radar and the proximity fuze.",
+      "chunks": [
+       {
+        "t": "As the war unfolded",
+        "r": "介词短语（状语/定语）"
+       },
+       {
+        "t": "science rapidly",
+        "r": "主语"
+       },
+       {
+        "t": "assumed a central role. Battles increasingly depended on new military technologies such as radar and the proximity fuze.",
+        "r": "谓语 + 宾语/表语"
+       }
+      ]
+     },
+     {
+      "i": 2,
+      "en": "Science-based analytical approaches proved remarkably successful in the hunt for German submarines in the Atlantic Ocean.",
+      "zh": "战斗越来越依赖雷达和近炸引信等新军事技术。 基于科学 的分析方法在大西洋猎杀德国潜艇的行动中被证明极为成功。",
+      "main": "Science- based analytical approaches proved remarkably successful in the hunt for German submarines in the Atlantic Ocean.",
+      "chunks": [
+       {
+        "t": "Science-",
+        "r": "主语"
+       },
+       {
+        "t": "based analytical approaches proved remarkably successful in the hunt for German submarines in the Atlantic Ocean.",
+        "r": "谓语 + 宾语/表语"
+       }
+      ]
+     },
+     {
+      "i": 3,
+      "en": "And there was the (then-secret) work building the world's first atomic bomb. As a result, scientists — physicists in particular — found themselves in high demand.",
+      "zh": "还有制造世界上第一颗原子弹的(当时保密 的)工作。 因此,科学家——尤其是物理学家——发现自己需求量很大。",
+      "main": "physicists in particular scientists",
+      "chunks": [
+       {
+        "t": "And there was the (then-secret) work building the world's first atomic bomb. As a result",
+        "r": "状语从句"
+       },
+       {
+        "t": "scientists",
+        "r": "谓语 + 宾语/表语"
+       },
+       {
+        "t": "physicists in particular",
+        "r": "主语"
+       },
+       {
+        "t": "found themselves in high demand.",
+        "r": "补充说明（同位/修饰）"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sentences": [
+   {
+    "no": 46,
+    "en": "Tracing the history of the term, we can see how the definition of scientific literacy has shifted over time, muddying the waters when it comes to determining the goals of science education."
+   },
+   {
+    "no": 47,
+    "en": "A return to that version of scientific literacy, which focused more on teaching what science is and how it works and less on memorizing scientific facts, seems like something society today desperately needs."
+   },
+   {
+    "no": 48,
+    "en": "Educators advanced the idea of having students complete detailed laboratory exercises in high schools in the belief that such work was beneficial"
+   },
+   {
+    "no": 49,
+    "en": "It wasn't until the phrase \"scientific literacy\" came along in the 1940s that science had the formidable slogan it needed to command public attention and make improving science education an important national goal."
+   },
+   {
+    "no": 50,
+    "en": "The intense focus on scientific literacy in the United States originally grew out of the critical role of science and technology during World War II, as well as the perceived deficiencies of American soldiers."
+   }
+  ],
+  "analysis": "逐句解析\n句前 (N) 即考卷划线句题号，与卷面下划线句一一对应——满分 10 分、每句约 2 分，阅卷把每句切成意群按采\n分点给分（★ 为采分点意群）。\n【来源】本文选自 American Scientist（美国《美国科学家》杂志）2024年第112卷第4期（7–8月\n号）一篇由 John L. Rudolph 撰写、标题为“The Many Lives of Scientific Literacy”（《科\n学素养的多重人生》）的文章。\n【主旨】科学素养概念的历史与回归\n全文梳理 scientific literacy（科学素养）这一概念近 80 年的来龙去脉：作者认为它的定义被反复\n改动、越改越模糊，主张回到 1945 年最初的版本——there is much to recommend in the idea\nof scientific literacy as it was originally articulated in 1945，那个版本更看重“科学是什么、如\n何运作”。基调是带主张的回顾。\nprimarily as a way to enhance logical reasoning and observational skills.\n(49)It wasn't until the phrase \"scientific literacy\" came along\nin the 1940s that science had the formidable slogan it needed to command public attention and make\nimproving science education an important national goal.\n(50)The intense focus on scientific literacy in the United States originally grew out of the critical\nrole of science and technology during World War II, as well as the perceived deficiencies of American\nsoldiers.\n\n【指代】the term = scientific literacy\n第 46 句的 the term 指全文核心概念 scientific literacy，翻译时点明为“科学素养（这一术语）”，\n不要泛泛译成“这个词”。\nthat version 指 1945 年版本\n第 47 句的 that version of scientific literacy 回指上文 as it was originally articulated in\n1945，即“1945 年最初阐述的那个版本”，孤立译会丢掉这层指代。\nsuch work 指实验练习\n第 48 句 such work 回指同句前文 detailed laboratory exercises（详尽的实验室练习），还原后\n再译。\n(46) Tracing the history of the term, we can see how the definition of scientific literacy has shifted\nover time, muddying the waters when it comes to determining the goals of science education.\n【意群】Tracing the history of the term,（现在分词短语作时间状语）★采分→追溯这一术语的历史，\n难点：分词状语 + the term 指代\nTracing 是现在分词作状语，逻辑主语是后面的 we，译成“当我们追溯……时”或直接“追溯……”；\nthe term 回指 scientific literacy，补成“这一术语（科学素养）”。\nwe can see（主句主谓）→我们可以看到\nhow the definition of scientific literacy has shifted over time,（how 引导的宾语从句）★采分\n→“科学素养”的定义是如何随时间不断变化的，\n难点：shifted over time\nshift 此处取“（不断）变化、改变”，over time = 随着时间推移；how 从句作 see 的宾语，译\n“……是如何……的”。\nmuddying the waters when it comes to determining the goals of science education.（现在分词\n作结果状语 + when 从句）★采分→（这）把水搅浑，在确定科学教育的目标时（造成困扰）。\n难点：muddy the waters 熟语 + when it comes to\nmuddy the waters 是固定习语，字面“搅浑水”，实指“把问题搞得混乱不清”，不能直译；when\nit comes to doing = 一涉及/在……方面，to 是介词后接动名词 determining。\n【调序】分词状语提前、结果状语收尾\n把句首“追溯……的历史”作时间状语放在最前；主干“我们可以看到……”居中；句末 muddying 的结\n果用“而这（就）使得……”承接，符合汉语先因后果的顺序。\n【译文】追溯这一术语的历史，我们可以看到“科学素养”的定义是如何随时间不断变化的，而\n这就使得在确定科学教育的目标时变得愈发模糊不清。\n\n(47) A return to that version of scientific literacy, which focused more on teaching what science is\nand how it works and less on memorizing scientific facts, seems like something society today\ndesperately needs.\n【意群】A return to that version of scientific literacy,（主语）★采分→回到那个版本的科学素养，\n难点：that version 指代 + 名词化 return\nthat version 回指 as it was originally articulated in 1945，即“1945 年最初的那个版本”；\nreturn 是抽象名词，译时可化为动词“回归 / 回到”。\nwhich focused more on teaching what science is and how it works and less on memorizing\nscientific facts,（which 引导的非限定性定语从句）★采分→（那个版本）更注重教“科学是什\n么、如何运作”，而不那么注重背诵科学事实，\n难点：more on … and less on … 对比\nfocus more on A and less on B 是“多重 A、少重 B”的对比结构；what science is / how it\nworks 是两个并列宾语从句，译“科学是什么、（科学）如何运作”。\nseems like something society today desperately needs.（谓语 + 省略 that 的定语从句）★采分→\n似乎正是当今社会迫切需要的东西。\n难点：something (that) society needs\nsomething 后省略了关系词 that，society today desperately needs 是修饰 something 的定\n语从句；desperately 程度词译“迫切地”。\n【调序】定语从句拆成并列分句\nwhich 从句较长，不前置成“……的”，而是拆成一个并列分句“它更注重……，而不那么注重……”，跟\n在主语之后单独成句，再接主干谓语，避免“……的科学素养”定语过长。\n【译文】回归科学素养的那个（1945 年的）版本——它更注重教授科学是什么、如何运作，\n而不那么强调背诵科学事实——似乎正是当今社会迫切需要的东西。\n\n(48) Educators advanced the idea of having students complete detailed laboratory exercises in high\nschools in the belief that such work was beneficial primarily as a way to enhance logical reasoning\nand observational skills.\n【意群】Educators advanced the idea of having students complete detailed laboratory exercises in high\nschools（主干 + of 动名词同位内容）★采分→教育工作者提出了让高中生完成详尽实验室练习\n的想法\n难点：advance the idea + have sb do\nadvance 此处是“提出（主张/想法）”，非“前进”；have students complete 是“使役 have + 宾\n语 + 动词原形”，译“让学生完成”。\nin the belief that such work was beneficial primarily（in the belief that 同位语从句作状语）★采\n分→他们相信这种练习的益处主要在于\n难点：in the belief that + such work 指代\nin the belief that… 是“怀着……的信念 / 因为相信……”；such work 回指前文 detailed\nlaboratory exercises，译“这类（实验）练习”。\nas a way to enhance logical reasoning and observational skills.（方式状语 + 不定式）★采分→\n作为一种提升逻辑推理和观察能力的途径。\n难点：as a way to do\nas a way to enhance… = 作为提升……的一种方式；logical reasoning / observational skills\n译“逻辑推理（能力）/ 观察能力”。\n【调序】同位语从句转成“相信……”分句\nin the belief that 不译成定语，而拆成一句“他们相信……”跟在主干后；such work 还原为“这种练\n习”，整体按“提出想法——因为相信其益处在于——提升推理与观察能力”的顺序铺开。\n【译文】教育工作者提出，让高中生完成详尽的实验室练习；他们相信，这类练习之所以有\n益，主要是因为它是一种提升逻辑推理能力和观察能力的途径。\n\n(49) It wasn't until the phrase \"scientific literacy\" came along in the 1940s that science had the\nformidable slogan it needed to command public attention and make improving science education an\nimportant national goal.\n【意群】It wasn't until the phrase \"scientific literacy\" came along in the 1940s（not until 强调句的状语部\n分）★采分→直到 20 世纪 40 年代“科学素养”这一说法出现，\n难点：It was not until … that … 强调句\n这是 It was not until A that B 的强调句型，固定译“直到 A，才 B”，不要按字面译“它不是直\n到”；come along 取“出现、问世”。\nthat science had the formidable slogan it needed（强调句主句 + 省略 that 的定语从句）★采分→\n科学才有了它所需要的那句强有力的口号，\n难点：slogan (that) it needed\nthe slogan 后省略关系词 that，it needed 是定语从句“它所需要的”；formidable 取“强大的、\n令人敬畏的”，修饰 slogan 译“强有力的”。\nto command public attention and make improving science education an important national\ngoal.（不定式作定语（slogan 的用途））★采分→用以吸引公众注意，并把改善科学教育变成一\n项重要的国家目标。\n难点：make + 动名词宾语 + 宾补\ncommand public attention = 赢得/吸引公众关注；make improving science education an\nimportant national goal 是 make + 宾语(improving…动名词) + 宾补(a goal)，译“使改善科\n学教育成为……目标”。\n【调序】强调句按“直到……才……”重排\n把 until 从句“直到 40 年代……出现”放前，that 后主句用“科学才有了……口号”承接“才”字；末尾不\n定式拆成“用以……、并使……”两个目的分句收尾。\n【译文】直到 20 世纪 40 年代“科学素养”这一说法问世，科学才拥有了它所需要的那句强有力\n的口号——用以赢得公众的关注，并使改善科学教育成为一项重要的国家目标。\n\n(50) The intense focus on scientific literacy in the United States originally grew out of the critical\nrole of science and technology during World War II, as well as the perceived deficiencies of\nAmerican soldiers.\n【意群】The intense focus on scientific literacy in the United States（主语）★采分→美国对科学素养\n的高度关注\n难点：intense focus 名词短语\nintense focus on… = 对……的高度/强烈关注；in the United States 作定语，译“美国（国内）\n对……的关注”。\noriginally grew out of the critical role of science and technology during World War II,（谓语\n（grow out of）+ 时间状语）★采分→最初源于二战期间科学技术所起的关键作用，\n难点：grow out of 短语动词\ngrow out of = 源于、产生于（不取字面“长出”）；the critical role of… during World War II\n译“二战期间……的关键作用”。\nas well as the perceived deficiencies of American soldiers.（as well as 并列成分）★采分→以及\n人们所认为的美国士兵的不足。\n难点：perceived 熟词僻义\nperceived 此处取“被认为的、（人们）感觉到的”，不是“感知”；deficiencies = 缺陷、不足；as\nwell as 把它与前面的 role 并列，同作 grew out of 的宾语。\n【调序】并列宾语用“源于……以及……”串接\n主语“美国对科学素养的高度关注”居前，谓语用“最初源于”，把 as well as 连接的两项并列宾语用\n“……以及……”串成一句，符合汉语“A 源于 X 以及 Y”的顺序。\n【译文】美国之所以高度关注科学素养，最初源于二战期间科学技术所发挥的关键作用，以及\n人们所认为的美国士兵在这方面的不足。\nS E N T E N C E I N S I G H T S · 句子精讲\n13 句真题句逐层精讲\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\n\nScience education today revolves around the idea of scientific literacy — the base-\nlevel knowledge about science that nonscientists require to effectively get on in the\nworld.\n第1段，第1句\n主句包含\"revolve around\"这类动词短语搭配,宾语后附同位语解释,再嵌套定语从句修饰同位语中的\n名词,这种\"核心概念+解释+限定\"的结构在学术类阅读和考试真题中高频出现,具有很强的代表性和\n迁移价值。\nThis concept has served as a central goal for curriculum developers, local school\nboards, business and community leaders, and policymakers ever since its\nintroduction nearly 80 years ago.\n第1段，第2句\n现在完成时配合 \"ever since\" 引导的时间状语从句,是四六级和考研阅读中常见的句式,用于表达某种\n状态或趋势从过去持续到现在。介词短语列举多个并列对象也是学术文本的典型写法。掌握此句式\n后可在类似语境中复用。\nTracing the history of the term, we can see how the definition of scientific literacy\nhas shifted over time, muddying the waters when it comes to determining the\ngoals of science education.\n第2段，第1句\n句子涵盖现在分词短语作状语、宾语从句、伴随状语、时间状语从句等多种成分，且句首状语和句\n尾伴随状语容易与主句主干混淆，宾语从句中 \"how\" 的用法也是常见考点。成分种类丰富，包含\n多个易错点，作为划分成分的练习句训练价值较高。\nAnd that's a shame, because there is much to recommend in the idea of scientific\nliteracy as it was originally articulated in 1945, a time when science appeared to be\nthe key to progress and scientists seemingly held the fate of the world in their\nhands.\n第2段，第2句\n本句成分丰富:涵盖主系表、there be 存在句、被动语态主谓、及物动词主谓宾、并列谓语、多种状\n语和定语。尤其是 there be 句型中不定式作定语、被动语态的识别、并列谓语的主语切换,都是常\n见易错点,非常适合作为划分成分的练习句。\n\nA return to that version of scientific literacy, which focused more on teaching what\nscience is and how it works and less on memorizing scientific facts, seems like\nsomething society today desperately needs.\n第2段，第3句\n成分种类丰富且包含多个典型易错点:主句有被长修饰语打断的主语和系表结构;非限定性定语从句\n展示了关系代词 \"which\" 作主语的用法和对比状语 \"more on ... and less on ...\";宾语从句涉及\n\"what\" 作表语和 \"how\" 作状语的特殊语序;限定性定语从句演示了关系代词省略和多个状语的排\n列。覆盖主系表、定语从句(限定性与非限定性)、宾语从句、状语类型等核心考点,训练价值高。\nIn the United States, the desire to provide the public with a general, nontechnical\neducation in science originated as far back as the late 1800s.\n第3段，第1句\n句式为典型的简单句配长主语和状语的结构，后置定语修饰主语这一模式在四六级和考研阅读中频\n繁出现，学习后可迁移至大量类似句子\nEducators advanced the idea of having students complete detailed laboratory\nexercises in high schools in the belief that such work was beneficial primarily as a\nway to enhance logical reasoning and observational skills.\n第3段，第2句\n同位语从句是四六级和考研阅读中的高频句式，特别是\"抽象名词 + that从句\"的结构（如\nbelief/idea/fact/evidence + that）在学术英语中极为常见。本句的\"in the belief that...\"既体现了同\n位语从句的典型用法，又结合了介词短语和长修饰语的真题常见特征，学习者掌握后可迁移到大量\n类似句子。\nThe development in 1915 of the popular new subject \"general science\" was another\neffort to train students to apply the principles of science to everyday, nonscience\nproblems.\n第3段，第3句\n本句覆盖了主语、谓语、表语、定语（不定式和介词短语）、时间状语等多种成分，且主语部分的\n修饰成分较为复杂（时间状语和介词短语分隔核心名词），表语部分包含嵌套的不定式结构，适合\n练习如何在长句中识别核心成分和修饰成分的归属关系。\n\nAlthough these efforts were aimed at the nonscience-bound student, they never\nreally made their way into mainstream thought and public discourse as a means to\nrally widespread support for the importance of science teaching in schools.\n第4段，第1句\n让步状语从句（Although引导）加主句的结构在四六级和考研阅读中极为常见，是表达转折对比的\n典型句式。主句中的\"make one's way into\"和\"as a means to\"都是学术写作的高频表达。从句使用\n被动语态描述研究或措施的设计初衷，也是科技、教育类文章的常见写法。掌握本句结构后，可直\n接迁移到大量同类句式的理解和写作中。\nIt wasn't until the phrase \"scientific literacy\" came along in the 1940s that science\nhad the formidable slogan it needed to command public attention and make\nimproving science education an important national goal.\n第4段，第2句\n涵盖丰富的成分类型和易错点：强调句中的形式主语 it、被强调的时间状语从句、主句实际主谓\n宾、省略关系代词的定语从句、不定式作宾语、并列不定式（第二个省略 to）。特别是强调句框\n架的识别、形式主语与实际主语的区分、省略关系代词的定语从句判定，都是考试高频考点和学生\n易错环节，训练价值极高\nBattles increasingly depended on new military technologies such as radar and the\nproximity fuze.\n第5段，第3句\n典型的简单句主谓宾结构，但句式过于基础，在四六级或考研阅读中不具有代表性。真题中更常见\n包含从句或复杂修饰的句子，本句作为句式样本的迁移价值中等。\nAnd there was the (then-secret) work building the world's first atomic bomb.\n第5段，第5句\nthere be 句型在四六级与考研真题中频繁出现，尤其是带有后置定语修饰主语的变体。本句结构\n（be 动词 + 名词 + 现在分词短语作定语）具有较高代表性，掌握后可迁移到同类句式。\n\nAs a result, scientists — physicists in particular — found themselves in high\ndemand.\n第5段，第6句\n本句涵盖了主语、谓语、宾语、宾补、状语、同位语六种成分，结构相对丰富；\"find + 宾语 + 宾\n补\" 是常见易错结构，宾补和状语的区分、同位语的识别都有一定练习价值，适合作为成分划分的\n中等难度练习句。\nH I G H - F R E Q U E N C Y · 真题高频词\n本篇出现的 45 个考研英语一真题高频词\n下列单词既在本篇英文短文中出现，又是 考研英语一 历年真题的高频词（在该考试真题\n中出现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查\n看该词的释义、音标、词形与真题例句。\nscientific\nB1\nadj. 科学的\n本篇7 次 · 真题 83 句\nliteracy\nB2\nn. 读写能力\n本篇6 次 · 真题 15 句\nfocus\nB1\nn. 重点\n本篇2 次 · 真题 77 句\nunited\nB1\nadj. 联合的\n本篇2 次 · 真题 52 句\nstates\nA1\nn. 国家\n本篇2 次 · 真题 42 句\nteaching\nA2\nn. 教学工作;教书\n本篇2 次 · 真题 16 句\ncentral\nB1\nadj. 主要的\n本篇2 次 · 真题 9 句\nless\nA1\ndet. 较少的\n本篇1 次 · 真题 150 句\nsupport\nA2\nv. 支持\n本篇1 次 · 真题 87 句\ncommunity\nB1\nn. 社区\n本篇1 次 · 真题 71 句\n\nlocal\nA2\nadj. 当地的\n本篇1 次 · 真题 65 句\ndemand\nB1\nv. 坚决要求\n本篇1 次 · 真题 63 句\napproach\nB1\nv. 靠近，接近（在空间或时间上）\n本篇1 次 · 真题 51 句\nincreasingly\nB2\nadv. 越来越;日益;不断增加地\n本篇1 次 · 真题 40 句\ndesire\nB2\nn. 愿望\n本篇1 次 · 真题 37 句\naim\nB1\nv. 瞄准\n本篇1 次 · 真题 35 句\nadvance\nB1\nv. 前进\n本篇1 次 · 真题 33 句\napply\nA2\nv. 申请\n本篇1 次 · 真题 33 句\nimportance\nB1\nn. 重要性\n本篇1 次 · 真题 31 句\nshift\nB1\nv. 移动\n本篇1 次 · 真题 31 句\nconcept\nB2\nn. 概念\n本篇1 次 · 真题 29 句\nparticular\nB2\nadj. 特定的\n本篇1 次 · 真题 27 句\ncritical\nB2\nadj. 批评的\n本篇1 次 · 真题 26 句\nbelief\nB1\nn. 相信\n本篇1 次 · 真题 25 句\nmeans\nA2\nn. 方法\n本篇1 次 · 真题 25 句\nenhance\nB2\nv. 提高\n本篇1 次 · 真题 24 句\n\nassume\nB2\nv. 假定\n本篇1 次 · 真题 23 句\nprinciple\nB2\nn. 原则，准则\n本篇1 次 · 真题 23 句\ndetermine\nB2\nv. 决定\n本篇1 次 · 真题 21 句\nperceive\nB2\nv. 理解，领悟（某事的性质或意义）\n本篇1 次 · 真题 19 句\nrecommend\nB1\nv. 推荐\n本篇1 次 · 真题 18 句\nversion\nB1\nn. 版本\n本篇1 次 · 真题 18 句\nphrase\nB1\nn. 短语\n本篇1 次 · 真题 17 句\nrapidly\nB1\nadv. 迅速地\n本篇1 次 · 真题 17 句\nbattle\nB1\nn. 战斗\n本篇1 次 · 真题 13 句\ntrace\nB2\nv. 追踪;查找\n本篇1 次 · 真题 13 句\nwidespread\nB2\nadj. 广泛的\n本篇1 次 · 真题 13 句\neffectively\nB2\nadv. 有效地\n本篇1 次 · 真题 12 句\ndefinition\nB2\nn. 定义\n本篇1 次 · 真题 11 句\nprimarily\nB2\nadv. 主要地\n本篇1 次 · 真题 11 句\nreasoning\nB2\nn. 推理\n本篇1 次 · 真题 11 句\nmilitary\nB2\nadj. 军事的\n本篇1 次 · 真题 10 句\n\noriginate\nC1\nv. 起源于\n本篇1 次 · 真题 10 句\ndeveloper\nB1\nn. 开发者\n本篇1 次 · 真题 8 句\npolicymaker\nC1\nn. 政策制定者\n本篇1 次 · 真题 8 句\nV O C A B U L A R Y · 词汇难度分布\n英文短文 181 词按 CEFR 难度累积覆盖\n英文短文去重后共 181 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」\n的累积占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 11 个 ·\n约 6%。\n30%\nA1\n及以下\n55%\nA2\n及以下\n81%\nB1\n及以下\n94%\nB2\n及以下\n99%\nC1\n及以下\n100%\nC2\n及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为英文短文去重词 181 个 · 末柱为 100%\n去重总词数\n181\nB2 以上难词\n6%\nB1 及以下覆盖\n81%\n\n考研英语一\n2026年 · 全卷构成\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →\n段落排序\n题目解析 →\n本题\n题目解析 →\n题目解析 →"
+ },
+ "writing": {
+  "A": "2026年考研英语一写作（小作文） · 题目、范文与解析\nP R O M P T & M O D E L E S S A Y · 写作题和范文\n写作题和范文\n试卷排版同一卷面：完整写作要求（Directions，含主题、文体、词数与署名约束）连续\n排印。写作是生产性任务、无 ABCD 标准答案——题面即整道题；卷面下方直接给出满\n足全部硬约束的参考范文、整篇中译与逐段拆解。\n英语一真题(2026)\nDirections:\nRead the following email from your friend Paul and write him a reply.\n---\nHi Li Ming,\nI was really moved by the Chinese families' handwritten letters you posted yesterday. They are priceless!\nCould you please tell me a bit more about them? And are they currently on public display somewhere?\nI'm very keen to see them in person. Thanks.\nYours,\nPaul\n---\nYou should write about 100 words on the ANSWER SHEET.\nDo not use your own name in the email; use \"Li Ming\" instead. (10 points)\n【参考范文 · 102 词】\n写作无唯一标准答案，以下为达标示范\nDear Paul, I'm so glad you liked the handwritten letters, and I'd love to share more.\nThese letters were written by ordinary Chinese families over the past century. Many were sent between parents\nand children living apart, recording daily worries, encouragement and love. They are priceless because they\npreserve real family memories and reflect how our society has changed.\nYes, they are on public display. The letters are being exhibited at the City Library until the end of August, open\ndaily from nine to five. If you like, I could go with you next weekend and show you around.\nYours, Li Ming\n【参考译文】\n亲爱的 Paul：\n很高兴你喜欢那些手写信件，我很乐意多讲讲。\n\n这些信件出自过去一个世纪里普通的中国家庭。许多是分隔两地的父母与子女之间的往来，记录着日常的\n牵挂、鼓励与爱。它们之所以珍贵，是因为保存了真实的家庭记忆，也映照出我们社会的变迁。\n是的，它们正在公开展出。这些信件在市图书馆展出，一直持续到八月底，每天上午九点到下午五点开\n放。如果你愿意，下个周末我可以陪你一起去，带你逛逛。\n此致 李明\n【第 1 段】开场破题。开头 \"I'm so glad you liked the handwritten letters, and I'd love to share\nmore.\" 一句称呼后即破题，落实了 guide1 的‘一句破题’句架，不寒暄拖沓。\n【第 2 段】三连介绍。本段按来历（written by ordinary Chinese families）、内容（recording\ndaily worries, encouragement and love）、价值（priceless because they preserve real\nfamily memories）三层展开，正是 guide2 的背景—内容—意义三连，回扣了 Paul 说的 They\nare priceless!。\n【第 3 段】先答后补。以 \"Yes, they are on public display.\" 正面回答第二问，再给展馆与开放时间，末\n句 \"I could go with you next weekend\" 发出邀约，完整落实 guide3。\n【第 4 段】守住署名。以 Yours 收尾、落款 Li Ming，满足 use \"Li Ming\" instead，全程未出现真实\n姓名。\nA N A L Y S I S · 审题与立意\n这道题到底要写什么、立意是什么\n动笔前先钉死本题的核心写作任务与读者语域 ，再定中心立意与要展开的要点 —— 这些\n是本题特有的内容判断，不是通用套路。\n核心任务\n给 Paul 回信，答其两问\n本题交际目的很明确：回信逐一回应 Paul 的两个诉求——他想多了解信件 Could you please\ntell me a bit more about them?，又想知道是否公开展出 are they currently on public display\nsomewhere?。两问都答到，任务才算完成，缺一即要点不全。\n读者 · 语域\n写给朋友，亲切非正式\n收信人是 your friend Paul，属朋友间的私人邮件，语域要亲切热情，呼应他 I was really\nmoved by the Chinese families' handwritten letters you posted yesterday. 流露的情绪；称呼用\nDear Paul，落款按硬性要求 use \"Li Ming\" instead 写 Li Ming，绝不署真名。\n\n中心立意\n热情回信，答清两问\n本信交际目的：以朋友口吻回应 Paul，既满足他 tell me a bit more about them 的好奇，又正\n面回答 are they currently on public display somewhere? 并给出可行的看展安排。\n要展开的要点\n1. 介绍信件本身\n覆盖第一个诉求——交代这些信的来历、内容与为何珍贵，呼应 Paul 说的 They are\npriceless!。\n2. 回应展出情况\n正面回答 are they currently on public display somewhere?，给出展馆、时间等具体信息，不能\n含糊带过。\n3. 邀他同去看展\n呼应 I'm very keen to see them in person.，提出周末一起去，让回信落地、更有朋友间的人情\n味。\nS T R U C T U R E · 谋篇与逐段\n怎么分段、每段写什么、能套哪些句架\n按写作家族给出现成的段落框架（每段承担什么功能），并为每段配可直接套用的 功能\n句架（留出填本题内容的空位）。段序与上方参考范文一一对应。\n第 1 段\n称呼＋开场\nDear Paul 称呼开头，紧跟一句表明收到来信很高兴、乐于分享。\n第 2 段\n介绍信件\n答第一问：信件的来历、内容与为何珍贵。\n第 3 段\n回应展出＋邀约\n答第二问：是否在展、具体展出信息，并邀 Paul 一同前往。\n\n第 4 段\n落款署名\n礼貌结束语＋落款 Li Ming。\n第 1 段\n很高兴他喜欢，乐于分享\n回应他 They are priceless! 的赞叹，说很高兴他喜欢那些信、乐意多讲讲。\n回信破题\n· I'm so glad you liked ___, and I'd love to share more.（横线填对方感兴趣\n的对象）\n顺势承接对方情绪\n· It's great to hear you were moved by ___.（横线填对方提到的感受\n或事物）\n第 2 段\n信件来历、内容、价值\n说明这些信出自普通中国家庭、多为亲人往来，记录日常牵挂；并点出为何 priceless——它\n们保存真实的家庭记忆。\n交代来历\n· These ___ were written by ___ over ___.（依次填对象、写信人、时间跨\n度）\n点出价值\n· They are precious because they ___.（横线填这件事物的独特意义）\n第 3 段\n确认在展＋展出信息＋邀约\n明确回答 are they currently on public display somewhere?：是的，正在某馆展出，给出地点\n与截止时间；再呼应 I'm very keen to see them in person. 提出一起去看。\n直接回答是否问句\n· Yes, they are ___.（用对方问句里的关键词正面作答）\n补具体安排\n· They are being exhibited at ___ until ___.（依次填地点与时间）\n发出邀约\n· If you like, I could ___ with you ___.（依次填一起做的事与时间）\n\n第 4 段\n结束语＋落款 Li Ming\n用 Yours 收尾，落款 Li Ming，不出现真实姓名（Do not use your own name in the email）。\n书信收尾\n· Yours, / Best wishes,（另起一行，下一行写落款）\n固定落款\n· Li Ming（本题硬性要求的署名，照写不改）\nR E V I E W · 自检避坑\n本题在四个评分维度怎样算达标、容易在哪丢分\n按阅卷四维（内容切题 / 结构连贯 / 语言准确 / 字数格式）给出本题达标要点，并把最容\n易踩的低分写法摆出来 + 给改法 —— 这是写作版的「狠拆诱人错项」。\n内容切题\n两问全覆盖\n必须同时答到 Could you please tell me a bit more about them? 与 are they currently\non public display somewhere?，漏一个即要点不全、内容分塌方。\n结构连贯\n两问各自成段\n信件情况与展出情况分两段，各自清晰，配 Yes、If you like 等自然过渡，避免两点\n混在一起讲不清。\n语言准确\n友人语气＋常见时态\n用一般现在时与现在进行时描述展出，语气亲切自然，避免生硬公文腔与大词堆砌。\n字数格式\n格式三件套齐＋守署名\nDear Paul、Yours、落款三件套不能缺，落款照 use \"Li Ming\" instead 写，篇幅不宜\n过短或拖沓。\n典型低分写法 · 反面示例与改法\n\n漏答展出问\n反面示例：整封信滔滔不绝讲信件多珍贵，却只字不提在哪展、能否去看——漏掉了 are they\ncurrently on public display somewhere?。改法：补一段明确回答，如 Yes, they are on display at\nthe City Library until the end of August.\n署了真名\n反面示例：结尾写成 Yours, Wang Lei，违反 Do not use your own name in the email。改法：落款\n一律写 Li Ming。\n写成正式公文\n反面示例：I am writing to inform you of the relevant details concerning the aforementioned\nletters. 冷冰冰不像回朋友。改法：I'm so glad you liked them, and I'd be happy to tell you more.\n同义重复注水\n反面示例：They are very precious. They are really valuable. They are worth a lot. 三句一个意思。改\n法：合并并补出原因——They are precious because they preserve real family memories.\n\n考研英语一\n2026年 · 全卷构成\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →\n段落排序\n题目解析 →\n题目解析 →\n本题\n题目解析 →",
+  "B": "2026年考研英语一写作（大作文） · 题目、范文与解析\nP R O M P T & M O D E L E S S A Y · 写作题和范文\n写作题和范文\n试卷排版同一卷面：完整写作要求（Directions，含主题、文体、词数与署名约束）、真\n题配图连续排印。写作是生产性任务、无 ABCD 标准答案——题面即整道题；卷面下方\n直接给出满足全部硬约束的参考范文、整篇中译与逐段拆解。\n英语一真题(2026)\nDirections:\nWrite an essay based on the charts below. In your essay, you should\n1) describe the charts briefly,\n2) interpret the charts, and\n3) give your comments.\nWrite your answer in 160-200 words on the ANSWER SHEET. (20 points)\n【参考范文 · 186 词】\n写作无唯一标准答案，以下为达标示范\nThe pie chart and the bar chart above present the findings of a survey on consumer acceptance of elderly-care\nrobots and people's foremost concerns. As is shown in the pie chart, 39.3% of the respondents fully accept such\n\nrobots, 32.8% partially accept them, and the remaining 27.9% refuse to accept them. Meanwhile, the bar chart\nindicates that safety ranks first at 46.30%, far ahead of price, which accounts for 24.90%, and convenience,\nwhich makes up only 10.70%.\nSeveral factors account for these figures. As society ages rapidly and the demand for elderly care keeps rising,\nrobots are increasingly viewed as a practical solution, which explains why over 70% of people accept them to\nsome degree. However, since these machines serve vulnerable elderly users, the public naturally worries most\nabout whether they are safe and reliable rather than cheap or convenient.\nIn my view, elderly-care robots represent a promising trend that deserves encouragement. To win wider\nacceptance, manufacturers should place safety at the core of their design while gradually bringing down prices.\nOnly when these concerns are properly addressed can such technology truly benefit the aging population.\n【参考译文】\n上方的饼状图和条形图呈现了一项关于养老机器人消费者接受度以及人们首要关注点的调查结果。饼状图\n显示，39.3% 的受访者完全接受这类机器人，32.8% 部分接受，其余 27.9% 则不接受。与此同时，条形\n图表明，安全以 46.30% 高居首位，远超占 24.90% 的价格和仅占 10.70% 的便利。\n造成这些数据的原因有几点。随着社会快速老龄化、养老照护需求不断上升，机器人日益被视为一种现实\n的解决办法，这也解释了为何超过七成的人在某种程度上愿意接受它们。然而，由于这些机器服务的是脆\n弱的老年群体，公众自然最担心它们是否安全可靠，而非是否便宜或便利。\n在我看来，养老机器人代表着一种值得鼓励的良好趋势。为赢得更广泛的接受，厂商应把安全放在设计的\n核心，同时逐步降低价格。只有当这些顾虑被妥善解决，这项技术才能真正惠及老龄人口。\n【第 1 段】总述＋趋势描述。首句 present the findings of a survey on ... 一句总述交代两图主题，不\n出现数字；随后 39.3% ... 32.8% ... the remaining 27.9% 分述饼图，safety ranks first at 46.30%, far\nahead of price, which accounts for 24.90% 用排名与占比表达描述条形图，落实了 describe the\ncharts briefly，且篇幅偏短。\n【第 2 段】由数字追原因。Several factors account for these figures 过渡领起；As society ages\nrapidly ... which explains why over 70% ... 把接受度扣到老龄化，However, since these machines\nserve vulnerable elderly users ... 把安全顾虑扣到服务对象脆弱，落实 interpret the charts。\n【第 3 段】亮观点＋条件式收尾。In my view ... deserves encouragement 亮立场，manufacturers\nshould place safety at the core ... while gradually bringing down prices 给对策，Only when these\nconcerns are properly addressed can ... 倒装条件句收束，落实 give your comments。\nA N A L Y S I S · 审题与立意\n这道题到底要写什么、立意是什么\n动笔前先钉死本题的核心写作任务与读者语域、读懂配图 ，再定中心立意与要展开的要\n点 —— 这些是本题特有的内容判断，不是通用套路。\n\n核心任务\n写养老机器人调查图表作文\n本题给两张图，要求做三件事：describe the charts briefly（简述图表）、interpret the charts\n（解读图表）、give your comments（给出评论）。一句话钉死：先客观说清两图数据，再分\n析数据背后的原因/现象，最后表明自己对养老机器人的看法。\n读者 · 语域\n正式书面语\n本题是 Write an essay based on the charts below，无具体收信人、无身份设定，面向阅卷人\n写一篇正式议论性短文即可。不用称呼、不用落款，第一人称评论只出现在第三段，用 In my\nview 一类正式表达，避免口语缩写和随意语气。\n配图要读出\n接受度＋关注点两图\n图讲的是 养老机器人的消费者接受度和首要关注点。左侧饼图（接受度）：39.3% 完全接受、\n32.8% 部分接受、27.9% 不接受——可写点是『两成七拒绝，但合计逾七成愿接受』。右侧条\n形图（关注点）：安全 46.30% 高居第一，远超价格 24.90% 与便利 10.70%——可写点是『人\n们最担心的是安全』。\n中心立意\n养老机器人值得鼓励\n中心立场：养老机器人是应对老龄化的可取趋势，值得鼓励，但要赢得更广接受，必须先解决\n人们最在意的安全问题、再降低成本。这个中心直接从饼图『逾七成愿接受』与条形图『安全\n占 46.30%』两个数据推出，评论段不会无话可说。\n\n要展开的要点\n1. 老龄化催生需求\n解读点一：社会老龄化加快、养老照护需求上升，机器人被越来越多人视为现实出路，这解释\n了为什么合计超过七成受访者愿意接受（完全＋部分）。\n2. 安全是首要顾虑\n解读点二：机器人服务的是脆弱的老年群体，所以公众最担心的是可靠与安全，而非价格或便\n利，这正对应安全 46.30% 远高于价格 24.90% 和便利 10.70%。\n3. 对策：先安全再降价\n评论点：厂商应把安全放在设计核心、并逐步降低价格；只有先回应这些顾虑，技术才能真正\n惠及老龄人口，接受度也会随之提高。\nS T R U C T U R E · 谋篇与逐段\n怎么分段、每段写什么、能套哪些句架\n按写作家族给出现成的段落框架（每段承担什么功能），并为每段配可直接套用的 功能\n句架（留出填本题内容的空位）。段序与上方参考范文一一对应。\n第 1 段\n描述两图数据\n落实 describe the charts briefly：一句总述点出两图主题，再分别用趋势语言概括饼图接\n受度分布与条形图关注点排序，篇幅偏短。\n第 2 段\n解读数据成因\n落实 interpret the charts：解释数字背后的原因——老龄化催生接受度、老人脆弱性催生\n安全顾虑，把数据翻译成社会现象。\n第 3 段\n评论并给对策\n落实 give your comments：表明个人立场（值得鼓励），给出对策（先保安全、再降价\n格），一句结论收尾。\n\n第 1 段\n逾七成愿接受、安全最受关注\n饼图：39.3% 完全接受、32.8% 部分接受、27.9% 不接受；条形图：安全 46.30% 第一，价格\n24.90%、便利 10.70% 次之。总述句点明主题是 养老机器人的消费者接受度和首要关注点。\n总述句架\n· The pie chart and the bar chart above present the findings of a survey on\n___（图表主题）.\n饼图分述句架\n· As is shown in the pie chart, ___% ... , ___% ... , and the remaining\n___% ...（三项按程度串起）.\n占比表达替换 there be\n· ..., which accounts for ___% / ranks first at ___% / makes up\nonly ___%.（把数字说成占比与排名）\n第 2 段\n老龄化催需求、脆弱性催安全顾虑\n原因一：社会老龄化、养老需求上升，使机器人被视为现实出路，解释了合计逾七成的接受\n度；原因二：机器人服务脆弱老人，公众自然最担心安全与可靠，故安全 46.30% 远超价格\n24.90% 与便利 10.70%。\n过渡领起句架\n·\nSeveral factors account for these figures.（承上启下，从描述转入分析）\n因果解释句架\n· As ___（社会背景）, ..., which explains why ___（对应哪个数据）.\n对比让步句架\n· However, since ___（原因）, the public naturally worries most about\n___ rather than ___.\n\n第 3 段\n值得鼓励、先安全再降价\n立场：养老机器人是值得鼓励的趋势；对策：厂商把安全放在设计核心、逐步降价；结论：\n只有回应这些顾虑，技术才能真正惠及老龄人口。\n亮明立场句架\n· In my view, ___（评价对象）represents a promising trend that\ndeserves ___.\n给对策句架\n· To win wider ___, ___（谁）should ___ while ___（并列两条措施）.\n条件式收尾句架\n· Only when ___（前提被满足）can ___ truly ___.（倒装强调，有力\n收束）\nR E V I E W · 自检避坑\n本题在四个评分维度怎样算达标、容易在哪丢分\n按阅卷四维（内容切题 / 结构连贯 / 语言准确 / 字数格式）给出本题达标要点，并把最容\n易踩的低分写法摆出来 + 给改法 —— 这是写作版的「狠拆诱人错项」。\n内容切题\n三任务都要落段\n本题必须同时满足 describe the charts briefly、interpret the charts、give your\ncomments 三点，缺一即扣内容分；描述段还要真的概括出『逾七成愿接受』『安全\n46.30% 居首』两个核心特征，不能只报数字。\n结构连贯\n描述短、解读评论重\n本题建议描述段偏短、解读与评论段偏重；段内用 while / followed by / which\nexplains why 等衔接，避免每句都从数字硬起头显得零散。\n语言准确\n图表词轮换、时态一致\n本题数据是调查现状，统一用一般现在时；把 46.30% / 24.90% / 10.70% 分别用\nranks first at / accounts for / makes up only 表达，避免三句同一句型。\n\n字数格式\n160-200 词内、别超上限\n本题硬性要求 160-200 words，是上下限双向卡；描述段若把六个数字都展开容易注\n水超限，要靠概括总述句压住篇幅，把空间留给解读与评论。\n典型低分写法 · 反面示例与改法\n念完数字就结尾\n反面：全文只写『39.3% fully accept, 32.8% partially accept, 27.9% do not accept; safety is 46.30%,\nprice is 24.90%, convenience is 10.70%. That is the survey.』——只有描述，直接丢掉解读与评论两\n大块分。改法：补第二段分析老龄化与安全顾虑的成因，补第三段表明『养老机器人值得鼓励、应\n先保安全再降价』的看法。\n六句六个数字排队\n反面：『There are 39.3%. There are 32.8%. There are 27.9%. There is 46.30%. There is 24.90%.\nThere is 10.70%.』——六句 there be 堆数字，无概括、术语单一。改法：『Over 70% of\nrespondents accept elderly-care robots to some degree, while safety, at 46.30%, stands out as\ntheir foremost concern.』一句总述抓住两图核心。\n占比直译成 possess percent\n反面：『Safety possesses 46.30% percent, it is the first concern that people most care.』——\npossess 用错、percent 与 % 重复、care 后缺 about、句子破碎。改法：『Safety accounts for\n46.30% and ranks first among people's concerns.』\n空喊要重视养老\n反面：『In a word, elderly-care robots are very important and everyone should pay attention to\nthem.』——泛泛表态，与安全占比 46.30% 这一核心数据脱节。改法：『Manufacturers should\nplace safety at the core of their design and gradually bring down prices, so that more elderly\npeople can trust and benefit from such robots.』\n\n考研英语一\n2026年 · 全卷构成\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →\n段落排序\n题目解析 →\n题目解析 →\n题目解析 →\n本题"
+ },
+ "cloze": {
+  "sentences": [
+   {
+    "i": 1,
+    "en": "Advances in artificial intelligence (AI) are rapidly changing every aspect of human life.",
+    "zh": "",
+    "main": "Advances in artificial intelligence (AI) are rapidly changing every aspect of human life.",
+    "chunks": [
+     {
+      "t": "Advances in artificial intelligence (AI)",
+      "r": "主语"
+     },
+     {
+      "t": "are rapidly changing every aspect of human life.",
+      "r": "谓语 + 宾语/表语"
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "en": "The world of AI is buzzing with an exciting potential to improve and enrich our lives.",
+    "zh": "",
+    "main": "The world of AI is buzzing with an exciting potential to improve and enrich our lives.",
+    "chunks": [
+     {
+      "t": "The world of AI",
+      "r": "主语"
+     },
+     {
+      "t": "is buzzing with an exciting potential to improve and enrich our lives.",
+      "r": "谓语 + 宾语/表语"
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "en": "[[1]], AI also has the potential hazard of [[2]] our experiences in ways we might find difficult to control.",
+    "zh": "",
+    "main": "[[1]] AI also has the potential hazard of [[2]] our experiences in ways we might find difficult to control.",
+    "chunks": [
+     {
+      "t": "[[1]]",
+      "r": "主语"
+     },
+     {
+      "t": "AI also has the potential hazard of [[2]] our experiences in ways we might find difficult to control.",
+      "r": "谓语 + 宾语/表语"
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "en": "One such [[3]] is how we understand and experience beauty.",
+    "zh": "",
+    "main": "One such [[3]] is how we understand and experience beauty.",
+    "chunks": [
+     {
+      "t": "One such [[3]]",
+      "r": "主语"
+     },
+     {
+      "t": "is how we understand and experience beauty.",
+      "r": "谓语 + 宾语/表语"
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "en": "AI can be a collaborative tool in a wide range of creative endeavors.",
+    "zh": "",
+    "main": "AI can be a collaborative tool in a wide range of creative endeavors.",
+    "chunks": [
+     {
+      "t": "AI",
+      "r": "主语"
+     },
+     {
+      "t": "can be a collaborative tool in a wide range of creative endeavors.",
+      "r": "谓语 + 宾语/表语"
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "en": "[[4]] human creativity and AI algorithms can lead to unique artistic [[5]] that are beautiful to the human eye.",
+    "zh": "",
+    "main": "[[4]] human creativity and AI algorithms can lead to unique artistic [[5]] that are beautiful to the human eye.",
+    "chunks": [
+     {
+      "t": "[[4]] human creativity and AI",
+      "r": "主语"
+     },
+     {
+      "t": "algorithms can lead to unique artistic [[5]] that are beautiful to the human eye.",
+      "r": "谓语 + 宾语/表语"
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "en": "These collaborations are likely to become increasingly common.",
+    "zh": "",
+    "main": "These collaborations are likely to become increasingly common.",
+    "chunks": [
+     {
+      "t": "These",
+      "r": "主语"
+     },
+     {
+      "t": "collaborations are likely to become increasingly common.",
+      "r": "谓语 + 宾语/表语"
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "en": "[[6]], as convenient and provocative, AI enables virtual try-on experiences where you can virtually [[7]] makeup, hairstyles, clothing, and even cosmetic procedures [[8]] making any physical changes.",
+    "zh": "",
+    "main": "[[6]] AI enables virtual try-on experiences",
+    "chunks": [
+     {
+      "t": "[[6]]",
+      "r": "主语"
+     },
+     {
+      "t": "as convenient and provocative",
+      "r": "介词短语（状语/定语）"
+     },
+     {
+      "t": "AI enables virtual try-on experiences",
+      "r": "谓语 + 宾语/表语"
+     },
+     {
+      "t": "where you can virtually [[7]] makeup",
+      "r": "定语从句"
+     },
+     {
+      "t": "hairstyles",
+      "r": "并列谓语"
+     },
+     {
+      "t": "clothing",
+      "r": "分词短语（插入语/定语）"
+     },
+     {
+      "t": "and even cosmetic procedures [[8]] making any physical changes.",
+      "r": "状语从句"
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "en": "Individuals can now experiment with different looks and [[9]] their preferences, potentially expanding the range of beauty ideals.",
+    "zh": "",
+    "main": "potentially expanding the range of beauty Individuals can now experiment with different looks and [[9]] their preferences",
+    "chunks": [
+     {
+      "t": "Individuals can now experiment with different looks and [[9]] their preferences",
+      "r": "谓语 + 宾语/表语"
+     },
+     {
+      "t": "potentially expanding the range of beauty",
+      "r": "主语"
+     },
+     {
+      "t": "ideals.",
+      "r": "并列谓语"
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "en": "AI algorithms can [[10]] facial features and skin conditions to provide personalized beauty recommendations.",
+    "zh": "",
+    "main": "AI algorithms can [[10]] facial features and skin conditions to provide personalized beauty recommendations.",
+    "chunks": [
+     {
+      "t": "AI",
+      "r": "主语"
+     },
+     {
+      "t": "algorithms can [[10]] facial features and skin conditions to provide personalized beauty recommendations.",
+      "r": "谓语 + 宾语/表语"
+     }
+    ]
+   },
+   {
+    "i": 11,
+    "en": "This [[11]] approach aims to cater to individual preferences and enhance the concept of beauty tailored to each person's unique characteristics.",
+    "zh": "",
+    "main": "This [[11]] approach aims to cater to individual preferences and enhance the concept of beauty tailored to each person's unique characteristics.",
+    "chunks": [
+     {
+      "t": "This [[11]] approach aims to cater to individual",
+      "r": "主语"
+     },
+     {
+      "t": "preferences and enhance the concept of beauty tailored to each person's unique characteristics.",
+      "r": "谓语 + 宾语/表语"
+     }
+    ]
+   },
+   {
+    "i": 12,
+    "en": "[[12]], AI can be a fun vehicle for self-discovery.",
+    "zh": "",
+    "main": "[[12]] AI can be a fun vehicle for self-discovery.",
+    "chunks": [
+     {
+      "t": "[[12]]",
+      "r": "主语"
+     },
+     {
+      "t": "AI can be a fun vehicle for self-discovery.",
+      "r": "谓语 + 宾语/表语"
+     }
+    ]
+   },
+   {
+    "i": 13,
+    "en": "While AI offers exciting possibilities, it also raises ethical [[13]].",
+    "zh": "",
+    "main": "While AI offers exciting possibilities",
+    "chunks": [
+     {
+      "t": "While AI",
+      "r": "主语"
+     },
+     {
+      "t": "offers exciting possibilities",
+      "r": "谓语 + 宾语/表语"
+     },
+     {
+      "t": "it also raises ethical [[13]].",
+      "r": "并列谓语"
+     }
+    ]
+   },
+   {
+    "i": 14,
+    "en": "There is a risk of deepening societal beauty [[14]] and perpetuating unattainable beauty standards.",
+    "zh": "",
+    "main": "There is a risk of deepening societal beauty [[14]] and perpetuating unattainable beauty standards.",
+    "chunks": [
+     {
+      "t": "There",
+      "r": "主语"
+     },
+     {
+      "t": "is a risk of deepening societal beauty [[14]] and perpetuating unattainable beauty standards.",
+      "r": "谓语 + 宾语/表语"
+     }
+    ]
+   },
+   {
+    "i": 15,
+    "en": "[[15]], AI-powered beauty filters and editing tools can lead to distorted self-perception and [[16]] body dissatisfaction.",
+    "zh": "",
+    "main": "[[15]] AI-powered beauty filters and editing tools can lead to distorted self-perception and [[16]] body dissatisfaction.",
+    "chunks": [
+     {
+      "t": "[[15]]",
+      "r": "主语"
+     },
+     {
+      "t": "AI-powered beauty filters and editing tools can lead to distorted self-perception and [[16]] body dissatisfaction.",
+      "r": "谓语 + 宾语/表语"
+     }
+    ]
+   },
+   {
+    "i": 16,
+    "en": "As summarized in a recent post on \"The Hidden Dangers of Online Beauty Filters\", [[17]] on this technology for social presentation can cause harm [[18]] body image issues, lower self-esteem, and social anxiety.",
+    "zh": "",
+    "main": "As summarized in a recent post on \"The Hidden Dangers of Online Beauty Filters\", [[17]] on this technology for social presentation can cause harm [[18]] body image issues, lower self-esteem, and social anxiety.",
+    "chunks": [
+     {
+      "t": "As summarized in a recent post on \"The Hidden Dangers of Online Beauty Filters\", [[17]] on this technology for social presentation can cause harm [[18]] body image issues, lower self-esteem, and social anxiety.",
+      "r": "介词短语（状语/定语）"
+     }
+    ]
+   },
+   {
+    "i": 17,
+    "en": "It's important to note that while AI can enhance our [[19]] of beauty, it should not [[20]] the genuine human experience and the emotional connections we derive from seeing the beauty in each other.",
+    "zh": "",
+    "main": "it It's important to note",
+    "chunks": [
+     {
+      "t": "It's important to note",
+      "r": "谓语 + 宾语/表语"
+     },
+     {
+      "t": "that",
+      "r": "定语从句"
+     },
+     {
+      "t": "while AI can enhance our [[19]] of beauty",
+      "r": "状语从句"
+     },
+     {
+      "t": "it",
+      "r": "主语"
+     },
+     {
+      "t": "should not [[20]] the genuine human experience and the emotional connections we derive from seeing the beauty in each other.",
+      "r": "并列谓语"
+     }
+    ]
+   }
+  ],
+  "topic": "",
+  "difficulty": 0,
+  "source": "自动"
+ }
+}

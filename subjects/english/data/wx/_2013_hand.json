@@ -1,0 +1,1133 @@
+{
+ "year": 2013,
+ "paper": "英语一",
+ "section": "完形填空",
+ "topic": "决策偏差：人做判断时会被「前一个样本」带偏（Simonsohn 的面试评分研究）",
+ "difficulty": 4.5,
+ "source": {
+  "textUrl": "https://yz.chsi.com.cn/kyzx/en/201301/20130107/382329009-1.html",
+  "answerUrl": "https://yz.chsi.com.cn/kyzx/en/201301/20130107/382329009-2.html"
+ },
+ "text": "People are, on the whole, poor at considering background information when making individual decisions. At first glance this might seem like a strength that [[1]] the ability to make judgments which are unbiased by [[2]] factors. But Dr Simonsohn speculated that an inability to consider the big [[3]] was leading decision-makers to be biased by the daily samples of information they were working with. [[4]], he theorised that a judge [[5]] of appearing too soft [[6]] crime might be more likely to send someone to prison [[7]] he had already sentenced five or six other defendants only to forced community service on that day.\n\nTo [[8]] this idea, they turned their attention to the university-admissions process. In theory, the [[9]] of an applicant should not depend on the few others [[10]] randomly for interview during the same day, but Dr Simonsohn suspected the truth was [[11]].\n\nHe studied the results of 9,323 MBA interviews [[12]] by 31 admissions officers. The interviewers had [[13]] applicants on a scale of one to five. This scale [[14]] numerous factors into consideration. The scores were [[15]] used in conjunction with an applicant's score on the GMAT, a standardised exam which is [[16]] out of 800 points, to make a decision on whether to accept him or her.\n\nDr Simonsohn found if the score of the previous candidate in a daily series of interviewees was 0.75 points or more higher than that of the one [[17]] that, then the score for the next applicant would [[18]] by an average of 0.075 points. This might sound small, but to [[19]] the effects of such a decrease a candidate would need 30 more GMAT points than would otherwise have been [[20]].",
+ "blanks": [
+  {
+   "no": 1,
+   "options": {
+    "A": "grants",
+    "B": "submits",
+    "C": "transmits",
+    "D": "dilivers"
+   },
+   "answer": "A",
+   "answerNote": "原卷 D 项印作 dilivers（delivers 的错拼），照抄不改，方便你对着试卷找。",
+   "type": "实词辨析",
+   "logic": "",
+   "signal": "that（定语从句）",
+   "explain": "空前的 strength（优势）与空后的 the ability 是「给予—被给予」关系：优势**赋予**能力。grant sb. sth. 正是「赋予某人某物」。",
+   "whyWrong": {
+    "B": "submit 提交（文件、申请），宾语不能是 ability。",
+    "C": "transmit 传输（信号、疾病），宾语不能是 ability。",
+    "D": "deliver 递送（货物）、发表（演讲），也不接 ability。"
+   },
+   "collocation": "grant sb. sth. 赋予某人某物；grant that… 承认……",
+   "gloss": "赋予"
+  },
+  {
+   "no": 2,
+   "options": {
+    "A": "minor",
+    "B": "external",
+    "C": "crucial",
+    "D": "objective"
+   },
+   "answer": "B",
+   "type": "原词复现",
+   "logic": "",
+   "signal": "background information（同义复现）",
+   "explain": "本空是首句 background information 的**同义复现**：判断不受「自身之外的信息」影响，即 external factors（外部因素）。完形答案优先选原词/同根复现，这是硬规律。",
+   "whyWrong": {
+    "A": "minor 次要的——与「背景信息」的语义词性都不对应，更不能解释「偏差」。",
+    "C": "crucial 关键的——语义过重，「不受关键因素影响」在逻辑上说不通。",
+    "D": "objective 客观的——被「客观因素」影响本身不构成 bias（偏差），逻辑反了。"
+   },
+   "collocation": "external factors 外部因素；external influence 外来影响",
+   "gloss": "外部的"
+  },
+  {
+   "no": 3,
+   "options": {
+    "A": "issue",
+    "B": "vision",
+    "C": "picture",
+    "D": "moment"
+   },
+   "answer": "C",
+   "type": "固定搭配",
+   "logic": "",
+   "signal": "the big ___（固定短语）",
+   "explain": "the big picture 是死搭配，意为「全局、整体」。整句在说：问题不是看不见「某个议题」，而是看不见**全局**——正好接住上一句的 background information。",
+   "whyWrong": {
+    "A": "issue 议题——the big issue 是「大问题」，但下文讲的是「视野窄」，不是「问题大」。",
+    "B": "vision 视野/视力——the big vision 不是英语固定说法。",
+    "D": "moment 时刻——完全无关。"
+   },
+   "collocation": "the big picture 全局；look at the big picture 看全局",
+   "gloss": "全局"
+  },
+  {
+   "no": 4,
+   "options": {
+    "A": "Above all",
+    "B": "On average",
+    "C": "In principle",
+    "D": "For example"
+   },
+   "answer": "D",
+   "type": "逻辑关系",
+   "logic": "举例",
+   "signal": "上一句 theorised → 本句具体场景",
+   "explain": "上一句是抽象论断（看不见全局 ⇒ 决策有偏差），本句立刻摆出「法官量刑」的**具体场景**来落地，标准举例关系，只有 For example 能承上启下。",
+   "whyWrong": {
+    "A": "Above all 首先/最重要的是——递进，不举例。",
+    "B": "On average 平均而言——统计口径，这里没在算平均。",
+    "C": "In principle 原则上——表限定/让步，与「举例」无关。"
+   },
+   "collocation": "for example / for instance 例如",
+   "gloss": "例如"
+  },
+  {
+   "no": 5,
+   "options": {
+    "A": "fond",
+    "B": "fearful",
+    "C": "capable",
+    "D": "thoughtless"
+   },
+   "answer": "B",
+   "type": "固定搭配",
+   "logic": "",
+   "signal": "___ of appearing too soft",
+   "explain": "be fearful of doing sth. = 生怕/担心做某事。整句讲法官的**心理动机**：怕被舆论说「对罪犯太手软」，所以宁可重判。",
+   "whyWrong": {
+    "A": "be fond of 喜爱——褒义，与「怕显得手软」矛盾。",
+    "C": "be capable of 能够——只表能力，不表担心，接不出后半句的因果。",
+    "D": "thoughtless 欠考虑的——形容词，不能接 of appearing 表心理状态。"
+   },
+   "collocation": "be fearful of (doing) sth. 生怕、担心",
+   "gloss": "生怕的"
+  },
+  {
+   "no": 6,
+   "options": {
+    "A": "in",
+    "B": "for",
+    "C": "to",
+    "D": "on"
+   },
+   "answer": "D",
+   "type": "固定搭配",
+   "logic": "",
+   "signal": "soft ___ crime",
+   "explain": "be soft on sb./sth. 是固定表达「对……心慈手软」，此处 soft on crime = 对犯罪手软。介词题只认搭配，不认语感。",
+   "whyWrong": {
+    "A": "soft in 不成立。",
+    "B": "soft for 不成立。",
+    "C": "soft to 不成立（to 常与 kind/polite 搭配）。"
+   },
+   "collocation": "be soft on sb./sth. 对……手软 ⟷ be hard on 对……严厉",
+   "gloss": "对……手软"
+  },
+  {
+   "no": 7,
+   "options": {
+    "A": "if",
+    "B": "until",
+    "C": "though",
+    "D": "unless"
+   },
+   "answer": "A",
+   "type": "逻辑关系",
+   "logic": "条件",
+   "signal": "might be more likely to … ___ he had already sentenced",
+   "explain": "空前后是「已经轻判了五六个 ⇒ 这一个更可能重判」的条件—结果关系，if 引导条件状语从句，与前面的 might be more likely 构成「如果……就更可能……」。",
+   "whyWrong": {
+    "B": "until 直到——时间终点，语义不通。",
+    "C": "though 虽然——让步，会变成「虽然他轻判过」，逻辑断裂。",
+    "D": "unless = if not——否定条件，意思正好反了。"
+   },
+   "collocation": "if 条件从句 + 主句情态动词（might/could/would）",
+   "gloss": "如果"
+  },
+  {
+   "no": 8,
+   "options": {
+    "A": "test",
+    "B": "emphasize",
+    "C": "share",
+    "D": "promote"
+   },
+   "answer": "A",
+   "type": "实词辨析",
+   "logic": "",
+   "signal": "To ___ this idea, they turned their attention to…",
+   "explain": "后文是「他们把注意力转向录取流程、去查 9,323 次面试」，动作是**检验**一个假设。test an idea / test a hypothesis 是最贴切的搭配。",
+   "whyWrong": {
+    "B": "emphasize 强调——强调不需要去查 9,323 个样本。",
+    "C": "share 分享——他们本来就在同一个研究里，无分享对象。",
+    "D": "promote 推广——一个还没验证的猜想谈不上推广。"
+   },
+   "collocation": "test a hypothesis / an idea 检验假设",
+   "gloss": "检验"
+  },
+  {
+   "no": 9,
+   "options": {
+    "A": "decision",
+    "B": "quality",
+    "C": "status",
+    "D": "success"
+   },
+   "answer": "D",
+   "type": "实词辨析",
+   "logic": "",
+   "signal": "the ___ of an applicant should not depend on",
+   "explain": "空处是「申请者」在录取语境下的**结果**：能不能被录取（success）。与后文 make a decision on whether to accept him or her 严格对应。",
+   "whyWrong": {
+    "A": "decision——决定是招生官做出的，不是申请者「拥有」并「取决于别人」的东西。",
+    "B": "quality 素质——素质跟「同一天随机抽到谁」无关，句子会失去意义。",
+    "C": "status 身份地位——申请者还没入学，谈不上身份。"
+   },
+   "collocation": "the success of an applicant 申请者能否成功（被录取）",
+   "gloss": "录取结果"
+  },
+  {
+   "no": 10,
+   "options": {
+    "A": "found",
+    "B": "studied",
+    "C": "chosen",
+    "D": "identified"
+   },
+   "answer": "C",
+   "type": "语法结构",
+   "logic": "",
+   "signal": "the few others ___ randomly for interview",
+   "explain": "others 与 choose 是**被动**关系：被随机抽来面试的另外几个人。过去分词 chosen 作后置定语，等于 who were chosen。",
+   "whyWrong": {
+    "A": "found 被发现——「被发现来面试」不通。",
+    "B": "studied 被研究——此处说的是抽人，不是研究人。",
+    "D": "identified 被识别——语义偏移，且 identify 通常要接 as。"
+   },
+   "collocation": "those chosen for interview 被选中面试的人",
+   "gloss": "被选中的"
+  },
+  {
+   "no": 11,
+   "options": {
+    "A": "otherwise",
+    "B": "defensible",
+    "C": "replaceable",
+    "D": "exceptional"
+   },
+   "answer": "A",
+   "type": "实词辨析",
+   "logic": "转折",
+   "signal": "but … suspected the truth was ___",
+   "explain": "but 表转折：「理论上不该如此，但 Simonsohn 怀疑事实**并非如此**」。otherwise 作表语 = not so，「不是这样的」，这是它在本篇唯一的用法。",
+   "whyWrong": {
+    "B": "defensible 可辩护的——「事实是可辩护的」讲不通。",
+    "C": "replaceable 可替换的——与前文「不应取决于别人」不搭。",
+    "D": "exceptional 例外的——形容词作表语虽合法，但不表达「与理论相反」这一层转折。"
+   },
+   "collocation": "the truth was otherwise 事实并非如此；say otherwise 说不是这样",
+   "gloss": "并非如此"
+  },
+  {
+   "no": 12,
+   "options": {
+    "A": "inspired",
+    "B": "expressed",
+    "C": "conducted",
+    "D": "secured"
+   },
+   "answer": "C",
+   "type": "固定搭配",
+   "logic": "",
+   "signal": "interviews ___ by 31 admissions officers",
+   "explain": "conduct an interview 是死搭配「主持/进行面试」。此处过去分词作后置定语：由 31 位招生官**主持**的 9,323 次面试。",
+   "whyWrong": {
+    "A": "inspired by 被……启发——搭配错。",
+    "B": "expressed 表达——interview 不是被表达出来的。",
+    "D": "secured 获得——语义与语法都不对。"
+   },
+   "collocation": "conduct an interview / a survey / an experiment 进行面试/调查/实验",
+   "gloss": "主持的"
+  },
+  {
+   "no": 13,
+   "options": {
+    "A": "assigned",
+    "B": "rated",
+    "C": "matched",
+    "D": "arranged"
+   },
+   "answer": "B",
+   "type": "实词辨析",
+   "logic": "",
+   "signal": "on a scale of one to five",
+   "explain": "on a scale of one to five（按 1–5 分制）直接锁定「打分、评级」义：rate sb. on a scale 是标准搭配。",
+   "whyWrong": {
+    "A": "assign 分配——assign sb. sth. 分配任务，后面不接 on a scale。",
+    "C": "match 匹配——match A with B，没有「打分」义。",
+    "D": "arrange 安排——arrange for sb. to do，与分数无关。"
+   },
+   "collocation": "rate sb. on a scale of 1 to 5 按 1–5 分给某人打分",
+   "gloss": "给……打分"
+  },
+  {
+   "no": 14,
+   "options": {
+    "A": "put",
+    "B": "got",
+    "C": "took",
+    "D": "gave"
+   },
+   "answer": "C",
+   "type": "固定搭配",
+   "logic": "",
+   "signal": "___ numerous factors into consideration",
+   "explain": "take sth. into consideration 是固定短语「把……考虑在内」，此处宾语 numerous factors 提前，构成 take … into consideration 的完整式。",
+   "whyWrong": {
+    "A": "put 一般配 put sth. into practice（付诸实践），不接 into consideration。",
+    "B": "get 无此搭配。",
+    "D": "give 要写成 give consideration to sth.，介词是 to 不是 into。"
+   },
+   "collocation": "take sth. into consideration = take account of 把……考虑在内",
+   "gloss": "把……纳入"
+  },
+  {
+   "no": 15,
+   "options": {
+    "A": "instead",
+    "B": "then",
+    "C": "ever",
+    "D": "rather"
+   },
+   "answer": "B",
+   "type": "逻辑关系",
+   "logic": "时间顺承",
+   "signal": "The scores were ___ used in conjunction with…",
+   "explain": "前面说「面试官先打分」，这句说「分数**随后**再与 GMAT 结合」，是步骤上的先后，then 表「然后」。",
+   "whyWrong": {
+    "A": "instead 相反/而是——表替代，这里没有「不这样而那样」。",
+    "C": "ever 曾经——与 were used 的时态冲突。",
+    "D": "rather 宁可——只有 rather than 结构才成立。"
+   },
+   "collocation": "then 表先后：先……然后……",
+   "gloss": "然后"
+  },
+  {
+   "no": 16,
+   "options": {
+    "A": "selected",
+    "B": "passed",
+    "C": "marked",
+    "D": "introduced"
+   },
+   "answer": "C",
+   "type": "实词辨析",
+   "logic": "",
+   "signal": "which is ___ out of 800 points",
+   "explain": "be marked out of 800 points = 按 800 分制计分。mark 在英式英语里就是「评分、计分」，out of 表「满分是」。",
+   "whyWrong": {
+    "A": "selected 被挑选——与分数制无关。",
+    "B": "passed 被通过——考试通过不说 out of 800 points。",
+    "D": "introduced 被引入——语法通、语义空。"
+   },
+   "collocation": "be marked out of 100 按百分制计分",
+   "gloss": "计分"
+  },
+  {
+   "no": 17,
+   "options": {
+    "A": "below",
+    "B": "after",
+    "C": "above",
+    "D": "before"
+   },
+   "answer": "D",
+   "type": "逻辑关系",
+   "logic": "时间先后",
+   "signal": "that of the one ___ that",
+   "explain": "the one before that = 「那之前的那个」，指**再前一位**考生。整句在比「前一位」与「再前一位」的分差，所以必须是 before。",
+   "whyWrong": {
+    "A": "below 在……之下——表位置高低。",
+    "B": "after 在……之后——方向反了，会变成「后一位」。",
+    "C": "above 在……之上——表位置高低。"
+   },
+   "collocation": "the one before that 那之前的那个；the day before 前一天",
+   "gloss": "……之前的"
+  },
+  {
+   "no": 18,
+   "options": {
+    "A": "jump",
+    "B": "float",
+    "C": "fluctuate",
+    "D": "drop"
+   },
+   "answer": "D",
+   "type": "实词辨析",
+   "logic": "反向对照",
+   "signal": "higher than … would ___ by an average of 0.075",
+   "explain": "前文说前一位**高出** 0.75 分，那么下一位的分数就**下降**——drop by 0.075 points「下降了 0.075 分」。前后构成一升一降的反向对照。",
+   "whyWrong": {
+    "A": "jump 跳升——方向反了。",
+    "B": "float 浮动——不表方向。",
+    "C": "fluctuate 波动——只表来回变，不表单向下降。"
+   },
+   "collocation": "drop by + 幅度 下降了……；rise by + 幅度 上升了……",
+   "gloss": "下降"
+  },
+  {
+   "no": 19,
+   "options": {
+    "A": "achieve",
+    "B": "undo",
+    "C": "maintain",
+    "D": "disregard"
+   },
+   "answer": "B",
+   "type": "熟词僻义",
+   "logic": "",
+   "signal": "to ___ the effects of such a decrease",
+   "explain": "undo 的僻义是「**抵消、使失效**」（不是「撤销」）。要抵消这 0.075 分下降带来的影响，考生得多考 30 分 GMAT——语义严丝合缝。",
+   "whyWrong": {
+    "A": "achieve 实现——不能「实现影响」来对抗下降。",
+    "C": "maintain 维持——与「抵消」矛盾。",
+    "D": "disregard 忽视——忽视影响就不需要多考 30 分了。"
+   },
+   "collocation": "undo the damage/effects 消除损害/影响",
+   "gloss": "抵消"
+  },
+  {
+   "no": 20,
+   "options": {
+    "A": "necessary",
+    "B": "possible",
+    "C": "promising",
+    "D": "helpful"
+   },
+   "answer": "A",
+   "type": "语法结构",
+   "logic": "",
+   "signal": "than would otherwise have been ___（虚拟语气）",
+   "explain": "than would otherwise have been necessary 是**虚拟语气**：「比原本所需的分数多 30 分」。necessary 与句中 need 语义呼应，是唯一能成立的选项。",
+   "whyWrong": {
+    "B": "possible 可能的——不表「需要」。",
+    "C": "promising 有前途的——修饰人/前景，不修饰分数。",
+    "D": "helpful 有帮助的——「本来会有帮助的分数」逻辑不成立。"
+   },
+   "collocation": "than necessary 比所需的（更多）；otherwise 与虚拟语气连用",
+   "gloss": "必要的"
+  }
+ ],
+ "sentences": [
+  {
+   "i": 1,
+   "para": 1,
+   "en": "People are, on the whole, poor at considering background information when making individual decisions.",
+   "zh": "总体而言，人们在做出个体决定时，并不擅长考虑背景信息。",
+   "struct": "主干：People are poor at considering…（be poor at doing 不擅长做某事）。on the whole 是插入语，把 are 和表语硬切开；when making = when they make，状语从句省略主语+be。",
+   "chunks": [
+    {
+     "t": "People are",
+     "r": "主语 + 系动词"
+    },
+    {
+     "t": "on the whole",
+     "r": "插入语：总体而言"
+    },
+    {
+     "t": "poor at considering background information",
+     "r": "表语：be poor at doing"
+    },
+    {
+     "t": "when making individual decisions",
+     "r": "时间状语（省略 they are）"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "para": 1,
+   "en": "At first glance this might seem like a strength that [[1]] the ability to make judgments which are unbiased by [[2]] factors.",
+   "zh": "乍一看，这似乎是一种优势——它赋予人一种能力，使人作出的判断不受外部因素影响。",
+   "struct": "主句：this might seem like a strength。that 引导定语从句修饰 strength，从句谓语就是第 1 空；to make judgments 是 ability 的后置定语；which 再引一个定语从句修饰 judgments。两个从句套在同一个名词短语上，是本篇最典型的「从句套从句」。",
+   "chunks": [
+    {
+     "t": "At first glance",
+     "r": "状语：乍一看"
+    },
+    {
+     "t": "this might seem like a strength",
+     "r": "主句：主 + 系 + 表"
+    },
+    {
+     "t": "that [[1]] the ability",
+     "r": "定语从句（修饰 strength）"
+    },
+    {
+     "t": "to make judgments",
+     "r": "不定式作 ability 的后置定语"
+    },
+    {
+     "t": "which are unbiased by [[2]] factors",
+     "r": "定语从句（修饰 judgments）"
+    }
+   ],
+   "blankNo": 1,
+   "blankNos": [
+    1,
+    2
+   ]
+  },
+  {
+   "i": 3,
+   "para": 1,
+   "en": "But Dr Simonsohn speculated that an inability to consider the big [[3]] was leading decision-makers to be biased by the daily samples of information they were working with.",
+   "zh": "但 Simonsohn 博士推测，正是这种无法顾及「全局」的缺陷，使决策者被他们日常处理的信息样本带偏。",
+   "struct": "主句 Dr Simonsohn speculated，后接 that 宾语从句。从句主语是 an inability（to consider… 作后置定语），谓语 was leading sb. to do（导致某人做某事）。by the daily samples 是被动来源；they were working with 是省略 that 的定语从句，修饰 information。",
+   "chunks": [
+    {
+     "t": "But Dr Simonsohn speculated",
+     "r": "转折 + 主谓"
+    },
+    {
+     "t": "that an inability to consider the big [[3]]",
+     "r": "宾语从句主语 + 后置定语"
+    },
+    {
+     "t": "was leading decision-makers to be biased",
+     "r": "从句谓语：lead sb. to do"
+    },
+    {
+     "t": "by the daily samples of information",
+     "r": "被动来源状语"
+    },
+    {
+     "t": "they were working with",
+     "r": "省略 that 的定语从句（修饰 information）"
+    }
+   ],
+   "blankNo": 3
+  },
+  {
+   "i": 4,
+   "para": 1,
+   "en": "[[4]], he theorised that a judge [[5]] of appearing too soft [[6]] crime might be more likely to send someone to prison [[7]] he had already sentenced five or six other defendants only to forced community service on that day.",
+   "zh": "举个例子，他提出这样的理论：一位生怕对犯罪显得过于手软的法官，如果当天已经把另外五六个被告仅仅判处强制社区服务，那么他就更可能把某个人送进监狱。",
+   "struct": "主句 he theorised + that 宾语从句。从句主语 a judge 带两个后置修饰：fearful of appearing too soft on crime（形容词短语）；谓语 might be more likely to send…to prison（be likely to do）。if 引导条件状语从句，only to forced community service 的 only 是「仅仅」，凸显前案轻判，才反衬出后案的从重。",
+   "chunks": [
+    {
+     "t": "[[4]]",
+     "r": "句首状语：举例"
+    },
+    {
+     "t": "he theorised",
+     "r": "主句：主谓"
+    },
+    {
+     "t": "that a judge [[5]] of appearing too soft [[6]] crime",
+     "r": "宾语从句主语 + 形容词短语后置定语"
+    },
+    {
+     "t": "might be more likely to send someone to prison",
+     "r": "从句谓语：be likely to do"
+    },
+    {
+     "t": "[[7]] he had already sentenced five or six other defendants",
+     "r": "条件状语从句"
+    },
+    {
+     "t": "only to forced community service",
+     "r": "only = 仅仅（轻判）"
+    },
+    {
+     "t": "on that day",
+     "r": "时间状语"
+    }
+   ],
+   "blankNo": 4,
+   "blankNos": [
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "i": 5,
+   "para": 2,
+   "en": "To [[8]] this idea, they turned their attention to the university-admissions process.",
+   "zh": "为了检验这一想法，他们把注意力转向了大学录取过程。",
+   "struct": "To do 作目的状语前置；主句 they turned their attention to + 宾语（turn one's attention to 把注意力转向）。",
+   "chunks": [
+    {
+     "t": "To [[8]] this idea",
+     "r": "目的状语"
+    },
+    {
+     "t": "they turned their attention to",
+     "r": "主谓：turn attention to"
+    },
+    {
+     "t": "the university-admissions process",
+     "r": "介词宾语"
+    }
+   ],
+   "blankNo": 8
+  },
+  {
+   "i": 6,
+   "para": 2,
+   "en": "In theory, the [[9]] of an applicant should not depend on the few others [[10]] randomly for interview during the same day, but Dr Simonsohn suspected the truth was [[11]].",
+   "zh": "理论上，一个申请者能否被录取，不应取决于当天随机抽来面试的另外几个人；但 Simonsohn 博士怀疑事实恰恰相反。",
+   "struct": "but 连接两个并列分句。前分句主干 the [[9]] of an applicant should not depend on the few others；chosen randomly for interview 是过去分词短语作 others 的后置定语。后分句 suspected 后接省略 that 的宾语从句 the truth was [[11]]，otherwise 作表语。",
+   "chunks": [
+    {
+     "t": "In theory",
+     "r": "状语：理论上"
+    },
+    {
+     "t": "the [[9]] of an applicant",
+     "r": "主语 + of 短语"
+    },
+    {
+     "t": "should not depend on",
+     "r": "谓语：depend on"
+    },
+    {
+     "t": "the few others [[10]] randomly for interview",
+     "r": "宾语 + 过去分词后置定语"
+    },
+    {
+     "t": "during the same day",
+     "r": "时间状语"
+    },
+    {
+     "t": "but Dr Simonsohn suspected",
+     "r": "转折 + 主谓"
+    },
+    {
+     "t": "the truth was [[11]]",
+     "r": "宾语从句（表语为第 11 空）"
+    }
+   ],
+   "blankNo": 9,
+   "blankNos": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "i": 7,
+   "para": 3,
+   "en": "He studied the results of 9,323 MBA interviews [[12]] by 31 admissions officers.",
+   "zh": "他研究了由 31 位招生官主持的 9,323 次 MBA 面试的结果。",
+   "struct": "主干 He studied the results。of 9,323 MBA interviews 作 results 的后置定语；conducted by… 过去分词短语再修饰 interviews，形成「套娃式」后置定语。",
+   "chunks": [
+    {
+     "t": "He studied",
+     "r": "主谓"
+    },
+    {
+     "t": "the results of 9,323 MBA interviews",
+     "r": "宾语 + of 短语"
+    },
+    {
+     "t": "[[12]] by 31 admissions officers",
+     "r": "过去分词短语作后置定语"
+    }
+   ],
+   "blankNo": 12
+  },
+  {
+   "i": 8,
+   "para": 3,
+   "en": "The interviewers had [[13]] applicants on a scale of one to five.",
+   "zh": "面试官按 1 到 5 分的量表给申请者打了分。",
+   "struct": "过去完成时 had + 过去分词（第 13 空）；on a scale of one to five 是方式状语，正是它锁定 rate 这个动词。",
+   "chunks": [
+    {
+     "t": "The interviewers had [[13]] applicants",
+     "r": "主谓宾（过去完成时）"
+    },
+    {
+     "t": "on a scale of one to five",
+     "r": "方式状语（1–5 分制）"
+    }
+   ],
+   "blankNo": 13
+  },
+  {
+   "i": 9,
+   "para": 3,
+   "en": "This scale [[14]] numerous factors into consideration.",
+   "zh": "这一评分标准把诸多因素都纳入了考虑。",
+   "struct": "主谓宾结构：This scale [[14]] numerous factors into consideration。take sth. into consideration 被拆开，宾语插在中间，这是固定短语的常见考法。",
+   "chunks": [
+    {
+     "t": "This scale [[14]]",
+     "r": "主谓"
+    },
+    {
+     "t": "numerous factors",
+     "r": "宾语（插在短语中间）"
+    },
+    {
+     "t": "into consideration",
+     "r": "固定搭配的介词部分"
+    }
+   ],
+   "blankNo": 14
+  },
+  {
+   "i": 10,
+   "para": 3,
+   "en": "The scores were [[15]] used in conjunction with an applicant's score on the GMAT, a standardised exam which is [[16]] out of 800 points, to make a decision on whether to accept him or her.",
+   "zh": "随后，这些分数会与申请者的 GMAT 成绩（一项按 800 分制计分的标准化考试）结合使用，以决定是否录取他/她。",
+   "struct": "主干 The scores were used（被动）+ then 表先后。in conjunction with… 是方式状语（与……结合）；a standardised exam 是 GMAT 的同位语，which 引导定语从句修饰它；to make a decision 是目的状语，on whether to accept… 作 decision 的后置定语（whether + 不定式）。",
+   "chunks": [
+    {
+     "t": "The scores were [[15]] used",
+     "r": "主谓（被动）+ 副词"
+    },
+    {
+     "t": "in conjunction with an applicant's score on the GMAT",
+     "r": "方式状语：与……结合"
+    },
+    {
+     "t": "a standardised exam which is [[16]] out of 800 points",
+     "r": "同位语 + 定语从句"
+    },
+    {
+     "t": "to make a decision on whether to accept him or her",
+     "r": "目的状语（whether + 不定式）"
+    }
+   ],
+   "blankNo": 15,
+   "blankNos": [
+    15,
+    16
+   ]
+  },
+  {
+   "i": 11,
+   "para": 4,
+   "en": "Dr Simonsohn found if the score of the previous candidate in a daily series of interviewees was 0.75 points or more higher than that of the one [[17]] that, then the score for the next applicant would [[18]] by an average of 0.075 points.",
+   "zh": "Simonsohn 博士发现：如果当天连续面试的考生中，前一位的分数比再前一位高出 0.75 分或更多，那么下一位申请者的分数平均就会下降 0.075 分。",
+   "struct": "found 后接「if…then…」条件主从复合句（省略了宾语从句引导词 that）。比较结构 was 0.75 points or more higher than that of the one before that 里，that 代替 the score，避免重复。主句 would drop by an average of 0.075 points：by 表幅度。",
+   "chunks": [
+    {
+     "t": "Dr Simonsohn found",
+     "r": "主谓"
+    },
+    {
+     "t": "if the score of the previous candidate … was 0.75 points or more higher than that of the one [[17]] that",
+     "r": "条件状语从句（含比较结构）"
+    },
+    {
+     "t": "then the score for the next applicant would [[18]]",
+     "r": "主句"
+    },
+    {
+     "t": "by an average of 0.075 points",
+     "r": "程度状语：下降了……"
+    }
+   ],
+   "blankNo": 17,
+   "blankNos": [
+    17,
+    18
+   ]
+  },
+  {
+   "i": 12,
+   "para": 4,
+   "en": "This might sound small, but to [[19]] the effects of such a decrease a candidate would need 30 more GMAT points than would otherwise have been [[20]].",
+   "zh": "这个数字听起来很小，但要抵消这种分数下降带来的影响，考生需要比原本所需的分数多考 30 分 GMAT。",
+   "struct": "but 连接两个分句。前分句 This might sound small 是系表结构。后分句 to undo… 为目的状语前置，主干 a candidate would need 30 more GMAT points；than would otherwise have been necessary 是**比较状语从句 + 虚拟语气**，省略了主语 the points，otherwise 与虚拟式连用表「原本会」。",
+   "chunks": [
+    {
+     "t": "This might sound small",
+     "r": "前分句：主 + 系 + 表"
+    },
+    {
+     "t": "but to [[19]] the effects of such a decrease",
+     "r": "目的状语前置"
+    },
+    {
+     "t": "a candidate would need 30 more GMAT points",
+     "r": "主句：主谓宾"
+    },
+    {
+     "t": "than would otherwise have been [[20]]",
+     "r": "比较状语从句（省略 the points，虚拟语气）"
+    }
+   ],
+   "blankNo": 19,
+   "blankNos": [
+    19,
+    20
+   ]
+  }
+ ],
+ "fullZh": [
+  "总体而言，人们在做出个体决定时并不擅长考虑背景信息。乍一看，这似乎是一种优势——它赋予人一种能力，使人作出的判断不受外部因素影响。但 Simonsohn 博士推测，正是这种无法顾及「全局」的缺陷，使决策者被他们日常处理的信息样本带偏。举个例子，他提出这样的理论：一位生怕对犯罪显得过于手软的法官，如果当天已经把另外五六个被告仅仅判处强制社区服务，那么他就更可能把某个人送进监狱。",
+  "为了检验这一想法，他们把注意力转向了大学录取过程。理论上，一个申请者能否被录取，不应取决于当天随机抽来面试的另外几个人；但 Simonsohn 博士怀疑事实恰恰相反。",
+  "他研究了由 31 位招生官主持的 9,323 次 MBA 面试的结果。面试官按 1 到 5 分的量表给申请者打了分，这一评分标准把诸多因素都纳入了考虑。随后，这些分数会与申请者的 GMAT 成绩（一项按 800 分制计分的标准化考试）结合使用，以决定是否录取他/她。",
+  "Simonsohn 博士发现：如果当天连续面试的考生中，前一位的分数比再前一位高出 0.75 分或更多，那么下一位申请者的分数平均就会下降 0.075 分。这个数字听起来很小，但要抵消这种分数下降带来的影响，考生需要比原本所需的分数多考 30 分 GMAT。"
+ ],
+ "words": [
+  {
+   "w": "on the whole",
+   "phon": "/ɒn ðə həʊl/",
+   "pos": "phr.",
+   "zh": "总体而言，大体上",
+   "level": "考研核心",
+   "inText": "People are, on the whole, poor at…"
+  },
+  {
+   "w": "background",
+   "phon": "/ˈbækɡraʊnd/",
+   "pos": "n.",
+   "zh": "背景；背景信息",
+   "level": "考研核心",
+   "inText": "considering background information"
+  },
+  {
+   "w": "glance",
+   "phon": "/ɡlɑːns/",
+   "pos": "n./v.",
+   "zh": "一瞥，扫视",
+   "level": "考研核心",
+   "inText": "At first glance",
+   "note": "at first glance 乍一看；glance at 瞥一眼"
+  },
+  {
+   "w": "strength",
+   "phon": "/streŋθ/",
+   "pos": "n.",
+   "zh": "优势，长处；力量",
+   "level": "考研核心",
+   "inText": "seem like a strength",
+   "note": "此处 = 优点，不是「力气」"
+  },
+  {
+   "w": "grant",
+   "phon": "/ɡrɑːnt/",
+   "pos": "v.",
+   "zh": "赋予，给予；准予",
+   "level": "考研核心",
+   "inText": "a strength that grants the ability",
+   "note": "grant sb. sth. 赋予某人某物"
+  },
+  {
+   "w": "judgment",
+   "phon": "/ˈdʒʌdʒmənt/",
+   "pos": "n.",
+   "zh": "判断，判断力",
+   "level": "考研核心",
+   "inText": "the ability to make judgments",
+   "note": "make a judgment 作出判断"
+  },
+  {
+   "w": "unbiased",
+   "phon": "/ʌnˈbaɪəst/",
+   "pos": "adj.",
+   "zh": "无偏见的，公正的",
+   "level": "超纲",
+   "inText": "judgments which are unbiased"
+  },
+  {
+   "w": "factor",
+   "phon": "/ˈfæktə(r)/",
+   "pos": "n.",
+   "zh": "因素，要素",
+   "level": "考研核心",
+   "inText": "external factors"
+  },
+  {
+   "w": "external",
+   "phon": "/ɪkˈstɜːnl/",
+   "pos": "adj.",
+   "zh": "外部的，外来的",
+   "level": "考研核心",
+   "inText": "unbiased by external factors"
+  },
+  {
+   "w": "speculate",
+   "phon": "/ˈspekjuleɪt/",
+   "pos": "v.",
+   "zh": "推测，猜想；投机",
+   "level": "考研核心",
+   "inText": "Dr Simonsohn speculated that…",
+   "note": "speculate on/about 对……进行推测"
+  },
+  {
+   "w": "inability",
+   "phon": "/ˌɪnəˈbɪləti/",
+   "pos": "n.",
+   "zh": "无能力，无能为力",
+   "level": "考研核心",
+   "inText": "an inability to consider the big picture"
+  },
+  {
+   "w": "decision-maker",
+   "phon": "/dɪˈsɪʒn ˌmeɪkə(r)/",
+   "pos": "n.",
+   "zh": "决策者",
+   "level": "考研核心",
+   "inText": "was leading decision-makers to be biased"
+  },
+  {
+   "w": "biased",
+   "phon": "/ˈbaɪəst/",
+   "pos": "adj.",
+   "zh": "有偏见的，有偏差的",
+   "level": "考研核心",
+   "inText": "leading decision-makers to be biased"
+  },
+  {
+   "w": "sample",
+   "phon": "/ˈsɑːmpl/",
+   "pos": "n./v.",
+   "zh": "样本；抽样",
+   "level": "考研核心",
+   "inText": "the daily samples of information"
+  },
+  {
+   "w": "theorise",
+   "phon": "/ˈθɪəraɪz/",
+   "pos": "v.",
+   "zh": "提出理论，推理",
+   "level": "超纲",
+   "inText": "he theorised that a judge…"
+  },
+  {
+   "w": "soft",
+   "phon": "/sɒft/",
+   "pos": "adj.",
+   "zh": "软的；（对……）温和的",
+   "level": "熟词僻义",
+   "inText": "too soft on crime",
+   "note": "be soft on sb. 对某人手软"
+  },
+  {
+   "w": "sentence",
+   "phon": "/ˈsentəns/",
+   "pos": "v./n.",
+   "zh": "判处（刑罚）；句子",
+   "level": "熟词僻义",
+   "inText": "he had already sentenced five or six other defendants",
+   "note": "sentence sb. to sth. 判处某人……"
+  },
+  {
+   "w": "defendant",
+   "phon": "/dɪˈfendənt/",
+   "pos": "n.",
+   "zh": "被告",
+   "level": "超纲",
+   "inText": "five or six other defendants"
+  },
+  {
+   "w": "community service",
+   "phon": "/kəˈmjuːnəti ˈsɜːvɪs/",
+   "pos": "phr.",
+   "zh": "社区服务（一种非监禁刑）",
+   "level": "超纲",
+   "inText": "forced community service"
+  },
+  {
+   "w": "applicant",
+   "phon": "/ˈæplɪkənt/",
+   "pos": "n.",
+   "zh": "申请人，申请者",
+   "level": "考研核心",
+   "inText": "the few others chosen randomly for interview"
+  },
+  {
+   "w": "randomly",
+   "phon": "/ˈrændəmli/",
+   "pos": "adv.",
+   "zh": "随机地，任意地",
+   "level": "考研核心",
+   "inText": "chosen randomly for interview"
+  },
+  {
+   "w": "suspect",
+   "phon": "/səˈspekt/",
+   "pos": "v./n.",
+   "zh": "怀疑，猜想；嫌疑犯",
+   "level": "考研核心",
+   "inText": "Dr Simonsohn suspected the truth was otherwise",
+   "note": "动词重音在后 /səˈspekt/，名词重音在前 /ˈsʌspekt/"
+  },
+  {
+   "w": "otherwise",
+   "phon": "/ˈʌðəwaɪz/",
+   "pos": "adv.",
+   "zh": "并非如此；否则，不然",
+   "level": "熟词僻义",
+   "inText": "the truth was otherwise",
+   "note": "作表语 = not so「不是这样的」"
+  },
+  {
+   "w": "conduct",
+   "phon": "/kənˈdʌkt/",
+   "pos": "v./n.",
+   "zh": "进行，主持；行为",
+   "level": "考研核心",
+   "inText": "interviews conducted by 31 admissions officers",
+   "note": "conduct an interview 进行面试"
+  },
+  {
+   "w": "rate",
+   "phon": "/reɪt/",
+   "pos": "v./n.",
+   "zh": "评估，打分；比率，速度",
+   "level": "熟词僻义",
+   "inText": "had rated applicants on a scale of one to five"
+  },
+  {
+   "w": "scale",
+   "phon": "/skeɪl/",
+   "pos": "n.",
+   "zh": "量表，等级；规模；鳞",
+   "level": "考研核心",
+   "inText": "on a scale of one to five"
+  },
+  {
+   "w": "numerous",
+   "phon": "/ˈnjuːmərəs/",
+   "pos": "adj.",
+   "zh": "众多的，许多的",
+   "level": "考研核心",
+   "inText": "numerous factors"
+  },
+  {
+   "w": "consideration",
+   "phon": "/kənˌsɪdəˈreɪʃn/",
+   "pos": "n.",
+   "zh": "考虑；体贴",
+   "level": "考研核心",
+   "inText": "took numerous factors into consideration",
+   "note": "take sth. into consideration 把……考虑在内"
+  },
+  {
+   "w": "conjunction",
+   "phon": "/kənˈdʒʌŋkʃn/",
+   "pos": "n.",
+   "zh": "结合，联合；连词",
+   "level": "超纲",
+   "inText": "in conjunction with an applicant's score",
+   "note": "in conjunction with 与……一起/结合"
+  },
+  {
+   "w": "standardise",
+   "phon": "/ˈstændədaɪz/",
+   "pos": "v.",
+   "zh": "使标准化",
+   "level": "考研核心",
+   "inText": "a standardised exam",
+   "note": "英式拼写，美式 standardize"
+  },
+  {
+   "w": "mark",
+   "phon": "/mɑːk/",
+   "pos": "v./n.",
+   "zh": "评分，计分；标记",
+   "level": "熟词僻义",
+   "inText": "which is marked out of 800 points",
+   "note": "be marked out of 100 按百分制计分"
+  },
+  {
+   "w": "candidate",
+   "phon": "/ˈkændɪdət/",
+   "pos": "n.",
+   "zh": "候选人，考生",
+   "level": "考研核心",
+   "inText": "the previous candidate"
+  },
+  {
+   "w": "series",
+   "phon": "/ˈsɪəriːz/",
+   "pos": "n.",
+   "zh": "一系列，接连",
+   "level": "考研核心",
+   "inText": "in a daily series of interviewees",
+   "note": "单复数同形：a series of / two series of"
+  },
+  {
+   "w": "previous",
+   "phon": "/ˈpriːviəs/",
+   "pos": "adj.",
+   "zh": "前面的，先前的",
+   "level": "考研核心",
+   "inText": "the previous candidate"
+  },
+  {
+   "w": "drop",
+   "phon": "/drɒp/",
+   "pos": "v./n.",
+   "zh": "下降，跌落；滴",
+   "level": "考研核心",
+   "inText": "would drop by an average of 0.075 points",
+   "note": "drop by 下降了（幅度）"
+  },
+  {
+   "w": "average",
+   "phon": "/ˈævərɪdʒ/",
+   "pos": "n./adj.",
+   "zh": "平均，平均数",
+   "level": "考研核心",
+   "inText": "by an average of 0.075 points"
+  },
+  {
+   "w": "undo",
+   "phon": "/ʌnˈduː/",
+   "pos": "v.",
+   "zh": "抵消，使失效；撤销；解开",
+   "level": "熟词僻义",
+   "inText": "to undo the effects of such a decrease",
+   "note": "本篇考「抵消」义，不是「撤销」"
+  },
+  {
+   "w": "decrease",
+   "phon": "/ˈdiːkriːs/",
+   "pos": "n./v.",
+   "zh": "减少，下降",
+   "level": "考研核心",
+   "inText": "the effects of such a decrease",
+   "note": "名词重音在前 /ˈdiːkriːs/，动词在后 /dɪˈkriːs/"
+  },
+  {
+   "w": "necessary",
+   "phon": "/ˈnesəsəri/",
+   "pos": "adj.",
+   "zh": "必要的，必需的",
+   "level": "考研核心",
+   "inText": "than would otherwise have been necessary"
+  }
+ ],
+ "takeaways": [
+  "本篇 20 空里，**逻辑关系题 5 道**（4、7、15、17、18），全部靠「空前后同向还是反向」就能定，一个生词都不需要认识。",
+  "**固定搭配 6 道**（3、5、6、12、14，加第 1 空的双宾语）——the big picture / be fearful of / be soft on / conduct an interview / take sth. into consideration。这一块是性价比最高的 3 分。",
+  "第 2 空 external 是「原词复现」：与首句 background information 同指「外部信息」。完形答案优先选原词/同根复现，**不是**同义替换——这是完形和阅读最大的区别。",
+  "第 19 空 undo 是「熟词僻义」：undo = 抵消，不是「撤销」。背单词必须记第二义项，考研完形每年至少 2 个这种坑。",
+  "全文只有一个论点：人做判断会被「前一个样本」带偏（序列效应 / 锚定）。读懂这一句，13–20 空基本是白给；读不懂，就会在 drop / jump 这种方向题上反复。",
+  "做题顺序建议：先扫第 2 空（复现）、第 3 空（the big picture）、第 12 空（conduct an interview）这三个白给的，把文章骨架立住，再回头啃第 9、11、19 空。"
+ ]
+}

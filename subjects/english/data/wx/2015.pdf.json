@@ -1,0 +1,253 @@
+{
+ "year": 2015,
+ "paper": "英语一",
+ "section": "完形填空",
+ "topic": "",
+ "source": {
+  "textUrl": "",
+  "answerUrl": ""
+ },
+ "text": "Though not biologically related, friends are as \"related\" as fourth cousins, sharing about 1% of genes. That\nis [[1]] a study, published from the University of California and Yale University in the Proceedings of the\nNational Academy of Sciences, has [[2]].\n\nThe study is a genome-wide analysis conducted [[3]] 1,932 unique subjects which [[4]] pairs of\nunrelated friends and unrelated strangers. The same people were used in both [[5]].\n\nWhile 1% may seem [[6]], it is not so to a geneticist. As James Fowler, professor of medical genetics\nat UC San Diego, says, \"Most people do not even [[7]] their fourth cousins but somehow manage to select\nas friends the people who [[8]] our kin.\"\n\nThe study [[9]] found that the genes for smell were something shared in friends but not genes for\nimmunity. Why this similarity exists in smell genes is difficult to explain, for now. [[10]], as the team\nsuggests, it draws us to similar environments but there is more [[11]] it. There could be many mechanisms\nworking together that [[12]] us in choosing genetically similar friends [[13]] \"functional kinship\" of being\nfriends with [[14]]!\n\nOne of the remarkable findings of the study was that the similar genes seem to be evolving [[15]] than\nother genes. Studying this could help [[16]] why human evolution picked pace in the last 30,000 years, with\nsocial environment being a major [[17]] factor.\n\nThe findings do not simply explain people's [[18]] to befriend those of similar [[19]] backgrounds,\nsay the researchers. Though all the subjects were drawn from a population of European extraction, care was\ntaken to [[20]] that all subjects, friends and strangers, were taken from the same population.",
+ "blanks": [
+  {
+   "no": 1,
+   "options": {
+    "A": "when",
+    "B": "why",
+    "C": "how",
+    "D": "what"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 2,
+   "options": {
+    "A": "defended",
+    "B": "concluded",
+    "C": "withdrawn",
+    "D": "advised"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 3,
+   "options": {
+    "A": "for",
+    "B": "with",
+    "C": "on",
+    "D": "by"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 4,
+   "options": {
+    "A": "compared",
+    "B": "sought",
+    "C": "separated",
+    "D": "connected"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 5,
+   "options": {
+    "A": "tests",
+    "B": "objects",
+    "C": "samples",
+    "D": "examples"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 6,
+   "options": {
+    "A": "insignificant",
+    "B": "unexpected",
+    "C": "unreliable",
+    "D": "incredible"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 7,
+   "options": {
+    "A": "visit",
+    "B": "miss",
+    "C": "seek",
+    "D": "know"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 8,
+   "options": {
+    "A": "resemble",
+    "B": "influence",
+    "C": "favor",
+    "D": "surpass"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 9,
+   "options": {
+    "A": "again",
+    "B": "also",
+    "C": "instead",
+    "D": "thus"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 10,
+   "options": {
+    "A": "Meanwhile",
+    "B": "Furthermore",
+    "C": "Likewise",
+    "D": "Perhaps"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 11,
+   "options": {
+    "A": "about",
+    "B": "to",
+    "C": "from",
+    "D": "like"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 12,
+   "options": {
+    "A": "drive",
+    "B": "observe",
+    "C": "confuse",
+    "D": "limit"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 13,
+   "options": {
+    "A": "according to",
+    "B": "rather than",
+    "C": "regardless of",
+    "D": "along with"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 14,
+   "options": {
+    "A": "chances",
+    "B": "responses",
+    "C": "missions",
+    "D": "benefits"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 15,
+   "options": {
+    "A": "later",
+    "B": "slower",
+    "C": "faster",
+    "D": "earlier"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 16,
+   "options": {
+    "A": "forecast",
+    "B": "remember",
+    "C": "understand",
+    "D": "express"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 17,
+   "options": {
+    "A": "unpredictable",
+    "B": "contributory",
+    "C": "controllable",
+    "D": "disruptive"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 18,
+   "options": {
+    "A": "endeavor",
+    "B": "decision",
+    "C": "arrangement",
+    "D": "tendency"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 19,
+   "options": {
+    "A": "political",
+    "B": "religious",
+    "C": "ethnic",
+    "D": "economic"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 20,
+   "options": {
+    "A": "see",
+    "B": "show",
+    "C": "prove",
+    "D": "tell Section II Reading Comprehension Part A Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points) Text 1 King Juan Carlos of Spain once insisted \"kings don't abdicate, they die in their sleep.\" But embarrassing scandals and the popularity of the republican left in the recent Euro-elections have forced him to eat his words and stand down. So, does the Spanish crisis suggest that monarchy is seeing its last days? Does that mean the writing is on the wall for all European royals, with their magnificent uniforms and majestic lifestyles? The Spanish case provides arguments both for and against monarchy. When public opinion is particularly polarised, as it was following the end of the Franco regime, monarchs can rise above \"mere\" politics and \"embody\" a spirit of national unity. It is this apparent transcendence of politics that explains monarchs' continuing popularity as heads of state. And so, the Middle East excepted, Europe is the most monarch-infested region in the world, with 10 kingdoms (not counting Vatican city and Andorra). But unlike their absolutist counterparts in the Gulf and Asia, most royal families have survived because they allow voters to avoid the difficult search for a non-controversial but respected public figure. Even so, kings and queens undoubtedly have a downside. Symbolic of national unity as they claim to be, their very history – and sometimes the way they behave today – embodies outdated and indefensible privileges and inequalities. At a time when Thomas Piketty and other economists are warning of rising inequality and the increasing power of inherited wealth, it is bizarre that wealthy aristocratic families should still be the symbolic heart of modern democratic states. The most successful monarchies strive to abandon or hide their old aristocratic ways. Princes and princesses have day-jobs and ride bicycles, not horses (or helicopters). Even so, these are wealthy families who party with the international 1%, and media intrusiveness makes it increasingly difficult to maintain the right image. While Europe's monarchies will no doubt be smart enough to survive for some time to come, it is the British royals who have most to fear from the Spanish example. It is only the Queen who has preserved the monarchy's reputation with her rather ordinary (if well-heeled) granny style. The danger will come with Charles, who has both an expensive taste of lifestyle and a pretty hierarchical view of the world. He has failed to understand that monarchies have largely survived because they provide a service–as non-controversial and non-political heads of state. Charles ought to know that as English history shows, it is kings, not republicans, who are the monarchy's worst enemies."
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  }
+ ]
+}

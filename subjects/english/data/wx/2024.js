@@ -1,0 +1,275 @@
+window.__WX__ = window.__WX__ || {};
+window.__WX__[2024] = {
+ "year": 2024,
+ "paper": "英语一",
+ "section": "完形填空",
+ "topic": "",
+ "difficulty": 0,
+ "source": {
+  "textUrl": "",
+  "answerUrl": ""
+ },
+ "text": "There's nothing more welcoming than a door opening for you. [[1]] the need to be touched to open or close, automatic doors are essential in [[2]] disabled access to buildings and helping provide general [[3]] to commercial buildings.\n\nSelf-sliding doors began to emerge as a commercial product in 1960 after being invented six years [[4]] by Americans Dee Horton and Lew Hewitt. They [[5]] as a novelty feature, but as their use has grown, their [[6]] have extended within our technologically advanced world. Particularly [[7]] in busy locations or during times of emergency, the doors [[8]] crowd management by reducing the obstacles put in people's way.\n\n[[9]] making access both in and out of buildings easier for people, the difference in the way many of these doors open helps reduce the total area [[10]] by them. Automatic doors often open to the side, with the panels sliding across one another. Replacing swing doors, these [[11]] smaller buildings to maximise the usable space inside without having to [[12]] the way for a large, sticking-out door. There are many different types of automatic door, with each [[13]] specific signals to tell them when to open. [[14]] these methods differ, the main [[15]] remain the same.\n\nEach automatic door system [[16]] the light, sound, weight or movement in its vicinity as a signal to open. Sensor types are chosen to [[17]] the different environments they are needed in. [[18]], a busy street might not [[19]] a motion-sensored door, as it would constantly be opening for passers-by. A pressure- sensitive mat would be more [[20]] to limit the surveyed area.",
+ "blanks": [
+  {
+   "no": 1,
+   "options": {
+    "A": "Through",
+    "B": "Despite",
+    "C": "Besides",
+    "D": "Without"
+   },
+   "answer": "D",
+   "type": "词义辨析",
+   "explain": "空前后呼应：自动门 = 不需要触碰",
+   "analysis": "【答案】[ D ] Without\n词义辨析\n【线索】空前后呼应：自动门 = 不需要触碰\n__(1)__ the need to be touched to open or close, automatic doors are essential 提\n示\"自动门\"与\"触碰需要\"之间是排斥关系——正因为不需要触碰才叫\"自动\"，所以空处应填\n表达\"没有\"的介词。\n【选项】A) Through ✗方向错：表示\"通过/凭借\"\nThrough 表示\"凭借某手段\"，代入会得到\"凭借需要触碰\"，与 automatic 的本义相反。\nB) Despite ✗让步关系不成立\nDespite 表示\"尽管有……\"，代入意味着自动门是\"在需要触碰的情况下\"仍然必要，与下文\nessential in disabled access 形成的肯定语义脱节。\nC) Besides ✗并列关系不成立\nBesides 表示\"除……之外（还）\"，会承认 \"the need to be touched\" 是自动门已具备的属性之\n一，与\"自动\"互相矛盾。\nD) Without ✓精准对应 automatic 的定义\nWithout 直接表达\"不需要被触碰\"，与主句 automatic doors are essential 同向呼应，把\"自\n动\"这一核心特征点了出来。\n【验证】代回后 __(1)__ the need to be touched to open or close, automatic doors are\nessential in __(2)__ disabled access to buildings 意为\"无需触碰即可开关，自动门对无障\n碍出入至关重要\"，逻辑顺畅，与全文\"自动门 = 便利\"的脉络一致。"
+  },
+  {
+   "no": 2,
+   "options": {
+    "A": "revealing",
+    "B": "demanding",
+    "C": "improving",
+    "D": "tracing"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "并列结构指向\"提升/促进\"",
+   "analysis": "【答案】[ C ] improving\n词义辨析\n【线索】并列结构指向\"提升/促进\"\nessential in __(2)__ disabled access to buildings and helping provide general __(3)__\nto commercial buildings 中 and 把空 2 的动作与 helping provide 并列，提示空 2 也应\n是\"促成、提升\"类正向动词。\n【选项】A) revealing ✗义不对：\"揭示\"\nrevealing 是\"使显露\"，自动门并非\"揭露\"无障碍通道，搭配语义不通。\nB) demanding ✗方向反：\"要求\"带负担色\ndemanding 是\"要求/需要\"，会把自动门塑造成\"要求残障人士去通行\"，与文章对自动门的正面定\n调相反。\nC) improving ✓正向且与 helping provide 同向\nimproving 表\"改善\"，与后文 helping provide general __(3)__ 并列，共同表达自动门的两项益\n处，色彩与逻辑都对。\nD) tracing ✗义不对：\"追溯/描绘轮廓\"\ntracing 与 access 搭配，意为\"追踪通行路径\"，既不是自动门的作用，也偏离正向语境。\n【验证】代回 essential in __(2)__ disabled access to buildings 得\"在改善建筑物无障碍通行方面\n至关重要\"，与全段对自动门价值的肯定吻合。"
+  },
+  {
+   "no": 3,
+   "options": {
+    "A": "experience",
+    "B": "convenience",
+    "C": "guidance",
+    "D": "reference"
+   },
+   "answer": "B",
+   "type": "词义辨析",
+   "explain": "与 disabled access 并列的\"通用便利\"",
+   "analysis": "【答案】[ B ] convenience\n词义辨析\n【线索】与 disabled access 并列的\"通用便利\"\nessential in __(2)__ disabled access to buildings and helping provide general __(3)__\nto commercial buildings 把\"残障通行\"与\"general ___\"并列，提示后者是\"普通顾客的便\n利\"——是一种对所有人都通用的好处。\n【选项】A) experience ✗搭配生硬：general experience 偏\"泛泛的经验\"\nexperience 与 general 搭配语义偏\"一般性经历\"，无法体现自动门给商业楼带来的具体益处。\nB) convenience ✓精准命中\"便利\"\nconvenience 与 general 同框是地道搭配，把自动门对所有人共享的\"普遍便利\"表达得到位，与\n首句 welcoming 呼应。\nC) guidance ✗义偏：\"指导\"\nguidance 是\"引导/指导\"，自动门并不提供 guidance；属于近形干扰。\nD) reference ✗义偏：\"参考/提及\"\nreference 与商业楼的语境无关，也与 general 不形成自然搭配。\n【验证】代回 helping provide general __(3)__ to commercial buildings 得\"为商业建筑提供普遍\n便利\"，与首句 welcoming、自动门定调完全契合。"
+  },
+  {
+   "no": 4,
+   "options": {
+    "A": "previously",
+    "B": "temporarily",
+    "C": "successively",
+    "D": "eventually"
+   },
+   "answer": "A",
+   "type": "词义辨析",
+   "explain": "1960 是后锚点，六年前的发明 = previously",
+   "analysis": "【答案】[ A ] previously\n词义辨析\n【线索】1960 是后锚点，六年前的发明 = previously\nSelf-sliding doors began to emerge as a commercial product in 1960 after being\ninvented six years __(4)__ 已给出\"1960 年商业化\"和\"六年前发明\"——after + six years\n决定方向是\"早于 1960\"。\n【选项】\nA) previously ✓精准表达\"先于\"\npreviously 与 six years 组合表示\"早六年\"，把 1960 年商业化与 1954 年发明的时序对得严丝\n合缝。\nB) temporarily ✗义不对：\"暂时\"\ntemporarily 表\"暂时性\"，与 invented 这一一次性事件冲突，且无法和 six years 形成时序。\nC) successively ✗义不对：\"接连地\"\nsuccessively 表\"接连\"，需要多次同类事件；发明只发生一次，搭配错。\nD) eventually ✗方向反：\"最终\"\neventually 表\"最终\"，会让发明发生在 1960 之后，与 after 提供的时序相反。\n【验证】代回得 after being invented six years __(4)__ = \"在六年前被发明之后\"，符合\"1954 年发\n明、1960 年商业化\"这一阅读常识。"
+  },
+  {
+   "no": 5,
+   "options": {
+    "A": "held on",
+    "B": "started out",
+    "C": "settled down",
+    "D": "went by"
+   },
+   "answer": "B",
+   "type": "固定搭配",
+   "explain": "as a novelty + 后文 use has grown 提示\"起步—发展\"对照",
+   "analysis": "【答案】[ B ] started out\n固定搭配\n【线索】as a novelty + 后文 use has grown 提示\"起步—发展\"对照\nThey __(5)__ as a novelty feature, but as their use has grown, their __(6)__ have\nextended 由 but 引出对比：先\"以 novelty 起步\"，后\"扩大\"，空处需要\"开始/起步\"义。\n【选项】A) held on ✗义偏：\"坚持\"\nheld on 表\"坚持住、不挂电话\"，与 as a novelty 不搭，无法表达起步含义。\nB) started out ✓命中\"作为……起步\"\nstarted out 常与 as 搭配，意为\"以……身份开始\"，正好对应\"它们最初是作为新奇玩意儿\n出现\"。\nC) settled down ✗义偏：\"安顿下来\"\nsettled down 多用于人安家、平静下来，与商品起步无关。\nD) went by ✗义偏：\"过去/经过\"\nwent by 多用于时间或路过，与 as a novelty feature 搭不上。\n【验证】代回 They __(5)__ as a novelty feature, but as their use has grown，意为\"最初作为新奇\n事物出现，但随着使用增多……\"，与 but 的转折结构完全对应。"
+  },
+  {
+   "no": 6,
+   "options": {
+    "A": "relations",
+    "B": "volumes",
+    "C": "benefits",
+    "D": "sources"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "随着 use 增多，自动门的\"益处\"延伸",
+   "analysis": "【答案】[ C ] benefits\n词义辨析\n【线索】随着 use 增多，自动门的\"益处\"延伸\nas their use has grown, their __(6)__ have extended within our technologically\nadvanced world 提示因\"使用扩大\"而\"___ 也扩展\"，自然指向使用所带来的\"好处/用途\"。\n【选项】A) relations ✗义不合：\"关系\"\nrelations 多指人/国之间的关系，与自动门的语境完全错位。\nB) volumes ✗义偏：\"体积/数量\"\nvolumes 与 use has grown 在意义上重复（量已经表达过），且\"体积扩展\"与下文\"用途广\n泛\"不挂。\nC) benefits ✓命中\"益处扩展\"\nbenefits 与 extended 搭配地道，呼应下文 reducing the obstacles put in people's way 这一\n具体好处，构成总—分关系。\nD) sources ✗义不合：\"来源\"\nsources 表\"来源\"，与\"在现代世界中扩展\"搭不上，且自动门不是来源型概念。\n【验证】代回 their __(6)__ have extended within our technologically advanced world = \"它们\n的益处已扩展到我们这个科技发达的世界各处\"，与后文具体益处的展开顺理成章。"
+  },
+  {
+   "no": 7,
+   "options": {
+    "A": "useful",
+    "B": "simple",
+    "C": "flexible",
+    "D": "stable"
+   },
+   "answer": "A",
+   "type": "词义辨析",
+   "explain": "后文功能 = 减少障碍 = 派上用场",
+   "analysis": "【答案】[ A ] useful\n词义辨析\n【线索】后文功能 = 减少障碍 = 派上用场\nParticularly __(7)__ in busy locations or during times of emergency, the doors __(8)__\ncrowd management by reducing the obstacles put in people's way 把空 7 的形容词\n与\"管控人流\"绑在一起——能在紧急时帮上忙，自然是\"有用\"。\n【选项】\nA) useful ✓精准命中\"派上用场\"\nuseful 直接对接 reducing the obstacles 这一实际功能，与 Particularly 一起强调\"在繁忙/应急\n场合尤其管用\"。\nB) simple ✗义偏：\"简单\"\nsimple 描述结构简洁，与\"在应急中帮上忙\"无关，干扰错位。\nC) flexible ✗义偏：\"灵活\"\nflexible 多用于策略/安排灵活，与 crowd management 的语境关联较弱。\nD) stable ✗义偏：\"稳定\"\nstable 描述稳定性，与\"减少障碍\"这一具体功能不对接。\n【验证】代回 Particularly __(7)__ in busy locations or during times of emergency = \"在繁忙地\n点或紧急时段尤为有用\"，与下半句\"通过减少障碍助力人流管理\"前后呼应。"
+  },
+  {
+   "no": 8,
+   "options": {
+    "A": "call for",
+    "B": "yield to",
+    "C": "insist on",
+    "D": "act as"
+   },
+   "answer": "D",
+   "type": "固定搭配",
+   "explain": "by + 方式状语指向\"充当某角色\"",
+   "analysis": "【答案】[ D ] act as\n固定搭配\n【线索】by + 方式状语指向\"充当某角色\"\nthe doors __(8)__ crowd management by reducing the obstacles 中 by reducing 是方\n式，表示\"门通过减少障碍来发挥某作用\"——空处需要表达\"发挥……作用\"。\n【选项】A) call for ✗义反：\"需要/呼吁\"\ncall for 是\"需要、呼吁\"，意味着门在\"呼吁人流管理\"，与主语属性不符。\nB) yield to ✗义反：\"屈服于\"\nyield to 是\"让位于\"，会让自动门成为人流管理的下游，与下文的\"帮助\"功能相反。\nC) insist on ✗义不合：\"坚持\"\ninsist on 主观性强，需要有意志的主语，门作主语不合常理。\nD) act as ✓命中\"充当……的角色\"\nact as 表\"充当、起……作用\"，与 by reducing the obstacles 完美对接：自动门作为人流管理的\n工具发挥作用。\n【验证】代回 the doors __(8)__ crowd management by reducing the obstacles put in people's\nway = \"门通过减少人们路上的障碍而起到人流管理的作用\"，结构与语义双自洽。"
+  },
+  {
+   "no": 9,
+   "options": {
+    "A": "As well as",
+    "B": "In terms of",
+    "C": "Thanks to",
+    "D": "Rather than"
+   },
+   "answer": "A",
+   "type": "逻辑关系",
+   "explain": "出入便利 + 节省面积 = 两条好处并列",
+   "analysis": "【答案】[ A ] As well as\n逻辑关系\n【线索】出入便利 + 节省面积 = 两条好处并列\n__(9)__ making access both in and out of buildings easier for people, the difference\nin the way many of these doors open helps reduce the total area __(10)__ by them\n把\"使出入更便利\"与\"减少占地面积\"并列为自动门的两条好处。\n【选项】\nA) As well as ✓并列递进，命中两条好处叠加\nAs well as 表\"除……之外还\"，把出入方便和节省占地两项益处自然并列。\nB) In terms of ✗义偏：\"就……而言\"\nIn terms of 用于聚焦某一方面，无法把两件事并列起来。\nC) Thanks to ✗因果错向\nThanks to 表\"多亏\"，会让\"使出入方便\"变成\"节省占地\"的原因，逻辑曲解。\nD) Rather than ✗方向反：\"而不是\"\nRather than 表否定/取代，会把两件好处变成二选一，与递进语境完全相反。\n【验证】代回得\"除了让进出更便利之外，这些门的开启方式还能减少占地\"，与第三段后续展开（侧\n滑门 vs 摆动门）的逻辑相符。"
+  },
+  {
+   "no": 10,
+   "options": {
+    "A": "connected",
+    "B": "shared",
+    "C": "represented",
+    "D": "occupied"
+   },
+   "answer": "D",
+   "type": "词义辨析",
+   "explain": "reduce the total area = 减少占地面积",
+   "analysis": "【答案】[ D ] occupied\n词义辨析\n【线索】reduce the total area = 减少占地面积\nhelps reduce the total area __(10)__ by them 提示 area 是\"门所占据的总面积\"，故空处\n填\"被占据\"。\n【选项】A) connected ✗义不合：\"连接\"\nconnected 表连接，无法表达\"占地\"。\nB) shared ✗义不合：\"共享\"\nshared 表共享，与\"减少占地\"的功能性目的脱节。\nC) represented ✗义不合：\"代表\"\nrepresented 表代表/象征，无法形容门所占的物理面积。\nD) occupied ✓命中\"占据\"\noccupied 与 area 强搭配，恰好对应\"减少自动门占据的总面积\"。\n【验证】代回 reduce the total area __(10)__ by them = \"减少它们所占的总面积\"，并与后句解\n释\"侧滑面板互相错开\"形成总—分关系。"
+  },
+  {
+   "no": 11,
+   "options": {
+    "A": "allow",
+    "B": "expect",
+    "C": "require",
+    "D": "direct"
+   },
+   "answer": "A",
+   "type": "词义辨析",
+   "explain": "滑动门让小楼最大化可用空间",
+   "analysis": "【答案】[ A ] allow\n词义辨析\n【线索】滑动门让小楼最大化可用空间\nReplacing swing doors, these __(11)__ smaller buildings to maximise the usable\nspace inside 暗含\"门赋能小楼\"，空处应表示\"让/使能够\"。\n【选项】\nA) allow ✓命中\"允许做\"\nallow 与 sb/sth to do 是地道结构，意为\"使小型建筑能够最大化可用空间\"，与上下文吻合。\nB) expect ✗义偏：\"期待\"\nexpect 表期望，会让门拥有意志去\"期待小楼最大化空间\"，逻辑荒谬。\nC) require ✗方向反：\"要求\"\nrequire 表强制，与文章自动门\"赋能\"的正面定调相反。\nD) direct ✗义偏：\"指示\"\ndirect 是\"指挥、指引\"，与\"为小楼提供空间便利\"的赋能语义不符。\n【验证】代回 these __(11)__ smaller buildings to maximise the usable space inside = \"这些门\n让小型建筑能最大化内部可用空间\"，自然顺畅，且与后半句\"无需为大型外凸门让道\"形成\n因果。"
+  },
+  {
+   "no": 12,
+   "options": {
+    "A": "adopt",
+    "B": "lead",
+    "C": "clear",
+    "D": "change"
+   },
+   "answer": "C",
+   "type": "固定搭配",
+   "explain": "大门外凸 → 需腾出空间",
+   "analysis": "【答案】[ C ] clear\n固定搭配\n【线索】大门外凸 → 需腾出空间\nwithout having to __(12)__ the way for a large, sticking-out door 提示\"无需为伸出的大\n门腾路\"，空处对应\"清出通道\"。\n【选项】A) adopt ✗搭配错：\"采纳方式\"\nadopt 多接 method/approach，不与 \"the way for X\" 搭配。\nB) lead ✗义偏：\"引路\"\nlead 指引向他人，但搭配是 lead the way to/in，没有\"lead the way for + 物\"这种说法。\nC) clear ✓命中固定搭：\"为……腾路\"\nclear the way for sth 是固定搭配，正好对应\"为外凸大门腾出空间\"。\nD) change ✗搭配生硬\nchange the way 多指\"改变方式\"，而非\"腾出通路\"，语义层级不同。\n【验证】代回 without having to __(12)__ the way for a large, sticking-out door = \"无需为大型\n外凸门腾出通道\"，与上文\"侧滑节省占地\"的因果一致。"
+  },
+  {
+   "no": 13,
+   "options": {
+    "A": "adapting to",
+    "B": "deriving from",
+    "C": "relying on",
+    "D": "pointing at"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "门以信号为开启依据",
+   "analysis": "【答案】[ C ] relying on\n词义辨析\n【线索】门以信号为开启依据\nwith each __(13)__ specific signals to tell them when to open 提示信号是开门的依据/\n触发条件，空处应表\"依赖\"。\n【选项】A) adapting to ✗义偏：\"适应于\"\nadapting to 是\"适应环境/变化\"，与门主动\"用信号触发开启\"的动作不符。\nB) deriving from ✗义偏：\"源自\"\nderiving from 多用于来源/起源，不能搭\"信号当作触发条件\"。\nC) relying on ✓命中\"依赖某信号\"\nrelying on 表\"依靠\"，正好对应每种门借由不同信号来确定开门时机。\nD) pointing at ✗义偏：\"指向\"\npointing at 表\"指着\"，门和信号不是\"指与被指\"的关系。\n【验证】代回 with each __(13)__ specific signals to tell them when to open = \"每一种门都依赖\n特定信号告知何时开启\"，与第四段对\"光、声、重量、运动\"等具体信号的展开顺承。"
+  },
+  {
+   "no": 14,
+   "options": {
+    "A": "Once",
+    "B": "Since",
+    "C": "Unless",
+    "D": "Although"
+   },
+   "answer": "D",
+   "type": "逻辑关系",
+   "explain": "差异 vs 相同 = 让步关系",
+   "analysis": "【答案】[ D ] Although\n逻辑关系\n【线索】差异 vs 相同 = 让步关系\n__(14)__ these methods differ, the main __(15)__ remain the same 一边强调差异、一边\n强调相同，构成典型\"虽……但……\"。\n【选项】A) Once ✗义偏：\"一旦\"\nOnce 表条件\"一旦……就……\"，与\"主从相反\"的让步语义不合。\nB) Since ✗因果错向\nSince 表\"既然/由于\"，会把\"方法不同\"作为\"原理相同\"的原因，逻辑荒谬。\nC) Unless ✗义反：\"除非\"\nUnless 表\"除非\"，会把两件事变成排他关系，与上下文不符。\nD) Although ✓命中让步关系\nAlthough 表\"尽管\"，让\"方法不同\"与\"原理相同\"形成让步—主句的标准对照。\n【验证】代回 __(14)__ these methods differ, the main __(15)__ remain the same = \"尽管方法各\n异，主要原理却保持不变\"，逻辑清晰、与下段\"每种系统都分析光声重运动\"的总原理一致。"
+  },
+  {
+   "no": 15,
+   "options": {
+    "A": "records",
+    "B": "positions",
+    "C": "principles",
+    "D": "reasons"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "方法各异 ↔ 原理不变",
+   "analysis": "【答案】[ C ] principles\n词义辨析\n【线索】方法各异 ↔ 原理不变\nthese methods differ, the main __(15)__ remain the same 中 methods 与空处构成对\n照：方法是表层、空处应是\"底层不变的东西\" = principles。\n【选项】A) records ✗义不合：\"记录\"\nrecords 多指资料/纪录，与 methods 不构成方法-原理对照。\nB) positions ✗义不合：\"位置/立场\"\npositions 与自动门工作机制对照关系弱，无法 main positions remain the same 的自然表达。\nC) principles ✓命中\"主要原理\"\nprinciples 与 main 搭配地道，且与 methods 构成\"表层方法 vs 深层原理\"的经典对照。\nD) reasons ✗义偏：\"原因\"\nreasons 关注因果，main reasons remain the same 难以解释\"为什么不同方法的原因还相同\"。\n【验证】代回 the main __(15)__ remain the same = \"主要原理保持不变\"，与第四段开头 Each\nautomatic door system __(16)__ the light, sound, weight or movement 列出的共同工\n作原理形成总—分。"
+  },
+  {
+   "no": 16,
+   "options": {
+    "A": "controls",
+    "B": "analyses",
+    "C": "produces",
+    "D": "mixes"
+   },
+   "answer": "B",
+   "type": "词义辨析",
+   "explain": "把信号当 signal to open → 分析信号",
+   "analysis": "【答案】[ B ] analyses\n词义辨析\n【线索】把信号当 signal to open → 分析信号\nEach automatic door system __(16)__ the light, sound, weight or movement in its\nvicinity as a signal to open 指出系统把这些信号当作开门信号，含义即\"分析\"它们。\n【选项】A) controls ✗义反：\"控制\"\ncontrols 指系统能控制光声等物理量，与现实不符——自动门是被动感知，不是操控。\nB) analyses ✓命中\"分析信号\"\nanalyses 与 as a signal to open 强呼应：系统通过分析光声重运动来判断是否开门。\nC) produces ✗义反：\"生产\"\nproduces 表生产，门系统不会主动产生这些信号，与逻辑相反。\nD) mixes ✗义偏：\"混合\"\nmixes 与四种独立信号搭配语义生硬，不是门系统对信号的实际处理方式。\n【验证】代回 Each automatic door system __(16)__ the light, sound, weight or movement in\nits vicinity as a signal to open = \"每个自动门系统都分析其周围的光、声、重量或运动以\n判断开门信号\"，与下一句 sensor types 的展开一致。"
+  },
+  {
+   "no": 17,
+   "options": {
+    "A": "decorate",
+    "B": "compare",
+    "C": "protect",
+    "D": "complement"
+   },
+   "answer": "D",
+   "type": "词义辨析",
+   "explain": "传感器为环境匹配而选",
+   "analysis": "【答案】[ D ] complement\n词义辨析\n【线索】传感器为环境匹配而选\nSensor types are chosen to __(17)__ the different environments they are needed in\n指出传感器是\"为了与所需环境相匹配而被选择\"，空处需表\"与……相配/相补\"。\n【选项】A) decorate ✗义偏：\"装饰\"\ndecorate 与 environments 搭配是\"美化\"，与传感器实际功能脱节。\nB) compare ✗搭配错：\"对比\"\ncompare 需要 compare A with B 结构，且语义是\"比较\"，与\"选择以匹配\"无关。\nC) protect ✗义偏：\"保护\"\nprotect 表保护环境，与\"传感器与环境匹配\"的工程语境不符。\nD) complement ✓命中\"与环境互补/相配\"\ncomplement 表\"与……相配补充\"，正好对应\"挑选与不同环境匹配的传感器\"。\n【验证】代回 Sensor types are chosen to __(17)__ the different environments they are needed\nin = \"传感器类型的选择要与它们所处的不同环境相匹配\"，与下文\"忙街用压力垫而非动作\n感应\"举例顺承。"
+  },
+  {
+   "no": 18,
+   "options": {
+    "A": "In conclusion",
+    "B": "By contrast",
+    "C": "For example",
+    "D": "Above all"
+   },
+   "answer": "C",
+   "type": "逻辑关系",
+   "explain": "抽象→具体 = 举例",
+   "analysis": "【答案】[ C ] For example\n逻辑关系\n【线索】抽象→具体 = 举例\n__(18)__, a busy street might not __(19)__ a motion-sensored door, as it would\nconstantly be opening for passers-by 用一个具体场景说明上一句关于\"传感器匹配环\n境\"的抽象观点。\n【选项】A) In conclusion ✗位置错：\"总结\"\nIn conclusion 用于文末总结，本段第三句之后并非总结时机。\nB) By contrast ✗对比关系不成立\nBy contrast 需要前后两类对象互相对照，而上下两句不是对照关系。\nC) For example ✓命中\"举例\"\nFor example 完美对应\"用 busy street 举例说明传感器要与环境匹配\"。\nD) Above all ✗义偏：\"最重要的是\"\nAbove all 用于强调最高优先级，与举例语境不符。\n【验证】代回 __(18)__, a busy street might not __(19)__ a motion-sensored door = \"例如，繁忙\n街道未必适合动作感应门\"，与上一句 sensor types chosen to complement\nenvironments 形成总—分。"
+  },
+  {
+   "no": 19,
+   "options": {
+    "A": "identify",
+    "B": "suit",
+    "C": "secure",
+    "D": "include"
+   },
+   "answer": "B",
+   "type": "词义辨析",
+   "explain": "as 引导原因 = 不适合的解释",
+   "analysis": "【答案】[ B ] suit\n词义辨析\n【线索】as 引导原因 = 不适合的解释\na busy street might not __(19)__ a motion-sensored door, as it would constantly be\nopening for passers-by 用 as 句解释\"不停为路人开门\"——这正是\"不适合\"的原因。\n【选项】A) identify ✗义偏：\"识别\"\nidentify 表辨认，与\"街道适合不适合某种门\"语义无关。\nB) suit ✓命中\"适合\"\nsuit 表\"适合\"，busy street might not suit a motion-sensored door 是地道结构，正好被后面\n的原因解释。\nC) secure ✗义偏：\"保障/获得\"\nsecure 表\"获得/保障\"，街道不会去\"获得\"一扇门。\nD) include ✗义偏：\"包含\"\ninclude 把门看作街道的一部分，与\"是否适配\"的关系错位。\n【验证】代回 a busy street might not __(19)__ a motion-sensored door, as it would constantly\nbe opening for passers-by = \"繁忙街道未必适合动作感应门，因为它会不停为路人开\n启\"，因果链顺畅。"
+  },
+  {
+   "no": 20,
+   "options": {
+    "A": "appropriate",
+    "B": "obvious",
+    "C": "impressive",
+    "D": "delicate Section II Reading Comprehension Part A Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points) Text 1 Nearly 2,000 years ago, as the Romans began to pull out of Scotland, they left behind a curious treasure: 10 tons of nails, nearly a million of the things. The nail hoard was discovered in 1960 in a four-metre-deep pit covered by two metres of gravel. Why had the Romans buried a million nails? The likely explanation is that the withdrawal was rushed, and they didn't want the local Caledonians getting their hands on 10 tons of weapon-grade iron. The Romans buried the nails so deep that they would not be discovered for almost two millennia. Later civilisations would value the skilled blacksmith's labour in a nail even more than the raw material. As Roma Agrawal explains in her new delightful book Nuts and Bolts, early 17th-century Virginians would sometimes burn down their homes if they were planning to relocate. This was an attempt to recover the valuable nails, which could be reused after sifting the ashes. The idea that one might burn down an entire house just to reclaim the nails underlines how scarce, costly and valuable the simple-seeming technology was. The price of nails fell by 90% between the late 1700s and mid-1900s, as economist Daniel Sichel points out in a research paper. According to Sichel, although the falling price of nails was driven partly by cheaper iron and cheaper energy, most of the credit goes to nail manufacturers who simply found more efficient ways to turn steel into nails. Nails themselves have changed over the years, but Sichel studied them because they haven't changed much. Roman lamps and Roman chariots are very different from LED strips and sports cars, but Roman nails are still clearly nails. It would be absurd to try to track the changing price of sports cars since 1695, but to ask the same question of nails makes perfect sense. I make no apology for being obsessed by a particular feature of everyday objects: their price. I am an economist, after all. After writing two books about the history of inventions, one thing I've learnt is that while it is the enchantingly sophisticated technologies that get all the hype, it's the cheap technologies that change the world. The Gutenberg printing press transformed civilisation not by changing the nature of writing but by changing its cost—and it would have achieved little without a parallel collapse in the price of surfaces to write on, thanks to an often-overlooked technology called paper. Solar panels had a few niche uses until they became cheap; now they are transforming the global energy system."
+   },
+   "answer": "A",
+   "type": "词义辨析",
+   "explain": "对照前例：动作感应门不合适 → 压力垫更合适",
+   "analysis": "【答案】[ A ] appropriate\n词义辨析\n【线索】对照前例：动作感应门不合适 → 压力垫更合适\nA pressure-sensitive mat would be more __(20)__ to limit the surveyed area 与上文 a\nbusy street might not suit a motion-sensored door 对照，意指\"压力垫更适合限定感应\n范围\"。\n【选项】\nA) appropriate ✓命中\"合适\"\nappropriate 表\"合适、恰当\"，与 to limit the surveyed area 这一目的搭得严丝合缝，并呼应\n上文 suit 的方向。\nB) obvious ✗义偏：\"明显\"\nobvious 形容\"明显\"，但 more obvious 与\"限定区域\"目的不构成因果关系。\nC) impressive ✗义偏：\"令人印象深刻\"\nimpressive 强调主观感受，与传感器选择的功能性诉求不符。\nD) delicate ✗义偏：\"精细/脆弱\"\ndelicate 多形容精致或脆弱，与压力垫\"扎实限定区域\"的工程描述错位。\n【验证】代回 A pressure-sensitive mat would be more __(20)__ to limit the surveyed area =\n\"压感垫会更合适于限制被监测的区域\"，与上文\"动作感应门不适合繁忙街道\"形成方案对\n比，全段闭环。\nO V E R V I E W · 通读建境\n全文主旨与行文脉络\n完形是语篇题——单看空所在的半句往往四个选项都「像」。下面是全文主旨与行文脉\n络，是每个空锁定线索、代入验证时核对的全局工作台。\n全文主旨\n介绍自动门的由来与工作原理\n全文以中性、说明文笔调介绍自动门：开篇点题——There's nothing more welcoming\nthan a door opening for you.；随后说明其无需触碰即可开关，对无障碍通行与商业场所\n很关键；接着追溯发明史，再讲它如何节省空间、依赖什么信号工作、不同场景如何选传\n感器。\n行文脉络\n定调价值→发明史→空间优势→传感器分类与举例\n第一段定调自动门的价值（essential in 引出无障碍与便利）；第二段追溯发明并讲它如何\n改善人流通行（Self-sliding doors began to emerge as a commercial product in 1960、\ncrowd management）；第三段对比摆动门，突出节省空间与不同触发信号（open to the\nside、specific signals to tell them when to open）；第四段细化传感器类型与典型场景\n（light, sound, weight or movement、a busy street）。\nS E N T E N C E I N S I G H T S · 句子精讲\n7 句真题句逐层精讲\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nSelf-sliding doors began to emerge as a commercial product in 1960 after being\ninvented six years previously by Americans Dee Horton and Lew Hewitt.\n第2段，第1句\n包含主语、谓语、两个时间状语、一个方式状语，成分种类较丰富。特别是 \"after being invented\"\n这种介词加动名词被动式的结构，以及 \"as a commercial product\" 作方式状语，都是值得练习的常\n见考点，有一定训练价值\nAutomatic doors often open to the side, with the panels sliding across one another.\n第3段，第2句\n涵盖主语、谓语、两个状语（频率状语 often、地点状语 to the side）、以及独立主格结构作伴随\n状语。独立主格是中高级语法点，对基础学习者有一定练习价值。但整体成分种类不算特别丰富，\n无宾语、定语从句等常见易错点。\nReplacing swing doors, these allow smaller buildings to maximise the usable space\ninside without having to clear the way for a large, sticking-out door.\n第3段，第3句\n本句成分丰富且有训练价值。包含主语、谓语、宾语、宾语补足语、两个状语（句首分词短语和句\n尾介词短语），覆盖了简单句的主要成分类型。宾语补足语 to maximise 和句首分词状语\nReplacing 是初学者常混淆的非谓语用法，值得练习区分。介词短语状语中嵌套的动名词短语\nhaving to clear 也是实用的考点。\nThere are many different types of automatic door, with each relying on specific\nsignals to tell them when to open.\n第3段，第4句\nthere be 句型和 with 引导的伴随状语是四六级和考研阅读中常见结构，疑问词加不定式也是常考\n的非谓语用法。独立主格虽不如定语从句高频，但在长难句中出现率不低。掌握本句结构后可迁移\n应用到大量类似句式。\nAlthough these methods differ, the main principles remain the same.\n第3段，第5句\n让步状语从句前置 + 主句的结构在四六级和考研阅读中非常常见，尤其是 Although 引导的让步从\n句。掌握这种结构后可以迁移到大量类似句式，具有较高的典型性。\nFor example, a busy street might not suit a motion-sensored door, as it would\nconstantly be opening for passers-by.\n第4段，第3句\n主句 + 原因状语从句是四六级和考研阅读中的常见句式，\"as\" 引导原因从句的用法属于高频结\n构。情态动词表达推测、进行式表示持续动作，这些都是考试中反复出现的语法点。掌握本句结构\n后，学生可以迁移到大量类似的因果说明句型。\nA pressure-sensitive mat would be more appropriate to limit the surveyed area.\n第4段，第4句\n主系表结构加情态动词是常见句式，不定式作目的状语也是高频考点，具有一定代表性。但整体结\n构过于简单，缺少从句或复杂修饰成分，在真题中更多出现在简单句或并列句层次，而非典型的复\n杂长难句，代表性中等。\nH I G H - F R E Q U E N C Y · 真题高频词\n本篇出现的 32 个考研英语一真题高频词\n下列单词既在本篇完形原文中出现，又是 考研英语一 历年真题的高频词（在该考试真题\n中出现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查\n看该词的释义、音标、词形与真题例句。\nautomatic\nB1\nadj. 自动的\n本篇4 次 · 真题 10 句\nwould\nA1\naux. （will 的过去式）将要，会\n本篇2 次 · 真题 304 句\nreduce\nB1\nv. 减少，降低（数量、大小、程度等）\n本篇2 次 · 真题 75 句\naccess\nB1\nn. 进入\n本篇2 次 · 真题 44 句\ntype\nA2\nn. 类型\n本篇2 次 · 真题 30 句\nsignal\nB1\nn. 信号\n本篇2 次 · 真题 25 句\ncommercial\nB2\nadj. 商业的\n本篇2 次 · 真题 23 句\nsystem\nA2\nn. 系统\n本篇1 次 · 真题 107 句\nbenefit\nB1\nn. 好处\n本篇1 次 · 真题 88 句\nproduct\nA2\nn. 产品\n本篇1 次 · 真题 77 句\nlimit\nB1\nn. 限度\n本篇1 次 · 真题 42 句\nmanagement\nB1\nn. 管理\n本篇1 次 · 真题 36 句\nparticularly\nB2\nadv. 尤其，特别（强调某事物）\n本篇1 次 · 真题 32 句\nfeature\nB1\nn. 特征\n本篇1 次 · 真题 30 句\nrely\nB1\nv. 依赖;依靠\n本篇1 次 · 真题 30 句\nreplace\nA2\nv. 替换，更换（用新的代替旧的）\n本篇1 次 · 真题 30 句\nspecific\nB2\nadj. 具体的\n本篇1 次 · 真题 28 句\nessential\nB1\nadj. 必不可少的\n本篇1 次 · 真题 27 句\nemerge\nB2\nv. 出现;浮现\n本篇1 次 · 真题 25 句\nprinciple\nB2\nn. 原则，准则\n本篇1 次 · 真题 23 句\nextend\nB1\nv. 延伸;延长\n本篇1 次 · 真题 20 句\nmovement\nB1\nn. 移动\n本篇1 次 · 真题 20 句\nappropriate\nB2\nadj. 合适的\n本篇1 次 · 真题 16 句\npanel\nB1\nn. 专家小组\n本篇1 次 · 真题 15 句\ndiffer\nB1\nv. 不同，有区别\n本篇1 次 · 真题 13 句\nadvanced\nB2\nadj. 先进的\n本篇1 次 · 真题 12 句\npreviously\nB1\nadv. 以前，先前（指过去某个时间）\n本篇1 次 · 真题 11 句\nmotion\nB1\nn. 运动\n本篇1 次 · 真题 10 句\nsuit\nA2\nn. 套装\n本篇1 次 · 真题 10 句\nlocation\nB1\nn. 地点，位置\n本篇1 次 · 真题 9 句\nconstantly\nB1\nadv. 不断地，持续地\n本篇1 次 · 真题 8 句\noccupy\nB2\nv. 占据，占用（空间、时间）\n本篇1 次 · 真题 8 句\nV O C A B U L A R Y · 词汇难度分布\n全文 117 词按 CEFR 难度累积覆盖\n带空短文去重后共 117 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」\n的累积占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 2 个 ·\n约 2%。\n47%\nA1\n及以下\n63%\nA2\n及以下\n89%\nB1\n及以下\n98%\nB2\n及以下\n100%\nC1\n及以下\n100%\nC2\n及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 117 个 · 末柱为 100%\n去重总词数\n117\nB2 以上难词\n2%\nB1 及以下覆盖\n89%\n考研英语一\n2024年 · 全卷构成\nSection I\n完形填空（四选一）\n本题\nSection II Part A (1)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (2)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (3)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (4)\n阅读理解（四选一）\n题目解析 →\nSection II Part B\n段落小标题（7选5）\n题目解析 →\nSection II Part C\n英译汉（划线句子翻译）\n题目解析 →\nSection III Part A\n写作\n题目解析 →\nSection III Part B\n写作\n题目解析 →\n2024年 考研英语一阅读理解（四选一） 第 1 篇 · 21–25 题答案与解\n析\nQ U E S T I O N S & A N A L Y S I S ·"
+  }
+ ]
+};

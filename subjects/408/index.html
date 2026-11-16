@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark light">
+<title>408 真题精读系统 · 逐题解析 · 知识体系 · 生题本</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='5' fill='%230f1115'/%3E%3Cpath d='M6 7h12M6 12h12M6 17h7' stroke='%236aa9ff' stroke-width='1.8' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+
+<!-- ================= 顶栏 ================= -->
+<header class="topbar">
+  <div class="brand">
+    <svg class="logo" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"
+         stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M4 4.5A1.5 1.5 0 0 1 5.5 3H19v14.5H5.5A1.5 1.5 0 0 0 4 19z"/>
+      <path d="M4 19v1.5A1.5 1.5 0 0 0 5.5 22H19v-4.5"/>
+      <path d="M8 7.5h7M8 11h4.5"/>
+    </svg>
+    <span class="brand-t">408 真题精读</span>
+    <span class="brand-s">逐题解析 · 知识体系 · 生题本</span>
+  </div>
+
+  <div class="tools">
+    <div class="search-wrap">
+      <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+           stroke-linecap="round" aria-hidden="true">
+        <circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/>
+      </svg>
+      <input id="search" type="search" placeholder="题干 / 知识点 / 年份…" autocomplete="off"
+             spellcheck="false" aria-label="搜索题干、知识点或年份">
+    </div>
+
+    <div class="seg" id="view-seg" role="group" aria-label="视图">
+      <button type="button" data-view="paper" class="on" title="试卷精读 (1)">试卷</button>
+      <button type="button" data-view="kb" title="知识体系 (2)">知识体系</button>
+      <button type="button" data-view="wrong" title="生题本 (3)">生题本</button>
+      <button type="button" data-view="stats" title="统计 (4)">统计</button>
+    </div>
+
+    <div class="seg" id="mode-seg" role="group" aria-label="模式">
+      <button type="button" data-mode="study" class="on" title="答案默认展开">精读</button>
+      <button type="button" data-mode="quiz" title="先选再看答案，自动记录错题">自测</button>
+    </div>
+
+    <button id="btn-an" class="tbtn on" type="button" title="展开 / 折叠全部解析 (a)">解析</button>
+
+    <div class="fs">
+      <button id="fs-down" class="tbtn icon" type="button" title="缩小字号">A−</button>
+      <button id="fs-up" class="tbtn icon" type="button" title="放大字号">A+</button>
+    </div>
+
+    <button id="btn-theme" class="tbtn icon" type="button" title="切换深浅色">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true">
+        <path d="M21 12.8A8.5 8.5 0 1 1 11.2 3a6.6 6.6 0 0 0 9.8 9.8z"/>
+      </svg>
+    </button>
+
+    <button id="btn-drawer" class="tbtn" type="button" title="生题本（不会的题）">
+      不会 <span id="wb-count" class="cnt">0</span>
+    </button>
+  </div>
+</header>
+
+<!-- ================= 视图 1：试卷 ================= -->
+<div class="layout" id="view-paper">
+  <aside class="col col-left" aria-label="年份导航">
+    <div class="colhead">年份<span class="spacer" id="year-count"></span></div>
+    <ul class="yearlist" id="yearlist"></ul>
+    <div class="hints">
+      <h4>快捷键</h4>
+      <dl>
+        <dt><kbd>1</kbd>–<kbd>4</kbd></dt><dd>选 A–D（自测）</dd>
+        <dt><kbd>j</kbd> / <kbd>k</kbd></dt><dd>下一题 / 上一题</dd>
+        <dt><kbd>a</kbd></dt><dd>解析开关</dd>
+        <dt><kbd>w</kbd></dt><dd>标记「不会」</dd>
+        <dt><kbd>m</kbd></dt><dd>精读 / 自测</dd>
+        <dt><kbd>/</kbd></dt><dd>搜索</dd>
+        <dt><kbd>Esc</kbd></dt><dd>关闭浮层</dd>
+      </dl>
+      <h4 style="margin-top:14px">四科分值</h4>
+      <dl id="dist-list"></dl>
+    </div>
+  </aside>
+
+  <main class="main" aria-label="试卷正文">
+    <div class="dochead">
+      <div class="dochead-in">
+        <div class="tabs" id="tabs" role="tablist" aria-label="题型">
+          <button type="button" data-tab="choice" role="tab">选择题<span class="tb-n" data-n="choice"></span></button>
+          <button type="button" data-tab="big" role="tab">综合应用题<span class="tb-n" data-n="big"></span></button>
+        </div>
+        <div class="subrow" id="subjects"></div>
+        <div class="doc-title">
+          <span class="doc-year" id="doc-year">—</span>
+          <span class="doc-meta" id="doc-meta"></span>
+        </div>
+        <p class="doc-topic" id="doc-topic"></p>
+      </div>
+    </div>
+
+    <div class="work">
+      <section class="pane pane-q" id="qlist" aria-label="题目"></section>
+      <section class="pane pane-a" id="detail" aria-label="解析"></section>
+    </div>
+  </main>
+</div>
+
+<!-- ================= 视图 2：知识体系 ================= -->
+<div class="layout layout-wide" id="view-kb" hidden>
+  <aside class="col col-left" aria-label="知识树">
+    <div class="colhead">知识体系<span class="spacer" id="kb-count"></span></div>
+    <div class="kbtree" id="kbtree"></div>
+  </aside>
+  <main class="main" aria-label="知识点详情">
+    <div class="dochead"><div class="dochead-in">
+      <div class="doc-title"><span class="doc-year" id="kb-title">知识体系总览</span><span class="doc-meta" id="kb-meta"></span></div>
+      <p class="doc-topic" id="kb-topic">左侧选一个学科 / 模块 / 知识点，右侧列出近十年全部真题与你的掌握情况。</p>
+    </div></div>
+    <div class="work work-single"><section class="pane" id="kb-body"></section></div>
+  </main>
+</div>
+
+<!-- ================= 视图 3：生题本 ================= -->
+<div class="layout layout-wide" id="view-wrong" hidden>
+  <main class="main" style="grid-column:1/-1">
+    <div class="dochead"><div class="dochead-in">
+      <div class="doc-title"><span class="doc-year">生题本</span><span class="doc-meta" id="wb-meta"></span></div>
+      <p class="doc-topic">标记为「不会 / 做错」的题在这里按知识点聚合。做完一轮再回来重做，错两次以上的会被顶到最上面。</p>
+    </div></div>
+    <div class="work work-single"><section class="pane" id="wb-body"></section></div>
+  </main>
+</div>
+
+<!-- ================= 视图 4：统计 ================= -->
+<div class="layout layout-wide" id="view-stats" hidden>
+  <main class="main" style="grid-column:1/-1">
+    <div class="dochead"><div class="dochead-in">
+      <div class="doc-title"><span class="doc-year">统计</span><span class="doc-meta" id="st-meta"></span></div>
+      <p class="doc-topic">做题记录只存本地（localStorage），换电脑请用「生题本 → 导出 Markdown」搬。</p>
+    </div></div>
+    <div class="work work-single"><section class="pane" id="st-body"></section></div>
+  </main>
+</div>
+
+<!-- ================= 生题本抽屉 ================= -->
+<aside class="drawer" id="drawer" hidden aria-label="生题本">
+  <div class="dw-h">
+    <h2>生题本</h2>
+    <span class="cnt2" id="wb-cnt2">0 题</span>
+    <button type="button" class="x" id="dw-close" title="关闭 (Esc)">×</button>
+  </div>
+  <ul class="wb-list" id="wb-list"></ul>
+  <div class="dw-f">
+    <button type="button" class="mini pri" id="wb-copy">复制 Markdown</button>
+    <button type="button" class="mini" id="wb-csv">导出 CSV</button>
+    <button type="button" class="mini danger" id="wb-clear">清空</button>
+  </div>
+</aside>
+
+<!-- ================= 代码全屏 ================= -->
+<div class="codemodal" id="codemodal" hidden>
+  <div class="cm-box">
+    <div class="cm-h">
+      <span id="cm-title">代码</span>
+      <span class="sp"></span>
+      <button type="button" class="mini" id="cm-copy">复制</button>
+      <button type="button" class="x" id="cm-close" title="关闭 (Esc)">×</button>
+    </div>
+    <pre class="code" id="cm-body"></pre>
+  </div>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<!-- ================= 数据 ================= -->
+<script>window.__CS408__ = window.__CS408__ || {};</script>
+<script src="data/kb.js"></script>
+
+<script src="data/paper/2017.js"></script>
+<script src="data/paper/2018.js"></script>
+<script src="data/paper/2019.js"></script>
+<script src="data/paper/2020.js"></script>
+<script src="data/paper/2021.js"></script>
+<script src="data/paper/2022.js"></script>
+<script src="data/paper/2023.js"></script>
+<script src="data/paper/2024.js"></script>
+<script src="data/paper/2025.js"></script>
+<script src="data/paper/2026.js"></script>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

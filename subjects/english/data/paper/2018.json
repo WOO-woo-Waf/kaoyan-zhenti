@@ -1,0 +1,2849 @@
+{
+ "reading": [
+  {
+   "no": 1,
+   "paras": [
+    {
+     "en": "Among the annoying challenges facing the middle class is one that will probably go unmentioned in the next presidential campaign: What happens when the robots come for their jobs?",
+     "zh": "中产阶级面临的诸多恼人挑战中,有一个在下届总统竞选中可能不会被提及:当机器人来抢他们的工作时会 发生什么?",
+     "no": 1,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "Among the annoying challenges facing the middle class is one that will probably go unmentioned in the next presidential campaign: What happens when the robots come for their jobs?",
+       "zh": "中产阶级面临的诸多恼人挑战中,有一个在下届总统竞选中可能不会被提及:当机器人来抢他们的工作时会 发生什么?",
+       "main": "What happens",
+       "chunks": [
+        {
+         "t": "Among the annoying challenges facing the middle class is one",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "that will probably go unmentioned in the next presidential campaign",
+         "r": "定语从句"
+        },
+        {
+         "t": "What",
+         "r": "主语"
+        },
+        {
+         "t": "happens",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "when the robots come for their jobs?",
+         "r": "定语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "Don't dismiss that possibility entirely. About half of U.S. jobs are at high risk of being automated, according to a University of Oxford study, with the middle class disproportionately squeezed. Lower-income jobs like gardening or day care don't appeal to robots. But many middle-class occupations – trucking, financial advice, software engineering – have aroused their interest, or soon will. The rich own the robots, so they will be fine.",
+     "zh": "不要完全忽视这种可能性。根据牛津大学的一项研究,美国约有一半的工作面临被自动化取代的高风险,而 中产阶级受到的挤压尤为严重。园艺或日托等低收入工作对机器人没有吸引力。但许多中产阶级职业—— 卡车运输、金融咨询、软件工程——已经引起了它们的兴趣,或很快就会引起。富人拥有机器人,所以他们 不会有事。",
+     "no": 2,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "Don't dismiss that possibility entirely.",
+       "zh": "不要完全忽视这种可能性。",
+       "main": "Don't dismiss",
+       "chunks": [
+        {
+         "t": "Don't dismiss",
+         "r": "主语"
+        },
+        {
+         "t": "that possibility entirely.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "About half of U.S. jobs are at high risk of being automated, according to a University of Oxford study, with the middle class disproportionately squeezed.",
+       "zh": "根据牛津大学的一项研究,美国约有一半的工作面临被自动化取代的高风险,而 中产阶级受到的挤压尤为严重。",
+       "main": "About half of U.S. jobs are at high risk of being automated",
+       "chunks": [
+        {
+         "t": "About half of U.S. jobs are at high risk of being automated",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "according to a University of Oxford study",
+         "r": "分词短语（插入语/定语）"
+        },
+        {
+         "t": "with the middle class disproportionately squeezed.",
+         "r": "介词短语（状语/定语）"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "Lower-income jobs like gardening or day care don't appeal to robots.",
+       "zh": "园艺或日托等低收入工作对机器人没有吸引力。",
+       "main": "Lower-income jobs like gardening or day care don't appeal to robots.",
+       "chunks": [
+        {
+         "t": "Lower-income",
+         "r": "主语"
+        },
+        {
+         "t": "jobs like gardening or day care don't appeal to robots.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "But many middle-class occupations – trucking, financial advice, software engineering – have aroused their interest, or soon will.",
+       "zh": "但许多中产阶级职业—— 卡车运输、金融咨询、软件工程——已经引起了它们的兴趣,或很快就会引起。",
+       "main": "financial advice have aroused their interest",
+       "chunks": [
+        {
+         "t": "But many middle-class occupations",
+         "r": "状语从句"
+        },
+        {
+         "t": "trucking",
+         "r": "分词短语（插入语/定语）"
+        },
+        {
+         "t": "financial advice",
+         "r": "主语"
+        },
+        {
+         "t": "software engineering",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "have aroused their interest",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "or soon will.",
+         "r": "状语从句"
+        }
+       ]
+      },
+      {
+       "i": 5,
+       "en": "The rich own the robots, so they will be fine.",
+       "zh": "富人拥有机器人,所以他们 不会有事。",
+       "main": "The rich own the robots",
+       "chunks": [
+        {
+         "t": "The rich own the",
+         "r": "主语"
+        },
+        {
+         "t": "robots",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "so they will be fine.",
+         "r": "状语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "This isn't to be alarmist. Optimists point out that technological upheaval has benefited workers in the past. The Industrial Revolution didn't go so well for Luddites whose jobs were displaced by mechanized looms, but it eventually raised living standards and created more jobs than it destroyed. Likewise, automation should eventually boost productivity, stimulate demand by driving down prices, and free workers from hard, boring work. But in the medium term, middle-class workers may need a lot of help adjusting. Text 1",
+     "zh": "这并非危言耸听。乐观主义者指出,技术变革在过去曾使工人受益。工业革命对那些工作被机械织布机取代 的卢德分子来说并不顺利,但它最终提高了生活水平,创造的就业岗位多于摧毁的岗位。同样,自动化最终应 该会提高生产率,通过降低价格来刺激需求,并将工人从艰苦、枯燥的工作中解放出来。但在中期内,中产阶 级工人可能需要大量帮助来适应。",
+     "no": 3,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "This isn't to be alarmist. Optimists point out that technological upheaval has benefited workers in the past.",
+       "zh": "这并非危言耸听。 乐观主义者指出,技术变革在过去曾使工人受益。",
+       "main": "This isn't to be alarmist. Optimists point out",
+       "chunks": [
+        {
+         "t": "This isn't to",
+         "r": "主语"
+        },
+        {
+         "t": "be alarmist. Optimists point out",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that technological upheaval has benefited workers in the past.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "The Industrial Revolution didn't go so well for Luddites whose jobs were displaced by mechanized looms, but it eventually raised living standards and created more jobs than it destroyed. Likewise, automation should eventually boost productivity, stimulate demand by driving down prices, and free workers from hard, boring work.",
+       "zh": "工业革命对那些工作被机械织布机取代 的卢德分子来说并不顺利,但它最终提高了生活水平,创造的就业岗位多于摧毁的岗位。 同样,自动化最终应 该会提高生产率,通过降低价格来刺激需求,并将工人从艰苦、枯燥的工作中解放出来。",
+       "main": "The Industrial Revolution didn't go so well for Luddites",
+       "chunks": [
+        {
+         "t": "The Industrial Revolution didn't go so well for",
+         "r": "主语"
+        },
+        {
+         "t": "Luddites",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "whose jobs were displaced by mechanized looms",
+         "r": "定语从句"
+        },
+        {
+         "t": "but it eventually raised living standards and created more jobs than it destroyed. Likewise",
+         "r": "状语从句"
+        },
+        {
+         "t": "automation should eventually boost productivity",
+         "r": "并列谓语"
+        },
+        {
+         "t": "stimulate demand by driving down prices",
+         "r": "并列谓语"
+        },
+        {
+         "t": "and free workers from hard",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "boring work.",
+         "r": "补充说明（同位/修饰）"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "But in the medium term, middle-class workers may need a lot of help adjusting. Text 1",
+       "zh": "但在中期内,中产阶 级工人可能需要大量帮助来适应。",
+       "main": "middle-class workers may need a lot of help adjusting. Text 1",
+       "chunks": [
+        {
+         "t": "But in the medium term",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "middle-class",
+         "r": "主语"
+        },
+        {
+         "t": "workers may need a lot of help adjusting. Text 1",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "The first step, as Erik Brynjolfsson and Andrew McAfee argue in The Second Machine Age, should be rethinking education and job training. Curriculums – from grammar school to college – should evolve to focus less on memorizing facts and more on creativity and complex communication. Vocational schools should do a better job of fostering problem-solving skills and helping students work alongside robots. Online education can supplement the traditional kind. It could make extra training and instruction affordable. Professionals trying to acquire new skills will be able to do so without going into debt.",
+     "zh": "正如Erik Brynjolfsson和Andrew McAfee在《第二次机器时代》中所论述的,第一步应该是重新思考教育 和职业培训。从小学到大学的课程设置应该演变为更少地关注记忆事实,更多地关注创造力和复杂沟通。职 业学校应该更好地培养解决问题的能力,并帮助学生与机器人协同工作。在线教育可以补充传统教育。它可 以使额外的培训和指导变得负担得起。试图获得新技能的专业人士将能够在不负债的情况下做到这一点。",
+     "no": 4,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "The first step, as Erik Brynjolfsson and Andrew McAfee argue in The Second Machine Age, should be rethinking education and job training.",
+       "zh": "正如Erik Brynjolfsson和Andrew McAfee在《第二次机器时代》中所论述的,第一步应该是重新思考教育 和职业培训。",
+       "main": "The first step should be rethinking education and job training.",
+       "chunks": [
+        {
+         "t": "The first step",
+         "r": "主语"
+        },
+        {
+         "t": "as Erik Brynjolfsson and Andrew McAfee argue in The Second Machine Age",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "should be rethinking education and job training.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "Curriculums – from grammar school to college – should evolve to focus less on memorizing facts and more on creativity and complex communication.",
+       "zh": "从小学到大学的课程设置应该演变为更少地关注记忆事实,更多地关注创造力和复杂沟通。",
+       "main": "Curriculums",
+       "chunks": [
+        {
+         "t": "Curriculums",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "from grammar school to college",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "should evolve to focus less on memorizing facts and more on creativity and complex communication.",
+         "r": "并列谓语"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "Vocational schools should do a better job of fostering problem-solving skills and helping students work alongside robots.",
+       "zh": "职 业学校应该更好地培养解决问题的能力,并帮助学生与机器人协同工作。",
+       "main": "Vocational schools should do a better job of fostering problem-solving skills and helping students work alongside robots.",
+       "chunks": [
+        {
+         "t": "Vocational",
+         "r": "主语"
+        },
+        {
+         "t": "schools should do a better job of fostering problem-solving skills and helping students work alongside robots.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "Online education can supplement the traditional kind.",
+       "zh": "在线教育可以补充传统教育。",
+       "main": "Online education can supplement the traditional kind.",
+       "chunks": [
+        {
+         "t": "Online education",
+         "r": "主语"
+        },
+        {
+         "t": "can supplement the traditional kind.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 5,
+       "en": "It could make extra training and instruction affordable.",
+       "zh": "它可 以使额外的培训和指导变得负担得起。",
+       "main": "It could make extra training and instruction affordable.",
+       "chunks": [
+        {
+         "t": "It",
+         "r": "主语"
+        },
+        {
+         "t": "could make extra training and instruction affordable.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 6,
+       "en": "Professionals trying to acquire new skills will be able to do so without going into debt.",
+       "zh": "试图获得新技能的专业人士将能够在不负债的情况下做到这一点。",
+       "main": "Professionals trying to acquire new skills will be able to do so without going into debt.",
+       "chunks": [
+        {
+         "t": "Professionals trying to acquire new skills will be able to do so without going into debt.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "The challenge of coping with automation underlines the need for the U.S. to revive its fading business dynamism: Starting new companies must be made easier. In previous eras of drastic technological change, entrepreneurs smoothed the transition by dreaming up ways to combine labor and machines. The best uses of 3D printers and virtual reality haven't been invented yet. The U.S. needs the new companies that will invent them.",
+     "zh": "应对自动化挑战凸显了美国重振其日渐衰退的商业活力的必要性:必须让创办新公司变得更容易。在以往技 术剧变的时代,企业家通过构想将劳动力和机器相结合的方式来平滑过渡。3D打印机和虚拟现实的最佳用 途尚未被发明出来。美国需要将发明这些用途的新公司。",
+     "no": 5,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "The challenge of coping with automation underlines the need for the U.S. to revive its fading business dynamism: Starting new companies must be made easier.",
+       "zh": "应对自动化挑战凸显了美国重振其日渐衰退的商业活力的必要性:必须让创办新公司变得更容易。",
+       "main": "The challenge of coping with automation underlines the need for the U.S. to revive its fading business dynamism",
+       "chunks": [
+        {
+         "t": "The challenge of coping with automation",
+         "r": "主语"
+        },
+        {
+         "t": "underlines the need for the U.S. to revive its fading business dynamism",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "Starting new companies must be made easier.",
+         "r": "分词短语（插入语/定语）"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "In previous eras of drastic technological change, entrepreneurs smoothed the transition by dreaming up ways to combine labor and machines.",
+       "zh": "在以往技 术剧变的时代,企业家通过构想将劳动力和机器相结合的方式来平滑过渡。",
+       "main": "entrepreneurs smoothed the transition by dreaming up ways to combine labor and machines.",
+       "chunks": [
+        {
+         "t": "In previous eras of drastic technological change",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "entrepreneurs smoothed the transition by dreaming up ways to combine labor and machines.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "The best uses of 3D printers and virtual reality haven't been invented yet.",
+       "zh": "3D打印机和虚拟现实的最佳用 途尚未被发明出来。",
+       "main": "The best uses of 3D printers and virtual reality haven't been invented yet.",
+       "chunks": [
+        {
+         "t": "The best uses of 3D",
+         "r": "主语"
+        },
+        {
+         "t": "printers and virtual reality haven't been invented yet.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "The U.S. needs the new companies that will invent them.",
+       "zh": "美国需要将发明这些用途的新公司。",
+       "main": "The U.S. needs the new companies",
+       "chunks": [
+        {
+         "t": "The U.S.",
+         "r": "主语"
+        },
+        {
+         "t": "needs the new companies",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that will invent them.",
+         "r": "定语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "Finally, because automation threatens to widen the gap between capital income and labor income, taxes and the safety net will have to be rethought. Taxes on low-wage labor need to be cut, and wage subsidies such as the earned income tax credit should be expanded: This would boost incomes, encourage work, reward companies for job creation, and reduce inequality.",
+     "zh": "最后,由于自动化有可能扩大资本收入和劳动收入之间的差距,税收和社会保障网必须重新考虑。需要削减 对低工资劳动的税收,并应扩大工资补贴,如劳动所得税抵免:这将提高收入,鼓励工作,奖励创造就业机会的公 司,并减少不平等。",
+     "no": 6,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "Finally, because automation threatens to widen the gap between capital income and labor income, taxes and the safety net will have to be rethought.",
+       "zh": "最后,由于自动化有可能扩大资本收入和劳动收入之间的差距,税收和社会保障网必须重新考虑。",
+       "main": "Finally taxes and the safety net will have to be rethought.",
+       "chunks": [
+        {
+         "t": "Finally",
+         "r": "主语"
+        },
+        {
+         "t": "because automation threatens to widen the gap between capital income and labor income",
+         "r": "状语从句"
+        },
+        {
+         "t": "taxes and the safety net will have to be rethought.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "Taxes on low-wage labor need to be cut, and wage subsidies such as the earned income tax credit should be expanded: This would boost incomes, encourage work, reward companies for job creation, and reduce inequality.",
+       "zh": "需要削减 对低工资劳动的税收,并应扩大工资补贴,如劳动所得税抵免:这将提高收入,鼓励工作,奖励创造就业机会的公 司,并减少不平等。",
+       "main": "Taxes on low-wage labor need to be cut",
+       "chunks": [
+        {
+         "t": "Taxes on low-wage labor",
+         "r": "主语"
+        },
+        {
+         "t": "need to be cut",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "and wage subsidies such as the earned income tax credit should be expanded",
+         "r": "状语从句"
+        },
+        {
+         "t": "This would boost incomes",
+         "r": "并列谓语"
+        },
+        {
+         "t": "encourage work",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "reward companies for job creation",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "and reduce inequality.",
+         "r": "补充说明（同位/修饰）"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "Technology will improve society in ways big and small over the next few years, yet this will be little comfort to those who find their lives and careers upended by automation. Destroying the machines that are coming for our jobs would be nuts. But policies to help workers adapt will be indispensable.  Oxford study, with the middle class disproportionately squeezed. Lower-income jobs like gardening or day care don't appeal to robots. But many middle-class occupations – trucking, financial advice, software engineering – have aroused their interest, or soon will. The rich own the robots, so they will be fine. B) C) D) the middle class disproportionately squeezed ↔Middle-class workers many middle-class occupations – trucking, financial advice, software engineering – have aroused their interest ↔Middle-class workers",
+     "zh": "技术将在未来几年以或大或小的方式改善社会,但这对于那些生活和职业被自动化颠覆的人来说将无济于 事。摧毁那些来抢我们工作的机器是愚蠢的。但帮助工人适应的政策将是不可或缺的。 题目与逐题解析 谁将受到自动化最大的威胁? A) 主要政治家。 B) 低薪劳动者。 C) 机器人所有者。 D) 中产阶级工人。 【答案】D （细节题） 【判型】Who will be most threatened by automation? 直接问\"谁\"，答案是文本里写明的具体群 体，无须推理。 【拆句】Who will be most threatened by automation? 主干是 Who will be threatened，most 修饰过去分词作表语，by automation 是被动施动者。结构平铺直叙、无陷阱。 【定位】About half of U.S. jobs are at high risk of being automated, according to a University of 据牛津大学一项研究，约半数美国岗位有被自动化取代的高风险，而中产阶级被不成比例地 挤压。园艺、日托这类低收入工作机器人看不上；但卡车驾驶、理财顾问、软件工程等许多 中产职业已经吸引了它们的兴趣，或很快会。富人拥有机器人，所以富人没事。 【选项】A) 无中生有 What happens when the robots come for their jobs? 提到 the next presidential campaign，是说政客不会谈这个话题，并非政客本身受自动化威胁。 与原文相反 原文 Lower-income jobs like gardening or day care don't appeal to robots 显式说 明低收入工作机器人不感兴趣，恰恰\"不\"受威胁；选项与原文反向。 与原文相反 原文 The rich own the robots, so they will be fine 显式说明机器人所有者\"没事\"， 与\"受威胁\"反向。 ✓ 正确 预判\"中产最受威胁\"与选项 Middle-class workers 字面对应；A/B/C 三项与原文显式陈 述相反或无关。",
+     "no": 7,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "Technology will improve society in ways big and small over the next few years, yet this will be little comfort to those who find their lives and careers upended by automation.",
+       "zh": "",
+       "main": "Technology will improve society in ways big and small over the next few years",
+       "chunks": [
+        {
+         "t": "Technology",
+         "r": "主语"
+        },
+        {
+         "t": "will improve society in ways big and small over the next few years",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "yet this will be little comfort to those",
+         "r": "状语从句"
+        },
+        {
+         "t": "who find their lives and careers upended by automation.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "Destroying the machines that are coming for our jobs would be nuts.",
+       "zh": "",
+       "main": "Destroying the machines",
+       "chunks": [
+        {
+         "t": "Destroying the machines",
+         "r": "分词短语（插入语/定语）"
+        },
+        {
+         "t": "that are coming for our jobs would be nuts.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "But policies to help workers adapt will be indispensable.",
+       "zh": "",
+       "main": "But policies to help workers adapt will be indispensable.",
+       "chunks": [
+        {
+         "t": "But policies to help workers adapt will be indispensable.",
+         "r": "状语从句"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "Oxford study, with the middle class disproportionately squeezed.",
+       "zh": "",
+       "main": "Oxford study",
+       "chunks": [
+        {
+         "t": "Oxford study",
+         "r": "主语"
+        },
+        {
+         "t": "with the middle class disproportionately squeezed.",
+         "r": "介词短语（状语/定语）"
+        }
+       ]
+      },
+      {
+       "i": 5,
+       "en": "Lower-income jobs like gardening or day care don't appeal to robots.",
+       "zh": "",
+       "main": "Lower-income jobs like gardening or day care don't appeal to robots.",
+       "chunks": [
+        {
+         "t": "Lower-income",
+         "r": "主语"
+        },
+        {
+         "t": "jobs like gardening or day care don't appeal to robots.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 6,
+       "en": "But many middle-class occupations – trucking, financial advice, software engineering – have aroused their interest, or soon will.",
+       "zh": "",
+       "main": "financial advice have aroused their interest",
+       "chunks": [
+        {
+         "t": "But many middle-class occupations",
+         "r": "状语从句"
+        },
+        {
+         "t": "trucking",
+         "r": "分词短语（插入语/定语）"
+        },
+        {
+         "t": "financial advice",
+         "r": "主语"
+        },
+        {
+         "t": "software engineering",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "have aroused their interest",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "or soon will.",
+         "r": "状语从句"
+        }
+       ]
+      },
+      {
+       "i": 7,
+       "en": "The rich own the robots, so they will be fine.",
+       "zh": "",
+       "main": "The rich own the robots",
+       "chunks": [
+        {
+         "t": "The rich own the",
+         "r": "主语"
+        },
+        {
+         "t": "robots",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "so they will be fine.",
+         "r": "状语从句"
+        }
+       ]
+      },
+      {
+       "i": 8,
+       "en": "B) C) D) the middle class disproportionately squeezed ↔Middle-class workers many middle-class occupations – trucking, financial advice, software engineering – have aroused their interest ↔Middle-class workers",
+       "zh": "",
+       "main": "B) C) D) the middle class disproportionately squeezed ↔Middle-class workers many middle-class occupations",
+       "chunks": [
+        {
+         "t": "B) C) D) the middle class disproportionately",
+         "r": "主语"
+        },
+        {
+         "t": "squeezed ↔Middle-class workers many middle-class occupations",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "trucking",
+         "r": "分词短语（插入语/定语）"
+        },
+        {
+         "t": "financial advice",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "software engineering",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "have aroused their interest ↔Middle-class workers",
+         "r": "并列谓语"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "no": 21,
+     "stem": "Who will be most threatened by automation?",
+     "options": {
+      "A": "Leading politicians.",
+      "B": "Low-wage laborers.",
+      "C": "Robot owners.",
+      "D": "Middle-class workers."
+     },
+     "answer": "D",
+     "type": "（细节题）",
+     "analysis": "【判型】Who will be most threatened by automation? 直接问\"谁\"，答案是文本里写明的具体群\n体，无须推理。\n【拆句】Who will be most threatened by automation? 主干是 Who will be threatened，most\n修饰过去分词作表语，by automation 是被动施动者。结构平铺直叙、无陷阱。\n【定位】About half of U.S. jobs are at high risk of being automated, according to a University of\nOxford study, with the middle class disproportionately squeezed. Lower-income jobs like\ngardening or day care don't appeal to robots. But many middle-class occupations – trucking,\nfinancial advice, software engineering – have aroused their interest, or soon will. The rich\nown the robots, so they will be fine.\n据牛津大学一项研究，约半数美国岗位有被自动化取代的高风险，而中产阶级被不成比例地\n挤压。园艺、日托这类低收入工作机器人看不上；但卡车驾驶、理财顾问、软件工程等许多\n中产职业已经吸引了它们的兴趣，或很快会。富人拥有机器人，所以富人没事。\n【选项】A)\n无中生有\nWhat happens when the robots come for their jobs? 提到 the next presidential\ncampaign，是说政客不会谈这个话题，并非政客本身受自动化威胁。\nB)\n与原文相反\n原文 Lower-income jobs like gardening or day care don't appeal to robots 显式说\n明低收入工作机器人不感兴趣，恰恰\"不\"受威胁；选项与原文反向。\nC)\n与原文相反\n原文 The rich own the robots, so they will be fine 显式说明机器人所有者\"没事\"，\n与\"受威胁\"反向。\nD)\n✓ 正确\nthe middle class disproportionately squeezed ↔Middle-class workers\nmany middle-class occupations – trucking, financial advice, software engineering – have\naroused their interest\n↔Middle-class workers\n预判\"中产最受威胁\"与选项 Middle-class workers 字面对应；A/B/C 三项与原文显式陈\n述相反或无关。\n21. Who will be most threatened by automation?\n[ A ] Leading politicians.\n[ B ] Low-wage laborers.\n[ C ] Robot owners.\n[ D ] Middle-class workers.\n\n以下哪项最能代表作者的观点?\nA) 对自动化的担忧实际上毫无根据。\nB) 乐观主义者对新技术的看法几乎得不到支持。\nC) 自动化引发的问题需要得到解决。\nD) 新技术的负面后果是可以避免的。"
+    },
+    {
+     "no": 22,
+     "stem": "Which of the following best represents the author's view?",
+     "options": {
+      "A": "Worries about automation are in fact groundless.",
+      "B": "Optimists' opinions on new tech find little support.",
+      "C": "Issues arising from automation need to be tackled.",
+      "D": "Negative consequences of new tech can be avoided."
+     },
+     "answer": "C",
+     "type": "（主旨题）",
+     "analysis": "【判型】best represents the author's view 求的是覆盖全文的态度/观点，而不是某一段细节。\n【拆句】Which of the following best represents the author's view? Which 引导特殊疑问，best\n修饰动词 represents，author's view 作宾语。结构平铺直叙、无陷阱。\n【选项】A)\n与原文相反\nA 项 Worries about automation are in fact groundless 说担忧毫无根据；但作者在\nP2 明列\"中产被挤压\"、在 P3 用 But 强调\"中期内需帮助\"、在 P7 称政策\"不可或缺\"，\n全文都在确认担忧有据。\nB)\n过度推断\n原文 Optimists point out that technological upheaval has benefited workers in\nthe past 与 Likewise, automation should eventually boost productivity, stimulate\ndemand by driving down prices, and free workers from hard, boring work 实际\n上认可乐观派的长期判断；作者只反对\"中期内不需帮助\"，并未说乐观观点\"几乎没有\n支持\"。\nC)\n✓ 正确\nBut in the medium term, middle-class workers may need a lot of help adjusting ↔\nIssues arising from automation need to be tackled\nBut policies to help workers adapt will be indispensable ↔\nIssues arising from automation need to be tackled\nC 项 Issues arising from automation need to be tackled 既承认 Issues（问题真\n实），又提出 need to be tackled（须解决），与预判两层完全契合。\nD)\n偷换概念\n原文 middle-class workers may need a lot of help adjusting 和 policies to help\nworkers adapt will be indispensable 都是\"帮助适应\"，不是\"完全避免\"；this will be\nlittle comfort to those who find their lives and careers upended by automation\n反而承认\"被自动化颠覆的人很难被安慰\"，负面后果客观存在。\n22. Which of the following best represents the author's view?\n[ A ] Worries about automation are in fact groundless.\n[ B ] Optimists' opinions on new tech find little support.\n[ C ] Issues arising from automation need to be tackled.\n[ D ] Negative consequences of new tech can be avoided.\n\n自动化时代的教育应更加强调____\nA) 创造潜力。\nB) 求职技能。\nC) 个人需求。\nD) 合作精神。"
+    },
+    {
+     "no": 23,
+     "stem": "Education in the age of automation should put more emphasis on____",
+     "options": {
+      "A": "creative potential.",
+      "B": "job-hunting skills.",
+      "C": "individual needs.",
+      "D": "cooperative spirit."
+     },
+     "answer": "A",
+     "type": "（细节题）",
+     "analysis": "【判型】Education in the age of automation should put more emphasis on____ 是补全句，填\n的是教育应强调的具体内容，须回原文取词。\n【拆句】Education in the age of automation should put more emphasis on____ 主语\nEducation 带后置介词短语修饰，谓语 should put、宾语 more emphasis，on 后接的空\n位待填。结构平铺直叙、无陷阱。\n【定位】Curriculums – from grammar school to college – should evolve to focus less on memorizing\nfacts and more on creativity and complex communication.\n从小学到大学的课程应当演变为少记忆事实、多侧重创造力和复杂沟通。\n【选项】A)\n✓ 正确\ncreativity and complex communication ↔creative potential\n四个选项中只有 A 含 creative 词根，与定位句 more on 后的 creativity 直接对应；其\n余三项均不在 more on 的指向范围内。\nB)\n无中生有\n本段提到 fostering problem-solving skills 与 helping students work alongside\nrobots，但都不是\"求职技能\"；原文未出现 job-hunting 概念。\nC)\n无中生有\nOnline education can supplement the traditional kind. It could make extra\ntraining and instruction affordable 谈的是\"价格可负担\"，不是\"针对个体差异\"；\nindividual needs 在原文无对应。\nD)\n偷换概念\ncomplex communication 与 work alongside robots 都隐含\"协同\"，但不等于\"合作精\n神\"作为教育的强调重点；原文 more on 后只列出 creativity 与 complex\ncommunication，未把\"合作精神\"作为单独强调项。\n23. Education in the age of automation should put more emphasis on____\n[ A ] creative potential.\n[ B ] job-hunting skills.\n[ C ] individual needs.\n[ D ] cooperative spirit.\n\n作者建议税收政策应旨在____\nA) 鼓励自动化的发展。\nB) 提高资本投资的回报。\nC) 缓解贫富之间的敌意。\nD) 防止收入差距扩大。"
+    },
+    {
+     "no": 24,
+     "stem": "The author suggests that tax policies be aimed at____",
+     "options": {
+      "A": "encouraging the development of automation.",
+      "B": "increasing the return on capital investment.",
+      "C": "easing the hostility between rich and poor.",
+      "D": "preventing the income gap from widening."
+     },
+     "answer": "D",
+     "type": "（细节题）",
+     "analysis": "【判型】The author suggests that tax policies be aimed at____ 是补全句，填的是税收政策的具\n体目的，可在原文中找到对应陈述。\n【拆句】The author suggests that tax policies be aimed at____ suggest 引导虚拟语气从句，从\n句省略 should，谓语用动词原形 be aimed at。注意 suggest \"建议\"用法下从句动词原形\n是固定考点，不是病句。\n【定位】Finally, because automation threatens to widen the gap between capital income and labor\nincome, taxes and the safety net will have to be rethought.\n最后，由于自动化有扩大资本收入与劳动收入差距的危险，税收和社会保障必须被重新\n思考。\n【选项】A)\n与原文相反\n原文政策目的是\"应对\"自动化带来的负面收入分化，不是\"鼓励\"自动化本身；本段从头到\n尾没有\"促进自动化\"的字样。\nB)\n张冠李戴\n原文 Taxes on low-wage labor need to be cut, and wage subsidies such as the\nearned income tax credit should be expanded 减税与补贴的对象是\"低薪劳动\"，目\n的是提高劳动者收入；不是提高\"资本投资回报\"，恰是相反方向。\nC)\n偷换概念\n段末 boost incomes, encourage work, reward companies for job creation, and\nreduce inequality 列的是\"减不平等\"，不是\"缓解贫富之间的敌意\"；hostility（敌意）\n是情感层面，原文谈的是物质收入层面，不等价。\nD)\n✓ 正确\nbecause automation threatens to widen the gap between capital income and labor income ↔\npreventing the income gap from widening\n预判\"防止差距扩大\"与 D 项 preventing the income gap from widening 字面对应；\nA/B/C 三项都偏离\"防止收入差距扩大\"这一目的。\n24. The author suggests that tax policies be aimed at____\n[ A ] encouraging the development of automation.\n[ B ] increasing the return on capital investment.\n[ C ] easing the hostility between rich and poor.\n[ D ] preventing the income gap from widening.\n\n在本文中,作者提出了一个问题及其____\nA) 相反的观点。\nB) 可能的解决方案。\nC) 令人担忧的影响。\nD) 主要变化。"
+    },
+    {
+     "no": 25,
+     "stem": "In this text, the author presents a problem with____",
+     "options": {
+      "A": "opposing views on it.",
+      "B": "possible solutions to it.",
+      "C": "its alarming impacts.",
+      "D": "its major variations."
+     },
+     "answer": "B",
+     "type": "（主旨题）",
+     "analysis": "【判型】In this text, the author presents a problem with____ 求的是\"作者用什么方式呈现问\n题\"，覆盖全文论述结构。\n【拆句】In this text, the author presents a problem with____ 主干是 the author presents a\nproblem，with 后空位待填修饰 problem 的方式。结构平铺直叙、无陷阱。\n【选项】A)\n以偏概全\n原文仅在 P3 提及 Optimists 一处他人观点，作者随即用 But 收束并转入方案，全文主\n体是\"方案陈述\"而非\"观点对立\"；选项 opposing views on it 把次要环节当主结构，与\n文章重心错位。\nB)\n✓ 正确\nThe first step, as Erik Brynjolfsson and Andrew McAfee argue in The Second Machine Age,\nshould be rethinking education and job training\n↔possible solutions to it\nFinally, because automation threatens to widen the gap between capital income and labor\nincome, taxes and the safety net will have to be rethought\n↔possible solutions to it\n预判\"提出问题+给出多种解决方案\"与 B 项 possible solutions to it 完美对应；it 指首\n段提出的 problem，solutions 复数正对应文中三项并列方案。\nC)\n与原文相反\n作者在 P3 明确说 This isn't to be alarmist（这不是危言耸听）以自我克制；alarming\nimpacts（惊人冲击）不是本文的叙述基调。\nD)\n无中生有\n原文未对\"自动化\"分类（如工业自动化、办公自动化、AI 等）也未对其表现形式做分门\n别类的讨论；major variations（主要变种）在原文无对应。\nS E N T E N C E I N S I G H T S · 句子精讲\n12 句真题句逐层精讲\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\n25. In this text, the author presents a problem with____\n[ A ] opposing views on it.\n[ B ] possible solutions to it.\n[ C ] its alarming impacts.\n[ D ] its major variations.\n\nAmong the annoying challenges facing the middle class is one that will probably go\nunmentioned in the next presidential campaign: What happens when the robots\ncome for their jobs?\n第1段，第1句\n本句涵盖了多种成分类型:倒装句中的主系表结构,介词短语作地点状语,定语从句修饰先行词,疑问词\n作主语,时间状语从句,介词短语作目的状语等。特别是第一个主句的倒装结构和定语从句的组合,以\n及第二个主句中疑问词兼作主语的用法,都是典型的易错点和重要练习点,适合用于成分划分训练。\nAbout half of U.S. jobs are at high risk of being automated, according to a\nUniversity of Oxford study, with the middle class disproportionately squeezed.\n第2段，第2句\n主系表结构 + 介词短语状语 + with 独立主格状语,是四六级和考研阅读中的高频句式。according\nto 引出信息来源的用法、with 独立主格表达伴随或补充信息的结构,在真题中反复出现。掌握本句\n结构后可迁移到大量同类长难句的分析中,具有较强的典型性\nThe rich own the robots, so they will be fine.\n第2段，第5句\n因果关系的并列句在考试中较为常见，\"so\"连接两个主句是典型的表达因果逻辑的句式。虽然本句\n结构简单，但这种因果并列模式具有一定代表性，学习后可迁移到其他类似句子。\nThis isn't to be alarmist.\n第3段，第1句\n\"主语 + be + 不定式\" 结构（如 \"The goal is to ...\"）在真题中偶有出现，具有一定代表性；但本句\n较短、成分简单，不如带定语从句或状语从句的主系表结构更能代表考试常见难度，典型性中等\n偏下\nOptimists point out that technological upheaval has benefited workers in the past.\n第3段，第2句\n\"动词 + that 宾语从句\" 是四六级和考研阅读中的高频句式，尤其在表达观点、陈述事实的学术或\n议论性文本中反复出现。掌握本句结构可直接迁移到大量真题句子。\n\nThe Industrial Revolution didn't go so well for Luddites whose jobs were displaced\nby mechanized looms, but it eventually raised living standards and created more\njobs than it destroyed.\n第3段，第3句\nbut 连接的转折并列句、whose 引导的限制性定语从句、than 引导的比较状语从句，都是四六级和\n考研阅读中的高频句式。整句体现\"先抑后扬\"的论证结构，具有很强的代表性，掌握后可迁移到大\n量类似长难句的分析中。\nLikewise, automation should eventually boost productivity, stimulate demand by\ndriving down prices, and free workers from hard, boring work.\n第3段，第4句\n情态动词加并列谓语的结构在四六级和考研阅读中频繁出现,尤其在议论文中常用于表达观点或预\n测。本句的并列方式(逗号加 and)也是标准用法,具有较高代表性,掌握后可迁移到同类句式。\nProfessionals trying to acquire new skills will be able to do so without going into\ndebt.\n第4段，第6句\n简单句配主语后置定语和方式状语的组合在四六级和考研阅读中较为常见，尤其 \"be able to\" 结构\n和 \"without doing\" 状语都是高频句式，学习后迁移性强。\nFinally, because automation threatens to widen the gap between capital income\nand labor income, taxes and the safety net will have to be rethought.\n第6段，第1句\n高度典型的考试句式:原因状语从句修饰主句、情态动词加被动语态、并列主语、不定式短语作宾\n语,这些都是四六级和考研阅读中频繁出现的结构。状语从句插在主句中间而非句首或句尾的位置,\n也是真题中常见的变体,掌握后可迁移到大量类似句型。\n\nTechnology will improve society in ways big and small over the next few years, yet\nthis will be little comfort to those who find their lives and careers upended by\nautomation.\n第7段，第1句\n并列转折句（yet 连接）加限制性定语从句是四六级和考研阅读中的高频句式。句子展示了典型的\n观点对比结构：先说积极面，再用 yet 转折说消极面，并通过定语从句限定受影响的人群。这种结\n构在议论文和说明文中极为常见，学生掌握后可大量复用。\nWorries about automation are in fact groundless.\n第22题，A\n主系表结构是英语中最基础、最常见的句型之一，在各类考试中频繁出现。后置定语修饰名词的用\n法也很典型。但本句过于简单，缺少从句、复杂修饰或特殊句式，作为四六级或考研真题代表性有\n限，属于中等典型程度。\nIssues arising from automation need to be tackled.\n第22题，C\n简单句带现在分词短语作后置定语、谓语含不定式被动结构，这是四六级和考研阅读中高频出现的\n句式。掌握这种结构后，可以快速识别大量类似句子的主干与修饰关系，迁移性强。\nH I G H - F R E Q U E N C Y · 真题高频词\n本篇出现的 87 个考研英语一真题高频词\n下列单词既在本篇真题中出现，又是 考研英语一 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n词的释义、音标、词形与真题例句。\nautomation\nB2\nn. 自动化（用机器或计算机代替人工操作）\n本篇9 次 · 真题 15 句\nincome\nB1\nn. 收入\n本篇5 次 · 真题 31 句\ntax\nA2\nn. 税\n本篇4 次 · 真题 54 句\nauthor\nA2\nn. 作者\n本篇3 次 · 真题 209 句\n\nlabor\nB1\nn. 劳动\n本篇3 次 · 真题 41 句\nwould\nA1\naux. （will 的过去式）将要，会\n本篇2 次 · 真题 304 句\nview\nA2\nn. 观点，看法\n本篇2 次 · 真题 91 句\npolicy\nB1\nn. 政策\n本篇2 次 · 真题 69 句\nchallenge\nB1\nn. 挑战\n本篇2 次 · 真题 57 句\ngap\nB1\nn. 间隙\n本篇2 次 · 真题 45 句\ntech\nB1\nn. 技术\n本篇2 次 · 真题 38 句\nboost\nB2\nv. 提高\n本篇2 次 · 真题 28 句\nthreaten\nB1\nv. 威胁;恐吓\n本篇2 次 · 真题 24 句\neventually\nB1\nadv. 最终\n本篇2 次 · 真题 20 句\ntechnological\nB2\nadj. 技术的\n本篇2 次 · 真题 20 句\naccord\nC1\nn. （国家、团体间的）协议\n本篇1 次 · 真题 172 句\nless\nA1\ndet. 较少的\n本篇1 次 · 真题 150 句\nfollowing\nB1\nadj. 接下来的\n本篇1 次 · 真题 91 句\nissue\nB1\nn. 问题\n本篇1 次 · 真题 89 句\nbenefit\nB1\nn. 好处\n本篇1 次 · 真题 88 句\n\nsupport\nA2\nv. 支持\n本篇1 次 · 真题 87 句\nfocus\nB1\nn. 重点\n本篇1 次 · 真题 77 句\nreduce\nB1\nv. 减少，降低（数量、大小、程度等）\n本篇1 次 · 真题 75 句\nbetter\nA1\nadj. 更好的（good 的比较级）\n本篇1 次 · 真题 70 句\nargue\nB1\nv. 争论\n本篇1 次 · 真题 63 句\ndemand\nB1\nv. 坚决要求\n本篇1 次 · 真题 63 句\nonline\nA2\nadj. 在线的\n本篇1 次 · 真题 63 句\nrisk\nA2\nn. 风险\n本篇1 次 · 真题 62 句\nfinancial\nB2\nadj. 财政的\n本篇1 次 · 真题 59 句\nindividual\nB2\nadj. 单独的\n本篇1 次 · 真题 59 句\nmajor\nB1\nadj. 主要的\n本篇1 次 · 真题 56 句\nimpact\nB2\nn. 影响\n本篇1 次 · 真题 53 句\nprofessional\nB1\nadj. 专业的\n本篇1 次 · 真题 46 句\nopinion\nA2\nn. 观点\n本篇1 次 · 真题 44 句\npotential\nB2\nadj. 潜在的\n本篇1 次 · 真题 43 句\ncareer\nB1\nn. 职业\n本篇1 次 · 真题 42 句\n\ninvestment\nB1\nn. 投资\n本篇1 次 · 真题 38 句\nproductivity\nB2\nn. 生产率\n本篇1 次 · 真题 36 句\naim\nB1\nv. 瞄准\n本篇1 次 · 真题 35 句\nmedium\nB1\nadj. 中等的\n本篇1 次 · 真题 35 句\nconsequence\nB2\nn. 结果\n本篇1 次 · 真题 33 句\nearn\nA2\nv. 赚得，挣得（金钱）\n本篇1 次 · 真题 32 句\nnegative\nB1\nadj. 否定的\n本篇1 次 · 真题 32 句\ncomplex\nB2\nadj. 复杂的，难懂的\n本篇1 次 · 真题 31 句\nreality\nB1\nn. 现实\n本篇1 次 · 真题 31 句\ntraditional\nB1\nadj. 传统的\n本篇1 次 · 真题 28 句\nappeal\nB2\nv. 呼吁\n本篇1 次 · 真题 27 句\nreward\nB1\nn. 报酬\n本篇1 次 · 真题 26 句\nsolution\nB1\nn. 解决办法\n本篇1 次 · 真题 26 句\npossibility\nB1\nn. 可能性\n本篇1 次 · 真题 25 句\nrepresent\nB1\nv. 代表\n本篇1 次 · 真题 25 句\nprevious\nB1\nadj. 先前的\n本篇1 次 · 真题 24 句\n\nnet\nA2\nn. 网\n本篇1 次 · 真题 23 句\ncampaign\nB2\nn. 运动\n本篇1 次 · 真题 20 句\ncreative\nB1\nadj. 有创造力的\n本篇1 次 · 真题 20 句\nexpand\nB2\nv. 扩大;扩展;增长\n本篇1 次 · 真题 19 句\ncreation\nB2\nn. 创造\n本篇1 次 · 真题 18 句\ncreativity\nB2\nn. 创造力\n本篇1 次 · 真题 18 句\nevolve\nB2\nv. 逐渐发展;进化\n本篇1 次 · 真题 17 句\nextra\nA2\nadj. 额外的\n本篇1 次 · 真题 17 句\nindustrial\nB2\nadj. 工业的\n本篇1 次 · 真题 17 句\nwage\nB1\nn. 工资\n本篇1 次 · 真题 16 句\ndebt\nB1\nn. 欠款\n本篇1 次 · 真题 15 句\nentirely\nB1\nadv. 完全地\n本篇1 次 · 真题 15 句\nfinally\nA2\nadv. 终于，最终\n本篇1 次 · 真题 15 句\nrevolution\nB2\nn. 革命\n本篇1 次 · 真题 15 句\nadjust\nB2\nv. 调整\n本篇1 次 · 真题 14 句\narise\nB2\nv. 出现;产生;发生\n本篇1 次 · 真题 14 句\n\ncombine\nB1\nv. （使）结合、组合\n本篇1 次 · 真题 14 句\nsoftware\nB1\nn. 软件（计算机程序）\n本篇1 次 · 真题 14 句\nacquire\nB2\nv. 获得\n本篇1 次 · 真题 13 句\ncope\nB2\nv. 应对\n本篇1 次 · 真题 13 句\nemphasis\nB2\nn. 强调\n本篇1 次 · 真题 13 句\nera\nB2\nn. 时代\n本篇1 次 · 真题 13 句\ninequality\nB2\nn. 不平等\n本篇1 次 · 真题 13 句\nadapt\nB2\nv. 适应，适合（新环境、新情况）\n本篇1 次 · 真题 12 句\nease\nB1\nn. 容易\n本篇1 次 · 真题 12 句\naffordable\nB1\nadj. 买得起的\n本篇1 次 · 真题 11 句\ncredit\nB1\nn. 赊购，赊账\n本篇1 次 · 真题 11 句\nentrepreneur\nC1\nn. 企业家;创业者\n本篇1 次 · 真题 10 句\nfoster\nB2\nv. 培养\n本篇1 次 · 真题 10 句\nvirtual\nB2\nadj. 虚拟的（计算机生成的）\n本篇1 次 · 真题 10 句\nalongside\nB1\nprep. 在…旁边\n本篇1 次 · 真题 8 句\narouse\nC1\nv. 激起，引起（情感、反应）\n本篇1 次 · 真题 8 句\n\nengineering\nB1\nn. 工程学\n本篇1 次 · 真题 8 句\nindispensable\nC1\nadj. 必不可少的\n本篇1 次 · 真题 8 句\ntackle\nB2\nv. 处理\n本篇1 次 · 真题 8 句\nV O C A B U L A R Y · 词汇难度分布\n全文 248 词按 CEFR 难度累积覆盖\n全文去重后共 248 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」的累积\n占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 12 个 · 约 5%。\n33%\nA1\n及以下\n51%\nA2\n及以下\n77%\nB1\n及以下\n95%\nB2\n及以下\n100%\nC1\n及以下\n100%\nC2\n及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 248 个 · 末柱为 100%\n去重总词数\n248\nB2 以上难词\n5%\nB1 及以下覆盖\n77%\n\n考研英语一\n2018年 · 全卷构成\n题目解析 →\n本题\n题目解析 →\n题目解析 →\n题目解析 →\n段落排序\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →"
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "paras": [
+    {
+     "en": "A new survey by Harvard University finds more than two-thirds of young Americans disapprove of President Trump's use of Twitter. The implication is that Millennials prefer news from the White House to be filtered through other sources, not a president's social media platform.",
+     "zh": "Harvard大学的一项新调查发现,超过三分之二的美国年轻人不赞成特朗普总统使用Twitter。这意味着千 禧一代更希望来自白宫的新闻经过其他渠道过滤,而不是通过总统的社交媒体平台。",
+     "no": 1,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "A new survey by Harvard University finds more than two-thirds of young Americans disapprove of President Trump's use of Twitter.",
+       "zh": "Harvard大学的一项新调查发现,超过三分之二的美国年轻人不赞成特朗普总统使用Twitter。",
+       "main": "A new survey by Harvard University finds more than two-thirds of young Americans disapprove of President Trump's use of Twitter.",
+       "chunks": [
+        {
+         "t": "A new survey by Harvard University",
+         "r": "主语"
+        },
+        {
+         "t": "finds more than two-thirds of young Americans disapprove of President Trump's use of Twitter.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "The implication is that Millennials prefer news from the White House to be filtered through other sources, not a president's social media platform.",
+       "zh": "这意味着千 禧一代更希望来自白宫的新闻经过其他渠道过滤,而不是通过总统的社交媒体平台。",
+       "main": "The implication is",
+       "chunks": [
+        {
+         "t": "The implication",
+         "r": "主语"
+        },
+        {
+         "t": "is",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that Millennials prefer news from the White House to be filtered through other sources",
+         "r": "定语从句"
+        },
+        {
+         "t": "not a president's social media platform.",
+         "r": "并列谓语"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "Most Americans rely on social media to check daily headlines. Yet as distrust has risen toward all media, people may be starting to beef up their media literacy skills. Such a trend is badly needed. During the 2016 presidential campaign, nearly a quarter of web content shared by Twitter users in the politically critical state of Michigan was fake news, according to the University of Oxford. And a survey conducted for BuzzFeed News found 44 percent of Facebook users rarely or never trust news from the media giant.",
+     "zh": "大多数美国人依靠社交媒体查看每日新闻标题。然而,随着对所有媒体的不信任加剧,人们可能开始提高他 们的媒体素养技能。这种趋势亟需出现。根据Oxford大学的数据,在2016年总统竞选期间,在政治上至关重 要的Michigan州,Twitter用户分享的网络内容中近四分之一是假新闻。而为BuzzFeed News进行的一项 调查发现,44%的Facebook用户很少或从不信任来自这家媒体巨头的新闻。",
+     "no": 2,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "Most Americans rely on social media to check daily headlines.",
+       "zh": "大多数美国人依靠社交媒体查看每日新闻标题。",
+       "main": "Most Americans rely on social media to check daily headlines.",
+       "chunks": [
+        {
+         "t": "Most",
+         "r": "主语"
+        },
+        {
+         "t": "Americans rely on social media to check daily headlines.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "Yet as distrust has risen toward all media, people may be starting to beef up their media literacy skills.",
+       "zh": "然而,随着对所有媒体的不信任加剧,人们可能开始提高他 们的媒体素养技能。",
+       "main": "people may be starting to beef up their media literacy skills.",
+       "chunks": [
+        {
+         "t": "Yet as distrust has risen toward all media",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "people",
+         "r": "主语"
+        },
+        {
+         "t": "may be starting to beef up their media literacy skills.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "Such a trend is badly needed.",
+       "zh": "这种趋势亟需出现。",
+       "main": "Such a trend is badly needed.",
+       "chunks": [
+        {
+         "t": "Such a trend",
+         "r": "主语"
+        },
+        {
+         "t": "is badly needed.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "During the 2016 presidential campaign, nearly a quarter of web content shared by Twitter users in the politically critical state of Michigan was fake news, according to the University of Oxford.",
+       "zh": "根据Oxford大学的数据,在2016年总统竞选期间,在政治上至关重 要的Michigan州,Twitter用户分享的网络内容中近四分之一是假新闻。",
+       "main": "nearly a quarter of web content",
+       "chunks": [
+        {
+         "t": "During the 2016 presidential campaign",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "nearly a quarter of web content",
+         "r": "主语"
+        },
+        {
+         "t": "shared by Twitter users in the politically critical state of Michigan was fake news",
+         "r": "分词短语（插入语/定语）"
+        },
+        {
+         "t": "according to the University of Oxford.",
+         "r": "分词短语（插入语/定语）"
+        }
+       ]
+      },
+      {
+       "i": 5,
+       "en": "And a survey conducted for BuzzFeed News found 44 percent of Facebook users rarely or never trust news from the media giant.",
+       "zh": "而为BuzzFeed News进行的一项 调查发现,44%的Facebook用户很少或从不信任来自这家媒体巨头的新闻。",
+       "main": "And a survey conducted for BuzzFeed News found 44 percent of Facebook users rarely or never trust news from the media giant.",
+       "chunks": [
+        {
+         "t": "And a survey conducted for BuzzFeed News found 44 percent of Facebook users rarely or never trust news from the media giant.",
+         "r": "状语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "Young people who are digital natives are indeed becoming more skillful at separating fact from fiction in cyberspace. A Knight Foundation focus-group survey of young people between ages 14 and 24 found they use \"distributed trust\" to verify stories. They cross-check sources and prefer news from different perspectives – especially those that are open about any bias. \"Many young people assume a Text 2  great deal of personal responsibility for educating themselves and actively seeking out opposing viewpoints,\" the survey concluded.",
+     "zh": "作为数字原住民的年轻人确实在网络空间中越来越善于区分事实与虚构。Knight Foundation对14至24岁 年轻人进行的焦点小组调查发现,他们使用\"分布式信任\"来核实报道。他们交叉核对信息源,并偏好来自不 同视角的新闻——尤其是那些公开表明任何偏见的新闻。该调查总结道:\"许多年轻人承担了大量个人责任 来教育自己,并积极寻求对立的观点。\"",
+     "no": 3,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "Young people who are digital natives are indeed becoming more skillful at separating fact from fiction in cyberspace.",
+       "zh": "作为数字原住民的年轻人确实在网络空间中越来越善于区分事实与虚构。",
+       "main": "Young people",
+       "chunks": [
+        {
+         "t": "Young people",
+         "r": "主语"
+        },
+        {
+         "t": "who are digital natives are indeed becoming more skillful at separating fact from fiction in cyberspace.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "A Knight Foundation focus-group survey of young people between ages 14 and 24 found they use \"distributed trust\" to verify stories. They cross-check sources and prefer news from different perspectives – especially those that are open about any bias.",
+       "zh": "Knight Foundation对14至24岁 年轻人进行的焦点小组调查发现,他们使用\"分布式信任\"来核实报道。 他们交叉核对信息源,并偏好来自不 同视角的新闻——尤其是那些公开表明任何偏见的新闻。",
+       "main": "A Knight Foundation focus-group survey of young people between ages 14 and 24 found they use \"distributed trust\" to verify stories. They cross-check sources and prefer news from different perspectives – especially those",
+       "chunks": [
+        {
+         "t": "A Knight Foundation focus-group survey of young people between",
+         "r": "主语"
+        },
+        {
+         "t": "ages 14 and 24 found they use \"distributed trust\" to verify stories. They cross-check sources and prefer news from different perspectives – especially those",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that are open about any bias.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "\"Many young people assume a Text 2  great deal of personal responsibility for educating themselves and actively seeking out opposing viewpoints,\" the survey concluded.",
+       "zh": "该调查总结道:\"许多年轻人承担了大量个人责任 来教育自己,并积极寻求对立的观点。 \"",
+       "main": "\"Many young people assume a Text 2  great deal of personal responsibility for educating themselves and actively seeking out opposing viewpoints,\" the survey concluded.",
+       "chunks": [
+        {
+         "t": "\"Many young people assume a Text 2  great deal of personal responsibility for educating",
+         "r": "主语"
+        },
+        {
+         "t": "themselves and actively seeking out opposing viewpoints,\" the survey concluded.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "Such active research can have another effect. A 2014 survey conducted in Australia, Britain, and the United States by the University of Wisconsin-Madison found that young people's reliance on social media led to greater political engagement.",
+     "zh": "这种主动研究可能产生另一种效果。University of Wisconsin-Madison在澳大利亚、英国和美国进行的 一项2014年调查发现,年轻人对社交媒体的依赖导致了更高的政治参与度。",
+     "no": 4,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "Such active research can have another effect.",
+       "zh": "这种主动研究可能产生另一种效果。",
+       "main": "Such active research can have another effect.",
+       "chunks": [
+        {
+         "t": "Such active research",
+         "r": "主语"
+        },
+        {
+         "t": "can have another effect.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "A 2014 survey conducted in Australia, Britain, and the United States by the University of Wisconsin-Madison found that young people's reliance on social media led to greater political engagement.",
+       "zh": "University of Wisconsin-Madison在澳大利亚、英国和美国进行的 一项2014年调查发现,年轻人对社交媒体的依赖导致了更高的政治参与度。",
+       "main": "A 2014 survey",
+       "chunks": [
+        {
+         "t": "A 2014 survey",
+         "r": "主语"
+        },
+        {
+         "t": "conducted in Australia",
+         "r": "分词短语（插入语/定语）"
+        },
+        {
+         "t": "Britain",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "and the United States by the University of Wisconsin-Madison found",
+         "r": "状语从句"
+        },
+        {
+         "t": "that young people's reliance on social media led to greater political engagement.",
+         "r": "定语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "Social media allows users to experience news events more intimately and immediately while also permitting them to re-share news as a projection of their values and interests. This forces users to be more conscious of their role in passing along information. A survey by Barna research group found the top reason given by Americans for the fake news phenomenon is \"reader error,\" more so than made-up stories or factual mistakes in reporting. About a third say the problem of fake news lies in \"misinterpretation or exaggeration of actual news\" via social media. In other words, the choice to share news on social media may be the heart of the issue. \"This indicates there is a real personal responsibility in counteracting this problem,\" says Roxanne Stone, editor in chief at Barna Group.",
+     "zh": "社交媒体让用户能够更亲密、更即时地体验新闻事件,同时也允许他们将新闻作为其价值观和兴趣的投射进 行再次分享。这迫使用户更加意识到自己在传递信息中的角色。Barna研究小组的一项调查发现,美国人对 假新闻现象给出的首要原因是\"读者错误\",而不是编造的故事或报道中的事实错误。大约三分之一的人表示 假新闻问题在于通过社交媒体对\"实际新闻的误读或夸大\"。换句话说,在社交媒体上分享新闻的选择可能是 问题的核心。Barna Group主编Roxanne Stone说:\"这表明在应对这一问题上存在真正的个人责任。\"",
+     "no": 5,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "Social media allows users to experience news events more intimately and immediately while also permitting them to re-share news as a projection of their values and interests.",
+       "zh": "社交媒体让用户能够更亲密、更即时地体验新闻事件,同时也允许他们将新闻作为其价值观和兴趣的投射进 行再次分享。",
+       "main": "Social media allows users to experience news events more intimately and immediately",
+       "chunks": [
+        {
+         "t": "Social media",
+         "r": "主语"
+        },
+        {
+         "t": "allows users to experience news events more intimately and immediately",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "while also permitting them to re-share news as a projection of their values and interests.",
+         "r": "状语从句"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "This forces users to be more conscious of their role in passing along information. A survey by Barna research group found the top reason given by Americans for the fake news phenomenon is \"reader error,\" more so than made-up stories or factual mistakes in reporting.",
+       "zh": "这迫使用户更加意识到自己在传递信息中的角色。 Barna研究小组的一项调查发现,美国人对 假新闻现象给出的首要原因是\"读者错误\",而不是编造的故事或报道中的事实错误。",
+       "main": "This forces users to be more conscious of their role in passing along information. A survey by Barna research group found the top reason given by Americans for the fake news phenomenon is \"reader error,\" more so than made-up stories or factual mistakes in reporting.",
+       "chunks": [
+        {
+         "t": "This",
+         "r": "主语"
+        },
+        {
+         "t": "forces users to be more conscious of their role in passing along information. A survey by Barna research group found the top reason given by Americans for the fake news phenomenon is \"reader error,\" more so than made-up stories or factual mistakes in reporting.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "About a third say the problem of fake news lies in \"misinterpretation or exaggeration of actual news\" via social media. In other words, the choice to share news on social media may be the heart of the issue.",
+       "zh": "大约三分之一的人表示 假新闻问题在于通过社交媒体对\"实际新闻的误读或夸大\"。 换句话说,在社交媒体上分享新闻的选择可能是 问题的核心。",
+       "main": "About a third say the problem of fake news lies in \"misinterpretation or exaggeration of actual news\" via social media. In other words, the choice to share news on social media may be the heart of the issue.",
+       "chunks": [
+        {
+         "t": "About a third say the problem of fake news lies in \"misinterpretation or exaggeration of actual news\" via social media. In other words, the choice to share news on social media may be the heart of the issue.",
+         "r": "介词短语（状语/定语）"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "\"This indicates there is a real personal responsibility in counteracting this problem,\" says Roxanne Stone, editor in chief at Barna Group.",
+       "zh": "Barna Group主编Roxanne Stone说:\"这表明在应对这一问题上存在真正的个人责任。 \"",
+       "main": "\"This indicates there is a real personal responsibility in counteracting this problem,\" says Roxanne Stone, editor in chief at Barna Group.",
+       "chunks": [
+        {
+         "t": "\"This",
+         "r": "主语"
+        },
+        {
+         "t": "indicates there is a real personal responsibility in counteracting this problem,\" says Roxanne Stone, editor in chief at Barna Group.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "So when young people are critical of an over-tweeting president, they reveal a mental discipline in thinking skills – and in their choices on when to share on social media.",
+     "zh": "因此,当年轻人批评一位过度发推特的总统时,他们展现出思维技能上的心智自律——以及在何时于社交媒 体上分享内容的选择上的自律。 题目与逐题解析 根据第1段和第2段,许多美国年轻人对____表示怀疑 A) 新闻过滤做法的正当性 B) 人们对社交媒体平台的偏好 C) 政府处理信息的能力 D) 社交媒体作为可靠新闻来源的地位 【答案】D （细节题）",
+     "no": 6,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "So when young people are critical of an over-tweeting president, they reveal a mental discipline in thinking skills – and in their choices on when to share on social media.",
+       "zh": "因此,当年轻人批评一位过度发推特的总统时,他们展现出思维技能上的心智自律——以及在何时于社交媒 体上分享内容的选择上的自律。 题目与逐题解析 根据第1段和第2段,许多美国年轻人对____表示怀疑 A) 新闻过滤做法的正当性 B) 人们对社交媒体平台的偏好 C) 政府处理信息的能力 D) 社交媒体作为可靠新闻来源的地位 【答案】D （细节题）",
+       "main": "So they reveal a mental discipline in thinking skills",
+       "chunks": [
+        {
+         "t": "So",
+         "r": "主语"
+        },
+        {
+         "t": "when young people are critical of an over-tweeting president",
+         "r": "定语从句"
+        },
+        {
+         "t": "they reveal a mental discipline in thinking skills",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "and in their choices on",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "when to share on social media.",
+         "r": "定语从句"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "no": 26,
+     "stem": "According to Paragraphs 1 and 2, many young Americans cast doubts on____",
+     "options": {
+      "A": "the justification of the news-filtering practice.",
+      "B": "people's preference for social media platforms.",
+      "C": "the administration's ability to handle information.",
+      "D": "social media as a reliable source of news."
+     },
+     "answer": "D",
+     "type": "（细节题）",
+     "analysis": "26. According to Paragraphs 1 and 2, many young Americans cast doubts on____\n[ A ] the justification of the news-filtering practice.\n[ B ] people's preference for social media platforms.\n[ C ] the administration's ability to handle information.\n[ D ] social media as a reliable source of news.\n\n【判型】题干 According to Paragraphs 1 and 2 后接一个待补全的陈述句，问\"年轻人怀疑什么\"，\n是对特定段落事实信息的提取。\n【拆句】题干主干 young Americans cast doubts on____，cast doubts on 是固定搭配（对……表\n示怀疑），空格在介词 on 之后，要填名词性成分。无从句、无否定，结构平铺直叙，无\n陷阱。\n【定位】The implication is that Millennials prefer news from the White House to be filtered through\nother sources, not a president's social media platform.\n其言下之意是：千禧一代更愿意白宫的新闻经由其他渠道过滤呈现，而不是来自总统的社交\n媒体平台。\n【选项】A)\n与原文相反\n原文 prefer news...to be filtered through other sources 是年轻人本人偏好的做法，\n他们怀疑的是社媒，不是\"过滤本身\"；选项把年轻人推崇的方式说成被怀疑的对象，方\n向反了。\nB)\n偷换概念\n题干问\"年轻人怀疑什么\"，而本项的 people's preference for social media platforms\n是把\"人们偏好社媒\"当作怀疑对象——原文从未否定\"人们偏好社媒\"这件事，否定的只\n是把社媒当新闻可信源。\nC)\n无中生有\n原文从未质疑政府\"处理信息的能力\"；P1 说的是年轻人反对总统使用 Twitter 这一渠\n道，与\"行政能力\"无关。\nD)\n✓ 正确\nMillennials prefer news from the White House to be filtered through other sources, not a\npresident's social media platform\n↔social media as a reliable source of news\nas distrust has risen toward all media ↔social media as a reliable source of news\n预判的核心\"怀疑社媒作新闻来源\"与 social media as a reliable source of news 字面\n对位，是定位句两端意思的最干净改写。\n短语\"beef up\"(第2段第2行)在意思上最接近____\nA) 加强\nB) 界定\nC) 吹嘘\nD) 分享"
+    },
+    {
+     "no": 27,
+     "stem": "The phrase \"beef up\" (Line 2, Para. 2) is closest in meaning to____",
+     "options": {
+      "A": "sharpen.",
+      "B": "define.",
+      "C": "boast.",
+      "D": "share."
+     },
+     "answer": "A",
+     "type": "（词义句意题）",
+     "analysis": "【判型】题干 The phrase \"beef up\" (Line 2, Para. 2) is closest in meaning to____ 直接问\"最接近\n的含义\"，是典型的词义题问法。\n27. The phrase \"beef up\" (Line 2, Para. 2) is closest in meaning to____\n[ A ] sharpen.\n[ B ] define.\n[ C ] boast.\n[ D ] share.\n\n【拆句】The phrase \"beef up\" (Line 2, Para. 2) is closest in meaning to____ 主系表结构，主语是\n短语本身、表语是空格处的同义词。无陷阱。\n【定位】Yet as distrust has risen toward all media, people may be starting to beef up their media\nliteracy skills.\n然而随着对所有媒体的不信任上升，人们或许正开始强化自身的媒介素养能力。\n【选项】A)\n✓ 正确\nbeef up their media literacy skills ↔sharpen\n在\"增强能力\"这个语义场里，sharpen 是唯一能与 skills 自然搭配且极性一致的选项，\n与预判完美对位。\nB)\n偷换概念\ndefine 意为\"给……下定义/明确界定\"，原文语境是\"增强能力\"，与 define 的语义场不\n重合。\nC)\n偷换概念\nboast 意为\"自夸、夸耀拥有\"，带轻微负面或炫耀色彩，与原文\"理性提升能力\"的中性/\n正面极性不符。\nD)\n答非所问\nshare 意为\"分享\"，与 skills 不构成\"增强\"的搭配；且原文\"分享\"另有其词（re-\nshare），分布在 P5，不在本句。\n根据Knight Foundation的调查,年轻人____\nA) 倾向于在网络空间表达自己的观点\nB) 通过参考多种来源来核实新闻\nC) 有很强的责任感\nD) 喜欢就\"分布式信任\"交流看法"
+    },
+    {
+     "no": 28,
+     "stem": "According to the Knight Foundation survey, young people____",
+     "options": {
+      "A": "tend to voice their opinions in cyberspace.",
+      "B": "verify news by referring to diverse sources.",
+      "C": "have a strong sense of responsibility.",
+      "D": "like to exchange views on \"distributed trust\"."
+     },
+     "answer": "B",
+     "type": "（细节题）",
+     "analysis": "【判型】题干 According to the Knight Foundation survey, young people____ 问该调查发现年轻\n人做了什么，是对调查结论的事实提取。\n【拆句】主干 young people____，空格处是谓语动词短语，要填一个动作或行为描述。无陷阱。\n【定位】They cross-check sources and prefer news from different perspectives – especially those that\nare open about any bias.\n他们交叉核对来源，并偏好来自不同视角的新闻——尤其是那些坦诚承认自身偏见的来源。\n28. According to the Knight Foundation survey, young people____\n[ A ] tend to voice their opinions in cyberspace.\n[ B ] verify news by referring to diverse sources.\n[ C ] have a strong sense of responsibility.\n[ D ] like to exchange views on \"distributed trust\".\n\n【选项】A)\n无中生有\n原文谈的是\"核验\"和\"主动求异\"，从未提及年轻人\"在网上发表意见\"。\nB)\n✓ 正确\nThey cross-check sources and prefer news from different perspectives ↔\nverify news by referring to diverse sources\nthey use \"distributed trust\" to verify stories ↔verify news by referring to diverse sources\n选项 B 同时覆盖了\"verify/核验\"和\"diverse sources/多来源\"两个原文要素，与预判一一\n对位，是最完整的同义改写。\nC)\n以偏概全\nP3 段末引文 Many young people assume a great deal of personal responsibility\nfor educating themselves 确实提到\"责任感\"，但这是段末附加的总结，并非 Knight\n调查\"发现\"的核心动作；题干问的是\"调查发现年轻人怎么做\"，C 把附加补充当作核心\n发现。\nD)\n偷换概念\ndistributed trust 是研究者起的方法名（年轻人\"如何\"验证新闻的机制），不是年轻人\n之间\"讨论的话题\"。D 把方法名误读成讨论主题。\nBarna调查发现假新闻问题的一个主要原因是____\nA) 读者过时的价值观\nB) 记者有偏见的报道\nC) 读者的误读\nD) 记者编造的故事"
+    },
+    {
+     "no": 29,
+     "stem": "The Barna survey found that a main cause for the fake news problem is____",
+     "options": {
+      "A": "readers' outdated values.",
+      "B": "journalists' biased reporting.",
+      "C": "readers' misinterpretation.",
+      "D": "journalists' made-up stories."
+     },
+     "answer": "C",
+     "type": "（细节题）",
+     "analysis": "【判型】题干 The Barna survey found that a main cause for the fake news problem is____ 是对\n该调查发现的归因结论的事实提取。\n【拆句】主干 a main cause...is____，is 后接表语，需填\"原因\"性质的名词短语。无陷阱。\n【定位】A survey by Barna research group found the top reason given by Americans for the fake news\nphenomenon is \"reader error,\" more so than made-up stories or factual mistakes in reporting.\nAbout a third say the problem of fake news lies in \"misinterpretation or exaggeration of\nactual news\" via social media.\nBarna 调查机构的一项调查发现，美国人为\"假新闻现象\"列出的首要原因是\"读者错误\"，其\n权重高于编造的新闻和报道中的事实错误。约三分之一的人认为，假新闻的问题在于通过社\n交媒体对真实新闻进行\"误读或夸大\"。\n29. The Barna survey found that a main cause for the fake news problem is____\n[ A ] readers' outdated values.\n[ B ] journalists' biased reporting.\n[ C ] readers' misinterpretation.\n[ D ] journalists' made-up stories.\n\n【选项】A)\n无中生有\n原文从未提及\"读者价值观过时\"；reader error 指的是\"误读/夸大\"行为，不是价值观\n问题。\nB)\n与原文相反\n原文明说 reader error 的权重 more so than made-up stories or factual mistakes in\nreporting——即\"超过\"了记者层面的错误；B 把次要因素当主要原因，方向反了。\nC)\n✓ 正确\nthe top reason given by Americans for the fake news phenomenon is \"reader error,\" ↔\nreaders' misinterpretation\nmisinterpretation or exaggeration of actual news ↔readers' misinterpretation\n在 reader error 的所有可能改写中，C 用原词 misinterpretation 与所有格 readers' 复\n合，最贴近原文表述；与预判完全对位。\nD)\n与原文相反\n原文中 made-up stories（编造的新闻）正是 top reason 用 more so than 否定掉\n的\"次要因素\"；D 把它当成主要原因，与原文比较关系正相反。\n以下哪项是本文的最佳标题?\nA) 在线分享新闻的批判性技能的提升\nB) 对过度发推特趋势的反制\nC) 社交媒体上相互信任的积累\nD) 个人兴趣投射的平台"
+    },
+    {
+     "no": 30,
+     "stem": "Which of the following would be the best title for the text?",
+     "options": {
+      "A": "A Rise in Critical Skills for Sharing News Online.",
+      "B": "A Counteraction Against the Over-tweeting Trend.",
+      "C": "The Accumulation of Mutual Trust on Social Media.",
+      "D": "The Platforms for Projection of Personal Interests."
+     },
+     "answer": "A",
+     "type": "（主旨题）",
+     "analysis": "【判型】题干 best title for the text 求覆盖全文的概括性标题，本质是问主旨。\n【拆句】Which of the following would be the best title for the text?，which 引导的特殊疑问\n句，would be 虚拟语气表\"最适合\"，无陷阱。\n30. Which of the following would be the best title for the text?\n[ A ] A Rise in Critical Skills for Sharing News Online.\n[ B ] A Counteraction Against the Over-tweeting Trend.\n[ C ] The Accumulation of Mutual Trust on Social Media.\n[ D ] The Platforms for Projection of Personal Interests.\n\n【选项】A)\n✓ 正确\nthey reveal a mental discipline in thinking skills – and in their choices on when to share on\nsocial media\n↔A Rise in Critical Skills for Sharing News Online\nbeef up their media literacy skills ↔A Rise in Critical Skills for Sharing News Online\n选项 A 把全文两大主题（批判性技能 + 在线分享）合在一个标题里，与末段并列结构一\n一对位，是唯一不以偏概全的概括。\nB)\n以偏概全\nA Counteraction Against the Over-tweeting Trend 只对位 P1 总统过度发推这一引\n子；全文重心是年轻人的\"分辨/分享\"心智，不是反对发推。\nC)\n与原文相反\nThe Accumulation of Mutual Trust on Social Media 暗示\"信任在累积\"；全文恰恰说\ndistrust has risen toward all media 与 44 percent of Facebook users rarely or\nnever trust news——是不信任在上升，不是信任在累积。\nD)\n以偏概全\nThe Platforms for Projection of Personal Interests 只对位 P5 中 re-share news as a\nprojection of their values and interests 的局部表述，且把它从论据扭曲为主旨；全文\n主题不是\"平台供个人投射利益\"，而是\"年轻人的批判性/责任\"。\nS E N T E N C E I N S I G H T S · 句子精讲\n9 句真题句逐层精讲\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nA new survey by Harvard University finds more than two-thirds of young\nAmericans disapprove of President Trump's use of Twitter.\n第1段，第1句\n\"主句 + 省略 that 的宾语从句\" 是四六级和考研阅读中的高频句式，尤其在新闻报道和学术陈述中\n常见（如 \"研究发现/调查显示 + 宾语从句\"）。掌握此结构后可迁移到大量类似句子，具有较强的\n典型性和实用性。\n\nMost Americans rely on social media to check daily headlines.\n第2段，第1句\n\"主语 + 不及物动词 + 介词短语 + 不定式目的状语\" 是常见句式，在考试中有一定代表性，但过于\n简单，不如复合句或长难句典型，学习迁移价值中等。\nYet as distrust has risen toward all media, people may be starting to beef up their\nmedia literacy skills.\n第2段，第2句\n本句结构为 状语从句加主句 的复合句,是四六级和考研阅读中的常见句式。句首状语从句用 as 引\n导,主句包含情态动词和进行体,这种时间或原因背景加推测结论的组合在真题中频繁出现,掌握后可\n迁移到大量类似句子。\nDuring the 2016 presidential campaign, nearly a quarter of web content shared by\nTwitter users in the politically critical state of Michigan was fake news, according\nto the University of Oxford.\n第2段，第4句\n本句体现了真题中的典型句式：主系表结构 + 带复杂定语的名词短语 + 过去分词作后置定语 + 状\n语补充。这种\"陈述统计结论 + 定语限定范围\"的结构在学术类和新闻类阅读材料中极为常见。掌握\n本句的分析方法，可以直接迁移到大量类似句型，如带定语从句或分词短语修饰主语的陈述句、统\n计数据的报道句式等。结构代表性强，复用价值高。\nYoung people who are digital natives are indeed becoming more skillful at\nseparating fact from fiction in cyberspace.\n第3段，第1句\n\"主语 + 限制性定语从句 + 系动词谓语 + 形容词比较级表语\" 是四六级和考研阅读中高频出现的句\n式。定语从句修饰主语、系动词表达状态变化、比较级表达程度提升，这些都是典型考点，掌握后\n可应用于大量同类句子。\n\nSocial media allows users to experience news events more intimately and\nimmediately while also permitting them to re-share news as a projection of their\nvalues and interests.\n第5段，第1句\n\"主句 + while 状语从句\" 是四六级和考研阅读中的高频句式，用于表达同时进行的两个动作或对比\n关系。\"allow/permit + 宾语 + to do\" 结构也是常考语法点。本句结构具有较强的代表性，掌握后\n可在大量类似句子中复用识别方法。\nThis forces users to be more conscious of their role in passing along information.\n第5段，第2句\nforce sb to do sth（强迫某人做某事）结构在四六级和考研阅读中高频出现，宾语补足语由不定式\n充当的句式极具代表性，学生掌握后可迁移到make/enable/allow等同类动词，典型性较高。\nIn other words, the choice to share news on social media may be the heart of the\nissue.\n第5段，第5句\n主系表结构配合情态动词表推测、不定式作后置定语修饰抽象名词(choice/ability/decision 等)、插\n入语作全句状语,这些都是四六级和考研阅读中的高频句式,掌握后可迁移至大量类似句子。\nSo when young people are critical of an over-tweeting president, they reveal a\nmental discipline in thinking skills – and in their choices on when to share on\nsocial media.\n第6段，第1句\n本句覆盖了时间状语从句、主句主谓宾、系表结构、并列介词短语、宾语从句等多种成分,且宾语\n中的 \"when to share on social media\" 嵌套在介词短语内,是一个值得练习的易错点。成分种类丰富,\n适合作为划分练习句。\nH I G H - F R E Q U E N C Y · 真题高频词\n本篇出现的 66 个考研英语一真题高频词\n下列单词既在本篇真题中出现，又是 考研英语一 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n词的释义、音标、词形与真题例句。\n\nmedia\nB1\nn. 大众传播媒介（报刊、电视、广播、互联…\n本篇9 次 · 真题 41 句\nuser\nA2\nn. 使用者\n本篇4 次 · 真题 52 句\nsource\nB1\nn. 来源\n本篇4 次 · 真题 36 句\nmedium\nB1\nadj. 中等的\n本篇4 次 · 真题 35 句\nfake\nB1\nadj. 假的\n本篇4 次 · 真题 17 句\naccord\nC1\nn. （国家、团体间的）协议\n本篇3 次 · 真题 172 句\nreader\nA2\nn. 读者\n本篇3 次 · 真题 37 句\nresponsibility\nB1\nn. 责任\n本篇3 次 · 真题 32 句\ncritical\nB2\nadj. 批评的\n本篇3 次 · 真题 26 句\nplatform\nB1\nn. 平台\n本篇3 次 · 真题 12 句\ntrend\nB1\nn. 趋势\n本篇2 次 · 真题 40 句\nconduct\nB2\nv. 组织并实施\n本篇2 次 · 真题 31 句\njournalist\nB1\nn. 记者，新闻工作者\n本篇2 次 · 真题 25 句\nfoundation\nB2\nn. 基础;根基\n本篇2 次 · 真题 9 句\nwould\nA1\naux. （will 的过去式）将要，会\n本篇1 次 · 真题 304 句\nfollowing\nB1\nadj. 接下来的\n本篇1 次 · 真题 91 句\n\nview\nA2\nn. 观点，看法\n本篇1 次 · 真题 91 句\nissue\nB1\nn. 问题\n本篇1 次 · 真题 89 句\neffect\nA2\nn. 影响\n本篇1 次 · 真题 80 句\ndigital\nB1\nadj. 数字的\n本篇1 次 · 真题 72 句\ntend\nB1\nv. 倾向于，往往会\n本篇1 次 · 真题 71 句\nonline\nA2\nadj. 在线的\n本篇1 次 · 真题 63 句\npolitical\nB1\nadj. 政治的\n本篇1 次 · 真题 54 句\nunited\nB1\nadj. 联合的\n本篇1 次 · 真题 52 句\ndefine\nB1\nv. 给……下定义\n本篇1 次 · 真题 46 句\nopinion\nA2\nn. 观点\n本篇1 次 · 真题 44 句\nstates\nA1\nn. 国家\n本篇1 次 · 真题 42 句\nseek\nB1\nv. 寻找\n本篇1 次 · 真题 40 句\nmental\nB1\nadj. 精神的\n本篇1 次 · 真题 37 句\nevent\nA2\nn. 事件\n本篇1 次 · 真题 36 句\nreveal\nB2\nv. 揭示\n本篇1 次 · 真题 35 句\nthinking\nA2\nn. 思考\n本篇1 次 · 真题 33 句\n\ncontent\nB1\nn. 内容\n本篇1 次 · 真题 31 句\nrely\nB1\nv. 依赖;依靠\n本篇1 次 · 真题 30 句\ngiant\nB1\nadj. 巨大的\n本篇1 次 · 真题 28 句\nweb\nA2\nn. 网站\n本篇1 次 · 真题 27 句\nconclude\nB2\nv. 断定;推断出\n本篇1 次 · 真题 24 句\nindeed\nB1\nadv. 确实，的确（强调肯定）\n本篇1 次 · 真题 24 句\nassume\nB2\nv. 假定\n本篇1 次 · 真题 23 句\nindicate\nB2\nv. 表明\n本篇1 次 · 真题 23 句\ncampaign\nB2\nn. 运动\n本篇1 次 · 真题 20 句\nchief\nB1\nn. 首领\n本篇1 次 · 真题 20 句\nhandle\nA2\nv. 处理\n本篇1 次 · 真题 19 句\nphenomenon\nB2\nn. 现象\n本篇1 次 · 真题 19 句\nphrase\nB1\nn. 短语\n本篇1 次 · 真题 17 句\nadministration\nB2\nn. 管理\n本篇1 次 · 真题 16 句\neditor\nB1\nn. 编辑\n本篇1 次 · 真题 16 句\nnative\nB1\nadj. 本国的\n本篇1 次 · 真题 16 句\n\nexchange\nB1\nn. 交换\n本篇1 次 · 真题 15 句\nliteracy\nB2\nn. 读写能力\n本篇1 次 · 真题 15 句\nperspective\nB2\nn. 观点\n本篇1 次 · 真题 15 句\nbias\nB2\nn. 偏见\n本篇1 次 · 真题 14 句\nconscious\nB2\nadj. 意识到的\n本篇1 次 · 真题 14 句\nbiased\nB2\nadj. 有偏见的\n本篇1 次 · 真题 13 句\nimplication\nC1\nn. 可能的影响或结果\n本篇1 次 · 真题 13 句\noppose\nB2\nv. 反对\n本篇1 次 · 真题 13 句\npreference\nB2\nn. 偏爱\n本篇1 次 · 真题 13 句\ndiscipline\nB2\nn. 纪律\n本篇1 次 · 真题 12 句\nfiction\nB2\nn. 小说\n本篇1 次 · 真题 11 句\nengagement\nB2\nn. 约定\n本篇1 次 · 真题 10 句\nerror\nA2\nn. 错误\n本篇1 次 · 真题 10 句\noutdated\nB2\nadj. 过时的\n本篇1 次 · 真题 10 句\nreliable\nB1\nadj. 可靠的\n本篇1 次 · 真题 10 句\nreliance\nB2\nn. 依赖\n本篇1 次 · 真题 9 句\n\ndistribute\nB2\nv. 分发\n本篇1 次 · 真题 8 句\nrarely\nB1\nadv. 很少，难得，不常\n本篇1 次 · 真题 8 句\nV O C A B U L A R Y · 词汇难度分布\n全文 200 词按 CEFR 难度累积覆盖\n全文去重后共 200 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」的累积\n占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 13 个 · 约 7%。\n33%\nA1\n及以下\n56%\nA2\n及以下\n79%\nB1\n及以下\n94%\nB2\n及以下\n100%\nC1\n及以下\n100%\nC2\n及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 200 个 · 末柱为 100%\n去重总词数\n200\nB2 以上难词\n7%\nB1 及以下覆盖\n79%\n\n考研英语一\n2018年 · 全卷构成\n题目解析 →\n题目解析 →\n本题\n题目解析 →\n题目解析 →\n段落排序\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →"
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "paras": [
+    {
+     "en": "Any fair-minded assessment of the dangers of the deal between Britain's National Health Service (NHS) and DeepMind must start by acknowledging that both sides mean well. DeepMind is one of the leading artificial intelligence (AI) companies in the world. The potential of this work applied to healthcare is very great, but it could also lead to further concentration of power in the tech giants. It is against that background that the information commissioner, Elizabeth Denham, has issued her damning verdict against the Royal Free hospital trust under the NHS, which handed over to DeepMind the records of 1.6 million patients in 2015 on the basis of a vague agreement which took far too little account of the patients' rights and their expectations of privacy.",
+     "zh": "任何对英国国家医疗服务体系(NHS)与DeepMind之间交易所带来危险的公正评估,都必须首先承认双方的 出发点是好的。DeepMind是世界领先的人工智能(AI)公司之一。这项工作应用于医疗保健的潜力非常巨 大,但它也可能导致权力进一步集中在科技巨头手中。正是在这样的背景下,信息专员Elizabeth Denham对 NHS下属的Royal Free医院信托发出了严厉的裁决,该信托在2015年基于一项含糊的协议将160万患者的 记录移交给了DeepMind,而该协议对患者的权利和他们对隐私的期望考虑得太少。",
+     "no": 1,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "Any fair-minded assessment of the dangers of the deal between Britain's National Health Service (NHS) and DeepMind must start by acknowledging that both sides mean well.",
+       "zh": "任何对英国国家医疗服务体系(NHS)与DeepMind之间交易所带来危险的公正评估,都必须首先承认双方的 出发点是好的。",
+       "main": "Any fair- minded assessment of the dangers of the deal between Britain's National Health Service (NHS) and DeepMind must start by acknowledging",
+       "chunks": [
+        {
+         "t": "Any fair-",
+         "r": "主语"
+        },
+        {
+         "t": "minded assessment of the dangers of the deal between Britain's National Health Service (NHS) and DeepMind must start by acknowledging",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that both sides mean well.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "DeepMind is one of the leading artificial intelligence (AI) companies in the world.",
+       "zh": "DeepMind是世界领先的人工智能(AI)公司之一。",
+       "main": "DeepMind is one of the leading artificial intelligence (AI) companies in the world.",
+       "chunks": [
+        {
+         "t": "DeepMind",
+         "r": "主语"
+        },
+        {
+         "t": "is one of the leading artificial intelligence (AI) companies in the world.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "The potential of this work applied to healthcare is very great, but it could also lead to further concentration of power in the tech giants.",
+       "zh": "这项工作应用于医疗保健的潜力非常巨 大,但它也可能导致权力进一步集中在科技巨头手中。",
+       "main": "The potential of this work",
+       "chunks": [
+        {
+         "t": "The potential of this work",
+         "r": "主语"
+        },
+        {
+         "t": "applied to healthcare is very great",
+         "r": "分词短语（插入语/定语）"
+        },
+        {
+         "t": "but it could also lead to further concentration of power in the tech giants.",
+         "r": "状语从句"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "It is against that background that the information commissioner, Elizabeth Denham, has issued her damning verdict against the Royal Free hospital trust under the NHS, which handed over to DeepMind the records of 1.6 million patients in 2015 on the basis of a vague agreement which took far too little account of the patients' rights and their expectations of privacy.",
+       "zh": "正是在这样的背景下,信息专员Elizabeth Denham对 NHS下属的Royal Free医院信托发出了严厉的裁决,该信托在2015年基于一项含糊的协议将160万患者的 记录移交给了DeepMind,而该协议对患者的权利和他们对隐私的期望考虑得太少。",
+       "main": "It is against",
+       "chunks": [
+        {
+         "t": "It",
+         "r": "主语"
+        },
+        {
+         "t": "is against",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that background",
+         "r": "定语从句"
+        },
+        {
+         "t": "that the information commissioner",
+         "r": "定语从句"
+        },
+        {
+         "t": "Elizabeth Denham",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "has issued her damning verdict against the Royal Free hospital trust under the NHS",
+         "r": "并列谓语"
+        },
+        {
+         "t": "which handed over to DeepMind the records of 1.6 million patients in 2015 on the basis of a vague agreement",
+         "r": "定语从句"
+        },
+        {
+         "t": "which took far too little account of the patients' rights and their expectations of privacy.",
+         "r": "定语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "DeepMind has almost apologized. The NHS trust has mended its ways. Further arrangements – and there may be many – between the NHS and DeepMind will be carefully scrutinised to ensure that all necessary permissions have been asked of patients and all unnecessary data has been cleaned. There are lessons about informed patient consent to learn. But privacy is not the only angle in this case and not even the most important. Ms Denham chose to concentrate the blame on the NHS trust, since under Text 3  existing law it \"controlled\" the data and DeepMind merely \"processed\" it. But this distinction misses the point that it is processing and aggregation, not the mere possession of bits, that gives the data value.",
+     "zh": "DeepMind几乎已经道歉。NHS信托已经改正了做法。未来NHS与DeepMind之间的安排——可能会有 很多——将受到仔细审查,以确保已向患者征求所有必要的许可,并且所有不必要的数据已被清除。关于患 者知情同意方面有一些教训需要汲取。但隐私并不是本案中唯一的角度,甚至不是最重要的角度。Denham 女士选择将责任集中在NHS信托身上,因为根据现行法律,它\"控制\"着数据,而DeepMind仅仅是\"处理\"数 据。但这种区分忽略了一个要点,即赋予数据价值的是处理和汇总,而不是仅仅拥有数据片段。",
+     "no": 2,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "DeepMind has almost apologized.",
+       "zh": "DeepMind几乎已经道歉。",
+       "main": "DeepMind has almost apologized.",
+       "chunks": [
+        {
+         "t": "DeepMind",
+         "r": "主语"
+        },
+        {
+         "t": "has almost apologized.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "The NHS trust has mended its ways.",
+       "zh": "NHS信托已经改正了做法。",
+       "main": "The NHS trust has mended its ways.",
+       "chunks": [
+        {
+         "t": "The NHS trust",
+         "r": "主语"
+        },
+        {
+         "t": "has mended its ways.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "Further arrangements – and there may be many – between the NHS and DeepMind will be carefully scrutinised to ensure that all necessary permissions have been asked of patients and all unnecessary data has been cleaned.",
+       "zh": "未来NHS与DeepMind之间的安排——可能会有 很多——将受到仔细审查,以确保已向患者征求所有必要的许可,并且所有不必要的数据已被清除。",
+       "main": "Further arrangements",
+       "chunks": [
+        {
+         "t": "Further",
+         "r": "主语"
+        },
+        {
+         "t": "arrangements",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "and there may be many",
+         "r": "状语从句"
+        },
+        {
+         "t": "between the NHS and DeepMind will be carefully scrutinised to ensure",
+         "r": "介词短语（状语/定语）"
+        },
+        {
+         "t": "that all necessary permissions have been asked of patients and all unnecessary data has been cleaned.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "There are lessons about informed patient consent to learn.",
+       "zh": "关于患 者知情同意方面有一些教训需要汲取。",
+       "main": "There are lessons about informed patient consent to learn.",
+       "chunks": [
+        {
+         "t": "There",
+         "r": "主语"
+        },
+        {
+         "t": "are lessons about informed patient consent to learn.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 5,
+       "en": "But privacy is not the only angle in this case and not even the most important.",
+       "zh": "但隐私并不是本案中唯一的角度,甚至不是最重要的角度。",
+       "main": "But privacy is not the only angle in this case and not even the most important.",
+       "chunks": [
+        {
+         "t": "But privacy is not the only angle in this case and not even the most important.",
+         "r": "状语从句"
+        }
+       ]
+      },
+      {
+       "i": 6,
+       "en": "Ms Denham chose to concentrate the blame on the NHS trust, since under Text 3  existing law it \"controlled\" the data and DeepMind merely \"processed\" it.",
+       "zh": "Denham 女士选择将责任集中在NHS信托身上,因为根据现行法律,它\"控制\"着数据,而DeepMind仅仅是\"处理\"数 据。",
+       "main": "Ms Denham chose to concentrate the blame on the NHS trust",
+       "chunks": [
+        {
+         "t": "Ms Denham chose to concentrate the blame on the NHS trust",
+         "r": "主语"
+        },
+        {
+         "t": "since under Text 3  existing law it \"controlled\" the data and DeepMind merely \"processed\" it.",
+         "r": "状语从句"
+        }
+       ]
+      },
+      {
+       "i": 7,
+       "en": "But this distinction misses the point that it is processing and aggregation, not the mere possession of bits, that gives the data value.",
+       "zh": "但这种区分忽略了一个要点,即赋予数据价值的是处理和汇总,而不是仅仅拥有数据片段。",
+       "main": "not the mere possession of bits",
+       "chunks": [
+        {
+         "t": "But this distinction misses the point",
+         "r": "状语从句"
+        },
+        {
+         "t": "that it is processing and aggregation",
+         "r": "定语从句"
+        },
+        {
+         "t": "not the mere possession of",
+         "r": "主语"
+        },
+        {
+         "t": "bits",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that gives the data value.",
+         "r": "定语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "The great question is who should benefit from the analysis of all the data that our lives now generate. Privacy law builds on the concept of damage to an individual from identifiable knowledge about them. That misses the way the surveillance economy works. The data of an individual there gains its value only when it is compared with the data of countless millions more.",
+     "zh": "重大问题是谁应该从我们生活现在产生的所有数据的分析中受益。隐私法建立在可识别的个人信息对个人 造成损害这一概念之上。这忽视了监控经济的运作方式。个人数据只有在与无数百万人的数据进行比较时 才能获得其价值。",
+     "no": 3,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "The great question is who should benefit from the analysis of all the data that our lives now generate.",
+       "zh": "重大问题是谁应该从我们生活现在产生的所有数据的分析中受益。",
+       "main": "The great question is",
+       "chunks": [
+        {
+         "t": "The great question",
+         "r": "主语"
+        },
+        {
+         "t": "is",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "who should benefit from the analysis of all the data",
+         "r": "定语从句"
+        },
+        {
+         "t": "that our lives now generate.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "Privacy law builds on the concept of damage to an individual from identifiable knowledge about them.",
+       "zh": "隐私法建立在可识别的个人信息对个人 造成损害这一概念之上。",
+       "main": "Privacy law builds on the concept of damage to an individual from identifiable knowledge about them.",
+       "chunks": [
+        {
+         "t": "Privacy law builds on the concept of damage to an individual from identifiable knowledge about them.",
+         "r": "主语"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "That misses the way the surveillance economy works.",
+       "zh": "这忽视了监控经济的运作方式。",
+       "main": "That misses the way the surveillance economy works.",
+       "chunks": [
+        {
+         "t": "That misses the way the surveillance economy works.",
+         "r": "主语"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "The data of an individual there gains its value only when it is compared with the data of countless millions more.",
+       "zh": "个人数据只有在与无数百万人的数据进行比较时 才能获得其价值。",
+       "main": "The data of an individual there gains its value only",
+       "chunks": [
+        {
+         "t": "The data of an individual there",
+         "r": "主语"
+        },
+        {
+         "t": "gains its value only",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "when it is compared with the data of countless millions more.",
+         "r": "定语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "The use of privacy law to curb the tech giants in this instance feels slightly maladapted. This practice does not address the real worry. It is not enough to say that the algorithms DeepMind develops will benefit patients and save lives. What matters is that they will belong to a private monopoly which developed them using public resources. If software promises to save lives on the scale that drugs now can, big data may be expected to behave as a big pharma has done. We are still at the beginning of this revolution and small choices now may turn out to have gigantic consequences later. A long struggle will be needed to avoid a future of digital feudalism. Ms Denham's report is a welcome start.",
+     "zh": "在这个案例中使用隐私法来遏制科技巨头感觉有些不太适应。这种做法并未解决真正的担忧。仅仅说 DeepMind开发的算法将使患者受益并挽救生命是不够的。重要的是,这些算法将属于一家使用公共资源开 发它们的私人垄断企业。如果软件承诺能够像现在的药物一样大规模挽救生命,那么可以预期大数据会像大 型制药公司那样行事。我们仍处于这场革命的开端,现在的小选择以后可能会产生巨大的后果。要避免数字 封建主义的未来,需要进行长期的斗争。Denham女士的报告是一个值得欢迎的开端。 题目与逐题解析 关于NHS与DeepMind之间的协议,以下哪项是正确的? A) 它在科技巨头之间引发了冲突。 B) 它未能对患者权利给予应有的关注。 C) 它未能达到后者的期望。 D) 它使双方都陷入危险境地。 【答案】B （细节题）",
+     "no": 4,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "The use of privacy law to curb the tech giants in this instance feels slightly maladapted.",
+       "zh": "在这个案例中使用隐私法来遏制科技巨头感觉有些不太适应。 这种做法并未解决真正的担忧。",
+       "main": "The use of privacy law to curb the tech giants in this instance feels slightly maladapted.",
+       "chunks": [
+        {
+         "t": "The use of privacy law to curb the tech giants in this instance",
+         "r": "主语"
+        },
+        {
+         "t": "feels slightly maladapted.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "This practice does not address the real worry. It is not enough to say that the algorithms DeepMind develops will benefit patients and save lives.",
+       "zh": "仅仅说 DeepMind开发的算法将使患者受益并挽救生命是不够的。 重要的是,这些算法将属于一家使用公共资源开 发它们的私人垄断企业。",
+       "main": "This practice does not address the real worry. It is not enough to say",
+       "chunks": [
+        {
+         "t": "This practice",
+         "r": "主语"
+        },
+        {
+         "t": "does not address the real worry. It is not enough to say",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that the algorithms DeepMind develops will benefit patients and save lives.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "What matters is that they will belong to a private monopoly which developed them using public resources.",
+       "zh": "如果软件承诺能够像现在的药物一样大规模挽救生命,那么可以预期大数据会像大 型制药公司那样行事。 我们仍处于这场革命的开端,现在的小选择以后可能会产生巨大的后果。",
+       "main": "What matters is",
+       "chunks": [
+        {
+         "t": "What",
+         "r": "主语"
+        },
+        {
+         "t": "matters is",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that they will belong to a private monopoly",
+         "r": "定语从句"
+        },
+        {
+         "t": "which developed them using public resources.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "If software promises to save lives on the scale that drugs now can, big data may be expected to behave as a big pharma has done.",
+       "zh": "要避免数字 封建主义的未来,需要进行长期的斗争。 Denham女士的报告是一个值得欢迎的开端。",
+       "main": "If software promises to save lives on the scale big data may be expected to behave as a big pharma has done.",
+       "chunks": [
+        {
+         "t": "If software promises to save lives on the scale",
+         "r": "主语"
+        },
+        {
+         "t": "that drugs now can",
+         "r": "定语从句"
+        },
+        {
+         "t": "big data may be expected to behave as a big pharma has done.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 5,
+       "en": "We are still at the beginning of this revolution and small choices now may turn out to have gigantic consequences later.",
+       "zh": "题目与逐题解析 关于NHS与DeepMind之间的协议,以下哪项是正确的? A) 它在科技巨头之间引发了冲突。",
+       "main": "We are still at the beginning of this revolution and small choices now may turn out to have gigantic consequences later.",
+       "chunks": [
+        {
+         "t": "We",
+         "r": "主语"
+        },
+        {
+         "t": "are still at the beginning of this revolution and small choices now may turn out to have gigantic consequences later.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 6,
+       "en": "A long struggle will be needed to avoid a future of digital feudalism.",
+       "zh": "B) 它未能对患者权利给予应有的关注。 C) 它未能达到后者的期望。",
+       "main": "A long struggle will be needed to avoid a future of digital feudalism.",
+       "chunks": [
+        {
+         "t": "A long struggle",
+         "r": "主语"
+        },
+        {
+         "t": "will be needed to avoid a future of digital feudalism.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 7,
+       "en": "Ms Denham's report is a welcome start.",
+       "zh": "D) 它使双方都陷入危险境地。 【答案】B （细节题）",
+       "main": "Ms Denham's report is a welcome start.",
+       "chunks": [
+        {
+         "t": "Ms",
+         "r": "主语"
+        },
+        {
+         "t": "Denham's report is a welcome start.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "no": 31,
+     "stem": "What is true of the agreement between the NHS and DeepMind?",
+     "options": {
+      "A": "It caused conflicts among tech giants.",
+      "B": "It failed to pay due attention to patients' rights.",
+      "C": "It fell short of the latter's expectations.",
+      "D": "It put both sides into a dangerous situation."
+     },
+     "answer": "B",
+     "type": "（细节题）",
+     "analysis": "31. What is true of the agreement between the NHS and DeepMind?\n[ A ] It caused conflicts among tech giants.\n[ B ] It failed to pay due attention to patients' rights.\n[ C ] It fell short of the latter's expectations.\n[ D ] It put both sides into a dangerous situation.\n\n【判型】题干 What is true of the agreement between the NHS and DeepMind? 用 \"What is\ntrue of\" 直接问关于某具体对象的客观事实，无 infer/imply/suggest 一类推断词，也不问\n全篇主旨或作者态度。\n【拆句】What is true of the agreement between the NHS and DeepMind? 是一个标准的 wh-\n疑问句，主干为 \"What is true of X\"，of 后面挂一个由两个 of 短语层层修饰的名词短语\n\"the agreement between the NHS and DeepMind\"——the agreement 是中心词，\nbetween... 限定双方主体。结构平铺直叙，无陷阱。\n【定位】It is against that background that the information commissioner, Elizabeth Denham, has\nissued her damning verdict against the Royal Free hospital trust under the NHS, which\nhanded over to DeepMind the records of 1.6 million patients in 2015 on the basis of a vague\nagreement which took far too little account of the patients' rights and their expectations\nof privacy.\n正是在这一背景下，信息专员 Elizabeth Denham 对 NHS 旗下的 Royal Free 医院信托基\n金做出了严厉的裁决——该信托在 2015 年依据一份措辞含糊的协议，把 160 万患者的记\n录交给了 DeepMind，而这份协议远远没有充分顾及患者的权利及其对隐私的期待。\n【选项】A)\n无中生有\nIt caused conflicts among tech giants. 的\"科技巨头间的冲突\"在 P1 完全没有对应：\nP1 仅提到 DeepMind 是 leading artificial intelligence (AI) companies，并担忧\nfurther concentration of power in the tech giants——是\"权力集中\"，不是\"巨头间\n冲突\"。\nB)\n✓ 正确\ntook far too little account of the patients' rights and their expectations of privacy ↔\nfailed to pay due attention to patients' rights\nfailed to pay due attention to patients' rights 与定位句的\"远未顾及患者权利\"在语义\n上完全对应，符合预判，B 即正确项。\nC)\n偷换概念\nIt fell short of the latter's expectations. 中 the latter（后者）按题干语序指\nDeepMind，意思变成\"协议没达到 DeepMind 的期待\"；但 P1 expectations of\nprivacy 的主体是\"the patients\"，不是 DeepMind。\nD)\n偷换概念\nIt put both sides into a dangerous situation. 把协议描绘成让 NHS 与 DeepMind 双\n双陷入危险；P1 只说the dangers of the deal是从公众/患者角度出发要审视的风险，\n并未说协议把 NHS 和 DeepMind 双方推入险地。\n\nNHS信托机构对Denham的裁决作出回应时采取了____\nA) 空洞的承诺。\nB) 强硬的抵制。\nC) 必要的调整。\nD) 真诚的道歉。"
+    },
+    {
+     "no": 32,
+     "stem": "The NHS trust responded to Denham's verdict with____",
+     "options": {
+      "A": "empty promises.",
+      "B": "tough resistance.",
+      "C": "necessary adjustments.",
+      "D": "sincere apologies."
+     },
+     "answer": "C",
+     "type": "（细节题）",
+     "analysis": "【判型】题干 The NHS trust responded to Denham's verdict with____ 是一个待补全陈述句，\n问\"以何种方式回应\"，要的是文中描述的具体动作，非推断、非主旨、非态度。\n【拆句】The NHS trust responded to Denham's verdict with____ 是 SVOO 结构的待补全陈述：\n主语 The NHS trust，谓语 responded to，宾语 Denham's verdict，with____ 引导方式\n状语等待选项延续。结构清晰，无陷阱。\n【定位】DeepMind has almost apologized. The NHS trust has mended its ways.\nDeepMind 已经近乎道歉，NHS 信托基金则已经改正了自己的做法。\n【选项】A)\n与原文相反\nempty promises（空头承诺）暗含\"嘴上说做、实际未做\"的负面评价；但 has mended\nits ways 用现在完成时强调动作已完成，且原文并未指责 NHS trust 言行不一。\nB)\n与原文相反\ntough resistance（强硬抵抗）意味着对裁决不服并对抗；但定位句明说 NHS trust 已\nmended its ways，是接受并整改，方向相反。\nC)\n✓ 正确\nThe NHS trust has mended its ways ↔necessary adjustments\nnecessary adjustments 与 has mended its ways 在动作语义上完全等价，符合预判；\n其余三项均偏离\"已做整改\"的中性事实，C 即正确项。\nD)\n张冠李戴\nsincere apologies（真诚道歉）对应 P2 第一句 DeepMind has almost apologized，\n但道歉的主体是 DeepMind 而非 NHS trust；况且 almost apologized（几乎道歉）也\n与 sincere（真诚的）有偏差。\n作者在第2段中论证____\nA) 隐私保护必须不惜一切代价得到保障。\nB) 泄露患者数据比出售患者数据更糟糕。\n32. The NHS trust responded to Denham's verdict with____\n[ A ] empty promises.\n[ B ] tough resistance.\n[ C ] necessary adjustments.\n[ D ] sincere apologies.\n33. The author argues in Paragraph 2 that____\n[ A ] privacy protection must be secured at all costs.\n[ B ] leaking patients' data is worse than selling it.\n[ C ] making profits from patients' data is illegal.\n[ D ] the value of data comes from the processing of it.\n\nC) 从患者数据中获利是非法的。\nD) 数据的价值来自对数据的处理。"
+    },
+    {
+     "no": 33,
+     "stem": "The author argues in Paragraph 2 that____",
+     "options": {
+      "A": "privacy protection must be secured at all costs.",
+      "B": "leaking patients' data is worse than selling it.",
+      "C": "making profits from patients' data is illegal.",
+      "D": "the value of data comes from the processing of it."
+     },
+     "answer": "D",
+     "type": "（主旨题）",
+     "analysis": "【判型】The author argues in Paragraph 2 that____ 问的是某一段中作者主张的核心论点，不是某\n一处具体细节，需要把第二段整体读完后归纳。\n【拆句】The author argues in Paragraph 2 that____ 主干 The author argues that____，that 引\n导宾语从句的内容由选项补全；in Paragraph 2 是地点状语，限定取证范围。结构平铺直\n叙，无陷阱。\n【定位】But this distinction misses the point that it is processing and aggregation, not the mere\npossession of bits, that gives the data value.\n但这种区分忽略了一个要点：让数据产生价值的是处理与聚合，而不是仅仅占有这些数据。\n【选项】A)\n与原文相反\nprivacy protection must be secured at all costs. 是绝对化命令式断言；P2 却说\nprivacy is not the only angle in this case and not even the most important——作\n者明确淡化隐私的中心性，与 A 项方向相反。\nB)\n无中生有\nleaking patients' data is worse than selling it. 制造一个\"泄露 vs 出售\"的比较；P2 通\n篇没有出现这两种行为的比较，更没有判定孰更糟。\nC)\n过度推断\nmaking profits from patients' data is illegal. 把\"利用患者数据牟利\"判定为违法；P2\n只说数据价值生于处理，并讨论谁该受益，从未做合法/非法的法律判断。\nD)\n✓ 正确\nit is processing and aggregation, not the mere possession of bits, that gives the data value ↔\nthe value of data comes from the processing of it\nthe value of data comes from the processing of it 把作者主张句的核心语义\"价值源\n于处理\"忠实复现，符合预判，其余三项要么超出原文、要么方向不对，D 即正确项。\n根据最后一段,这笔交易引发的真正担忧是____\nA) 大型制药公司之间的恶性竞争。\nB) 隐私法的执行不力。\nC) 新软件的不受控制使用。\nD) 科技巨头对大数据的垄断。"
+    },
+    {
+     "no": 34,
+     "stem": "According to the last paragraph, the real worry arising from this deal is____",
+     "options": {
+      "A": "the vicious rivalry among big pharmas.",
+      "B": "the ineffective enforcement of privacy law.",
+      "C": "the uncontrolled use of new software.",
+      "D": "the monopoly of big data by tech giants."
+     },
+     "answer": "D",
+     "type": "（细节题）",
+     "analysis": "34. According to the last paragraph, the real worry arising from this deal is____\n[ A ] the vicious rivalry among big pharmas.\n[ B ] the ineffective enforcement of privacy law.\n[ C ] the uncontrolled use of new software.\n[ D ] the monopoly of big data by tech giants.\n\n【判型】题干 According to the last paragraph, the real worry arising from this deal is____ 用\nAccording to + 段位 直接问 \"the real worry\" 是什么——属于段内细节抽取，不需跨段\n综合。\n【拆句】According to the last paragraph, the real worry arising from this deal is____ 主干为\nthe real worry is____；arising from this deal 是现在分词短语作 worry 的后置定语，限\n定\"由这桩交易引起\"。结构平铺直叙，无陷阱。\n【定位】This practice does not address the real worry. It is not enough to say that the algorithms\nDeepMind develops will benefit patients and save lives. What matters is that they will belong\nto a private monopoly which developed them using public resources.\n这种做法（仅用隐私法约束）并没有应对真正的担忧。仅仅说 DeepMind 开发的算法将造\n福患者、挽救生命还不够；真正要紧的是，这些算法将归属于一家用公共资源开发它们的私\n人垄断企业。\n【选项】A)\n偷换概念\nthe vicious rivalry among big pharmas. 描述\"大药企之间的恶性竞争\"；P4 提到 big\npharma 仅是用作类比（big data may be expected to behave as a big pharma has\ndone），并未描述大药企间的恶性竞争。\nB)\n偷换概念\nthe ineffective enforcement of privacy law. 谈隐私法执行不力；P4 说The use of\nprivacy law to curb the tech giants in this instance feels slightly maladapted——\n隐私法本身不对症，而非\"执行不力\"；且作者明说这\"不是真担忧\"。\nC)\n偷换概念\nthe uncontrolled use of new software. 把担忧定为新软件被无序使用；P4 并非担心\n软件\"被滥用\"，而是担心算法\"归私人垄断\"，焦点在所有权而非使用秩序。\nD)\n✓ 正确\nthey will belong to a private monopoly which developed them using public resources ↔\nthe monopoly of big data by tech giants\nthe monopoly of big data by tech giants 与 they will belong to a private\nmonopoly which developed them using public resources 在核心语义\"私人垄断算\n法/数据\"上完全等值，符合预判，D 即正确项。\n作者对人工智能在医疗保健领域应用的态度是____\nA) 模棱两可的。\nB) 谨慎的。\nC) 赞赏的。\nD) 轻蔑的。"
+    },
+    {
+     "no": 35,
+     "stem": "The author's attitude toward the application of AI to healthcare is____",
+     "options": {
+      "A": "ambiguous.",
+      "B": "cautious.",
+      "C": "appreciative.",
+      "D": "contemptuous."
+     },
+     "answer": "B",
+     "type": "（态度题）",
+     "analysis": "35. The author's attitude toward the application of AI to healthcare is____\n[ A ] ambiguous.\n[ B ] cautious.\n[ C ] appreciative.\n[ D ] contemptuous.\n\n【判型】The author's attitude toward the application of AI to healthcare is____ 显式问态度\n（attitude），选项也是清一色态度形容词\n（ambiguous/cautious/appreciative/contemptuous），属典型态度题。\n【拆句】The author's attitude toward the application of AI to healthcare is____ 主干 The\nauthor's attitude is____；toward... 是介词短语作 attitude 的后置定语，限定态度指向的\n对象。结构平铺直叙，无陷阱。\n【选项】A)\n与原文相反\nambiguous. 意为\"态度不明、模棱两可\"；但全文从 damning verdict 到 digital\nfeudalism 都给出了明确的警示性立场，并非\"看不出倾向\"。\nB)\n✓ 正确\nAny fair-minded assessment of the dangers of the deal between Britain's National Health Service\n(NHS) and DeepMind must start by acknowledging that both sides mean well.\n↔cautious.\nsmall choices now may turn out to have gigantic consequences later. A long struggle will be\nneeded to avoid a future of digital feudalism.\n↔cautious.\ncautious. 恰好对应\"承认 AI 价值（让步）+ 反复警示风险（转折）\"的极性结构，是四\n个态度形容词中唯一能覆盖全文双面性的选项，符合预判。\nC)\n以偏概全\nappreciative. 意为\"赞赏\"；P1 虽肯定 DeepMind 是 one of the leading artificial\nintelligence (AI) companies in the world，但全文重心在警示风险，最末段更呼吁 A\nlong struggle，态度远非赞赏。\nD)\n与原文相反\ncontemptuous. 意为\"鄙视、不屑\"；作者明说 both sides mean well、Ms Denham's\nreport is a welcome start，从未表达对 AI 应用于医疗的不屑或鄙视。\nS E N T E N C E I N S I G H T S · 句子精讲\n9 句真题句逐层精讲\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\n\nIt is against that background that the information commissioner, Elizabeth\nDenham, has issued her damning verdict against the Royal Free hospital trust\nunder the NHS, which handed over to DeepMind the records of 1.6 million\npatients in 2015 on the basis of a vague agreement which took far too little account\nof the patients' rights and their expectations of privacy.\n第1段，第4句\n强调句 + 非限制性定语从句 + 限制性定语从句的组合是考试真题中的高频句式。强调句用于突出\n信息重点，定语从句用于补充和限定，这种结构在学术文本和新闻报道中极为常见。掌握本句的分\n析方法可以直接迁移到大量类似句型。\nMs Denham chose to concentrate the blame on the NHS trust, since under existing\nlaw it \"controlled\" the data and DeepMind merely \"processed\" it.\n第2段，第6句\nsince 引导的原因状语从句 + 主句是四六级和考研阅读中的高频句式，从句内部的并列结构和法律\n术语引号用法也具有一定代表性，掌握后可迁移到大量类似长句的分析中。\nBut this distinction misses the point that it is processing and aggregation, not the\nmere possession of bits, that gives the data value.\n第2段，第7句\n本句成分丰富且包含多个训练要点：主句涵盖主谓宾和同位语四种核心成分；同位语从句本身又是\n完整的主谓宾结构，且内嵌强调句式（it is ... that ...），需要学生识别强调句框架、剥离出真正的\n主谓宾；此外还涉及并列主语（processing and aggregation）和同位语从句与定语从句的辨析\n（that在从句中不作成分），综合训练价值较高\nThe data of an individual there gains its value only when it is compared with the\ndata of countless millions more.\n第3段，第4句\n\"only when\" 引导条件状语从句是四六级和考研阅读中常见的句式,表达 \"仅当......\" 的条件限定,且从\n句使用被动语态也是高频考点。该结构具有较高的典型性,掌握后可迁移到大量类似句子。\n\nIt is not enough to say that the algorithms DeepMind develops will benefit patients\nand save lives.\n第4段，第3句\n这句结构层级清楚但不算过难，既能训练主干定位，也能训练从句与名词修饰的区分，同时时态难\n度适中，适合作为优先练习材料。\nWhat matters is that they will belong to a private monopoly which developed them\nusing public resources.\n第4段，第4句\n成分划分训练价值高。本句涵盖主语从句、表语从句、定语从句三种从句类型,且从句内部成分丰\n富:主语从句中关系代词 \"What\" 既是连接词又是主语,表语从句中有状语成分 \"to a private\nmonopoly...\",定语从句中有宾语 \"them\" 和方式状语 \"using public resources\"。这些结构适合练习\n从句识别、关系代词双重作用、状语与宾语区分等多个易错点,是优质的成分划分练习句。\nWe are still at the beginning of this revolution and small choices now may turn out\nto have gigantic consequences later.\n第4段，第6句\n并列句是四六级和考研常考句式，且第二个主句的 \"may turn out to\" 结构在议论文中频繁出现，\n具有较强的典型性和迁移价值。掌握后可用于分析类似并列推测句。\nIt failed to pay due attention to patients' rights.\n第31题，B\n本句包含主语、谓语（含不定式宾语）、宾语和介词短语状语，成分种类较为基础但相对完整，适\n合初学者练习识别主干和修饰成分，但缺少从句或复杂修饰结构，训练深度有限。\nIt fell short of the latter's expectations.\n第31题，C\n主谓宾的简单句结构是英语中最常见的基本句型，具有一定代表性；短语动词「fall short of」在四\n六级和考研阅读中也时有出现。但本句过于简洁，缺少从句、复杂修饰等真题常考的复杂结构，因\n此典型性处于中等水平。\nH I G H - F R E Q U E N C Y · 真题高频词\n本篇出现的 74 个考研英语一真题高频词\n\n下列单词既在本篇真题中出现，又是 考研英语一 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n词的释义、音标、词形与真题例句。\ndata\nB1\nn. 数据\n本篇10 次 · 真题 80 句\nprivacy\nB2\nn. 隐私\n本篇6 次 · 真题 30 句\ntech\nB1\nn. 技术\n本篇4 次 · 真题 38 句\ngiant\nB1\nadj. 巨大的\n本篇4 次 · 真题 28 句\nauthor\nA2\nn. 作者\n本篇2 次 · 真题 209 句\nbenefit\nB1\nn. 好处\n本篇2 次 · 真题 88 句\nindividual\nB2\nadj. 单独的\n本篇2 次 · 真题 59 句\nmillion\nA2\nnum. 一百万\n本篇2 次 · 真题 57 句\nfurther\nB1\nadv. 更远地\n本篇2 次 · 真题 34 句\nexpectation\nB2\nn. 期待;预期\n本篇2 次 · 真题 17 句\nsoftware\nB1\nn. 软件（计算机程序）\n本篇2 次 · 真题 14 句\nhealthcare\nB2\nn. 医疗保健\n本篇2 次 · 真题 9 句\nmonopoly\nC1\nn. 垄断\n本篇2 次 · 真题 8 句\naccord\nC1\nn. （国家、团体间的）协议\n本篇1 次 · 真题 172 句\n\npower\nA2\nn. 权力\n本篇1 次 · 真题 90 句\nissue\nB1\nn. 问题\n本篇1 次 · 真题 89 句\nprocess\nB1\nn. 过程\n本篇1 次 · 真题 80 句\ncase\nA2\nn. 情况\n本篇1 次 · 真题 75 句\neconomy\nB1\nn. 经济\n本篇1 次 · 真题 73 句\ndigital\nB1\nadj. 数字的\n本篇1 次 · 真题 72 句\nargue\nB1\nv. 争论\n本篇1 次 · 真题 63 句\nintelligence\nB2\nn. 智力\n本篇1 次 · 真题 48 句\ngain\nB1\nv. 获得;赢得\n本篇1 次 · 真题 43 句\npotential\nB2\nadj. 潜在的\n本篇1 次 · 真题 43 句\naccount\nA2\nn. 账户\n本篇1 次 · 真题 42 句\nprotection\nB1\nn. 保护\n本篇1 次 · 真题 39 句\nlater\nA1\nadv. 以后，later\n本篇1 次 · 真题 38 句\nprofit\nB1\nn. 利润，盈利\n本篇1 次 · 真题 34 句\napply\nA2\nv. 申请\n本篇1 次 · 真题 33 句\nconsequence\nB2\nn. 结果\n本篇1 次 · 真题 33 句\n\nensure\nB2\nv. 确保\n本篇1 次 · 真题 33 句\nrespond\nB1\nv. 回答，答复\n本篇1 次 · 真题 33 句\nstruggle\nB1\nv. 奋斗\n本篇1 次 · 真题 32 句\ndue\nB1\nadj. 预期的\n本篇1 次 · 真题 31 句\nconcept\nB2\nn. 概念\n本篇1 次 · 真题 29 句\nexist\nA2\nv. 存在;实际上有\n本篇1 次 · 真题 28 句\nanalysis\nB2\nn. 分析\n本篇1 次 · 真题 24 句\nresource\nB1\nn. 资源\n本篇1 次 · 真题 24 句\nbasis\nB2\nn. 基础;根据\n本篇1 次 · 真题 23 句\ngenerate\nB2\nv. 产生，引起（结果、反应等）\n本篇1 次 · 真题 23 句\napplication\nB1\nn. 申请\n本篇1 次 · 真题 22 句\nartificial\nB2\nadj. 人造的\n本篇1 次 · 真题 21 句\ndamage\nB1\nn. 损害\n本篇1 次 · 真题 20 句\nscale\nB1\nn. 规模\n本篇1 次 · 真题 20 句\ntough\nB1\nadj. 困难的\n本篇1 次 · 真题 20 句\nconflict\nB2\nn. 冲突\n本篇1 次 · 真题 19 句\n\ndatum\nC1\nn. 数据（单数形式，复数为 data）\n本篇1 次 · 真题 19 句\nsecure\nB2\nadj. 安全的\n本篇1 次 · 真题 19 句\nillegal\nB1\nadj. 非法的，违法的\n本篇1 次 · 真题 18 句\nblame\nB1\nv. 责备\n本篇1 次 · 真题 17 句\ninstance\nB2\nn. 例子\n本篇1 次 · 真题 17 句\nroyal\nB1\nadj. 王室的\n本篇1 次 · 真题 17 句\nenforcement\nC1\nn. （法律、规则的）执行，实施\n本篇1 次 · 真题 15 句\nrevolution\nB2\nn. 革命\n本篇1 次 · 真题 15 句\nacknowledge\nB2\nv. 承认（事实、错误等）\n本篇1 次 · 真题 14 句\narise\nB2\nv. 出现;产生;发生\n本篇1 次 · 真题 14 句\ncurb\nB2\nv. 抑制\n本篇1 次 · 真题 12 句\nleading\nB1\nadj. 最重要的\n本篇1 次 · 真题 12 句\npermission\nB1\nn. 许可\n本篇1 次 · 真题 12 句\nbeginning\nA1\nn. 开始\n本篇1 次 · 真题 11 句\nmerely\nB2\nadv. 仅仅，只不过\n本篇1 次 · 真题 11 句\ncautious\nB2\nadj. 小心的\n本篇1 次 · 真题 10 句\n\nconcentrate\nB1\nv. 集中注意力\n本篇1 次 · 真题 10 句\nbelong\nA2\nv. 属于（某人）\n本篇1 次 · 真题 9 句\ncarefully\nA2\nadv. 仔细地\n本篇1 次 · 真题 9 句\nconcentration\nB2\nn. 专注\n本篇1 次 · 真题 9 句\ndistinction\nB2\nn. 区别\n本篇1 次 · 真题 9 句\nmere\nB2\nadj. 仅仅的\n本篇1 次 · 真题 9 句\nalgorithm\nC1\nn. 算法\n本篇1 次 · 真题 8 句\narrangement\nB1\nn. 安排\n本篇1 次 · 真题 8 句\nassessment\nB2\nn. 评估\n本篇1 次 · 真题 8 句\nlatter\nB2\ndet. 后者的\n本篇1 次 · 真题 8 句\nresistance\nB2\nn. 抵抗\n本篇1 次 · 真题 8 句\nunnecessary\nB1\nadj. 不必要的;多余的\n本篇1 次 · 真题 8 句\nV O C A B U L A R Y · 词汇难度分布\n全文 230 词按 CEFR 难度累积覆盖\n全文去重后共 230 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」的累积\n占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 18 个 · 约 8%。\n\n37%\nA1\n及以下\n58%\nA2\n及以下\n82%\nB1\n及以下\n92%\nB2\n及以下\n100%\nC1\n及以下\n100%\nC2\n及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 230 个 · 末柱为 100%\n去重总词数\n230\nB2 以上难词\n8%\nB1 及以下覆盖\n82%\n考研英语一\n2018年 · 全卷构成\n题目解析 →\n题目解析 →\n题目解析 →\n本题\n题目解析 →\n段落排序\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →"
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "paras": [
+    {
+     "en": "The U.S. Postal Service (USPS) continues to bleed red ink. It reported a net loss of $5.6 billion for fiscal 2016, the 10th straight year its expenses have exceeded revenue. Meanwhile, it has more than $120 billion in unfunded liabilities, mostly for employee health and retirement costs. There are many reasons this formerly stable federal institution finds itself at the brink of bankruptcy. Fundamentally, the USPS is in a historic squeeze between technological change that has permanently decreased demand for its bread-and-butter product, first-class mail, and a regulatory structure that denies management the flexibility to adjust its operations to the new reality.",
+     "zh": "美国邮政服务(USPS)继续出现严重亏损。它报告2016财年净亏损56亿美元,这是其支出连续第10年超过收 入。与此同时,它有超过1200亿美元的无资金准备负债,主要用于员工医疗和退休费用。这个曾经稳定的 联邦机构发现自己处于破产边缘有很多原因。从根本上说,USPS正处于一个历史性的困境之中:技术变革 永久性地降低了对其核心产品——一类邮件的需求,而监管结构又使管理层无法灵活调整其业务以适应新 现实。",
+     "no": 1,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "The U.S. Postal Service (USPS) continues to bleed red ink.",
+       "zh": "美国邮政服务(USPS)继续出现严重亏损。",
+       "main": "The U.S. Postal Service ( USPS) continues to bleed red ink.",
+       "chunks": [
+        {
+         "t": "The U.S. Postal Service (",
+         "r": "主语"
+        },
+        {
+         "t": "USPS) continues to bleed red ink.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "It reported a net loss of $5.6 billion for fiscal 2016, the 10th straight year its expenses have exceeded revenue.",
+       "zh": "它报告2016财年净亏损56亿美元,这是其支出连续第10年超过收 入。",
+       "main": "It reported a net loss of $5.6 billion for fiscal 2016",
+       "chunks": [
+        {
+         "t": "It",
+         "r": "主语"
+        },
+        {
+         "t": "reported a net loss of $5.6 billion for fiscal 2016",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "the 10th straight year its expenses have exceeded revenue.",
+         "r": "并列谓语"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "Meanwhile, it has more than $120 billion in unfunded liabilities, mostly for employee health and retirement costs.",
+       "zh": "与此同时,它有超过1200亿美元的无资金准备负债,主要用于员工医疗和退休费用。",
+       "main": "Meanwhile it has more than $120 billion in unfunded liabilities",
+       "chunks": [
+        {
+         "t": "Meanwhile",
+         "r": "主语"
+        },
+        {
+         "t": "it has more than $120 billion in unfunded liabilities",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "mostly for employee health and retirement costs.",
+         "r": "并列谓语"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "There are many reasons this formerly stable federal institution finds itself at the brink of bankruptcy.",
+       "zh": "这个曾经稳定的 联邦机构发现自己处于破产边缘有很多原因。",
+       "main": "There are many reasons this formerly stable federal institution finds itself at the brink of bankruptcy.",
+       "chunks": [
+        {
+         "t": "There",
+         "r": "主语"
+        },
+        {
+         "t": "are many reasons this formerly stable federal institution finds itself at the brink of bankruptcy.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 5,
+       "en": "Fundamentally, the USPS is in a historic squeeze between technological change that has permanently decreased demand for its bread-and-butter product, first-class mail, and a regulatory structure that denies management the flexibility to adjust its operations to the new reality.",
+       "zh": "从根本上说,USPS正处于一个历史性的困境之中:技术变革 永久性地降低了对其核心产品——一类邮件的需求,而监管结构又使管理层无法灵活调整其业务以适应新 现实。",
+       "main": "Fundamentally the USPS is in a historic squeeze between technological change",
+       "chunks": [
+        {
+         "t": "Fundamentally",
+         "r": "主语"
+        },
+        {
+         "t": "the USPS is in a historic squeeze between technological change",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that has permanently decreased demand for its bread-and-butter product",
+         "r": "定语从句"
+        },
+        {
+         "t": "first-class mail",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "and a regulatory structure",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "that denies management the flexibility to adjust its operations to the new reality.",
+         "r": "定语从句"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "And interest groups ranging from postal unions to greeting-card makers exert self-interested pressure on the USPS's ultimate overseer – Congress – insisting that whatever else happens to the Postal Service, aspects of the status quo they depend on get protected. This is why repeated attempts at reform legislation have failed in recent years, leaving the Postal Service unable to pay its bills except by deferring vital modernization. Text 4",
+     "zh": "从邮政工会到贺卡制造商等各种利益集团对USPS的最终监管者——国会——施加自利性压力,坚持无论邮 政服务发生什么变化,他们所依赖的现状都要得到保护。这就是为什么近年来反复的改革立法尝试都失败 了,使邮政服务除了推迟至关重要的现代化改造外无法支付账单。",
+     "no": 2,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "And interest groups ranging from postal unions to greeting-card makers exert self-interested pressure on the USPS's ultimate overseer – Congress – insisting that whatever else happens to the Postal Service, aspects of the status quo they depend on get protected.",
+       "zh": "从邮政工会到贺卡制造商等各种利益集团对USPS的最终监管者——国会——施加自利性压力,坚持无论邮 政服务发生什么变化,他们所依赖的现状都要得到保护。",
+       "main": "Congress aspects of the status quo they depend on get protected.",
+       "chunks": [
+        {
+         "t": "And interest groups ranging from postal unions to greeting-card makers exert self-interested pressure on the USPS's ultimate overseer",
+         "r": "状语从句"
+        },
+        {
+         "t": "Congress",
+         "r": "主语"
+        },
+        {
+         "t": "insisting",
+         "r": "分词短语（插入语/定语）"
+        },
+        {
+         "t": "that whatever else happens to the Postal Service",
+         "r": "定语从句"
+        },
+        {
+         "t": "aspects of the status quo they depend on get protected.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "This is why repeated attempts at reform legislation have failed in recent years, leaving the Postal Service unable to pay its bills except by deferring vital modernization. Text 4",
+       "zh": "这就是为什么近年来反复的改革立法尝试都失败 了,使邮政服务除了推迟至关重要的现代化改造外无法支付账单。",
+       "main": "This is why repeated attempts at reform legislation have failed in recent years",
+       "chunks": [
+        {
+         "t": "This",
+         "r": "主语"
+        },
+        {
+         "t": "is why repeated attempts at reform legislation have failed in recent years",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "leaving the Postal Service unable to pay its bills except by deferring vital modernization. Text 4",
+         "r": "分词短语（插入语/定语）"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "Now comes word that everyone involved – Democrats, Republicans, the Postal Service, the unions and the system's heaviest users – has finally agreed on a plan to fix the system. Legislation is moving through the House that would save USPS an estimated $28.6 billion over five years, which could help pay for new vehicles, among other survival measures. Most of the money would come from a penny-per-letter permanent rate increase and from shifting postal retirees into Medicare. The latter step would largely offset the financial burden of annually pre-funding retiree health care, thus addressing a long-standing complaint by the USPS and its unions.",
+     "zh": "现在传来消息称,所有相关方——民主党人、共和党人、邮政服务、工会和该系统的最大用户——终于就 修复系统的计划达成了一致。正在众议院推进的立法将在五年内为USPS节省估计286亿美元,这可以帮助 支付新车辆等生存措施的费用。大部分资金将来自每封信一美分的永久性费率增长,以及将邮政退休人员转 入Medicare。后一步骤将在很大程度上抵消每年预先拨付退休人员医疗保健的财政负担,从而解决USPS及 其工会长期以来的抱怨。",
+     "no": 3,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "Now comes word that everyone involved – Democrats, Republicans, the Postal Service, the unions and the system's heaviest users – has finally agreed on a plan to fix the system.",
+       "zh": "现在传来消息称,所有相关方——民主党人、共和党人、邮政服务、工会和该系统的最大用户——终于就 修复系统的计划达成了一致。",
+       "main": "Now comes word",
+       "chunks": [
+        {
+         "t": "Now",
+         "r": "主语"
+        },
+        {
+         "t": "comes word",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that everyone involved",
+         "r": "定语从句"
+        },
+        {
+         "t": "Democrats",
+         "r": "并列谓语"
+        },
+        {
+         "t": "Republicans",
+         "r": "并列谓语"
+        },
+        {
+         "t": "the Postal Service",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "the unions and the system's heaviest users",
+         "r": "并列谓语"
+        },
+        {
+         "t": "has finally agreed on a plan to fix the system.",
+         "r": "并列谓语"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "Legislation is moving through the House that would save USPS an estimated $28.6 billion over five years, which could help pay for new vehicles, among other survival measures.",
+       "zh": "正在众议院推进的立法将在五年内为USPS节省估计286亿美元,这可以帮助 支付新车辆等生存措施的费用。",
+       "main": "Legislation is moving through the House",
+       "chunks": [
+        {
+         "t": "Legislation",
+         "r": "主语"
+        },
+        {
+         "t": "is moving through the House",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that would save USPS an estimated $28.6 billion over five years",
+         "r": "定语从句"
+        },
+        {
+         "t": "which could help pay for new vehicles",
+         "r": "定语从句"
+        },
+        {
+         "t": "among other survival measures.",
+         "r": "介词短语（状语/定语）"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "Most of the money would come from a penny-per-letter permanent rate increase and from shifting postal retirees into Medicare.",
+       "zh": "大部分资金将来自每封信一美分的永久性费率增长,以及将邮政退休人员转 入Medicare。",
+       "main": "Most of the money would come from a penny-per-letter permanent rate increase and from shifting postal retirees into Medicare.",
+       "chunks": [
+        {
+         "t": "Most of the money",
+         "r": "主语"
+        },
+        {
+         "t": "would come from a penny-per-letter permanent rate increase and from shifting postal retirees into Medicare.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "The latter step would largely offset the financial burden of annually pre-funding retiree health care, thus addressing a long-standing complaint by the USPS and its unions.",
+       "zh": "后一步骤将在很大程度上抵消每年预先拨付退休人员医疗保健的财政负担,从而解决USPS及 其工会长期以来的抱怨。",
+       "main": "The latter step would largely offset the financial burden of annually pre-funding retiree health care",
+       "chunks": [
+        {
+         "t": "The latter step",
+         "r": "主语"
+        },
+        {
+         "t": "would largely offset the financial burden of annually pre-funding retiree health care",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "thus addressing a long-standing complaint by the USPS and its unions.",
+         "r": "并列谓语"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "en": "If it clears the House, this measure would still have to get through the Senate – where someone is bound to point out that it amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not comprehensive reform. There's no change to collective bargaining at the USPS, a major omission considering that personnel accounts for 80 percent of the agency's costs. Also missing is any discussion of eliminating Saturday letter delivery. That common-sense change enjoys wide public support and would save the USPS $2 billion per year. But postal special-interest groups seem to have killed it, at least in the House. The emerging consensus around the bill is a sign that legislators are getting frightened about a politically embarrassing short-term collapse at the USPS. It is not, however, a sign that they're getting serious about transforming the postal system for the 21st century.",
+     "zh": "如果该措施在众议院获得通过,它仍然必须通过参议院——在那里必然会有人指出,这只相当于维持邮政服 务运转所需的最低限度,而不是全面改革。USPS的集体谈判没有任何改变,考虑到人事成本占该机构成本的 80%,这是一个重大遗漏。同样缺失的是关于取消星期六信件投递的任何讨论。这一常识性改变得到了公 众的广泛支持,并将每年为USPS节省20亿美元。但邮政特殊利益集团似乎已经扼杀了它,至少在众议院是这 样。围绕该法案出现的共识表明,立法者开始担心USPS会在短期内出现政治上令人尴尬的崩溃。然而,这并 不表明他们正在认真考虑为21世纪改造邮政系统。 题目与逐题解析 美国邮政署的财政问题部分是由什么造成的 A) 其不平衡的预算。 B) 其僵化的管理。 C) 技术升级的成本。 D) 银行支持的撤回。 【答案】B （细节题） 【判型】The financial problem with the USPS is caused partly by 是一个待补全的陈述句，问的 是导致财务问题的部分原因，属于对具体事实的提问。",
+     "no": 4,
+     "sentences": [
+      {
+       "i": 1,
+       "en": "If it clears the House, this measure would still have to get through the Senate – where someone is bound to point out that it amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not comprehensive reform.",
+       "zh": "如果该措施在众议院获得通过,它仍然必须通过参议院——在那里必然会有人指出,这只相当于维持邮政服 务运转所需的最低限度,而不是全面改革。 USPS的集体谈判没有任何改变,考虑到人事成本占该机构成本的 80%,这是一个重大遗漏。",
+       "main": "If it clears the House",
+       "chunks": [
+        {
+         "t": "If it",
+         "r": "主语"
+        },
+        {
+         "t": "clears the House",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "this measure would still have to get through the Senate",
+         "r": "并列谓语"
+        },
+        {
+         "t": "where someone is bound to point out",
+         "r": "定语从句"
+        },
+        {
+         "t": "that it amounts to the bare",
+         "r": "定语从句"
+        },
+        {
+         "t": "bare minimum necessary to keep the Postal Service afloat",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "not comprehensive reform.",
+         "r": "补充说明（同位/修饰）"
+        }
+       ]
+      },
+      {
+       "i": 2,
+       "en": "There's no change to collective bargaining at the USPS, a major omission considering that personnel accounts for 80 percent of the agency's costs.",
+       "zh": "同样缺失的是关于取消星期六信件投递的任何讨论。 这一常识性改变得到了公 众的广泛支持,并将每年为USPS节省20亿美元。",
+       "main": "a major omission considering There's no change to collective bargaining at the USPS",
+       "chunks": [
+        {
+         "t": "There's no change to collective bargaining at the USPS",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "a major omission considering",
+         "r": "主语"
+        },
+        {
+         "t": "that personnel accounts for 80 percent of the agency's costs.",
+         "r": "定语从句"
+        }
+       ]
+      },
+      {
+       "i": 3,
+       "en": "Also missing is any discussion of eliminating Saturday letter delivery.",
+       "zh": "但邮政特殊利益集团似乎已经扼杀了它,至少在众议院是这 样。 围绕该法案出现的共识表明,立法者开始担心USPS会在短期内出现政治上令人尴尬的崩溃。",
+       "main": "Also missing is any discussion of eliminating Saturday letter delivery.",
+       "chunks": [
+        {
+         "t": "Also missing",
+         "r": "主语"
+        },
+        {
+         "t": "is any discussion of eliminating Saturday letter delivery.",
+         "r": "谓语 + 宾语/表语"
+        }
+       ]
+      },
+      {
+       "i": 4,
+       "en": "That common-sense change enjoys wide public support and would save the USPS $2 billion per year.",
+       "zh": "然而,这并 不表明他们正在认真考虑为21世纪改造邮政系统。 题目与逐题解析 美国邮政署的财政问题部分是由什么造成的 A) 其不平衡的预算。",
+       "main": "That common-sense change enjoys wide public support and would save the USPS $2 billion per year.",
+       "chunks": [
+        {
+         "t": "That common-sense change enjoys wide public support and would save the USPS $2 billion per year.",
+         "r": "主语"
+        }
+       ]
+      },
+      {
+       "i": 5,
+       "en": "But postal special-interest groups seem to have killed it, at least in the House.",
+       "zh": "B) 其僵化的管理。 C) 技术升级的成本。",
+       "main": "But postal special-interest groups seem to have killed it",
+       "chunks": [
+        {
+         "t": "But postal special-interest groups seem to have killed it",
+         "r": "状语从句"
+        },
+        {
+         "t": "at least in the House.",
+         "r": "介词短语（状语/定语）"
+        }
+       ]
+      },
+      {
+       "i": 6,
+       "en": "The emerging consensus around the bill is a sign that legislators are getting frightened about a politically embarrassing short-term collapse at the USPS. It is not, however, a sign that they're getting serious about transforming the postal system for the 21st century.",
+       "zh": "D) 银行支持的撤回。 【答案】B （细节题） 【判型】The financial problem with the USPS is caused partly by 是一个待补全的陈述句，问的 是导致财务问题的部分原因，属于对具体事实的提问。",
+       "main": "The emerging consensus around the bill is a sign",
+       "chunks": [
+        {
+         "t": "The emerging consensus around the bill",
+         "r": "主语"
+        },
+        {
+         "t": "is a sign",
+         "r": "谓语 + 宾语/表语"
+        },
+        {
+         "t": "that legislators are getting frightened about a politically embarrassing short-term collapse at the USPS. It is not",
+         "r": "定语从句"
+        },
+        {
+         "t": "however",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "a sign",
+         "r": "补充说明（同位/修饰）"
+        },
+        {
+         "t": "that they're getting serious about transforming the postal system for the 21st century.",
+         "r": "定语从句"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "no": 36,
+     "stem": "The financial problem with the USPS is caused partly by____",
+     "options": {
+      "A": "its unbalanced budget.",
+      "B": "its rigid management.",
+      "C": "the cost for technical upgrading.",
+      "D": "the withdrawal of bank support."
+     },
+     "answer": "B",
+     "type": "（细节题）",
+     "analysis": "【判型】The financial problem with the USPS is caused partly by 是一个待补全的陈述句，问的\n是导致财务问题的部分原因，属于对具体事实的提问。\n36. The financial problem with the USPS is caused partly by____\n[ A ] its unbalanced budget.\n[ B ] its rigid management.\n[ C ] the cost for technical upgrading.\n[ D ] the withdrawal of bank support.\n\n【拆句】The financial problem with the USPS is caused partly by____ 是一个待补全的被动句，\n主语 financial problem，谓语 is caused，partly 是状语限定“部分原因”，选项接在 by 后\n做行为者。结构平铺直叙，无陷阱。\n【定位】Fundamentally, the USPS is in a historic squeeze between technological change that has\npermanently decreased demand for its bread-and-butter product, first-class mail, and a\nregulatory structure that denies management the flexibility to adjust its operations to the\nnew reality.\n从根本上说，USPS 正陷于一场历史性的双重挤压：一面是技术变革永久压低了其核心业\n务——一类邮件——的需求，一面是监管体制不让管理层有足够灵活性去根据新现实调整\n运营。\n【选项】A)\n把“表现/结果”伪装成“原因”\nits unbalanced budget “预算不平衡”是亏损的表现（expenses have exceeded\nrevenue）而不是原因，把“现象”当成“原因”是张冠李戴。\nB)\n✓ 正确\na regulatory structure that denies management the flexibility to adjust its operations ↔\nits rigid management\n预判要的是“管理层没有灵活性”，its rigid management 用 rigid 一个词精准捕捉“被剥\n夺灵活性”的语义，且原文 partly 与选项 partly 完美对应——本题为部分原因，不必把\n所有成因都囊括。\nC)\n无中生有\n原文谈的是 technological change that has permanently decreased demand——技\n术变革压低需求，而非 the cost for technical upgrading “技术升级的成本”；原文从未\n提及升级技术的开销。\nD)\n无中生有\n原文从未提及 the withdrawal of bank support “银行撤回支持”——USPS 是联邦机\n构，融资和银行无关，本项完全是原文之外的概念。\n根据第二段,美国邮政署未能实现自身现代化是由于\nA) 利益集团的干预。\nB) 国会提供的资金不足。\nC) 邮政服务需求的萎缩。\nD) 邮政工会的无能。"
+    },
+    {
+     "no": 37,
+     "stem": "According to Paragraph 2, the USPS fails to modernize itself due to____",
+     "options": {
+      "A": "the interference from interest groups.",
+      "B": "the inadequate funding from Congress.",
+      "C": "the shrinking demand for postal service.",
+      "D": "the incompetence of postal unions."
+     },
+     "answer": "A",
+     "type": "（细节题）",
+     "analysis": "【判型】fails to modernize itself due to 用 due to 直接问原因，属于段内事实题。\n37. According to Paragraph 2, the USPS fails to modernize itself due to____\n[ A ] the interference from interest groups.\n[ B ] the inadequate funding from Congress.\n[ C ] the shrinking demand for postal service.\n[ D ] the incompetence of postal unions.\n\n【拆句】the USPS fails to modernize itself due to____ 中 fails to do 表示“未能做到”，itself 反身\n指代 USPS，due to 引出原因。注意 fail 本身含轻微否定色彩，但本题问的仍是“原因”，不\n要被否定迷惑。\n【定位】And interest groups ranging from postal unions to greeting-card makers exert self-interested\npressure on the USPS's ultimate overseer – Congress – insisting that whatever else happens to\nthe Postal Service, aspects of the status quo they depend on get protected. This is why\nrepeated attempts at reform legislation have failed in recent years, leaving the Postal Service\nunable to pay its bills except by deferring vital modernization.\n从邮政工会到贺卡商，各种利益集团向 USPS 的最终监管者——国会——施加利己的压\n力，坚持要求无论邮政服务发生什么变化，他们所依赖的现状的某些方面都要被保护。这就\n是近年来改革立法屡次失败、USPS 只能靠推迟关键的现代化来勉强支付账单的原因。\n【选项】A)\n✓ 正确\ninterest groups ranging from postal unions to greeting-card makers exert self-interested pressure\n↔the interference from interest groups\n预判要的是“利益集团对国会的施压”，the interference from interest groups 用\ninterference 概括“施压 + 要求保护现状”的整体行为，正是定位句因果链的“因”端。\nB)\n无中生有\n原文谈的是国会受利益集团施压、改革立法失败，从未说 the inadequate funding\nfrom Congress “国会拨款不足”；事实上第 3 段还提到国会正在推进的法案能省下 286\n亿美元。\nC)\n答非所问\nthe shrinking demand for postal service “邮政业务需求萎缩”是 permanently\ndecreased demand 的转述，属第 1 段内容，而本题已指定 According to Paragraph\n2，超出段落范围；同时“需求萎缩”是财务问题的原因，不是不能现代化的原因，是答非\n所问。\nD)\n与原文相反\n原文将 postal unions 列为施压一方而非被动方，且并未评价其能力。the\nincompetence of postal unions “邮政工会的无能”与原文中“工会主动施压”的形象相\n反，属与原文相反。\n美国邮政署及其工会长期以来的抱怨可以通过什么来解决\nA) 消除其退休人员医疗保健的负担。\nB) 对新车辆进行更多投资。\nC) 采用新的费率上涨机制。\nD) 吸引更多的一类邮件用户。\n38. The long-standing complaint by the USPS and its unions can be addressed by____\n[ A ] removing its burden of retiree health care.\n[ B ] making more investment in new vehicles.\n[ C ] adopting a new rate-increase mechanism.\n[ D ] attracting more first-class mail users."
+    },
+    {
+     "no": 38,
+     "stem": "The long-standing complaint by the USPS and its unions can be addressed by____",
+     "options": {
+      "A": "removing its burden of retiree health care.",
+      "B": "making more investment in new vehicles.",
+      "C": "adopting a new rate-increase mechanism.",
+      "D": "attracting more first-class mail users."
+     },
+     "answer": "A",
+     "type": "（细节题）",
+     "analysis": "【判型】can be addressed by 问的是“通过什么手段可以解决”，属于对原文中明确解决方案的\n转述。\n【拆句】The long-standing complaint by the USPS and its unions can be addressed by____ 是\n被动陈述句。by 在主语后表“由谁提出的抱怨”，by 在 addressed 后表“通过何种方式解决”\n——同一句出现两个 by，注意区分指向。\n【定位】Most of the money would come from a penny-per-letter permanent rate increase and from\nshifting postal retirees into Medicare. The latter step would largely offset the financial burden\nof annually pre-funding retiree health care, thus addressing a long-standing complaint by the\nUSPS and its unions.\n这笔钱大部分来自每封信永久涨价一便士，以及把邮政退休员工转入 Medicare。后一项措\n施将在很大程度上抵消每年预提退休人员医保的财务负担，从而解决 USPS 及其工会长期以\n来的抱怨。\n【选项】A)\n✓ 正确\noffset the financial burden of annually pre-funding retiree health care ↔\nremoving its burden of retiree health care\n预判要的是“免除预提医保负担”，removing its burden of retiree health care 用\nremoving burden 精准捕捉 offset financial burden 的核心动作，是最贴合定位句的\n同义改写。\nB)\n张冠李戴\nmaking more investment in new vehicles “加大新车投资”在原文 which could help\npay for new vehicles 出现，但那是省下的钱可能的用途之一，不是用于“解决长期抱怨”\n的手段；属张冠李戴——把“省下钱后的用途”嫁接到“解决抱怨的手段”上。\nC)\n偷换概念\n原文 a penny-per-letter permanent rate increase 是涨价措施，但这是“钱从哪来”的\n资金来源，不是“解决长期抱怨”的手段；且 a new rate-increase mechanism “新的涨\n价机制”也把“一次性涨价一便士”偷换成“机制”，是双重偷换概念。\nD)\n无中生有\n原文从未提及 attracting more first-class mail users “吸引更多一类邮件用户”；第 1\n段虽提到 first-class mail 需求下降，但第 3 段的解决方案中并无任何“开发用户”措施。\n在最后一段中,作者似乎以什么态度看待立法者\nA) 尊重。\nB) 容忍。\nC) 不满。\nD) 感激。\n39. In the last paragraph, the author seems to view legislators with\n[ A ] respect.\n[ B ] tolerance.\n[ C ] discontent.\n[ D ] gratitude."
+    },
+    {
+     "no": 39,
+     "stem": "In the last paragraph, the author seems to view legislators with",
+     "options": {
+      "A": "respect.",
+      "B": "tolerance.",
+      "C": "discontent.",
+      "D": "gratitude."
+     },
+     "answer": "C",
+     "type": "（态度题）",
+     "analysis": "【判型】the author seems to view legislators with 用 view ... with 直接问作者持何种态度，是典\n型态度题句式。\n【拆句】In the last paragraph, the author seems to view legislators with 中 seems to 是缓和\n语气，view sb with sth 表示“以某种态度看待某人”，with 后接情感名词。结构清晰，无\n陷阱。\n【定位】The emerging consensus around the bill is a sign that legislators are getting frightened about a\npolitically embarrassing short-term collapse at the USPS. It is not, however, a sign that they're\ngetting serious about transforming the postal system for the 21st century.\n围绕该法案正在形成的共识，表明议员们已开始害怕 USPS 在政治上颜面尽失的短期崩盘。\n然而，这并不表明他们认真要把邮政系统改造成 21 世纪的模样。\n【选项】A)\n与原文相反\nrespect “尊重”是正面态度，与原文 not ... getting serious 的负面评价极性相反。\nB)\n态度题程度偷改\ntolerance “容忍”暗示“虽不赞同但能接受”，程度偏温和；而原文连用 bare, bare\nminimum（“最最低限度”，bare 重复加强）、not ... getting serious、a major\nomission 等强烈否定，远超容忍的温度——属程度词偷改。\nC)\n✓ 正确\nIt is not, however, a sign that they're getting serious about transforming the postal system for the\n21st century\n↔discontent\nlegislators are getting frightened about a politically embarrassing short-term collapse ↔\ndiscontent\n预判要的是“不满/失望”，discontent 是态度词中最贴合“否定改革诚意 + 暗讽动机不纯”\n双重负面判断的选项。\nD)\n与原文相反\ngratitude “感激”是正面态度，与作者对议员“动机不纯、缺乏诚意”的批评完全冲突。\n以下哪项是本文的最佳标题\nA) 美国邮政署开始怀念它的美好旧时光。\nB) 邮政服务:别动我的奶酪。\nC) 美国邮政署:慢性病需要快速治愈。\nD) 邮政服务需要的不仅仅是创可贴。"
+    },
+    {
+     "no": 40,
+     "stem": "Which of the following would be the best title for the text?",
+     "options": {
+      "A": "The USPS Starts to Miss Its Good Old Days.",
+      "B": "The Postal Service: Keep Away from My Cheese.",
+      "C": "The USPS: Chronic Illness Requires a Quick Cure.",
+      "D": "The Postal Service Needs More Than a Band-Aid."
+     },
+     "answer": "D",
+     "type": "（主旨题）",
+     "analysis": "40. Which of the following would be the best title for the text?\n[ A ] The USPS Starts to Miss Its Good Old Days.\n[ B ] The Postal Service: Keep Away from My Cheese.\n[ C ] The USPS: Chronic Illness Requires a Quick Cure.\n[ D ] The Postal Service Needs More Than a Band-Aid.\n\n【判型】Which of the following would be the best title for the text 问的是全文标题，属于典型\n主旨题。\n【拆句】Which of the following would be the best title for the text 是 wh- 疑问句，would be\n是虚拟语气表“最适合做”。结构平铺直叙，无陷阱。\n【选项】A)\n无中生有 + 情感跑偏\nThe USPS Starts to Miss Its Good Old Days “USPS 开始怀念过去的好日子”暗示一种\n怀旧、感伤的基调，而原文是冷峻分析当前困境与对策不足——情感色彩完全不符，且\n文中无任何怀旧描写。\nB)\n以偏概全\nThe Postal Service: Keep Away from My Cheese “邮政服务：别动我的奶酪”虽呼应了\nP2 利益集团保护现状的描写，但只覆盖一个局部段落，未触及“病重”与“对策不足”两大\n主线——以偏概全。\nC)\n与原文相反\nThe USPS: Chronic Illness Requires a Quick Cure 前半“慢性病”确与原文吻合，但后\n半“需要速效药”与原文 not comprehensive reform 所主张的“需全面、深度改革”恰好\n相反——原文嫌当前法案“太速成、不彻底”，而本选项却主张“快治”。\nD)\n✓ 正确\nit amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not\ncomprehensive reform\n↔The Postal Service Needs More Than a Band-Aid\nthe brink of bankruptcy ↔The Postal Service Needs More Than a Band-Aid\n预判要的是“病重 + 创可贴不够”，The Postal Service Needs More Than a Band-Aid\n用 Band-Aid 隐喻精准捕捉 bare minimum 的语义，并用 more than 直接表达“远远不\n够”——两端都覆盖。\nS E N T E N C E I N S I G H T S · 句子精讲\n8 句真题句逐层精讲\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\n\nMeanwhile, it has more than $120 billion in unfunded liabilities, mostly for\nemployee health and retirement costs.\n第1段，第3句\n本句覆盖主语、谓语、宾语、状语、后置定语五种成分，宾语内部包含数量修饰和介词短语嵌套，\n后置定语与宾语的修饰关系需通过逗号和语义判断，有一定成分划分练习价值，但整体坑点较少。\nThere are many reasons this formerly stable federal institution finds itself at the\nbrink of bankruptcy.\n第1段，第4句\n主句展示There be句型的主语识别,同位语从句展示find+宾语+宾补结构,涵盖主语、谓语、宾语、\n宾补、同位语等多种成分,且同位语从句紧贴名词、无连接词,是易混淆点;适合训练成分划分和同位\n语识别。\nAnd interest groups ranging from postal unions to greeting-card makers exert self-\ninterested pressure on the USPS's ultimate overseer – Congress – insisting that\nwhatever else happens to the Postal Service, aspects of the status quo they depend\non get protected.\n第2段，第1句\n本句展示了四六级和考研英语中非常典型的高级句式特征：主干简单，但通过后置分词、伴随状语\n及多重从句（尤其是省略关系词的定语从句和让步状语从句）进行信息高度浓缩，极具复用和模仿\n价值。\nLegislation is moving through the House that would save USPS an estimated\n$28.6 billion over five years, which could help pay for new vehicles, among other\nsurvival measures.\n第3段，第2句\n主句 + 限制性定语从句 + 非限制性定语从句的组合是四六级和考研阅读中的高频句式，关系词\nthat 和 which 的区分、双宾语结构、情态动词表推测等都是必考考点。掌握本句结构后可直接迁移\n至大量类似真题句式,典型性很高。\n\nThe latter step would largely offset the financial burden of annually pre-funding\nretiree health care, thus addressing a long-standing complaint by the USPS and its\nunions.\n第3段，第4句\n本句结构在四六级和考研阅读中较为典型：简单句主干 + 宾语后置定语 + 分词短语作状语，是长\n难句的常见简化形式。情态动词表示推测或假设的用法、thus 引出结果状语的搭配，都是考试中频\n繁出现的句式特征，掌握后可迁移到大量类似句子。\nIf it clears the House, this measure would still have to get through the Senate –\nwhere someone is bound to point out that it amounts to the bare, bare minimum\nnecessary to keep the Postal Service afloat, not comprehensive reform.\n第4段，第1句\n本句是四六级和考研英语中高频出现的复杂句结构：条件状语从句 + 主句 + 非限定性定语从句 +\n宾语从句的多层嵌套。破折号引出补充说明、定语从句修饰前文名词、宾语从句说明具体内容，这\n些都是真题中的典型句式。掌握本句结构后可直接迁移到大量类似考题中。\nThere's no change to collective bargaining at the USPS, a major omission\nconsidering that personnel accounts for 80 percent of the agency's costs.\n第4段，第2句\nthere be句型和that引导的宾语从句都是四六级、考研阅读中的高频结构。同位语短语加分词短语\n的组合在正式书面语中较常见,特别是在新闻报道和学术文本中,用于补充说明和提供依据。整体句\n式具有较强的代表性,学习后可应用于理解同类长句,迁移价值较高。\nThe Postal Service Needs More Than a Band-Aid.\n第40题，D\n这种“主语加及物动词加宾语”的简单陈述句非常典型，属于英语阅读里最常见、最值得打牢的基本\n骨架。掌握这种识别方法后，可迁移到大量基础句。\nH I G H - F R E Q U E N C Y · 真题高频词\n本篇出现的 79 个考研英语一真题高频词\n下列单词既在本篇真题中出现，又是 考研英语一 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n词的释义、音标、词形与真题例句。\n\npostal\nB1\nadj. 邮政的\n本篇10 次 · 真题 10 句\nwould\nA1\naux. （will 的过去式）将要，会\n本篇6 次 · 真题 304 句\nunion\nB2\nn. 工会\n本篇5 次 · 真题 29 句\nbillion\nB1\nnum. 十亿（1,000,000,000）\n本篇4 次 · 真题 39 句\nsystem\nA2\nn. 系统\n本篇3 次 · 真题 107 句\nsupport\nA2\nv. 支持\n本篇2 次 · 真题 87 句\nmeasure\nB1\nv. 测量\n本篇2 次 · 真题 65 句\ndemand\nB1\nv. 坚决要求\n本篇2 次 · 真题 63 句\nfinancial\nB2\nadj. 财政的\n本篇2 次 · 真题 59 句\nuser\nA2\nn. 使用者\n本篇2 次 · 真题 52 句\nsign\nA1\nn. 标志\n本篇2 次 · 真题 42 句\nreform\nB2\nv. 改革\n本篇2 次 · 真题 37 句\nmanagement\nB1\nn. 管理\n本篇2 次 · 真题 36 句\ncongress\nB2\nn. 国会\n本篇2 次 · 真题 25 句\nlegislation\nB2\nn. 法律\n本篇2 次 · 真题 19 句\nburden\nB2\nn. 负担\n本篇2 次 · 真题 15 句\n\nvehicle\nB1\nn. 交通工具\n本篇2 次 · 真题 15 句\ncomplaint\nB1\nn. 抱怨\n本篇2 次 · 真题 11 句\nauthor\nA2\nn. 作者\n本篇1 次 · 真题 209 句\naccord\nC1\nn. （国家、团体间的）协议\n本篇1 次 · 真题 172 句\nfollowing\nB1\nadj. 接下来的\n本篇1 次 · 真题 91 句\nview\nA2\nn. 观点，看法\n本篇1 次 · 真题 91 句\nfederal\nB2\nadj. 联邦（制）的\n本篇1 次 · 真题 81 句\nproduct\nA2\nn. 产品\n本篇1 次 · 真题 77 句\nrate\nA2\nn. 速度\n本篇1 次 · 真题 72 句\nleast\nA2\ndet. 最少的\n本篇1 次 · 真题 63 句\nmajor\nB1\nadj. 主要的\n本篇1 次 · 真题 56 句\npressure\nB1\nn. 心理压力\n本篇1 次 · 真题 55 句\nloss\nB1\nn. 丧失\n本篇1 次 · 真题 43 句\naccount\nA2\nn. 账户\n本篇1 次 · 真题 42 句\ninstitution\nB2\nn. 机构\n本篇1 次 · 真题 39 句\ninvestment\nB1\nn. 投资\n本篇1 次 · 真题 38 句\n\nstructure\nB1\nn. 结构\n本篇1 次 · 真题 36 句\nagency\nB2\nn. 代理机构\n本篇1 次 · 真题 32 句\nattempt\nB1\nv. 试图\n本篇1 次 · 真题 32 句\nemployee\nA2\nn. 雇员，员工\n本篇1 次 · 真题 32 句\ndue\nB1\nadj. 预期的\n本篇1 次 · 真题 31 句\nfunding\nB2\nn. 资金\n本篇1 次 · 真题 31 句\nrange\nB1\nn. 范围\n本篇1 次 · 真题 31 句\nreality\nB1\nn. 现实\n本篇1 次 · 真题 31 句\nrevenue\nB2\nn. （公司、组织的）收入，收益\n本篇1 次 · 真题 31 句\nshift\nB1\nv. 移动\n本篇1 次 · 真题 31 句\namount\nA2\nn. 数量\n本篇1 次 · 真题 30 句\nattract\nB1\nv. 吸引（注意力、兴趣）\n本篇1 次 · 真题 30 句\nlargely\nB2\nadv. 主要地\n本篇1 次 · 真题 30 句\nstatus\nB2\nn. 地位\n本篇1 次 · 真题 29 句\nper\nB1\nprep. 每\n本篇1 次 · 真题 27 句\nemerge\nB2\nv. 出现;浮现\n本篇1 次 · 真题 25 句\n\nremove\nA2\nv. 移开\n本篇1 次 · 真题 25 句\nnet\nA2\nn. 网\n本篇1 次 · 真题 23 句\nthus\nB2\nadv. 因此，所以\n本篇1 次 · 真题 22 句\neliminate\nB2\nv. 消除\n本篇1 次 · 真题 21 句\naspect\nB2\nn. 方面\n本篇1 次 · 真题 20 句\ntechnological\nB2\nadj. 技术的\n本篇1 次 · 真题 20 句\nestimate\nB2\nv. 估计\n本篇1 次 · 真题 19 句\nretirement\nB2\nn. 退休\n本篇1 次 · 真题 19 句\ncure\nB1\nv. 治愈（疾病）\n本篇1 次 · 真题 15 句\nfinally\nA2\nadv. 终于，最终\n本篇1 次 · 真题 15 句\nadjust\nB2\nv. 调整\n本篇1 次 · 真题 14 句\nadopt\nB1\nv. 采纳\n本篇1 次 · 真题 14 句\ncollective\nB2\nadj. 集体的\n本篇1 次 · 真题 14 句\ndeny\nB1\nv. 否认\n本篇1 次 · 真题 14 句\nmostly\nB1\nadv. 主要地\n本篇1 次 · 真题 14 句\nstable\nB1\nadj. 稳定的\n本篇1 次 · 真题 14 句\n\ntransform\nB2\nv. 使彻底改变;使转变\n本篇1 次 · 真题 14 句\nbudget\nB1\nn. 预算\n本篇1 次 · 真题 13 句\nmeanwhile\nB1\nadv. 与此同时\n本篇1 次 · 真题 13 句\npartly\nB1\nadv. 部分地\n本篇1 次 · 真题 13 句\ndecrease\nB1\nv. 减少，降低\n本篇1 次 · 真题 12 句\nmechanism\nB2\nn. 机制\n本篇1 次 · 真题 12 句\ntechnical\nB2\nadj. 技术的\n本篇1 次 · 真题 12 句\nexpense\nB1\nn. 花费\n本篇1 次 · 真题 10 句\nflexibility\nB2\nn. 灵活性\n本篇1 次 · 真题 10 句\ninadequate\nB2\nadj. 不充分的\n本篇1 次 · 真题 10 句\npermanent\nB2\nadj. 永久的\n本篇1 次 · 真题 10 句\nregulatory\nC1\nadj. 监管的\n本篇1 次 · 真题 9 句\nvital\nB2\nadj. 极其重要的，必不可少的\n本篇1 次 · 真题 9 句\nlatter\nB2\ndet. 后者的\n本篇1 次 · 真题 8 句\nminimum\nB2\nn. 最小值\n本篇1 次 · 真题 8 句\nV O C A B U L A R Y · 词汇难度分布\n全文 236 词按 CEFR 难度累积覆盖\n\n全文去重后共 236 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」的累积\n占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 15 个 · 约 6%。\n31%\nA1\n及以下\n51%\nA2\n及以下\n75%\nB1\n及以下\n94%\nB2\n及以下\n100%\nC1\n及以下\n100%\nC2\n及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 236 个 · 末柱为 100%\n去重总词数\n236\nB2 以上难词\n6%\nB1 及以下覆盖\n75%\n\n考研英语一\n2018年 · 全卷构成\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →\n本题\n段落排序\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →"
+    }
+   ]
+  }
+ ],
+ "partB": {
+  "options": {
+   "A": "In December of 1869, Congress appointed a commission to select a site and prepare plans and cost estimates for a new State Department Building. The commission was also to consider possible arrangements for the War and Navy Departments. To the horror of some who expected a Greek Revival twin of the Treasury Building to be erected on the other side of the White House, the elaborate French Second Empire style design by Alfred Mullett was selected, and construction of a building to house all three departments began in June of 1871. 1869年12月,国会任命了一个委员会来选址并为新的国务院大楼准备规划和成本估算。该委员会还 要考虑陆军部和海军部可能的安排。令一些期待在白宫另一侧建造财政部大楼希腊复兴式孪生建筑 的人感到震惊的是,Alfred Mullett设计的精美法国第二帝国风格方案被选中,容纳这三个部门的大楼 于1871年6月开始建造。",
+   "B": "Completed in 1875, the State Department's south wing was the first to be occupied, with its elegant four-story library (completed in 1876), Diplomatic Reception Room, and Secretary's office decorated with carved wood, Oriental rugs, and stenciled wall patterns. The Navy Department moved into the east wing in 1879, where elaborate wall and ceiling stenciling and marquetry floors decorated the office of the Secretary. 1875年竣工后,国务院南翼最先投入使用,其优雅的四层图书馆(1876年完工)、外交接待室和国务卿 办公室装饰着雕刻木材、东方地毯和模板墙面图案。海军部于1879年迁入东翼,那里精美的墙面和 天花板模板装饰以及镶嵌地板装点着部长办公室。",
+   "C": "The State, War, and Navy Building, as it was originally known, housed the three Executive Branch Departments most intimately associated with formulating and conducting the nation's foreign policy in the last quarter of the nineteenth century and the first quarter of the twentieth century – the period when the United States emerged as an international power. The building has housed some of the nation's most significant diplomats and politicians and has been the scene of many historic events. 国务、陆军和海军大楼,这是它最初的名称,在19世纪最后25年和20世纪最初25年——美国崛起为国 际大国的时期——容纳了与制定和实施国家外交政策最密切相关的三个行政部门。该建筑曾容纳过 国家一些最重要的外交官和政治家,并且是许多历史事件的发生地。",
+   "D": "Many of the most celebrated national figures have participated in historical events that have taken place within the EEOB's granite walls. Theodore and Franklin D. Roosevelt, William Howard Taft, Dwight D. Eisenhower, Lyndon B. Johnson, Gerald Ford, and George H. W. Bush all had offices in this building before becoming president. It has housed 16 Secretaries of the Navy, 21 Secretaries of War, and 24 Secretaries of State. Winston Churchill once walked its corridors and Japanese emissaries met here with Secretary of State Cordell Hull after the bombing of Pearl Harbor. 许多最著名的国家人物参与了在EEOB花岗岩墙内发生的历史事件。Theodore和Franklin D. Roosevelt、William Howard Taft、Dwight D. Eisenhower、Lyndon B. Johnson、Gerald Ford 和George H. W. Bush在成为总统之前都曾在这座建筑里拥有办公室。它容纳过16位海军部长、21 位陆军部长和24位国务卿。Winston Churchill曾在其走廊中漫步,珍珠港轰炸后日本使节曾在此与 国务卿Cordell Hull会面。",
+   "E": "The Eisenhower Executive Office Building (EEOB) commands a unique position in both the national history and the architectural heritage of the United States. Designed by Supervising Architect of the Treasury, Alfred B. Mullett, it was built from 1871 to 1888 to house the growing staffs of the State, War, and Navy Departments, and is considered one of the best examples of French Second Empire architecture in the country. Eisenhower行政办公大楼(EEOB)在美国国家历史和建筑遗产中都占据着独特的地位。它由财政部 监督建筑师Alfred B. Mullett设计,于1871年至1888年间建造,用以容纳不断增长的国务院、陆军部 和海军部工作人员,被认为是美国法国第二帝国建筑风格的最佳范例之一。",
+   "F": "Construction took 17 years as the building slowly rose wing by wing. When the EEOB was finished, it was the largest office building in Washington, with nearly 2 miles of black and white tiled corridors. Almost all of the interior detail is of cast iron or plaster; the use of wood was minimized to insure fire safety. Eight monumental curving staircases of granite with over 4,000 individually cast bronze balusters are capped by four skylight domes and two stained glass rotundas. 建造历时17年,大楼一翼接一翼缓慢拔地而起。当EEOB完工时,它是华盛顿最大的办公楼,拥有近2英 里长的黑白瓷砖走廊。几乎所有内部细节都是铸铁或石膏制成的;木材的使用被最小化以确保消防安 全。八座宏伟的花岗岩弧形楼梯配有超过4000个单独铸造的青铜栏杆,顶部是四个天窗穹顶和两个彩 色玻璃圆形大厅。",
+   "G": "The history of the EEOB began long before its foundations were laid. The first executive offices were constructed between 1799 and 1820. A series of fires (including those set by the British in 1814) and overcrowded conditions led to the construction of the existing Treasury Building. In → C → → → F → → 正确顺序41 E →预给C →42 G →43 A →预给F →44 B →45 D 通读验证按 E→C→G→A→F→B→D 通读：E 用全名首次引入 The Eisenhower Executive Office Building (EEOB) 独立开篇，成立；C 用 as it was originally known 复现 State/War/Navy 接 E 的 State, War, and Navy Departments，成立；G 段首 The history of the EEOB 回指已确立的 EEOB、并 接 C 段尾的 many historic events，成立；A 段首 In December of 1869 接 G 段尾 In 1866 ... the demolition 的时间线（1866→1869），成立；A 段尾 began in June of 1871 被 F 段首 Construction took 17 years 承接（开工→工期），成立；F 讲 wing by wing 后由 B 段首 Completed in 1875 ... the first to be occupied 接「建成入驻」，成立；末位 D 由 Many of the most celebrated national figures 转向人物轶事、以 after the bombing of Pearl Harbor 收束，成立。整条时间线 （1799→1866→1869→1871→1875/1879）单向递进、无回绕，七段各出现一次，全序自洽。"
+  },
+  "paras": [],
+  "questions": [
+   {
+    "no": 41,
+    "stem": "→ C →",
+    "options": {}
+   },
+   {
+    "no": 42,
+    "stem": "→",
+    "options": {}
+   },
+   {
+    "no": 43,
+    "stem": "→ F →",
+    "options": {}
+   },
+   {
+    "no": 44,
+    "stem": "→",
+    "options": {}
+   },
+   {
+    "no": 45,
+    "stem": "正确顺序41 E →预给C →42 G →43 A →预给F →44 B →45 D 通读验证按 E→C→G→A→F→B→D 通读：E 用全名首次引入 The Eisenhower Executive Office Building (EEOB) 独立开篇，成立；C 用 as it was originally known 复现 State/War/Navy 接 E 的 State, War, and Navy Departments，成立；G 段首 The history of the EEOB 回指已确立的 EEOB、并 接 C 段尾的 many historic events，成立；A 段首 In December of 1869 接 G 段尾 In 1866 ... the demolition 的时间线（1866→1869），成立；A 段尾 began in June of 1871 被 F 段首 Construction took 17 years 承接（开工→工期），成立；F 讲 wing by wing 后由 B 段首 Completed in 1875 ... the first to be occupied 接「建成入驻」，成立；末位 D 由 Many of the most celebrated national figures 转向人物轶事、以 after the bombing of Pearl Harbor 收束，成立。整条时间线 （1799→1866→1869→1871→1875/1879）单向递进、无回绕，七段各出现一次，全序自洽。",
+    "options": {}
+   }
+  ]
+ },
+ "partC": {
+  "paras": [
+   {
+    "en": "Shakespeare's lifetime was coincident with a period of extraordinary activity and achievement in the drama. These new forms were at first mainly written by scholars and performed by amateurs, but in England, as everywhere else in western Europe, the growth of a class of professional actors was threatening to make the drama popular, whether it should be new or old, classical or medieval, literary or farcical. Court, school, organizations of amateurs, and the traveling actors were all rivals in supplying a widespread desire for dramatic entertainment; and",
+    "zh": "莎士比亚的一生恰逢戏剧领域一个异常活跃和成就非凡的时期。在他出生之时,欧洲正见证着宗教戏剧的消 逝,以及在古典悲剧和喜剧激励下新形式的诞生。这些新形式起初主要由学者创作并由业余演员表演,但在 英国,如同西欧其他地方一样,一个职业演员阶层的成长正威胁着要使戏剧大众化,无论它是新是旧,是古典还 是中世纪的,是文学性的还是闹剧性的。宫廷、学校、业余团体和巡回演员都在竞相满足人们对戏剧娱乐的 广泛需求;任何上过文法学校的男孩都不会不知道,戏剧是一种为希腊和罗马带来荣耀、也可能为英国赢得 荣誉的文学形式。",
+    "no": 1,
+    "sentences": [
+     {
+      "i": 1,
+      "en": "Shakespeare's lifetime was coincident with a period of extraordinary activity and achievement in the drama.",
+      "zh": "莎士比亚的一生恰逢戏剧领域一个异常活跃和成就非凡的时期。 在他出生之时,欧洲正见证着宗教戏剧的消 逝,以及在古典悲剧和喜剧激励下新形式的诞生。",
+      "main": "Shakespeare's lifetime was coincident with a period of extraordinary activity and achievement in the drama.",
+      "chunks": [
+       {
+        "t": "Shakespeare's lifetime was coincident with a period of extraordinary activity and achievement in the drama.",
+        "r": "谓语 + 宾语/表语"
+       }
+      ]
+     },
+     {
+      "i": 2,
+      "en": "These new forms were at first mainly written by scholars and performed by amateurs, but in England, as everywhere else in western Europe, the growth of a class of professional actors was threatening to make the drama popular, whether it should be new or old, classical or medieval, literary or farcical. Court, school, organizations of amateurs, and the traveling actors were all rivals in supplying a widespread desire for dramatic entertainment; and",
+      "zh": "这些新形式起初主要由学者创作并由业余演员表演,但在 英国,如同西欧其他地方一样,一个职业演员阶层的成长正威胁着要使戏剧大众化,无论它是新是旧,是古典还 是中世纪的,是文学性的还是闹剧性的。 宫廷、学校、业余团体和巡回演员都在竞相满足人们对戏剧娱乐的 广泛需求;任何上过文法学校的男孩都不会不知道,戏剧是一种为希腊和罗马带来荣耀、也可能为英国赢得 荣誉的文学形式。",
+      "main": "These new forms were at first mainly written by scholars and performed by amateurs",
+      "chunks": [
+       {
+        "t": "These new",
+        "r": "主语"
+       },
+       {
+        "t": "forms were at first mainly written by scholars and performed by amateurs",
+        "r": "谓语 + 宾语/表语"
+       },
+       {
+        "t": "but in England",
+        "r": "介词短语（状语/定语）"
+       },
+       {
+        "t": "as everywhere else in western Europe",
+        "r": "介词短语（状语/定语）"
+       },
+       {
+        "t": "the growth of a class of professional actors was threatening to make the drama popular",
+        "r": "并列谓语"
+       },
+       {
+        "t": "whether it should be new or old",
+        "r": "状语从句"
+       },
+       {
+        "t": "classical or medieval",
+        "r": "补充说明（同位/修饰）"
+       },
+       {
+        "t": "literary or farcical. Court",
+        "r": "补充说明（同位/修饰）"
+       },
+       {
+        "t": "school",
+        "r": "补充说明（同位/修饰）"
+       },
+       {
+        "t": "organizations of amateurs",
+        "r": "并列谓语"
+       },
+       {
+        "t": "and the traveling actors were all rivals in supplying a widespread desire for dramatic entertainment",
+        "r": "状语从句"
+       },
+       {
+        "t": "and",
+        "r": "补充说明（同位/修饰）"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "When Shakespeare was twelve years old the first public playhouse was built in London. For a time literature showed no interest in this public stage. Plays aiming at literary distinction were written for schools or court, or for the choir boys of St. Paul's and the royal chapel, who, however, gave plays in public as well as at court. By the time that Shakespeare was twenty-five, Lyly, Peele, and Greene had made comedies that were at once popular and literary; Kyd had written a tragedy that crowded the pit; and Marlowe had (46)By the date of his birth Europe was witnessing the passing of the religious drama, and the creation of new forms under the incentive of classical tragedy and comedy. (47)no boy who went to a grammar school could be ignorant that the drama was a form of literature which gave glory to Greece and Rome and might yet bring honor to England. (48)But the professional companies prospered in their permanent theaters, and university men with literary ambitions were quick to turn to these theaters as offering a means of livelihood.  brought poetry and genius to triumph on the common stage – where they had played no part since the death of Euripides.",
+    "zh": "当莎士比亚十二岁时,伦敦建成了第一座公共剧场。有一段时间,文学界对这个公共舞台并不感兴趣。追求 文学声望的戏剧是为学校或宫廷创作的,或是为圣保罗大教堂和皇家教堂的唱诗班男孩创作的,不过这些男 孩既在宫廷也在公众场合演出戏剧。但职业剧团在其固定剧场中蓬勃发展,而具有文学抱负的大学人士很快 转向这些剧场,将其视为一种谋生手段。到莎士比亚二十五岁时,Lyly、Peele和Greene已经创作出既受欢迎 又具文学性的喜剧;Kyd写出了一部让剧场池座座无虚席的悲剧;而Marlowe则将诗歌和天才带到了普通舞 台上并取得了胜利——自Euripides去世后,它们在那里就不曾出现过。一种本土的文学戏剧已经诞生,它与 公共剧场的联盟已经确立,而且它至少已经开创了一些伟大的传统。",
+    "no": 2,
+    "sentences": [
+     {
+      "i": 1,
+      "en": "When Shakespeare was twelve years old the first public playhouse was built in London.",
+      "zh": "当莎士比亚十二岁时,伦敦建成了第一座公共剧场。",
+      "main": "When Shakespeare was twelve years old the first public playhouse was built in London.",
+      "chunks": [
+       {
+        "t": "When Shakespeare",
+        "r": "主语"
+       },
+       {
+        "t": "was twelve years old the first public playhouse was built in London.",
+        "r": "谓语 + 宾语/表语"
+       }
+      ]
+     },
+     {
+      "i": 2,
+      "en": "For a time literature showed no interest in this public stage.",
+      "zh": "有一段时间,文学界对这个公共舞台并不感兴趣。",
+      "main": "For a time literature showed no interest in this public stage.",
+      "chunks": [
+       {
+        "t": "For a time literature showed no interest in this public stage.",
+        "r": "状语从句"
+       }
+      ]
+     },
+     {
+      "i": 3,
+      "en": "Plays aiming at literary distinction were written for schools or court, or for the choir boys of St. Paul's and the royal chapel, who, however, gave plays in public as well as at court.",
+      "zh": "追求 文学声望的戏剧是为学校或宫廷创作的,或是为圣保罗大教堂和皇家教堂的唱诗班男孩创作的,不过这些男 孩既在宫廷也在公众场合演出戏剧。",
+      "main": "however Plays aiming at literary distinction were written for schools or court",
+      "chunks": [
+       {
+        "t": "Plays aiming at literary distinction were written for schools or court",
+        "r": "谓语 + 宾语/表语"
+       },
+       {
+        "t": "or for the choir boys of St. Paul's and the royal chapel",
+        "r": "介词短语（状语/定语）"
+       },
+       {
+        "t": "who",
+        "r": "定语从句"
+       },
+       {
+        "t": "however",
+        "r": "主语"
+       },
+       {
+        "t": "gave plays in public as well as at court.",
+        "r": "补充说明（同位/修饰）"
+       }
+      ]
+     },
+     {
+      "i": 4,
+      "en": "By the time that Shakespeare was twenty-five, Lyly, Peele, and Greene had made comedies that were at once popular and literary; Kyd had written a tragedy that crowded the pit; and Marlowe had (46)By the date of his birth Europe was witnessing the passing of the religious drama, and the creation of new forms under the incentive of classical tragedy and comedy.",
+      "zh": "但职业剧团在其固定剧场中蓬勃发展,而具有文学抱负的大学人士很快 转向这些剧场,将其视为一种谋生手段。",
+      "main": "Lyly Kyd had written a tragedy",
+      "chunks": [
+       {
+        "t": "By the time",
+        "r": "介词短语（状语/定语）"
+       },
+       {
+        "t": "that Shakespeare was twenty-five",
+        "r": "定语从句"
+       },
+       {
+        "t": "Lyly",
+        "r": "主语"
+       },
+       {
+        "t": "Peele",
+        "r": "补充说明（同位/修饰）"
+       },
+       {
+        "t": "and Greene had made comedies",
+        "r": "状语从句"
+       },
+       {
+        "t": "that were at once popular and literary",
+        "r": "定语从句"
+       },
+       {
+        "t": "Kyd had written a tragedy",
+        "r": "谓语 + 宾语/表语"
+       },
+       {
+        "t": "that crowded the pit",
+        "r": "定语从句"
+       },
+       {
+        "t": "and Marlowe had (46)By the date of his birth Europe was witnessing the passing of the religious drama",
+        "r": "状语从句"
+       },
+       {
+        "t": "and the creation of new forms under the incentive of classical tragedy and comedy.",
+        "r": "状语从句"
+       }
+      ]
+     },
+     {
+      "i": 5,
+      "en": "(47)no boy who went to a grammar school could be ignorant that the drama was a form of literature which gave glory to Greece and Rome and might yet bring honor to England.",
+      "zh": "到莎士比亚二十五岁时,Lyly、Peele和Greene已经创作出既受欢迎 又具文学性的喜剧;Kyd写出了一部让剧场池座座无虚席的悲剧;而Marlowe则将诗歌和天才带到了普通舞 台上并取得了胜利——自Euripides去世后,它们在那里就不曾出现过。",
+      "main": "(47)no boy",
+      "chunks": [
+       {
+        "t": "(47)no boy",
+        "r": "主语"
+       },
+       {
+        "t": "who went to a grammar school could be ignorant",
+        "r": "定语从句"
+       },
+       {
+        "t": "that the drama was a form of literature",
+        "r": "定语从句"
+       },
+       {
+        "t": "which gave glory to Greece and Rome and might yet bring honor to England.",
+        "r": "定语从句"
+       }
+      ]
+     },
+     {
+      "i": 6,
+      "en": "(48)But the professional companies prospered in their permanent theaters, and university men with literary ambitions were quick to turn to these theaters as offering a means of livelihood.  brought poetry and genius to triumph on the common stage – where they had played no part since the death of Euripides.",
+      "zh": "一种本土的文学戏剧已经诞生,它与 公共剧场的联盟已经确立,而且它至少已经开创了一些伟大的传统。",
+      "main": "(48)But the professional companies prospered in their permanent theaters",
+      "chunks": [
+       {
+        "t": "(48)But the professional",
+        "r": "主语"
+       },
+       {
+        "t": "companies prospered in their permanent theaters",
+        "r": "谓语 + 宾语/表语"
+       },
+       {
+        "t": "and university men with literary ambitions were quick to turn to these theaters as offering a means of livelihood.  brought poetry and genius to triumph on the common stage",
+        "r": "状语从句"
+       },
+       {
+        "t": "where they had played no part",
+        "r": "定语从句"
+       },
+       {
+        "t": "since the death of Euripides.",
+        "r": "状语从句"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The development of the Elizabethan drama for the next twenty-five years is of exceptional interest to students of literary history, for in this brief period we may trace the beginning, growth, blossoming, and decay of many kinds of plays, and of many great careers. We are amazed today at the mere number of plays produced, as well as by the number of dramatists writing at the same time for this London of two hundred thousand inhabitants.",
+    "zh": "此后二十五年间伊丽莎白时代戏剧的发展对于文学史研究者来说具有特殊的意义,因为在这短暂的时期内, 我们可以追溯许多戏剧类型和许多伟大事业的开端、成长、繁盛和衰落。今天,我们对所创作的戏剧的数量 之多感到惊讶,同样令人惊讶的还有在这个拥有二十万居民的伦敦同时为之写作的剧作家的数量。要认识到 戏剧活动有多么繁荣,我们还必须记住,大量的戏剧已经失传,而且可能没有任何一位知名作家的全部作品得 以保存下来。",
+    "no": 3,
+    "sentences": [
+     {
+      "i": 1,
+      "en": "The development of the Elizabethan drama for the next twenty-five years is of exceptional interest to students of literary history, for in this brief period we may trace the beginning, growth, blossoming, and decay of many kinds of plays, and of many great careers.",
+      "zh": "此后二十五年间伊丽莎白时代戏剧的发展对于文学史研究者来说具有特殊的意义,因为在这短暂的时期内, 我们可以追溯许多戏剧类型和许多伟大事业的开端、成长、繁盛和衰落。 今天,我们对所创作的戏剧的数量 之多感到惊讶,同样令人惊讶的还有在这个拥有二十万居民的伦敦同时为之写作的剧作家的数量。",
+      "main": "The development of the Elizabethan drama for the next twenty-five years is of exceptional interest to students of literary history",
+      "chunks": [
+       {
+        "t": "The development of the Elizabethan drama for the next twenty-five",
+        "r": "主语"
+       },
+       {
+        "t": "years is of exceptional interest to students of literary history",
+        "r": "谓语 + 宾语/表语"
+       },
+       {
+        "t": "for in this brief period we may trace the beginning",
+        "r": "介词短语（状语/定语）"
+       },
+       {
+        "t": "growth",
+        "r": "补充说明（同位/修饰）"
+       },
+       {
+        "t": "blossoming",
+        "r": "分词短语（插入语/定语）"
+       },
+       {
+        "t": "and decay of many kinds of plays",
+        "r": "状语从句"
+       },
+       {
+        "t": "and of many great careers.",
+        "r": "介词短语（状语/定语）"
+       }
+      ]
+     },
+     {
+      "i": 2,
+      "en": "We are amazed today at the mere number of plays produced, as well as by the number of dramatists writing at the same time for this London of two hundred thousand inhabitants.",
+      "zh": "要认识到 戏剧活动有多么繁荣,我们还必须记住,大量的戏剧已经失传,而且可能没有任何一位知名作家的全部作品得 以保存下来。",
+      "main": "We are amazed today at the mere number of plays produced",
+      "chunks": [
+       {
+        "t": "We",
+        "r": "主语"
+       },
+       {
+        "t": "are amazed today at the mere number of plays produced",
+        "r": "谓语 + 宾语/表语"
+       },
+       {
+        "t": "as well as by the number of dramatists writing at the same time for this London of two hundred thousand inhabitants.",
+        "r": "介词短语（状语/定语）"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sentences": [
+   {
+    "no": 46,
+    "en": "By the date of his birth Europe was witnessing the passing of the religious drama, and the creation of new forms under the incentive of classical tragedy and comedy."
+   },
+   {
+    "no": 47,
+    "en": "no boy who went to a grammar school could be ignorant that the drama was a form of literature which gave glory to Greece and Rome and might yet bring honor to England."
+   },
+   {
+    "no": 48,
+    "en": "But the professional companies prospered in their permanent theaters, and university men with literary ambitions were quick to turn to these theaters as offering a means of livelihood."
+   },
+   {
+    "no": 49,
+    "en": "A native literary drama had been created, its alliance with the public playhouses established, and at least some of its great traditions had been begun."
+   },
+   {
+    "no": 50,
+    "en": "To realize how great was the dramatic activity, we must remember further that hosts of plays have been lost, and that probably there is no author of note whose entire work has survived."
+   }
+  ],
+  "analysis": "逐句解析\n句前 (N) 即考卷划线句题号，与卷面下划线句一一对应——满分 10 分、每句约 2 分，阅卷把每句切成意群按采\n分点给分（★ 为采分点意群）。\n【来源】William Neilson与Ashley Thorndike合著的The Facts About Shakespeare 一书中的第五\n章 The Elizabethan Drama。\n【主旨】莎士比亚时代英国本土戏剧的兴起与繁荣\n全篇是一段戏剧史综述，态度客观、略带赞叹。开篇即定调：Shakespeare's lifetime was\ncoincident with a period of extraordinary activity and achievement in the drama——莎士比\n亚一生恰逢戏剧空前活跃、成就辉煌的时期。后文顺时间线讲：旧的宗教剧退场、古典悲喜剧催生\n新形式（第1段）→职业剧团兴盛、本土文学戏剧诞生（第2段）→伊丽莎白时代戏剧的繁盛（第3\n段）。这个『戏剧史、褒扬』的基调是判断后面 glory／honor／great traditions 等词取褒义、术\n语统一译法的语境底座。\n(49)A native literary drama had been created, its alliance with the public playhouses\nestablished, and at least some of its great traditions had been begun.\n(50)To realize how great was the dramatic activity, we must remember\nfurther that hosts of plays have been lost, and that probably there is no author of note whose entire work\nhas survived.\n\n【指代】drama / dramatic 全篇统一译『戏剧』\ndrama 在五句中反复出现，the religious drama、A native literary drama、the dramatic\nactivity，全篇指舞台戏剧这一文学样式，统一译『戏剧』，dramatic 译『戏剧（的）』，不要时\n而译『剧本』时而译『话剧』，以免术语前后不一。\nhis（第46句）回指 Shakespeare\n第46句 By the date of his birth 的 his 是孤立看不出的代词，须回到段首 Shakespeare's lifetime\n——his 指莎士比亚，译『他（莎士比亚）出生时』，避免代词断链。\nits（第49句）回指 a native literary drama\n第49句 its alliance with the public playhouses 与 some of its great traditions 中两个 its，都\n回指本句主语 A native literary drama（一种本土文学戏剧）。翻译时把 its 还原为『这种戏剧\n的』，否则读者不知『它的同盟、它的传统』指谁。\nthese theaters / their permanent theaters（第48句）回指常设剧场\n第48句 their permanent theaters 与 turn to these theaters 都指职业剧团的固定剧场。their 指\nthe professional companies（职业剧团），these theaters 复指前面提到的 permanent\ntheaters（常设剧场），译时还原为『这些（常设）剧场』。\n\n(46) By the date of his birth Europe was witnessing the passing of the religious drama, and the\ncreation of new forms under the incentive of classical tragedy and comedy.\n【意群】By the date of his birth（时间状语）★采分→到他出生的时候\n难点：his 回指莎士比亚 + by the date of 译『到……时』\nhis 是孤立看不出的代词，须按第一步还原表回指 Shakespeare's lifetime，即莎士比亚，可译\n『他（莎士比亚）出生时』。by the date of 不是『在……的日期旁』，date 此处指时间点，整\n短语意为『到……这个时候』。\nEurope was witnessing the passing of the religious drama,（主干主谓宾（第一个宾语））★采分\n→欧洲正目睹着宗教剧的消逝\n难点：witness 熟词僻义『见证/经历』+ passing 僻义『消逝』\nwitness 此处不是『目击（罪案）』，而是『（某地、某时代）见证、经历』；the passing 不\n是『通过』，passing 在此是『消逝、消亡、退场』之义（指 the religious drama 宗教剧逐渐\n退出历史舞台）。这两处熟词僻义是本块难点。\nand the creation of new forms（主干宾语（第二个宾语，与 the passing 并列））★采分→以及新\n形式的诞生\n难点：creation 与前面 passing 并列、同作 witnessing 的宾语\nthe creation of new forms 和前面 the passing of the religious drama 由 and 并列，共同作\nwas witnessing 的宾语：欧洲既目睹旧剧『消逝』、又目睹新形式『诞生』。抽象名词 the\ncreation 可具体化为动作『（新形式的）产生、出现』，避免『新形式的创造』这种生硬译法。\nunder the incentive of classical tragedy and comedy.（介词短语作状语（修饰 creation））★采分\n→在古典悲剧和喜剧的激励之下\n难点：incentive 译『推动/激励』+ classical 译『古典（希腊罗马）的』\nincentive 此处是『刺激、推动、激励』，under the incentive of 意为『在……的推动下』；\nclassical 在文学史语境里特指『古典的』，即古希腊罗马的悲剧喜剧（呼应下段 Greece and\nRome），不要译成『经典的』。\n【调序】时间状语提前 + 两个并列宾语用『目睹……，又目睹……』串接\n英语 By the date of his birth 时间状语在句首，汉语本就习惯时间在前，原序保留即可。was\nwitnessing 后接两个并列宾语，汉语为读通可重复动词：『欧洲目睹着宗教剧的消逝，也目睹\n着……新形式的诞生』。句末状语 under the incentive of… 修饰 creation，按汉语『状语在中心\n词前』提到『新形式的诞生』之前译成『在古典悲喜剧推动下（产生的）新形式』。\n【译文】到他（莎士比亚）出生的时候，欧洲正见证着宗教剧的消逝，以及在古典悲剧和喜剧\n的推动下新戏剧形式的诞生。\n\n(47) no boy who went to a grammar school could be ignorant that the drama was a form of\nliterature which gave glory to Greece and Rome and might yet bring honor to England.\n【意群】no boy who went to a grammar school could be ignorant（主干（含 who 定语从句）+ 双重否定）\n★采分→没有哪个上过文法学校的男孩会不知道\n难点：no…ignorant 双重否定 + grammar school 固定译名\nno（否定主语）+ be ignorant（『不知道、无知』本身含否定）= 双重否定，须译成肯定语\n气：『凡是上过……的男孩，都知道』，或保留『没有谁会不知道』。这是 A6 含蓄否定的盲\n区，直译『没有男孩能无知』会读不通。grammar school 是历史专名『文法学校』（教授拉丁\n语法的中学），不要望文译成『语法学校』。\nthat the drama was a form of literature（ignorant 后的 that 宾语从句（主干））★采分→戏剧是\n文学的一种形式\n难点：a form of literature 译『一种文学形式』\nthat 引导 be ignorant of 的内容从句（of 省略），是『（不）知道』的具体内容；a form of\nliterature 即『一种文学形式／文学样式』，drama 仍按全篇统一译『戏剧』。\nwhich gave glory to Greece and Rome（which 后置定语从句（修饰 literature））★采分→这种文\n学形式曾为希腊和罗马带来荣耀\n难点：which 指 a form of literature（即戏剧）+ gave glory to 译『给……带来荣耀』\nwhich 的先行词是 a form of literature（亦即 the drama）；gave glory to 不是『给希腊罗马\n以荣耀地』，glory 作宾语，意为『（曾）为希腊和罗马增光／带来荣耀』，呼应上文 classical\n古典戏剧的辉煌。\nand might yet bring honor to England.（与 gave 并列的第二个谓语（同属 which 从句））★采分→\n并且或许还会给英国带来荣誉\n难点：yet 译『（将来）还／仍』+ 与 gave glory 并列\nand 连接 which 从句内两个谓语 gave… 和 might yet bring…；yet 在此不是『但是』，而是\n『（迄今尚未、但将来）还会、仍会』之义，might yet bring honor 译『（将来）或许还会给\n英国带来荣誉』，与前面给希腊罗马带来荣耀形成『过去—未来』呼应。\n【调序】双重否定转肯定 + which 长定语从句拆成后置分句\n① 主干双重否定 no…ignorant 调为肯定：『凡上过文法学校的男孩，都明白……』，who 定语从\n句较短前移作『……的男孩』。② which 引导的定语从句很长、内含 and 并列两个谓语，不宜前移\n塞进先行词前，宜拆出来后置，用代词或重复先行词另起一分句：『这种文学形式曾为希腊和罗马\n带来荣耀，（将来）也许还会为英国增光』。\n【译文】凡是上过文法学校的男孩，没有谁会不知道：戏剧是一种文学形式，它曾为希腊和罗\n马带来荣耀，或许将来还会为英国增光。\n\n(48) But the professional companies prospered in their permanent theaters, and university men\nwith literary ambitions were quick to turn to these theaters as offering a means of livelihood.\n【意群】But the professional companies prospered in their permanent theaters,（第一个并列分句（主干主\n谓+地点状语））★采分→但是职业剧团在他们的常设剧场里兴盛起来\n难点：companies 熟词僻义『剧团』+ permanent theaters『常设剧场』\ncompany 此处不是『公司』，戏剧语境中 the professional companies 指『职业（演出）\n剧团／戏班』；their 回指 companies；permanent theaters 与上文临时演出相对，指『固\n定的／常设的剧场』（呼应 the first public playhouse was built）。prospered 译『兴盛、\n繁荣』。\nand university men with literary ambitions（第二个并列分句的主语（with 介词短语作定语））★采\n分→怀有文学抱负的大学才子们\n难点：university men 译『大学才子／受过大学教育的人』+ with 短语后置定语前移\nuniversity men 不是泛泛『大学里的男人』，指『受过大学教育、有学问的人（大学才子）』；\nwith literary ambitions 是后置定语修饰 university men，汉语提前译『怀有文学抱负的（大学\n才子）』。\nwere quick to turn to these theaters（第二分句谓语）★采分→很快转向这些剧场\n难点：be quick to do 译『迅速／急于做』+ these theaters 回指常设剧场\nbe quick to do 不是『在剧场里很快』，固定结构意为『迅速地、急于（做某事）』；turn to\n此处是『转向、投身于』；these theaters 回指上文 their permanent theaters，即那些常设剧\n场，须还原指代。\nas offering a means of livelihood.（as 引导的方式/原因状语（非谓语 offering））★采分→因为\n（这些剧场）提供了一种谋生手段\n难点：as offering 表原因『因其提供』+ a means of livelihood 固定搭配\nas + 现在分词 offering 在此表原因／看待方式，意为『把剧场看作（因其）提供……』，可译\n『因为它们提供了……』；a means of livelihood 是固定搭配，means 此处是单复同形的『手\n段、方法』，译『一种谋生（的）手段』，不要把 means 误当复数或译『意义』。\n【调序】with 后置定语前移 + as offering 译成原因分句\n① university men with literary ambitions：with 短语后置定语提到中心词前，译『怀有文学抱\n负的大学才子』。② as offering a means of livelihood：非谓语状语转译为原因小句『因为（这\n些剧场）能提供一种谋生手段』，放到主句之后或之前皆可，汉语习惯把原因略前置或顺承。两个\n并列分句用『……，而……』连接，保留 But 的转折。\n【译文】但是，职业剧团在自己的常设剧场里日渐兴盛，怀有文学抱负的大学才子们也纷纷转\n向这些剧场，因为剧场为他们提供了一种谋生的手段。\n\n(49) A native literary drama had been created, its alliance with the public playhouses established,\nand at least some of its great traditions had been begun.\n【意群】A native literary drama had been created,（第一个并列分句（被动语态主干））★采分→一种本土\n的文学戏剧已经被创造出来\n难点：native 译『本土的』+ had been created 被动转主动/无主句\nnative 此处指『本国的、本土的』（与上文从外国引入的 classical 古典剧相对）；had been\ncreated 是被动语态，汉语可转主动或无主句『（一种本土文学戏剧）已经诞生／已经形成』，\n避免『被创造』的翻译腔。这是后两个分句两个 its 的回指对象，须记牢。\nits alliance with the public playhouses established,（第二个并列分句（独立主格结构，省略 had\nbeen））★采分→它与公共剧场的同盟已经建立\n难点：its 回指 native literary drama + alliance 译『结合/联盟』+ 省略 had been\nits 回指首句 A native literary drama，译『这种戏剧的』；alliance 不一定译『军事同盟』，\n此处指戏剧与剧场的『结合、联系、联盟』；本分句是独立主格，established 前省略了 had\nbeen（承前），补全为 its alliance… had been established，译『（这种戏剧）与公共剧场的\n结合也已建立』。\nand at least some of its great traditions had been begun.（第三个并列分句（被动语态））★采分\n→并且至少它的一些伟大传统已经开始\n难点：its 再次回指该戏剧 + at least some of 程度范围词 + had been begun 被动\n第二个 its 仍回指 A native literary drama；at least some of 是程度／范围限定『至少一部\n分』，不可漏译或译成『所有』（A7 程度范围词失察）；its great traditions 译『它的一些伟\n大传统』，had been begun 被动转主动『已经开创／已经奠定』。\n【调序】三个被动并列分句统一转主动 + its 还原为名词\n三个分句结构平行，逐一把被动转为汉语主动/完成态：had been created→『已经诞生／形\n成』；（had been）established→『已经建立』；had been begun→『已经开创』。两个 its\n还原为『这种戏剧的』。三句用『……，……，而……』顺承并列，保持原文层层推进（戏剧诞生→\n与剧场结合→传统开创）的气势。\n【译文】一种本土的文学戏剧已经诞生，它与公共剧场的结合也已建立，而且它至少有一些伟\n大的传统已经开创。\n\n(50) To realize how great was the dramatic activity, we must remember further that hosts of plays\nhave been lost, and that probably there is no author of note whose entire work has survived.\n【意群】To realize how great was the dramatic activity,（目的状语（to do）+ 内含感叹/倒装宾语从句）★\n采分→要认识到戏剧活动有多么繁荣\n难点：To realize 目的状语提前 + how great was… 倒装 + dramatic activity 术语\n句首 To realize… 是目的状语，译『要（想）认识到……』；how great was the dramatic\nactivity 是 realize 的宾语从句，how great 提前引起的倒装，还原语序为 how great the\ndramatic activity was，译『戏剧活动（创作）有多么繁荣／空前活跃』；dramatic activity 承\n上文 the dramatic activity，统一术语。\nwe must remember further that hosts of plays have been lost,（主干主谓 + 第一个 that 宾语从\n句）★采分→我们必须进一步记住，大量剧本已经失传\n难点：hosts of 熟词僻义『大量的』+ further 译『进一步』+ have been lost『失传』\nhosts of 不是『主人们』，host of / hosts of 是固定搭配『大量的、许多的』；further 此处是\n『进一步、还要』；have been lost 被动，结合 plays（剧本）语境译『已经失传／散佚』，比\n『被丢失』地道。\nand that probably there is no author of note（第二个 that 宾语从句（与前并列）的主干）★采分→\n而且大概没有哪个知名作家\n难点：of note 熟词僻义『有名的』+ no…（双重否定铺垫）\nand that 与前一个 that 并列、同作 remember 的宾语；author of note 中 of note 是固定短\n语『有名的、知名的』（note 此处=名声），译『知名作家／有名望的作家』，不是『笔记』；\nprobably 译『大概、很可能』；no author… 与下文 whose entire work has survived 配合构\n成『没有谁……是完整保存的』的含蓄否定。\nwhose entire work has survived.（whose 后置定语从句（修饰 author））★采分→其全部作品都\n流传了下来\n难点：whose 指 author + survive 熟词僻义『留存/流传至今』+ 与 no 合成『没有谁的全部\n作品都留存』\nwhose 的先行词是 author of note；survive 此处不是『幸存（于灾难）』，而是『（作品）留\n存、流传至今』；no author… whose entire work has survived 直译『没有作家其全部作品都\n留存了』，即『几乎没有哪位名家的作品能完整流传下来』，这一含蓄否定要译出『几乎没\n有……是完整的』的意味。\n【调序】目的状语前置 + how great 倒装还原 + whose 定语从句后置\n① To realize… 目的状语汉语习惯放句首，译『要想认识到……』。② how great was the\ndramatic activity 倒装还原为陈述语序再译『戏剧活动有多么繁荣』。③ 两个 that 宾语从句顺译\n为『记住：一是……，二是……』。④ no author of note whose entire work has survived：\nwhose 定语从句若前移会很长，宜与主句合译为一个否定判断『几乎没有哪位知名作家的全部作品\n能完整流传下来』。\n【译文】要想认识到当时的戏剧活动多么繁荣，我们还必须记住：大量剧本已经失传，而且很\n可能没有哪一位知名作家的全部作品能够完整地流传至今。\n\nS E N T E N C E I N S I G H T S · 句子精讲\n5 句真题句逐层精讲\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nThese new forms were at first mainly written by scholars and performed by\namateurs, but in England, as everywhere else in western Europe, the growth of a\nclass of professional actors was threatening to make the drama popular, whether it\nshould be new or old, classical or medieval, literary or farcical.\n第1段，第3句\n综合来看,本句结构典型、成分丰富、时态多样,涵盖被动语态、进行时态、情态动词等多个学习要\n点,且主干识别和嵌套理解有一定挑战但不至于过难,作为句子结构和时态训练材料具有较高性价比,\n值得优先练习\nCourt, school, organizations of amateurs, and the traveling actors were all rivals in\nsupplying a widespread desire for dramatic entertainment; and no boy who went\nto a grammar school could be ignorant that the drama was a form of literature\nwhich gave glory to Greece and Rome and might yet bring honor to England.\n第1段，第4句\n综合来看，该句难度适中，虽然时态不复杂，但嵌套层级清晰、并列结构丰富、逻辑连贯，极具句\n法结构分析的教学和训练价值。\nPlays aiming at literary distinction were written for schools or court, or for the\nchoir boys of St. Paul's and the royal chapel, who, however, gave plays in public as\nwell as at court.\n第2段，第3句\n被动语态 + 介词短语作状语,以及非限制性定语从句修饰前文名词,是四六级和考研阅读中的常见句\n式。这种结构在学术文本和历史叙述中频繁出现,学习者掌握后可以应用到大量类似句子的理解中,\n具有较强的迁移价值。\n\nBy the time that Shakespeare was twenty-five, Lyly, Peele, and Greene had made\ncomedies that were at once popular and literary; Kyd had written a tragedy that\ncrowded the pit; and Marlowe had brought poetry and genius to triumph on the\ncommon stage – where they had played no part since the death of Euripides.\n第2段，第5句\n此类“时间状语 + A做了某事; B做了某事; 且C做了某事”的排比并列结构在考研英语和文学类真题中\n非常典型，具有极高的复用价值。\nTo realize how great was the dramatic activity, we must remember further that\nhosts of plays have been lost, and that probably there is no author of note whose\nentire work has survived.\n第3段，第3句\n句首不定式表目的、主句带并列宾语从句、定语从句修饰宾语从句内部成分,这些都是四六级和考\n研阅读中的高频句式;存在句和倒装从句虽稍复杂,但仍属典型学术写作结构,掌握后可广泛迁移\nH I G H - F R E Q U E N C Y · 真题高频词\n本篇出现的 46 个考研英语一真题高频词\n下列单词既在本篇英文短文中出现，又是 考研英语一 历年真题的高频词（在该考试真题\n中出现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查\n看该词的释义、音标、词形与真题例句。\nliterary\nB2\nadj. 文学的\n本篇6 次 · 真题 15 句\ndrama\nB1\nn. 戏剧\n本篇6 次 · 真题 8 句\ncourt\nA2\nn. 法院\n本篇3 次 · 真题 82 句\ngrowth\nB1\nn. 增长\n本篇2 次 · 真题 80 句\nprofessional\nB1\nadj. 专业的\n本篇2 次 · 真题 46 句\namateur\nB2\nn. 业余爱好者\n本篇2 次 · 真题 18 句\n\nliterature\nB2\nn. 文学\n本篇2 次 · 真题 14 句\nclassical\nB2\nadj. 古典的\n本篇2 次 · 真题 13 句\nstage\nA2\nn. 阶段\n本篇2 次 · 真题 13 句\ndramatic\nB2\nadj. 巨大的\n本篇2 次 · 真题 10 句\nauthor\nA2\nn. 作者\n本篇1 次 · 真题 209 句\nleast\nA2\ndet. 最少的\n本篇1 次 · 真题 63 句\ncareer\nB1\nn. 职业\n本篇1 次 · 真题 42 句\ndesire\nB2\nn. 愿望\n本篇1 次 · 真题 37 句\naim\nB1\nv. 瞄准\n本篇1 次 · 真题 35 句\nfurther\nB1\nadv. 更远地\n本篇1 次 · 真题 34 句\norganization\nB1\nn. 组织\n本篇1 次 · 真题 28 句\nestablish\nB2\nv. 建立，创立（组织、机构、关系等）\n本篇1 次 · 真题 27 句\nmainly\nB1\nadv. 主要地\n本篇1 次 · 真题 26 句\nmeans\nA2\nn. 方法\n本篇1 次 · 真题 25 句\nthreaten\nB1\nv. 威胁;恐吓\n本篇1 次 · 真题 24 句\nambition\nB2\nn. 雄心\n本篇1 次 · 真题 23 句\n\nachievement\nB1\nn. 成就\n本篇1 次 · 真题 21 句\ntradition\nB1\nn. 传统\n本篇1 次 · 真题 20 句\nperform\nB1\nv. 执行\n本篇1 次 · 真题 19 句\nsurvive\nB1\nv. 幸存\n本篇1 次 · 真题 19 句\ncreation\nB2\nn. 创造\n本篇1 次 · 真题 18 句\nroyal\nB1\nadj. 王室的\n本篇1 次 · 真题 17 句\nincentive\nB2\nn. 激励\n本篇1 次 · 真题 16 句\nnative\nB1\nadj. 本国的\n本篇1 次 · 真题 16 句\nrealize\nB1\nv. 意识到，认识到\n本篇1 次 · 真题 16 句\npoetry\nB1\nn. 诗歌\n本篇1 次 · 真题 15 句\nreligious\nB1\nadj. 宗教的\n本篇1 次 · 真题 15 句\nscholar\nB2\nn. 学者\n本篇1 次 · 真题 15 句\nentire\nB1\nadj. 整个的\n本篇1 次 · 真题 13 句\ntrace\nB2\nv. 追踪;查找\n本篇1 次 · 真题 13 句\nwidespread\nB2\nadj. 广泛的\n本篇1 次 · 真题 13 句\nrival\nB2\nn. 竞争对手\n本篇1 次 · 真题 12 句\n\nbeginning\nA1\nn. 开始\n本篇1 次 · 真题 11 句\nwitness\nB2\nn. 目击者\n本篇1 次 · 真题 11 句\nhost\nB1\nn. 主人\n本篇1 次 · 真题 10 句\npermanent\nB2\nadj. 永久的\n本篇1 次 · 真题 10 句\nbrief\nB1\nadj. 简短的;短暂的\n本篇1 次 · 真题 9 句\ndistinction\nB2\nn. 区别\n本篇1 次 · 真题 9 句\nmere\nB2\nadj. 仅仅的\n本篇1 次 · 真题 9 句\ntriumph\nB2\nn. 巨大成功\n本篇1 次 · 真题 8 句\nV O C A B U L A R Y · 词汇难度分布\n英文短文 161 词按 CEFR 难度累积覆盖\n英文短文去重后共 161 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」\n的累积占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 9 个 ·\n约 6%。\n41%\nA1\n及以下\n60%\nA2\n及以下\n78%\nB1\n及以下\n94%\nB2\n及以下\n100%\nC1\n及以下\n100%\nC2\n及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为英文短文去重词 161 个 · 末柱为 100%\n\n去重总词数\n161\nB2 以上难词\n6%\nB1 及以下覆盖\n78%\n考研英语一\n2018年 · 全卷构成\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →\n段落排序\n题目解析 →\n本题\n题目解析 →\n题目解析 →"
+ },
+ "writing": {
+  "A": "2018年考研英语一写作（小作文） · 题目、范文与解析\nP R O M P T & M O D E L E S S A Y · 写作题和范文\n写作题和范文\n试卷排版同一卷面：完整写作要求（Directions，含主题、文体、词数与署名约束）连续\n排印。写作是生产性任务、无 ABCD 标准答案——题面即整道题；卷面下方直接给出满\n足全部硬约束的参考范文、整篇中译与逐段拆解。\n英语一真题(2018)\nDirections:\nWrite an email to all international experts on campus inviting them to attend the graduation ceremony. In\nyour email you should include time, place and other relevant information about the ceremony.\nYou should write about 100 words neatly on the ANSWER SHEET.\nDo not use your own name at the end of the email. Use “Li Ming” instead. (10 points)\n【参考范文 · 106 词】\n写作无唯一标准答案，以下为达标示范\nDear experts, On behalf of our university, I am writing to cordially invite you, our respected international\nexperts, to attend the graduation ceremony of this year's graduates.\nThe ceremony will be held at 9:00 a.m. on June 28th in the main auditorium of our campus. It will feature the\nconferring of degrees and speeches from professors and student representatives. Formal dress is recommended,\nand please arrive fifteen minutes early to be seated.\nWe would be truly honored to have you share this memorable occasion with us. Your presence would mean a\ngreat deal to our graduates. Thank you for your continued support. Yours sincerely, Li Ming\n【参考译文】\n尊敬的各位专家：\n谨代表我校，我写信诚挚邀请各位尊敬的外籍专家出席今年毕业生的毕业典礼。\n典礼将于 6 月 28 日上午 9 点在我校主礼堂举行。典礼内容包括授予学位以及教授和学生代表致辞。建议\n着正装，并请提前十五分钟入座。\n若能有各位与我们共度这一难忘时刻，我们将深感荣幸。您的到场对我们的毕业生意义非凡。感谢各位一\n贯的支持。\n此致 李明\n\n【第 1 段】首段亮身份表来意。用 On behalf of our university, I am writing to cordially invite you...\n落实“开门见山表来意”：一句点出校方身份并直陈邀请目的，完成 outline 第一段“称呼＋写信目的”的功\n能，正式敬语 cordially invite 也定住了语域。\n【第 2 段】要点段逐项落实。held at 9:00 a.m. on June 28th 落时间，in the main auditorium 落地\n点，conferring of degrees and speeches 与 Formal dress is recommended, and please arrive\nfifteen minutes early 落其他信息——正是“细节落地不空喊”，把三个须覆盖要点全部数得清。\n【第 3 段】礼貌收尾正确署名。We would be truly honored... 表期待、Thank you for your\ncontinued support 致谢，末尾 Yours sincerely, Li Ming 完成“礼貌收束再落款”，且严格用了 Li\nMing、没写真名，守住本题最致命的署名硬约束。\nA N A L Y S I S · 审题与立意\n这道题到底要写什么、立意是什么\n动笔前先钉死本题的核心写作任务与读者语域 ，再定中心立意与要展开的要点 —— 这些\n是本题特有的内容判断，不是通用套路。\n核心任务\n邀外专赴毕业典礼\n本题要写的是一封邀请函式的邮件：Write an email to all international experts on campus，目\n的是 inviting them to attend the graduation ceremony。一句话钉死——以校方名义诚挚邀请\n在校外籍专家出席今年的毕业典礼，并把 you should include time, place and other relevant\ninformation about the ceremony 交代清楚。\n读者 · 语域\n写给外籍专家须正式礼貌\n读者是 all international experts on campus，即在校的外籍专家，身份受尊重、与你非熟人关\n系，所以语域必须正式、礼貌、得体，称呼用 Dear experts，敬语用 cordially invite、would\nbe honored 一类。落款尤其关键：Do not use your own name at the end of the email，必须\n署名 Li Ming——这是考研一 A 节应用文最爱设的陷阱，写真名直接失分。\n\n中心立意\n以校方名义诚邀出席\n本信的交际目的：代表学校诚挚邀请在校外籍专家出席毕业典礼，并把 time, place and other\nrelevant information about the ceremony 一次性交代到位，让对方看完就知道“什么时候、去\n哪儿、要注意什么”。\n要展开的要点\n1. 表明来意——发出邀请\n开门见山说明写信是为 inviting them to attend the graduation ceremony，一句把目的讲清，\n不铺垫废话。\n2. 交代时间（time）\n落实须覆盖要点 time：写到具体日期加钟点，如“6 月 28 日上午 9 点”，而不是含糊的“next\nmonth”。\n3. 交代地点（place）\n落实须覆盖要点 place：写到具体场馆，如“校内主礼堂 main auditorium”，让对方能找到。\n4. 其他相关信息\n把抽象的 other relevant information about the ceremony 落地成典礼流程（授学位、致辞）、\n着装建议、提前到场提示等，一两条即可。\n5. 表达期待与致谢\n结尾表达期待对方出席、感谢其一贯支持，既礼貌又收束全篇。\nS T R U C T U R E · 谋篇与逐段\n怎么分段、每段写什么、能套哪些句架\n按写作家族给出现成的段落框架（每段承担什么功能），并为每段配可直接套用的 功能\n句架（留出填本题内容的空位）。段序与上方参考范文一一对应。\n第 1 段\n称呼＋写信目的\n以 Dear experts 称呼，一句话点明来意——代表学校 inviting them to attend the\ngraduation ceremony。\n\n第 2 段\n集中交代时间地点及细节\n把 time, place and other relevant information about the ceremony 集中在这一段说清：\n具体时间、具体场馆、典礼流程与着装到场提示。\n第 3 段\n礼貌收束＋落款\n表达期待对方出席与致谢，末尾按要求署名 Li Ming，绝不写真名。\n第 1 段\n代表校方发出邀请\n内容落点：以学校名义，诚挚邀请各位外籍专家出席今年的毕业典礼，呼应 inviting them to\nattend the graduation ceremony，一句到位不展开。\n亮明写信目的\n· I am writing to cordially invite you to ＿＿（要邀请对方参加的活动）.\n点出发信身份\n· On behalf of ＿＿（机构／集体）, we would be honored to ＿＿（做某\n事）.\n第 2 段\n时间＋地点＋流程着装\n内容落点：典礼于 6 月 28 日上午 9 点在校内主礼堂举行；流程含授予学位与师生代表致辞；\n建议着正装并提前十五分钟入座——把 other relevant information about the ceremony 落到\n实处。\n交代时间地点\n· The ＿＿（活动）will be held at ＿＿（具体时间）in ＿＿（具体地\n点）.\n补充流程与提示\n· It will feature ＿＿（流程／亮点）; ＿＿（着装或到场提示，如\nformal dress is recommended）.\n\n第 3 段\n表达期待并署名\n内容落点：表达非常荣幸能有对方出席、感谢其一贯支持，末尾严格按要求署名——Do not\nuse your own name at the end of the email，只写 Li Ming。\n表达期待\n· We would be truly honored to have you ＿＿（出席／参与某场合）.\n致谢收尾\n· Thank you for your ＿＿（支持／关注）. Yours sincerely, ＿＿（署名）\nR E V I E W · 自检避坑\n本题在四个评分维度怎样算达标、容易在哪丢分\n按阅卷四维（内容切题 / 结构连贯 / 语言准确 / 字数格式）给出本题达标要点，并把最容\n易踩的低分写法摆出来 + 给改法 —— 这是写作版的「狠拆诱人错项」。\n内容切题\ntime/place/other 三点齐\n本题达标线是把 time, place and other relevant information about the ceremony 三\n点全写到；最易失分是只笼统说“邀请你来”而漏掉时间或地点。\n结构连贯\n目的—信息—致谢分层\n本题按“邀请→时间地点细节→期待致谢”三段推进即连贯；忌把 time、place 和致谢\n混在一段、也忌通篇不分段。\n语言准确\n得体敬语＋正确搭配\n本题应多用礼貌邀请语域，如 We would be honored to have you；忌逐字直译成\nwelcome you to come to join happily 一类中式英语。\n字数格式\n篇幅达标＋署名合规\n本题要求 about 100 words，写成两三百词或寥寥数句都失分；格式上称呼与结尾敬\n语不可缺，落款务必是 Li Ming。\n典型低分写法 · 反面示例与改法\n\n落款写真名\n反面示例：Yours sincerely, Zhang Wei（写了自己真名）。题目明确 Do not use your own name at\nthe end of the email，应改为 Yours sincerely, Li Ming。\n漏写时间地点\n反面示例：We sincerely invite you to our graduation ceremony. We hope you can come.（通篇没\n有时间、地点）。应补足具体信息，如 The ceremony will be held at 9:00 a.m. on June 28th in the\nmain auditorium.\n中式英语凑字\n反面示例：The time is very good and the place is very big and beautiful, welcome you to come to\njoin us very happily.（中式直译、注水）。应改为简洁得体的一句：You are cordially invited to join\nus on this special occasion.\n缺称呼落款\n反面示例：直接以 We invite you to the ceremony... 开头、以句号结束全篇，无称呼无落款。应补\n上 Dear experts, 开头与 Yours sincerely, Li Ming 结尾。\n\n考研英语一\n2018年 · 全卷构成\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →\n段落排序\n题目解析 →\n题目解析 →\n本题\n题目解析 →",
+  "B": "2018年考研英语一写作（大作文） · 题目、范文与解析\nP R O M P T & M O D E L E S S A Y · 写作题和范文\n写作题和范文\n试卷排版同一卷面：完整写作要求（Directions，含主题、文体、词数与署名约束）、真\n题配图连续排印。写作是生产性任务、无 ABCD 标准答案——题面即整道题；卷面下方\n直接给出满足全部硬约束的参考范文、整篇中译与逐段拆解。\n英语一真题(2018)\nDirections:\nWrite an essay of 160-200 words based on the picture below. In your essay, you should\n1)describe the picture briefly,\n2)interpret the meaning, and\n3)give your comments.\nYou should write neatly on the ANSWER SHEET.（20 points）\n\n【参考范文 · 185 词】\n写作无唯一标准答案，以下为达标示范\nAs is vividly depicted in the drawing, a student sits before a computer whose screen displays a course-selection\nsystem. Pointing his finger at the screen, he is caught between two voices: the left bubble praises courses that\nare innovative, cutting-edge yet demanding, while the right one favours those offering high marks, easy passes\nand little homework.\nSimple as it seems, the picture conveys a thought-provoking message about how many college students make\nchoices today. Rather than asking what a course can truly teach them, they weigh only how effortlessly they\ncan earn a good grade. This utilitarian mindset, if left unchecked, gradually turns learning from a pursuit of\nknowledge into a hunt for the easiest reward, hollowing out the very purpose of higher education.\nIn my view, we should firmly resist such short-sighted temptation. A challenging course may cost more time\nand effort, but it is precisely difficulty that sharpens our thinking and prepares us for real problems ahead.\n\nTherefore, both students and universities ought to value genuine growth over comfortable grades, so that\neducation can once again nourish minds rather than merely decorate transcripts.\n【参考译文】\n正如漫画生动描绘的那样，一名学生坐在电脑前，屏幕上显示着选课系统。他用手指指着屏幕，被两种声\n音拉扯着：左边的对话框推崇那些知识新颖、注重创新却有难度的课程，右边的则青睐给分高、容易通\n过、作业又少的课程。\n画面虽然简单，却传递出一个发人深省的信息，折射出如今许多大学生是怎样做选择的。他们不去问一门\n课究竟能教会自己什么，而只掂量能多轻松地拿到好分数。这种功利心态若不加遏制，会渐渐把学习从对\n知识的追求变成对最省力回报的追逐，掏空高等教育本来的意义。\n在我看来，我们应当坚决抵制这种短视的诱惑。一门有难度的课或许要花更多时间和精力，但恰恰是难度\n磨砺了我们的思维，让我们为将来真正的问题做好准备。因此，学生和高校都应当把真实的成长看得比舒\n适的高分更重，好让教育重新滋养心智，而不只是装点成绩单。\n【第 1 段】描述段落实客观描述。开头 As is vividly depicted 客观入题，随后 he is caught between\ntwo voices 把左右对话框的对立摆出来，全段只描述不评论，正是第一段要承担的功能，也用上了『客\n观描述入题』与『呈现画面冲突』两个句架。\n【第 2 段】释义段升华为社会现象。用 Simple as it seems, the picture conveys a thought-\nprovoking message 由画转意，再以 Rather than asking what a course can truly teach them 点出功\n利心态，把具体画面升华成一种普遍现象，完成寓意引申。\n【第 3 段】评论段表态并呼吁。In my view, we should firmly resist 旗帜鲜明表态，precisely\ndifficulty that sharpens our thinking 给出理由，末句 both students and universities ought to\nvalue genuine growth 以呼吁收尾，回扣第二段寓意。\nA N A L Y S I S · 审题与立意\n这道题到底要写什么、立意是什么\n动笔前先钉死本题的核心写作任务与读者语域、读懂配图 ，再定中心立意与要展开的要\n点 —— 这些是本题特有的内容判断，不是通用套路。\n核心任务\n评图画谈功利选课\n一句话钉死：这是一篇图画评论议论文，describe the picture briefly、interpret the meaning、\ngive your comments三件事必须按序做全——先客观描述那幅选课漫画，再点出它讽刺的功利\n求学心态，最后表明你自己的态度。任务对象是画面本身，不是给谁写信。\n\n读者 · 语域\n面向阅卷人的正式书面语\n本题是大作文、没有具体收信人，虽然 give your comments要你亮出个人看法，但通篇仍须用\n面向阅卷人的正式书面语，避免口语缩写与网络用语。开头用一句 As is depicted 之类的客观\n句式入题即可，不需要称呼、问候和署名——加了反而不合图画作文的体例。\n配图要读出\n选课两难：真本事 vs 好拿分\n画面主体是 一位男士坐在办公桌前，面前摆放着一台电脑，屏幕显示 选课系统，男士左手食\n指指向屏幕，正在犹豫点哪门课。真正的可写点是两个对话框的对立：左侧 知识新、重创新、\n有难度代表能学到真本事却费力的课，右侧 给分高、易通过、作业少代表轻松拿高分的水课\n——这一对立就是全文寓意的唯一来源。\n中心立意\n求学应重真知而非轻松高分\n中心论点：无论选课还是求学，都应看重能否学到真才实学，而不是只图给分高、轻松过关。\n这正是漫画要我们在 interpret the meaning与 give your comments环节读出并表明的态度。\n要展开的要点\n1. 描述要点：学生在选课系统前两难\n第一个写作要点是客观描述画面——一名学生用 选课系统选课，被两种声音拉扯：一边要 知识\n新、重创新、有难度的硬课，一边要 给分高、易通过、作业少的水课。\n2. 寓意要点：功利选课弃真知\n第二个要点是引申寓意——这幅画折射当下不少大学生的功利心态：衡量一门课先看好不好\n过、给分高不高，而非能学到什么，久而久之把求学异化成了『刷绩点』。\n3. 评论要点：应重成长而非高分\n第三个要点是表态评论——应抵制这种短视，指出难度恰恰锤炼思维、更能应对真实问题，呼\n吁学生与高校都把真实成长置于轻松高分之上。\nS T R U C T U R E · 谋篇与逐段\n怎么分段、每段写什么、能套哪些句架\n\n按写作家族给出现成的段落框架（每段承担什么功能），并为每段配可直接套用的 功能\n句架（留出填本题内容的空位）。段序与上方参考范文一一对应。\n第 1 段\n客观描述画面\n用一到两句话交代画面主体与左右对话框的对立，只描述、不评论，对应 describe the\npicture briefly。\n第 2 段\n引申画面寓意\n把选课这一具体场景上升为一种社会现象，点明漫画所讽刺的功利求学心态，对应\ninterpret the meaning。\n第 3 段\n表态评论收束\n亮出个人态度并给出理由或做法，呼应第二段寓意、有力收尾，对应 give your\ncomments。\n第 1 段\n学生面对选课系统被两种声音拉扯\n本段内容落点：一名学生坐在 选课系统前，男士左手食指指向屏幕，左侧声音要 知识新、重\n创新、有难度，右侧声音要 给分高、易通过、作业少，两难跃然纸上。\n客观描述入题\n· As is vividly depicted in the drawing, ＿＿（画面主体在做什么）.\n呈现画面冲突\n· He is caught between two voices: one ＿＿, while the other ＿＿.\n\n第 2 段\n折射功利求学、弃真知的心态\n本段内容落点：漫画折射出不少大学生选课先问好不好过、给分高不高，而非能学到什么，\n把 知识新、重创新、有难度的硬课让位给 给分高、易通过、作业少的水课，求学由此异化为\n刷分。\n由画面转入寓意\n· Simple as it seems, the picture conveys a thought-provoking message\nabout ＿＿.\n点明现象实质\n· Rather than asking ＿＿, many people care only about ＿＿.\n第 3 段\n抵制短视，重成长而非高分\n本段内容落点：反对只图轻松高分的短视，指出难度锤炼思维、更能应对真实问题，呼吁学\n生与高校都把真实成长置于 给分高、易通过、作业少式的舒适之上。\n旗帜鲜明表态\n· In my view, we should firmly ＿＿ such ＿＿.\n让步后给理由\n· A ＿＿ choice may cost more effort, but it is precisely ＿＿ that ＿＿.\n呼吁式收尾\n· Therefore, both ＿＿ and ＿＿ ought to value ＿＿ over ＿＿.\nR E V I E W · 自检避坑\n本题在四个评分维度怎样算达标、容易在哪丢分\n按阅卷四维（内容切题 / 结构连贯 / 语言准确 / 字数格式）给出本题达标要点，并把最容\n易踩的低分写法摆出来 + 给改法 —— 这是写作版的「狠拆诱人错项」。\n内容切题\n三任务齐全且各成一段\n本题最容易漏掉『释义』或把描述与评论混写在一起。确保 describe the picture\nbriefly、interpret the meaning、give your comments三段分明、各司其职，就守住\n了内容分。\n\n结构连贯\n三段对齐三任务并有过渡\n本题描述—寓意—评论逐段推进，段首用 Rather than、In my view、Therefore 等衔\n接，避免三段各说各话、缺少逻辑链条。\n语言准确\n描述用现在时慎用高级句\n本题描述部分统一用现在时（sits、points、is caught）；想用 as is depicted、\nconveys 等描述性句式时，务必确认搭配正确，别为炫技反而写错。\n字数格式\n描述短、二三段足、词数达标\n本题硬性要求 160-200 words，且描述段写太长会挤占释义与评论；保持三段均衡、\n字数卡在区间内，是拿分的底线。\n典型低分写法 · 反面示例与改法\n通篇只描述画面\n反面示例：全文反复写 The man sits before a computer and points at the screen, and there are\ntwo boxes beside him，直到结尾也没点出讽刺什么。修正：描述一句带过，第二段立刻写 the\npicture reveals many students' utilitarian attitude toward study。\n寓意与画面无关\n反面示例：第二段大谈 We should love our motherland and study hard，与选课画面毫无关系。修\n正：紧扣两个对话框，写 the contrast between the two bubbles mirrors how students weigh\ngrades over real knowledge。\n逐字直译搭配错\n反面示例：Students only want to select the easy pass and high give-score class.（give-score 为生\n造，语法也乱）。修正：Students tend to choose courses that are easy to pass and generous with\nmarks。\n空洞套话开头\n反面示例：With the rapid development of society, more and more people pay attention to this\nphenomenon.（不着边际、与图无关）。修正：直接 As is vividly depicted in the drawing, a\nstudent hesitates before a course-selection system。\n\n考研英语一\n2018年 · 全卷构成\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →\n题目解析 →\n段落排序\n题目解析 →\n题目解析 →\n题目解析 →\n本题"
+ },
+ "cloze": {
+  "sentences": [
+   {
+    "i": 1,
+    "en": "Trust is a tricky business.",
+    "zh": "",
+    "main": "Trust is a tricky business.",
+    "chunks": [
+     {
+      "t": "Trust",
+      "r": "主语"
+     },
+     {
+      "t": "is a tricky business.",
+      "r": "谓语 + 宾语/表语"
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "en": "On the one hand, it's a necessary condition [[1]] many worthwhile things: child care, friendships, etc. On the other hand, putting your [[2]] in the wrong place often carries a high [[3]].",
+    "zh": "",
+    "main": "child care it's a necessary condition [[1]] many worthwhile things",
+    "chunks": [
+     {
+      "t": "On the one hand",
+      "r": "介词短语（状语/定语）"
+     },
+     {
+      "t": "it's a necessary condition [[1]] many worthwhile things",
+      "r": "谓语 + 宾语/表语"
+     },
+     {
+      "t": "child care",
+      "r": "主语"
+     },
+     {
+      "t": "friendships",
+      "r": "并列谓语"
+     },
+     {
+      "t": "etc. On the other hand",
+      "r": "补充说明（同位/修饰）"
+     },
+     {
+      "t": "putting your [[2]] in the wrong place often carries a high [[3]].",
+      "r": "分词短语（插入语/定语）"
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "en": "[[4]], why do we trust at all?",
+    "zh": "",
+    "main": "[[4]] why do we trust at all?",
+    "chunks": [
+     {
+      "t": "[[4]]",
+      "r": "主语"
+     },
+     {
+      "t": "why do we trust at all?",
+      "r": "谓语 + 宾语/表语"
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "en": "Well, because it feels good.",
+    "zh": "",
+    "main": "Well",
+    "chunks": [
+     {
+      "t": "Well",
+      "r": "主语"
+     },
+     {
+      "t": "because it feels good.",
+      "r": "状语从句"
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "en": "[[5]] people place their trust in an individual or an institution, their brains release oxytocin, a hormone that [[6]] pleasurable feelings and triggers the herding instinct that prompts humans to [[7]] with one another.",
+    "zh": "",
+    "main": "[[5]] people place their trust in an individual or an institution their brains release oxytocin",
+    "chunks": [
+     {
+      "t": "[[5]] people place their trust in an individual or an institution",
+      "r": "主语"
+     },
+     {
+      "t": "their brains release oxytocin",
+      "r": "谓语 + 宾语/表语"
+     },
+     {
+      "t": "a hormone",
+      "r": "补充说明（同位/修饰）"
+     },
+     {
+      "t": "that [[6]] pleasurable feelings and triggers the herding instinct",
+      "r": "定语从句"
+     },
+     {
+      "t": "that prompts humans to [[7]] with one another.",
+      "r": "定语从句"
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "en": "Scientists have found that exposure [[8]] this hormone puts us in a trusting [[9]]: In a Swiss study, researchers sprayed oxytocin into the noses of half the subjects; those subjects were ready to lend significantly higher amounts of money to strangers than were their [[10]] who inhaled something else.",
+    "zh": "",
+    "main": "those Scientists have found",
+    "chunks": [
+     {
+      "t": "Scientists have found",
+      "r": "谓语 + 宾语/表语"
+     },
+     {
+      "t": "that exposure [[8]] this hormone puts us in a trusting [[9]]",
+      "r": "定语从句"
+     },
+     {
+      "t": "In a Swiss study",
+      "r": "介词短语（状语/定语）"
+     },
+     {
+      "t": "researchers sprayed oxytocin into the noses of half the subjects",
+      "r": "并列谓语"
+     },
+     {
+      "t": "those",
+      "r": "主语"
+     },
+     {
+      "t": "subjects were ready to lend significantly higher amounts of money to strangers than were their [[10]] who inhaled something else.",
+      "r": "并列谓语"
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "en": "[[11]] for us, we also have a sixth sense for dishonesty that may [[12]] us.",
+    "zh": "",
+    "main": "[[11]] for us we also have a sixth sense for dishonesty",
+    "chunks": [
+     {
+      "t": "[[11]] for us",
+      "r": "主语"
+     },
+     {
+      "t": "we also have a sixth sense for dishonesty",
+      "r": "谓语 + 宾语/表语"
+     },
+     {
+      "t": "that may [[12]] us.",
+      "r": "定语从句"
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "en": "A Canadian study found that children as young as 14 months can differentiate [[13]] a credible person and a dishonest one.",
+    "zh": "",
+    "main": "A Canadian study found",
+    "chunks": [
+     {
+      "t": "A Canadian study found",
+      "r": "主语"
+     },
+     {
+      "t": "that children as young as 14 months can differentiate [[13]] a credible person and a dishonest one.",
+      "r": "定语从句"
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "en": "Sixty toddlers were each [[14]] to an adult tester holding a plastic container.",
+    "zh": "",
+    "main": "Sixty toddlers were each [[14]] to an adult tester holding a plastic container.",
+    "chunks": [
+     {
+      "t": "Sixty",
+      "r": "主语"
+     },
+     {
+      "t": "toddlers were each [[14]] to an adult tester holding a plastic container.",
+      "r": "谓语 + 宾语/表语"
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "en": "The tester would ask, \"What's in here?\" before looking into the container, smiling, and exclaiming, \"Wow!",
+    "zh": "",
+    "main": "The tester would ask",
+    "chunks": [
+     {
+      "t": "The tester",
+      "r": "主语"
+     },
+     {
+      "t": "would ask",
+      "r": "谓语 + 宾语/表语"
+     },
+     {
+      "t": "\"What's in here?\" before looking into the container, smiling, and exclaiming, \"Wow!",
+      "r": "补充说明（同位/修饰）"
+     }
+    ]
+   },
+   {
+    "i": 11,
+    "en": "Each subject was then invited to look [[15]].",
+    "zh": "",
+    "main": "Each subject was then invited to look [[15]].",
+    "chunks": [
+     {
+      "t": "Each subject",
+      "r": "主语"
+     },
+     {
+      "t": "was then invited to look [[15]].",
+      "r": "谓语 + 宾语/表语"
+     }
+    ]
+   },
+   {
+    "i": 12,
+    "en": "Half of them found a toy; the other half [[16]] the container was empty – and realized the tester had [[17]] them.",
+    "zh": "",
+    "main": "Half of them found a toy the other half [[16]] the container was empty",
+    "chunks": [
+     {
+      "t": "Half of them found a toy",
+      "r": "主语"
+     },
+     {
+      "t": "the other half [[16]] the container was empty",
+      "r": "谓语 + 宾语/表语"
+     },
+     {
+      "t": "and realized the tester had [[17]] them.",
+      "r": "状语从句"
+     }
+    ]
+   },
+   {
+    "i": 13,
+    "en": "Among the children who had not been tricked, the majority were [[18]] to cooperate with the tester in learning a new skill, demonstrating that they trusted his leadership.",
+    "zh": "",
+    "main": "the majority were [[18]] to cooperate with the tester in learning a new skill",
+    "chunks": [
+     {
+      "t": "Among the children",
+      "r": "介词短语（状语/定语）"
+     },
+     {
+      "t": "who had not been tricked",
+      "r": "定语从句"
+     },
+     {
+      "t": "the majority",
+      "r": "主语"
+     },
+     {
+      "t": "were [[18]] to cooperate with the tester in learning a new skill",
+      "r": "谓语 + 宾语/表语"
+     },
+     {
+      "t": "demonstrating",
+      "r": "分词短语（插入语/定语）"
+     },
+     {
+      "t": "that they trusted his leadership.",
+      "r": "定语从句"
+     }
+    ]
+   },
+   {
+    "i": 14,
+    "en": "[[19]], only five of the 30 children paired with the \" [[20]] \" tester participated in a follow-up activity.",
+    "zh": "",
+    "main": "[[19]] only five of the 30 children paired with the \" [[20]] \" tester participated in a follow-up activity.",
+    "chunks": [
+     {
+      "t": "[[19]]",
+      "r": "主语"
+     },
+     {
+      "t": "only five of the 30 children paired with the \" [[20]] \" tester participated in a follow-up activity.",
+      "r": "谓语 + 宾语/表语"
+     }
+    ]
+   }
+  ],
+  "topic": "",
+  "difficulty": 0,
+  "source": "自动"
+ }
+}

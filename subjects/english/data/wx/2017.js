@@ -1,0 +1,275 @@
+window.__WX__ = window.__WX__ || {};
+window.__WX__[2017] = {
+ "year": 2017,
+ "paper": "英语一",
+ "section": "完形填空",
+ "topic": "",
+ "difficulty": 0,
+ "source": {
+  "textUrl": "",
+  "answerUrl": ""
+ },
+ "text": "Could a hug a day keep the doctor away? The answer may be a resounding \"yes!\" [[1]] helping you feel close and [[2]] to people you care about, it turns out that hugs can bring a [[3]] of health benefits to your body and mind. Believe it or not, a warm embrace might even help you [[4]] getting sick this winter.\n\nIn a recent study [[5]] over 400 healthy adults, researchers from Carnegie Mellon University in Pennsylvania examined the effects of perceived social support and the receipt of hugs [[6]] the participants' susceptibility to developing the common cold after being [[7]] to the virus. People who perceived greater social support were less likely to come [[8]] with a cold, and the researchers [[9]] that the stress- reducing effects of hugging [[10]] about 32 percent of that beneficial effect. [[11]] among those who got a cold, the ones who felt greater social support and received more frequent hugs had less severe [[12]].\n\n\"Hugging protects people who are under stress from the [[13]] risk for colds that's usually [[14]] with stress,\" notes Sheldon Cohen, a professor of psychology at Carnegie. Hugging \"is a marker of intimacy and helps [[15]] the feeling that others are there to help [[16]] difficulty.\"\n\nSome experts [[17]] the stress-reducing, health-related benefits of hugging to the release of oxytocin, often called \"the bonding hormone\" [[18]] it promotes attachment in relationships, including that between mothers and their newborn babies. Oxytocin is made primarily in the central lower part of the brain, and some of it is released into the bloodstream. But some of it [[19]] in the brain, where it [[20]] mood, behavior and physiology.",
+ "blanks": [
+  {
+   "no": 1,
+   "options": {
+    "A": "Unlike",
+    "B": "Besides",
+    "C": "Despite",
+    "D": "Throughout"
+   },
+   "answer": "B",
+   "type": "逻辑关系",
+   "explain": "前后两句都是拥抱的好处、并列叠加",
+   "analysis": "【答案】[ B ] Besides\n逻辑关系\n【线索】前后两句都是拥抱的好处、并列叠加\n线索在本句与上一句的并置：__(1)__ helping you feel close and __(2)__ to people you\ncare about, it turns out that hugs can bring a __(3)__ of health benefits。前半句说拥\n抱让你与人亲近，主句说拥抱还带来健康好处——两者都是「拥抱的益处」，是叠加追加关\n系，答案应是「除……之外（还）」之意。\n【选项】A) Unlike ✗语义相反，表对比\nUnlike意为「与……不同」，引出对比对象，但前后两部分都是拥抱的好处、并非对比，逻辑相\n反，故不选。\nB) Besides ✓表叠加，除……之外还\nBesides意为「除……之外（还）」，正好把「让你亲近他人」这一好处与下文「带来健康好处」\n叠加起来，与前后同向追加的逻辑完全吻合。\nC) Despite ✗表让步转折，方向不符\nDespite意为「尽管」，引出让步——后半句应与前半句相反或意外。但「带来健康好处」并不与\n「让你亲近他人」相对立，逻辑指向错误。\nD) Throughout ✗表时空贯穿，搭配不通\nThroughout意为「贯穿整个……」，后接时间或空间（如 throughout the year），接动名词短语\n既不搭配也无叠加逻辑，故不选。\n【验证】代入后__(1)__ helping you feel close and __(2)__ to people you care about, it turns\nout that hugs can bring a __(3)__ of health benefits读作「除了让你与人亲近，拥抱还带\n来健康益处」，句意通顺，且与全文「拥抱益处多」的总基调一致。"
+  },
+  {
+   "no": 2,
+   "options": {
+    "A": "connected",
+    "B": "restricted",
+    "C": "equal",
+    "D": "inferior"
+   },
+   "answer": "A",
+   "type": "词义辨析",
+   "explain": "与 close、care about 同向",
+   "analysis": "【答案】[ A ] connected\n词义辨析\n【线索】与 close、care about 同向\n线索在本句：helping you feel close and __(2)__ to people you care about。空与 close\n（亲近）由 and 并列、又指向 people you care about（你在乎的人），应是与「亲近」\n同向的褒义词——「与人相连」。\n【选项】\nA) connected ✓与 close 同向、相连\nconnected意为「与……相连的」，feel connected to people 即「感到与人相连」，与并列的\nclose 同向、又呼应 people you care about，语义最贴合。\nB) restricted ✗义为受限，与亲近相悖\nrestricted意为「受限制的」，feel restricted 是「感到受约束」，与 close 的亲近感方向相反，色\n彩冲突，故不选。\nC) equal ✗义为平等，非亲近\nequal意为「平等的」，强调地位对等，而非情感亲近，与 close 不构成同向并列，文意不通。\nD) inferior ✗义为低人一等，贬义反向\ninferior意为「低劣的、低人一等的」，是贬义，与表亲近的 close 方向相反，更不可能用来形容\n与所爱之人的关系。\n【验证】代入后helping you feel close and __(2)__ to people you care about读作「让你对在乎的\n人感到亲近、相连」，两个形容词同向呼应，句意自然，符合首段铺陈拥抱拉近人际关系的\n脉络。"
+  },
+  {
+   "no": 3,
+   "options": {
+    "A": "choice",
+    "B": "view",
+    "C": "lesson",
+    "D": "host"
+   },
+   "answer": "D",
+   "type": "固定搭配",
+   "explain": "a host of＝大量",
+   "analysis": "【答案】[ D ] host\n固定搭配\n【线索】a host of＝大量\n线索在本句框架：hugs can bring a __(3)__ of health benefits。a ___ of 后接复数\nbenefits，需要一个能表「许多、大量」的名词；a host of 是固定短语，意为「大量的」。\n【选项】A) choice ✗a choice of＝可供选择\nchoice构成 a choice of 意为「……的选择余地」，但 benefits（好处）不是供人挑选的对象，文\n意不通。\nB) view ✗a view of＝景象/看法\nview构成 a view of 意为「……的景象/看法」，与 health benefits 搭配不当，无法表「大量\n好处」。\nC) lesson ✗义为教训，不表数量\nlesson意为「课程、教训」，a lesson of 既非固定量词短语，也与 benefits 不搭，故不选。\nD) host ✓a host of＝大量的\nhost构成固定短语 a host of，意为「大量的、许多的」，a host of health benefits＝「大量健\n康益处」，框架与文意（拥抱好处多）双双契合。\n【验证】代入后hugs can bring a __(3)__ of health benefits to your body and mind读作「拥抱能\n给身心带来大量健康益处」，量词搭配地道，且与下文逐条列举好处的总起句吻合。"
+  },
+  {
+   "no": 4,
+   "options": {
+    "A": "recall",
+    "B": "forget",
+    "C": "avoid",
+    "D": "keep"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "线索在本句与全文基调：a warm embrace might even help you __(4)__ getting sick this",
+   "analysis": "【答案】[ C ] avoid\n词义辨析\n【线索】拥抱帮你不生病\n线索在本句与全文基调：a warm embrace might even help you __(4)__ getting sick this\nwinter。help you ___ getting sick，结合主旨「拥抱有益健康」，应是「帮你避免生\n病」，即避开这一负面结果。\n【选项】A) recall ✗义为回忆，文意不通\nrecall意为「回忆起」，help you recall getting sick＝「帮你回忆起生病」，与拥抱有益健康的主\n旨无关，故不选。\nB) forget ✗义为忘记，非真防病\nforget意为「忘记」，help you forget getting sick 是「帮你忘记生病」，只是心理层面，并非真\n正阻止生病，与下文研究证明的「降低患感冒概率」不符。\nC) avoid ✓义为避免，正向防病\navoid意为「避免」，help you avoid getting sick＝「帮你避免生病」，既与 help 的正面方向\n一致，又精准对应后文研究「拥抱降低患感冒概率」的核心，最贴合。\nD) keep ✗搭配缺 from，义反\nkeep意为「保持」，keep doing 是「持续做」，help you keep getting sick＝「帮你一直生\n病」，语义全反；若要表「使免于」须用 keep ... from doing，此处无 from，搭配也不成立。\n【验证】代入后a warm embrace might even help you __(4)__ getting sick this winter读作「温\n暖的拥抱甚至能帮你这个冬天避免生病」，正面、防病，与第2段研究结论「拥抱降低感冒\n易感性」前后呼应。"
+  },
+  {
+   "no": 5,
+   "options": {
+    "A": "collecting",
+    "B": "involving",
+    "C": "guiding",
+    "D": "affecting"
+   },
+   "answer": "B",
+   "type": "词义辨析",
+   "explain": "研究涉及400名成年人",
+   "analysis": "【答案】[ B ] involving\n词义辨析\n【线索】研究涉及400名成年人\n线索在本句：In a recent study __(5)__ over 400 healthy adults, researchers ...\nexamined the effects。study 与 over 400 healthy adults 之间是「研究涉及/包含这些受\n试者」的关系，应填表「涉及、包含」之意的词。\n【选项】A) collecting ✗义为收集，对象不对\ncollecting意为「收集」，收集的应是数据、样本，而非「收集400名成年人」，与 adults 搭配\n不当。\nB) involving ✓义为涉及、包含\ninvolving意为「涉及、（研究中）包含」，a study involving over 400 adults＝「一项涉及\n400多名成年人的研究」，是描述研究对象的地道搭配，最契合。\nC) guiding ✗义为引导，逻辑不符\nguiding意为「引导、指导」，study guiding adults＝「指导成年人的研究」，研究与受试者之\n间不是指导关系，文意不通。\nD) affecting ✗义为影响，宾语错位\naffecting意为「影响」，study affecting adults＝「影响成年人的研究」，但此处要说研究以这\n些人为对象，而非研究去影响他们，语义偏离。\n【验证】代入后In a recent study __(5)__ over 400 healthy adults读作「在一项涉及400多名健康\n成年人的研究中」，是科研类文章介绍样本的标准说法，与后文 examined the effects 衔\n接自然。"
+  },
+  {
+   "no": 6,
+   "options": {
+    "A": "of",
+    "B": "in",
+    "C": "at",
+    "D": "on"
+   },
+   "answer": "D",
+   "type": "固定搭配",
+   "explain": "effect on＝对……的影响",
+   "analysis": "【答案】[ D ] on\n固定搭配\n【线索】effect on＝对……的影响\n线索在本句的中心名词 effects：examined the effects of perceived social support and\nthe receipt of hugs __(6)__ the participants' susceptibility。表「对某事物的影响」固定\n用 effect on something，故空填 on。\n【选项】A) of ✗of 已用于前半\nof在 the effects of ... 中已出现，of 引出施事（哪些因素的影响）；要表「对易感性的影响」须换\n用 on，再用 of 会逻辑重复、指向不清。\nB) in ✗in 不与 effect 搭配\nin表「在……之内」，effect in 不是表「对……的影响」的固定搭配，故不选。\nC) at ✗at 不与 effect 搭配\nat表地点/时间点，effect at 不构成「对……的影响」之义，搭配错误。\nD) on ✓effect on＝对……的影响\non与 effect 构成固定搭配 effect on，意为「对……的影响」，正好引出影响的对象 the\nparticipants' susceptibility，搭配与文意都对。\n【验证】代入后examined the effects of perceived social support and the receipt of hugs\n__(6)__ the participants' susceptibility读作「考察了感知到的社会支持与获得拥抱对受试\n者易感性的影响」，effect on 搭配地道，句意清楚。"
+  },
+  {
+   "no": 7,
+   "options": {
+    "A": "devoted",
+    "B": "exposed",
+    "C": "lost",
+    "D": "attracted"
+   },
+   "answer": "B",
+   "type": "词义辨析",
+   "explain": "感染前先接触病毒",
+   "analysis": "【答案】[ B ] exposed\n词义辨析\n【线索】感染前先接触病毒\n线索在本句逻辑：susceptibility to developing the common cold after being __(7)__ to\nthe virus。要研究「接触病毒后患感冒的易感性」，故 being ___ to the virus 应表「暴露\n于、接触到病毒」。\n【选项】A) devoted ✗be devoted to＝致力于\ndevoted构成 be devoted to 意为「致力于、献身于」，be devoted to the virus＝「献身于病\n毒」，文意荒谬，故不选。\nB) exposed ✓be exposed to＝暴露于\nexposed构成固定搭配 be exposed to，意为「暴露于、接触到」，be exposed to the virus＝\n「接触到病毒」，正是患感冒的前提，搭配与逻辑双双契合。\nC) lost ✗be lost to＝丧失给\nlost构成 be lost to 意为「失去、丧失给」，与「接触病毒」无关，逻辑不通。\nD) attracted ✗be attracted to＝被吸引\nattracted构成 be attracted to 意为「被……吸引」，be attracted to the virus＝「被病毒吸\n引」，不合医学语境，故不选。\n【验证】代入后susceptibility to developing the common cold after being __(7)__ to the virus\n读作「在接触病毒后患上普通感冒的易感性」，be exposed to the virus 是医学描述感染\n实验的标准说法，逻辑顺畅。"
+  },
+  {
+   "no": 8,
+   "options": {
+    "A": "across",
+    "B": "along",
+    "C": "down",
+    "D": "out"
+   },
+   "answer": "C",
+   "type": "固定搭配",
+   "explain": "come down with＝患（病）",
+   "analysis": "【答案】[ C ] down\n固定搭配\n【线索】come down with＝患（病）\n线索在本句语义：People who perceived greater social support were less likely to\ncome __(8)__ with a cold。with a cold（得感冒）要求 come ___ 表「患病」，come\ndown with 是固定短语，意为「患（病）」。\n【选项】A) across ✗come across＝偶遇\nacross构成 come across 意为「偶然遇到、碰见」，不与疾病搭配表「患病」，故不选。\nB) along ✗come along＝出现/进展\nalong构成 come along 意为「出现、进展、一起来」，与 with a cold 不构成「患病」之义。\nC) down ✓come down with＝染上（病）\ndown构成固定短语 come down with，意为「染上、患（病）」，come down with a cold＝\n「患感冒」，框架与语境（谁更不易感冒）完全吻合。\nD) out ✗come out＝出来/出版\nout构成 come out 意为「出来、出版、结果是」，不能与 with a cold 搭配表患病，故不选。\n【验证】代入后People who perceived greater social support were less likely to come __(8)__\nwith a cold读作「感知到更多社会支持的人更不易患感冒」，come down with a cold 是\n地道表达，与下文「拥抱降低感冒概率」一致。"
+  },
+  {
+   "no": 9,
+   "options": {
+    "A": "calculated",
+    "B": "denied",
+    "C": "doubted",
+    "D": "imagined"
+   },
+   "answer": "A",
+   "type": "词义辨析",
+   "explain": "得出32%这一量化结论",
+   "analysis": "【答案】[ A ] calculated\n词义辨析\n【线索】得出32%这一量化结论\n线索在 that 从句的内容：the researchers __(9)__ that the stress-reducing effects of\nhugging __(10)__ about 32 percent of that beneficial effect。从句给出精确数字 about\n32 percent，研究者对数据应是「计算、测算」得出，故填 calculated。\n【选项】\nA) calculated ✓义为计算得出\ncalculated意为「计算、测算」，与从句中 about 32 percent 这一量化结论严丝合缝——研究\n者通过数据计算出拥抱减压效应约占32%，最契合科研语境。\nB) denied ✗义为否认，与正面结论反\ndenied意为「否认」，但全文在肯定拥抱的益处、该从句也在正面给出贡献比例，否认与上下文正\n向逻辑相悖，故不选。\nC) doubted ✗义为怀疑，态度不符\ndoubted意为「怀疑」，与研究者拿出确切数据的肯定态度矛盾，且本文基调是支持拥抱有益，故\n不选。\nD) imagined ✗义为想象，非科学得出\nimagined意为「想象、臆测」，但精确的32%是研究测算所得而非凭空想象，与科研严谨性冲\n突，故不选。\n【验证】代入后the researchers __(9)__ that the stress-reducing effects of hugging __(10)__\nabout 32 percent of that beneficial effect读作「研究者计算出拥抱的减压效应约占该有\n益效果的32%」，与科研「examined the effects」的客观测量基调一致。"
+  },
+  {
+   "no": 10,
+   "options": {
+    "A": "served",
+    "B": "required",
+    "C": "restored",
+    "D": "explained"
+   },
+   "answer": "D",
+   "type": "词义辨析",
+   "explain": "减压效应解释了32%的益处",
+   "analysis": "【答案】[ D ] explained\n词义辨析\n【线索】减压效应解释了32%的益处\n线索在本句因果关系：the stress-reducing effects of hugging __(10)__ about 32\npercent of that beneficial effect。拥抱的减压效应「占据/说明了」该有益效果的约\n32%，explain（用于统计指占某比例、可解释多少变异）正合此意。\n【选项】A) served ✗义为服务，搭配不当\nserved意为「服务、充当」，serve 32 percent of the effect 不构成「占某比例」之义，搭配\n不通。\nB) required ✗义为需要，逻辑错位\nrequired意为「需要、要求」，「减压效应需要32%的益处」逻辑颠倒，与因果方向不符，故\n不选。\nC) restored ✗义为恢复，文意不符\nrestored意为「恢复、修复」，restore 32 percent of the effect＝「恢复了32%的效果」，此处\n并非「恢复」某已失去的效果，语义偏离。\nD) explained ✓义为（统计上）解释占比\nexplained在统计语境意为「（某因素）可解释/占某比例的效应」，explained about 32\npercent of that beneficial effect＝「解释了该益处约32%」，与研究测算的因果贡献完全\n契合。\n【验证】代入后the stress-reducing effects of hugging __(10)__ about 32 percent of that\nbeneficial effect读作「拥抱的减压效应解释了该有益效果的约32%」，紧承上句\ncalculated 的测算结论，统计表达自洽。"
+  },
+  {
+   "no": 11,
+   "options": {
+    "A": "Even",
+    "B": "Still",
+    "C": "Rather",
+    "D": "Thus"
+   },
+   "answer": "A",
+   "type": "逻辑关系",
+   "explain": "进一步说连得病的人也获益",
+   "analysis": "【答案】[ A ] Even\n逻辑关系\n【线索】进一步说连得病的人也获益\n线索在前后两句的递进关系：上句说社会支持强者更不易感冒，本句__(11)__ among those\nwho got a cold, the ones who felt greater social support ... had less severe __(12)__进\n一步说「即便在已得病者中」社会支持强者症状也更轻。这是「连……都」的递进强调，\nEven 最贴。\n【选项】\nA) Even ✓义为甚至，递进强调\nEven意为「甚至、连……都」，Even among those who got a cold＝「甚至在那些已感冒的人\n当中」，把好处推及最不利的子群，递进逻辑最贴合。\nB) Still ✗义为仍然，转折偏弱\nStill意为「仍然、尽管如此」，多表轻微转折/让步，但本句与上句同向递进而非转折，且 Still 不能\n像 Even 那样修饰 among 短语表「甚至连」，不如 Even 贴切。\nC) Rather ✗义为而是，表纠正\nRather意为「相反、而是」，用于否定前句、提出替代说法，但本句是补充递进而非纠正，逻辑\n不符。\nD) Thus ✗义为因此，因果不成立\nThus意为「因此」，表因果推论；但「连得病者也症状更轻」并非由上句直接推出的结果，而是另\n加的一层证据，因果关系不成立。\n【验证】代入后__(11)__ among those who got a cold, the ones who felt greater social\nsupport and received more frequent hugs had less severe __(12)__读作「甚至在那些\n已感冒的人当中，社会支持更强、拥抱更频繁的人症状也更轻」，递进强调，与本段层层加\n码论证拥抱益处的脉络一致。"
+  },
+  {
+   "no": 12,
+   "options": {
+    "A": "defeats",
+    "B": "symptoms",
+    "C": "tests",
+    "D": "errors"
+   },
+   "answer": "B",
+   "type": "词义辨析",
+   "explain": "已感冒者病情更轻＝症状更轻",
+   "analysis": "【答案】[ B ] symptoms\n词义辨析\n【线索】已感冒者病情更轻＝症状更轻\n线索在本句对象：among those who got a cold, the ones who felt greater social\nsupport ... had less severe __(12)__。说的是已感冒者，less severe ___ 指「更轻的（感\n冒）症状」，symptoms（症状）正与 a cold 对应。\n【选项】A) defeats ✗义为失败，与病无关\ndefeats意为「失败、挫败」，less severe defeats＝「不那么严重的失败」，与感冒病情无关，故\n不选。\nB) symptoms ✓义为症状，与感冒对应\nsymptoms意为「症状」，less severe symptoms＝「更轻的症状」，正好描述已感冒者病情较\n轻，与 a cold 搭配自然，最契合。\nC) tests ✗义为测试，文意不符\ntests意为「测试、检查」，less severe tests 不通——感冒病情轻重无关「测试严重与否」，故\n不选。\nD) errors ✗义为错误，与病无关\nerrors意为「错误」，less severe errors＝「不那么严重的错误」，与感冒症状无关，文意不通。\n【验证】代入后had less severe __(12)__读作「症状更轻」，承接 among those who got a cold\n（已感冒者），正好把上句「连得病者也受益」落到「病得更轻」上，全段逻辑闭合。"
+  },
+  {
+   "no": 13,
+   "options": {
+    "A": "minimized",
+    "B": "highlighted",
+    "C": "controlled",
+    "D": "increased"
+   },
+   "answer": "D",
+   "type": "词义辨析",
+   "explain": "压力本会增大患感冒风险",
+   "analysis": "【答案】[ D ] increased\n词义辨析\n【线索】压力本会增大患感冒风险\n线索在本句逻辑与下一空呼应：Hugging protects people who are under stress from\nthe __(13)__ risk for colds that's usually __(14)__ with stress。拥抱保护人「免受」压力\n带来的风险，可见这风险是被压力「升高」的；下文 usually associated with stress 也印\n证压力会抬高风险，故填 increased。\n【选项】A) minimized ✗义为最小化，方向相反\nminimized意为「使最小化、降到最低」，「降到最低的风险」无须 protect from，与「拥抱保护\n人免受风险」逻辑相反，故不选。\nB) highlighted ✗义为强调，非真增大\nhighlighted意为「突出、强调」，highlighted risk＝「被强调的风险」，指认知层面被凸显，并\n非压力实际抬高了风险，与医学因果不符。\nC) controlled ✗义为受控，方向不符\ncontrolled意为「被控制的」，controlled risk＝「受控的风险」，风险既已受控就无须拥抱来防\n护，与上下文方向相反。\nD) increased ✓义为增大的\nincreased意为「增大的、升高的」，the increased risk for colds＝「（因压力）升高的感冒风\n险」，正是拥抱要帮人抵御的对象，逻辑与下文 associated with stress 完全吻合。\n【验证】代入后Hugging protects people who are under stress from the __(13)__ risk for colds\nthat's usually __(14)__ with stress读作「拥抱保护承压者免受通常与压力相关的、升高的\n感冒风险」，与第2段「压力降低免疫、拥抱减压护体」的论证链一致。"
+  },
+  {
+   "no": 14,
+   "options": {
+    "A": "equipped",
+    "B": "associated",
+    "C": "presented",
+    "D": "compared"
+   },
+   "answer": "B",
+   "type": "固定搭配",
+   "explain": "风险与压力相关联",
+   "analysis": "【答案】[ B ] associated\n固定搭配\n【线索】风险与压力相关联\n线索在本句：the __(13)__ risk for colds that's usually __(14)__ with stress。要表「（这\n风险）通常与压力相关联」，be associated with 是固定搭配，意为「与……相关」。\n【选项】A) equipped ✗be equipped with＝配备\nequipped构成 be equipped with 意为「配备有」，「风险配备压力」文意不通，故不选。\nB) associated ✓be associated with＝与……相关\nassociated构成固定搭配 be associated with，意为「与……相关联」，risk associated with\nstress＝「与压力相关的风险」，搭配与文意双双契合。\nC) presented ✗present with＝向……呈递\npresented构成 present ... with 意为「向某人呈交/赠予」，与「风险和压力相关」之义不符，故\n不选。\nD) compared ✗compared with＝与……相比\ncompared构成 be compared with 意为「与……相比」，但此处不是把风险和压力作比较，而是\n说二者相关，逻辑不符。\n【验证】代入后the __(13)__ risk for colds that's usually __(14)__ with stress读作「通常与压力相\n关的、升高的感冒风险」，be associated with 搭配地道，与第13空 increased 形成「压\n力→风险升高」的完整因果。"
+  },
+  {
+   "no": 15,
+   "options": {
+    "A": "assess",
+    "B": "moderate",
+    "C": "generate",
+    "D": "record"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "拥抱产生被支持的感受",
+   "analysis": "【答案】[ C ] generate\n词义辨析\n【线索】拥抱产生被支持的感受\n线索在本句与主旨：Hugging \"is a marker of intimacy and helps __(15)__ the feeling\nthat others are there to help __(16)__ difficulty.\"。拥抱是亲密的标志，帮助「产生/营\n造」别人会在困难时相助的感受，generate（产生）正合此意。\n【选项】A) assess ✗义为评估，非产生\nassess意为「评估、评价」，「拥抱帮助评估某种感受」逻辑不通——拥抱是带来感受而非评判\n它，故不选。\nB) moderate ✗义为缓和、减弱\nmoderate意为「使缓和、减轻」，moderate the feeling 是「削弱这种感受」，但这是正面感受\n（有人相助），削弱它与主旨相反，故不选。\nC) generate ✓义为产生、营造\ngenerate意为「产生、生成」，generate the feeling that others are there to help＝「营造\n出别人会在困境中相助的感受」，与拥抱的正面作用、亲密标志完全契合。\nD) record ✗义为记录，文意不符\nrecord意为「记录」，「拥抱帮助记录某种感受」不合逻辑——感受是被拥抱激发的，而非被记\n录，故不选。\n【验证】代入后helps __(15)__ the feeling that others are there to help读作「帮助营造出别人会\n在困境中相助的感受」，与上文「marker of intimacy（亲密标志）」相承，正面、温暖，\n符合全文基调。"
+  },
+  {
+   "no": 16,
+   "options": {
+    "A": "in the face of",
+    "B": "in the form of",
+    "C": "in the way of",
+    "D": "in the name of"
+   },
+   "answer": "A",
+   "type": "固定搭配",
+   "explain": "面对困难时有人相助",
+   "analysis": "【答案】[ A ] in the face of\n固定搭配\n【线索】面对困难时有人相助\n线索在本句语义：others are there to help __(16)__ difficulty。意为「在面对困难时别人\n会来帮忙」，in the face of difficulty 是固定短语，意为「面对困难」。\n【选项】\nA) in the face of ✓义为面对\nin the face of意为「面对、面临」，help in the face of difficulty＝「在面对困难时给予帮\n助」，与「别人会在你遇到困难时相助」的语境完全契合。\nB) in the form of ✗义为以……形式\nin the form of意为「以……的形式」，help in the form of difficulty＝「以困难的形式帮助」，\n文意荒谬，故不选。\nC) in the way of ✗义为妨碍/在……方面\nin the way of意为「妨碍」或「在……方面」，均不能表「面对困难给予帮助」，与正面相助的语\n境不符。\nD) in the name of ✗义为以……名义\nin the name of意为「以……的名义」，help in the name of difficulty＝「以困难的名义帮助」，\n逻辑不通，故不选。\n【验证】代入后others are there to help __(16)__ difficulty读作「别人会在你面对困难时伸出援\n手」，in the face of difficulty 搭配地道，呼应前文 generate the feeling（营造被支持\n感）的内容。"
+  },
+  {
+   "no": 17,
+   "options": {
+    "A": "transfer",
+    "B": "commit",
+    "C": "attribute",
+    "D": "return"
+   },
+   "answer": "C",
+   "type": "固定搭配",
+   "explain": "把益处归因于催产素释放",
+   "analysis": "【答案】[ C ] attribute\n固定搭配\n【线索】把益处归因于催产素释放\n线索在本句因果：Some experts __(17)__ the stress-reducing, health-related benefits\nof hugging to the release of oxytocin。专家把拥抱的益处「归因于」催产素的释放，\nattribute A to B 是固定搭配，意为「把 A 归因于 B」。\n【选项】A) transfer ✗transfer A to B＝转移\ntransfer构成 transfer A to B 意为「把 A 转移到 B」，但益处不是被「转移」到催产素，而是被归\n因于它，语义不符。\nB) commit ✗commit to＝致力/犯下\ncommit构成 commit ... to 意为「把……交托/致力于」，不表「归因」，与 the benefits ... to the\nrelease 的因果关系不符。\nC) attribute ✓attribute A to B＝归因于\nattribute构成固定搭配 attribute A to B，意为「把 A 归因于 B」，attribute the benefits to\nthe release of oxytocin＝「把这些益处归因于催产素的释放」，搭配与因果逻辑完全契合。\nD) return ✗return A to B＝归还\nreturn构成 return A to B 意为「把 A 归还给 B」，与「把益处归因于催产素」之义不符，故\n不选。\n【验证】代入后Some experts __(17)__ the stress-reducing, health-related benefits of hugging\nto the release of oxytocin读作「一些专家把拥抱的减压、健康益处归因于催产素的释\n放」，引出第4段对生理机制的解释，逻辑顺畅。"
+  },
+  {
+   "no": 18,
+   "options": {
+    "A": "because",
+    "B": "unless",
+    "C": "though",
+    "D": "until"
+   },
+   "answer": "A",
+   "type": "逻辑关系",
+   "explain": "之所以叫结合激素，因它促进依恋",
+   "analysis": "【答案】[ A ] because\n逻辑关系\n【线索】之所以叫结合激素，因它促进依恋\n线索在前后两部分的因果：often called \"the bonding hormone\" __(18)__ it promotes\nattachment in relationships。催产素被称为「结合激素」，是「因为」它促进关系中的依\n恋——后半句是前半句称呼的原因，故填 because。\n【选项】\nA) because ✓义为因为，引出原因\nbecause意为「因为」，引出催产素被称作「结合激素」的原因——它促进关系中的依恋，因果\n逻辑严丝合缝，最契合。\nB) unless ✗义为除非，条件不符\nunless意为「除非」，表否定条件，「除非它促进依恋」与「被称为结合激素」之间无条件关系，\n逻辑不通。\nC) though ✗义为尽管，让步反向\nthough意为「尽管」，表让步转折，但「促进依恋」恰是叫它结合激素的理由，并非相反，方向\n错误，故不选。\nD) until ✗义为直到，时间不符\nuntil意为「直到」，表时间界限，与「称呼—原因」的因果关系无关，故不选。\n【验证】代入后often called \"the bonding hormone\" __(18)__ it promotes attachment in\nrelationships读作「常被称为『结合激素』，因为它促进人际关系中的依恋」，因果清楚，\n紧扣第4段解释催产素作用的脉络。"
+  },
+  {
+   "no": 19,
+   "options": {
+    "A": "emerges",
+    "B": "vanishes",
+    "C": "remains",
+    "D": "decreases"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "与『释放入血』相对，部分留在脑中",
+   "analysis": "【答案】[ C ] remains\n词义辨析\n【线索】与『释放入血』相对，部分留在脑中\n线索在 But 引导的对比：some of it is released into the bloodstream. But some of it\n__(19)__ in the brain, where it __(20)__ mood。前句说一部分进入血液，But 转折说另一\n部分「留在」脑中（并在那里作用于情绪），remains（保留、留存）正与「被释放出去」\n相对。\n【选项】A) emerges ✗义为出现，与对比不符\nemerges意为「出现、浮现」，但催产素本就产于脑中，不是「在脑中出现」，且与前句「释放入\n血」的对比关系不成立，故不选。\nB) vanishes ✗义为消失，与下文矛盾\nvanishes意为「消失」，但后半句 where it influences mood 说明这部分仍在脑中发挥作用，若\n已「消失」则无从作用，前后矛盾。\nC) remains ✓义为留存、保留\nremains意为「保留、留存」，some of it remains in the brain＝「一部分留在脑中」，与前句\n「释放入血」形成对比，又与后文「在脑中影响情绪」衔接，最契合。\nD) decreases ✗义为减少，文意不符\ndecreases意为「减少」，「一部分在脑中减少」既与对比逻辑不符，也无法引出 where it\ninfluences mood，故不选。\n【验证】代入后some of it is released into the bloodstream. But some of it __(19)__ in the\nbrain, where it __(20)__ mood, behavior and physiology读作「一部分被释放进入血\n液，但另一部分留在脑中，在那里影响情绪、行为和生理」，对比清晰，与机制说明的脉络\n一致。"
+  },
+  {
+   "no": 20,
+   "options": {
+    "A": "experiences",
+    "B": "combines",
+    "C": "justifies",
+    "D": "influences Section II Reading Comprehension Part A Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points) Text 1 First two hours, now three hours – this is how far in advance authorities are recommending people show up to catch a domestic flight, at least at some major U.S. airports with increasingly massive security lines. Americans are willing to tolerate time-consuming security procedures in return for increased safety. The crash of EgyptAir Flight 804, which terrorists may have downed over the Mediterranean Sea, provides another tragic reminder of why. But demanding too much of air travelers or providing too little security in return undermines public support for the process. And it should: Wasted time is a drag on Americans' economic and private lives, not to mention infuriating. Last year, the Transportation Security Administration (TSA) found in a secret check that undercover investigators were able to sneak weapons – both fake and real – past airport security nearly every time they tried. Enhanced security measures since then, combined with a rise in airline travel due to the improving economy and low oil prices, have resulted in long waits at major airports such as Chicago's O'Hare International. It is not yet clear how much more effective airline security has become – but the lines are obvious. Part of the issue is that the government did not anticipate the steep increase in airline travel, so the TSA is now rushing to get new screeners on the line. Part of the issue is that airports have only so much room for screening lanes. Another factor may be that more people are trying to overpack their carry-on bags to avoid checked-baggage fees, though the airlines strongly dispute this. There is one step the TSA could take that would not require remodeling airports or rushing to hire: Enroll more people in the PreCheck program. PreCheck is supposed to be a win-win for travelers and the TSA. Passengers who pass a background check are eligible to use expedited screening lanes. This allows the TSA to focus on travelers who are higher risk, saving time for everyone involved. The TSA wants to enroll 25 million people in PreCheck. It has not gotten anywhere close to that, and one big reason is sticker shock: Passengers must pay $85 every five years to process their background checks. Since the beginning, this price tag has been PreCheck's fatal flaw. Upcoming reforms might bring the price to a more reasonable level. But Congress should look into doing so directly, by helping to finance PreCheck enrollment or to cut costs in other ways. The TSA cannot continue diverting resources into underused PreCheck lanes while most of the traveling public suffers in unnecessary lines. It is long past time to make the program work."
+   },
+   "answer": "D",
+   "type": "词义辨析",
+   "explain": "催产素在脑中作用于情绪等",
+   "analysis": "【答案】[ D ] influences\n词义辨析\n【线索】催产素在脑中作用于情绪等\n线索在本句：some of it __(19)__ in the brain, where it __(20)__ mood, behavior and\nphysiology。留在脑中的催产素对情绪、行为和生理产生「作用、影响」，influences（影\n响）正合此意，也呼应全文「催产素带来身心益处」的主线。\n【选项】A) experiences ✗义为经历，主体错位\nexperiences意为「经历、体验」，体验情绪的应是人，而非催产素这种物质，主体错位，故\n不选。\nB) combines ✗义为结合，搭配不当\ncombines意为「结合、合并」，「催产素结合情绪、行为、生理」语义不通，且 combine 多与\nwith 连用，搭配也不符。\nC) justifies ✗义为证明……正当\njustifies意为「证明……有理、为……辩护」，「催产素为情绪辩护」逻辑荒谬，与机制说明不符，\n故不选。\nD) influences ✓义为影响\ninfluences意为「影响」，it influences mood, behavior and physiology＝「它影响情绪、行\n为和生理」，正是催产素在脑中的作用，与全文「催产素带来身心好处」主线完全契合。\n【验证】代入后where it __(20)__ mood, behavior and physiology读作「在那里它影响情绪、行为\n和生理」，作为全文收尾点出催产素的作用机制，与开篇「拥抱有益身心」首尾呼应。\nO V E R V I E W · 通读建境\n全文主旨与行文脉络\n完形是语篇题——单看空所在的半句往往四个选项都「像」。下面是全文主旨与行文脉\n络，是每个空锁定线索、代入验证时核对的全局工作台。\n全文主旨\n拥抱有益身心健康（含抗感冒）\n全篇是一篇通俗科普，主旨在开篇即定调：Could a hug a day keep the doctor away? The\nanswer may be a resounding \"yes!\"，随后点出hugs can bring a __(3)__ of health benefits\nto your body and mind。作者基调积极、肯定，全文围绕「拥抱→减压→对健康（尤其抵\n抗感冒）有益」展开。\n行文脉络\n提出问题→研究证据→专家解释→生理机制\n全文四段呈「总—分」递进：第1段抛出话题并给出肯定结论（hugs can bring a __(3)__ of\nhealth benefits）；第2段用 Carnegie Mellon 的研究给证据（examined the effects of\nperceived social support and the receipt of hugs）；第3段引专家 Cohen 的话解释拥抱如\n何护人（Hugging protects people who are under stress）；第4段讲生理机制——拥抱促\n进催产素释放（the release of oxytocin）。逐空时先判断它落在哪一意群，再回到该意群\n找线索。\nS E N T E N C E I N S I G H T S · 句子精讲\n7 句真题句逐层精讲\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nBesides helping you feel close and connected to people you care about, it turns out\nthat hugs can bring a host of health benefits to your body and mind.\n第1段，第3句\n形式主语加主语从句的结构（\"it turns out that...\"）是四六级和考研阅读中非常常见的句式，掌握\n后可以迁移到大量类似句子（如 \"it is clear that...\"、\"it seems that...\" 等）。定语从句修饰名词以及\n关系代词省略也是高频考点。本句的结构具有很强的代表性和复用价值。\nBelieve it or not, a warm embrace might even help you avoid getting sick this\nwinter.\n第1段，第4句\n本句涵盖主语、谓语、宾语、宾语补足语四种核心成分，其中宾语补足语（\"avoid getting sick this\nwinter\"）是 \"help sb do sth\" 结构的典型体现，易错且常考。动名词短语 \"getting sick\" 作 \"avoid\"\n的宾语，也是值得练习的知识点。此外，插入语 \"Believe it or not\" 可作为识别干扰成分的练习\n点。成分种类丰富，训练价值较高。\nIn a recent study involving over 400 healthy adults, researchers from Carnegie\nMellon University in Pennsylvania examined the effects of perceived social\nsupport and the receipt of hugs on the participants' susceptibility to developing\nthe common cold after being exposed to the virus.\n第2段，第1句\n本句体现了学术英语和四六级阅读中高频出现的句式特征:主干简洁(主谓宾),但通过介词短语、分词\n短语、动名词短语等非谓语结构进行密集修饰,既保持了句子的完整性,又承载了大量信息,这种结构\n在考研和四六级真题的科技、社科类文章中非常典型,掌握后可迁移到大量类似长难句的分析中\nPeople who perceived greater social support were less likely to come down with a\ncold, and the researchers calculated that the stress-reducing effects of hugging\nexplained about 32 percent of that beneficial effect.\n第2段，第2句\n并列复合句搭配定语从句和宾语从句的组合，在四六级和考研阅读中非常常见。定语从句修饰主\n语、宾语从句跟在及物动词后，都是高频句式。掌握本句的分析方法可以迁移到大量同类真题句。\n\"Hugging protects people who are under stress from the increased risk for colds\nthat's usually associated with stress,\" notes Sheldon Cohen, a professor of\npsychology at Carnegie.\n第3段，第1句\n高度典型的学术引述句式：引语 + 倒装引述结构 + 同位语说明引述者身份，常见于四六级和考研\n阅读的科学报道类文章；宾语从句内嵌套定语从句修饰关键名词，也是学术语体的标准配置；掌握\n后可大量复用于类似语境。\nHugging \"is a marker of intimacy and helps generate the feeling that others are\nthere to help in the face of difficulty.\"\n第3段，第2句\n本句涵盖主语、并列谓语、表语、宾语、同位语从句、目的状语等多种成分，尤其同位语从句\n（\"that\" 从句解释抽象名词）是学习者常混淆的难点（易与定语从句混淆），且句中宾语结构较长\n（名词 + 同位语从句），有助于训练学生识别复杂名词短语和从句归属，作为成分划分练习句收\n益较高。\nBut some of it remains in the brain, where it influences mood, behavior and\nphysiology.\n第4段，第3句\n\"主句 + 非限制性定语从句\" 是考试阅读和写作中的高频句式，\"where\" 引导定语从句补充地点信息\n的用法也很典型。掌握这种结构后，学生可以迁移到大量类似句子，实用性强。\nH I G H - F R E Q U E N C Y · 真题高频词\n本篇出现的 31 个考研英语一真题高频词\n下列单词既在本篇完形原文中出现，又是 考研英语一 历年真题的高频词（在该考试真题\n中出现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查\n看该词的释义、音标、词形与真题例句。\nsupport\nA2\nv. 支持\n本篇3 次 · 真题 87 句\neffect\nA2\nn. 影响\n本篇3 次 · 真题 80 句\nresearcher\nB2\nn. 研究人员\n本篇2 次 · 真题 112 句\nbenefit\nB1\nn. 好处\n本篇2 次 · 真题 88 句\nstress\nB1\nn. 压力\n本篇2 次 · 真题 50 句\nperceive\nB2\nv. 理解，领悟（某事的性质或意义）\n本篇2 次 · 真题 19 句\nrelease\nB1\nv. 释放\n本篇2 次 · 真题 15 句\nless\nA1\ndet. 较少的\n本篇1 次 · 真题 150 句\nlikely\nA2\nadj. 很可能的\n本篇1 次 · 真题 89 句\nrisk\nA2\nn. 风险\n本篇1 次 · 真题 62 句\ninvolve\nB1\nv. 包含\n本篇1 次 · 真题 61 句\nbehavior\nB1\nn. 行为\n本篇1 次 · 真题 52 句\nexpert\nB1\nn. 专家\n本篇1 次 · 真题 42 句\nprofessor\nB1\nn. 教授（大学教师的最高职称）\n本篇1 次 · 真题 38 句\npromote\nB2\nv. 促进\n本篇1 次 · 真题 38 句\nrelationship\nB1\nn. 关系\n本篇1 次 · 真题 28 句\nassociate\nB2\nv. 联系\n本篇1 次 · 真题 26 句\ngenerate\nB2\nv. 产生，引起（结果、反应等）\n本篇1 次 · 真题 23 句\nparticipant\nB2\nn. 参与者\n本篇1 次 · 真题 20 句\nexpose\nB2\nv. 使暴露\n本篇1 次 · 真题 17 句\nsevere\nB2\nadj. 严重的\n本篇1 次 · 真题 17 句\nlower\nA2\nadj. 较低的;下方的\n本篇1 次 · 真题 16 句\npsychology\nB2\nn. 心理学\n本篇1 次 · 真题 14 句\nmood\nA2\nn. 心情\n本篇1 次 · 真题 12 句\nembrace\nB2\nv. 拥抱\n本篇1 次 · 真题 11 句\nincreased\nA2\nv. 增加了\n本篇1 次 · 真题 11 句\nprimarily\nB2\nadv. 主要地\n本篇1 次 · 真题 11 句\nattribute\nB2\nn. 属性\n本篇1 次 · 真题 10 句\nfrequent\nB1\nadj. 频繁的\n本篇1 次 · 真题 10 句\nhost\nB1\nn. 主人\n本篇1 次 · 真题 10 句\ncentral\nB1\nadj. 主要的\n本篇1 次 · 真题 9 句\nV O C A B U L A R Y · 词汇难度分布\n全文 123 词按 CEFR 难度累积覆盖\n带空短文去重后共 123 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」\n的累积占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 5 个 ·\n约 4%。\n48%\nA1\n及以下\n67%\nA2\n及以下\n85%\nB1\n及以下\n96%\nB2\n及以下\n99%\nC1\n及以下\n100%\nC2\n及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 123 个 · 末柱为 100%\n去重总词数\n123\nB2 以上难词\n4%\nB1 及以下覆盖\n85%\n考研英语一\n2017年 · 全卷构成\nSection I\n完形填空（四选一）\n本题\nSection II Part A (1)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (2)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (3)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (4)\n阅读理解（四选一）\n题目解析 →\nSection II Part B\n段落排序\n题目解析 →\nSection II Part C\n英译汉（划线句子翻译）\n题目解析 →\nSection III Part A\n写作\n题目解析 →\nSection III Part B\n写作\n题目解析 →\n2017年 考研英语一阅读理解（四选一） 第 1 篇 · 21–25 题答案与解\n析\nQ U E S T I O N S & A N A L Y S I S ·"
+  }
+ ]
+};

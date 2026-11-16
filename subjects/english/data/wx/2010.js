@@ -1,0 +1,275 @@
+window.__WX__ = window.__WX__ || {};
+window.__WX__[2010] = {
+ "year": 2010,
+ "paper": "英语一",
+ "section": "完形填空",
+ "topic": "",
+ "difficulty": 0,
+ "source": {
+  "textUrl": "",
+  "answerUrl": ""
+ },
+ "text": "In 1924 America's National Research Council sent two engineers to supervise a series of experiments at a telephone-parts factory called the Hawthorne Plant near Chicago. It hoped they would learn how shop-floor lighting [[1]] workers' productivity. Instead, the studies ended [[2]] giving their name to the \"Hawthorne effect,\" the extremely influential idea that the very [[3]] of being experimented upon changed subjects' behavior.\n\nThe idea arose because of the [[4]] behavior of the women in the plant. According to [[5]] of the experiments, their hourly output rose when lighting was increased, but also when it was dimmed. It did not [[6]] what was done in the experiment; [[7]] something was changed, productivity rose. A(n) [[8]] that they were being experimented upon seemed to be [[9]] to alter workers' behavior [[10]] itself.\n\nAfter several decades, the same data were [[11]] to econometric analysis. The Hawthorne experiments had another surprise in store. [[12]] the descriptions on record, no systematic [[13]] was found that levels of productivity were related to changes in lighting.\n\nIt turns out that the peculiar way of conducting the experiments may have led to [[14]] interpretations of what happened. [[15]], lighting was always changed on a Sunday. When work started again on Monday, output [[16]] rose compared with the previous Saturday and [[17]] to rise for the next couple of days. [[18]], a comparison with data for weeks when there was no experimentation showed that output always went up on Mondays. Workers [[19]] to be diligent for the first few days of the week in any case, before [[20]] a plateau and then slackening off. This suggests that the alleged \"Hawthorne effect\" is hard to pin down.",
+ "blanks": [
+  {
+   "no": 1,
+   "options": {
+    "A": "affected",
+    "B": "achieved",
+    "C": "extracted",
+    "D": "restored"
+   },
+   "answer": "A",
+   "type": "词义辨析",
+   "explain": "研究目的是考察照明对产量的影响",
+   "analysis": "【答案】[ A ] affected\n词义辨析\n【线索】研究目的是考察照明对产量的影响\n本句的关键线索是 It hoped they would learn how shop-floor lighting __(1)__ workers'\nproductivity——委员会派人去研究「照明怎样作用于产量」，因此空格动词应表达\n「对……产生作用/影响」这一中性关系，而非「实现、提取、恢复」等带特定方向的语义。\n【选项】\nA) affected ✓中性「影响」最契合研究意图\naffected 意为「影响、作用于」，正好对应「研究照明如何影响产量」这一开放性目的，不预设\n结果方向，与 learn how shop-floor lighting __(1)__ workers' productivity 严丝合缝。\nB) achieved ✗搭配错——光照不能「取得」产量\nachieved 意为「取得、达成」，宾语通常是 goal、success 一类成果名词。说「照明取得了产\n量」明显荒谬，且研究本意只是观察作用关系，并非证明照明能创造产量。\nC) extracted ✗语义跑偏——光照不会「提取」产量\nextracted 表「提取、抽取」，需要一个可被抽出的实体作宾语，主语也应是有意识的主体；此处\n主语是无生命的 lighting，宾语是抽象的 productivity，搭配上完全不成立。\nD) restored ✗暗示前提不存在——产量并未失而复得\nrestored 表「使恢复」，预设产量先前曾下降；但原文只说研究照明与产量的关系，并未交代产量\n曾下降，前提不成立，被排除。\n【验证】代回后整句为 learn how shop-floor lighting __(1)__ workers' productivity → learn how\nshop-floor lighting affected workers' productivity，即「了解车间照明如何影响工人产\n量」，与文章「研究照明对产量影响」的总立意一致，符合 outline 中 P1 的「背景实验」\n定位。"
+  },
+  {
+   "no": 2,
+   "options": {
+    "A": "at",
+    "B": "up",
+    "C": "with",
+    "D": "off"
+   },
+   "answer": "B",
+   "type": "固定搭配",
+   "explain": "end up doing 表「最终落得做……」",
+   "analysis": "【答案】[ B ] up\n固定搭配\n【线索】end up doing 表「最终落得做……」\n本句 the studies ended __(2)__ giving their name to the \"Hawthorne effect\" 想表达\n「这些研究最终以「为霍桑效应命名」收场」，对应英语固定短语 end up doing sth.（最\n终、结果做某事），所以空格应填 up。\n【选项】A) at ✗无 end at 的常用搭配\nat 与 end 不构成固定短语来表达「最终做某事」，且 at 后通常接地点或时间点，与后接动名词的\n句式不匹配。\nB) up ✓end up doing 的标准搭配\nup 与 end 构成 end up doing sth. 这一高频短语，表「最终落得做……、结果做……」，正好契\n合「研究本想测光照影响、结果反倒为霍桑效应命名」的意外反转语气。\nC) with ✗end with 表「以……结束」，宾语需为名词\nwith 与 end 搭配时，强调「以某物作结尾」，宾语通常是具体的结尾节目/段落（end with a\nsong），且不强调「意外结果」这层含义，与本句动名词主动作的语气不吻合。\nD) off ✗end off 罕用且语义不符\noff 与 end 几乎不构成固定短语；个别用法如 end off with 也是「以……收尾」，且必带 with，不\n能直接接 doing。语义、形式两不合。\n【验证】代回得 the studies ended __(2)__ giving their name to the \"Hawthorne effect\" → the\nstudies ended up giving their name to the \"Hawthorne effect\"，意为「这些研究最终\n竟为「霍桑效应」命名」，与 P1 的「实验本为测光照、结果反倒孕育出新概念」的转折语\n气一致。"
+  },
+  {
+   "no": 3,
+   "options": {
+    "A": "truth",
+    "B": "sight",
+    "C": "act",
+    "D": "proof"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "强调「被实验」这件事本身就改变了行为",
+   "analysis": "【答案】[ C ] act\n词义辨析\n【线索】强调「被实验」这件事本身就改变了行为\n线索在 the very __(3)__ of being experimented upon changed subjects' behavior——\n霍桑效应的核心定义是：被观察/被实验「这一行为本身」就会改变受试者表现。所以名词\n必须能表「行为、举动」，即 act of doing sth.。\n【选项】A) truth ✗强调真伪，与「行为本身」错位\ntruth 意为「真相、真理」，the very truth of ... 强调「关于……的真相」，会把焦点引向「实验真\n相」，但句子主语是「真相改变行为」，逻辑不通。\nB) sight ✗视觉化感官词，搭配 of doing 别扭\nsight 是「看见、景象」，多接具体可视对象（the sight of blood），用于抽象 of being\nexperimented upon 既不地道，也无法表达「行为本身致使改变」这层定义。\nC) act ✓the very act of doing「正是做……这一行为本身」\nact 表「行为、举动」，the very act of being experimented upon 即「正是被实验这一行为\n本身」，精准对应霍桑效应「不必更改什么，被观察这件事自身就足以改变行为」的核心含义。\nD) proof ✗证据义，与「行为本身致变」逻辑反\nproof 表「证据、证明」，the very proof of ... 是「关于……的确凿证据」，会让句意变成「证据\n改变了行为」，与作者强调「被实验本身就足以改变行为」的因果链相反。\n【验证】代回为 the very __(3)__ of being experimented upon changed subjects' behavior →\nthe very act of being experimented upon changed subjects' behavior，「正是被实验\n这一行为本身改变了受试者行为」，恰好就是霍桑效应在文中的工作定义，与 P1 引出概念\n的功能一致。"
+  },
+  {
+   "no": 4,
+   "options": {
+    "A": "controversial",
+    "B": "perplexing",
+    "C": "mischievous",
+    "D": "ambiguous"
+   },
+   "answer": "B",
+   "type": "词义辨析",
+   "explain": "光强、光弱产量都上升，让人摸不着头脑",
+   "analysis": "【答案】[ B ] perplexing\n词义辨析\n【线索】光强、光弱产量都上升，让人摸不着头脑\n下一句 their hourly output rose when lighting was increased, but also when it was\ndimmed 给出原因——不论光线增强还是减弱，产量都上升，这种「按理不该同时发生」\n的反常恰好让研究者百思不得其解，对应「令人困惑」一义。\n【选项】A) controversial ✗「有争议」需有对立立场\ncontroversial 强调「引发争论、各方意见对立」，但文中并未提到研究者们就该行为产生了不同意\n见，只是「不论调亮调暗产量都升」让人费解，与「争议」不在一个维度。\nB) perplexing ✓「令人困惑」对应反常的双向上升\nperplexing 意为「使人困惑的」，正对应 their hourly output rose when lighting was\nincreased, but also when it was dimmed 这种「调高调低都升」的反直觉现象，研究者无法用\n常识解释，因而催生了新假说。\nC) mischievous ✗「淘气、恶作剧」与工厂女工行为不搭\nmischievous 表「恶作剧的、爱搞怪的」，多用于孩童行为；工人生产数据呈现的反常与「调皮」\n毫无关系，色彩、对象都错。\nD) ambiguous ✗「模糊歧义」指意思不明，非现象费解\nambiguous 强调「语义不清、可作多种解释」，多用于陈述、措辞；这里描述的是行为带来的反\n直觉结果，并不是行为「意义模棱两可」，方向偏离。\n【验证】代回得「正是工厂女工那令人费解的行为催生了这个概念」，与下文「光强光弱都让产量上\n升」这一反常表现相互印证，符合 P2「描述反常→引发新解释」的脉络。"
+  },
+  {
+   "no": 5,
+   "options": {
+    "A": "requirements",
+    "B": "explanations",
+    "C": "accounts",
+    "D": "assessments"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "下文是实验结果的描述",
+   "analysis": "【答案】[ C ] accounts\n词义辨析\n【线索】下文是实验结果的描述\n线索是接下来的内容 their hourly output rose when lighting was increased, but also\nwhen it was dimmed——这是对实验观察结果的「描述/记述」。能与之搭配的是「实验\n记述/记录」，即 accounts of the experiments。P3 中 Contrary to the descriptions on\nrecord 也回应了这种「记录式描述」的存在。\n【选项】A) requirements ✗「要求」是事前规定，不是结果描述\nrequirements 指「要求、规定」，但下文说的是产量怎样变化的事实，不是实验提出的要求；\n「依据实验的要求，产量上升了」逻辑不通。\nB) explanations ✗解释是对结果的分析，非结果本身\nexplanations 意为「解释」。下一句仅陈述现象 output rose，并未给出原因分析，与「解释」的\n语义不符；且 P3 后文用 descriptions on record 回指此处，提示更应是「记述」。\nC) accounts ✓「记述/描述」契合后文事实陈述\naccounts 在此表「记述、描述、报告」，正好与下文 their hourly output rose when lighting\nwas increased, but also when it was dimmed 这种事实陈述相吻合；并和后文 Contrary to\nthe descriptions on record 形成同义回指，互为线索。\nD) assessments ✗「评估」强调判定优劣，非客观记述\nassessments 意为「评估、评价」，强调价值判断；下文是数据变化的客观陈述，没有评估或评价\n之意，方向偏离。\n【验证】代回为「根据对这些实验的记述，工人每小时产量在光线增强时上升，在光线变暗时也上\n升」，与后文 Contrary to the descriptions on record 形成精准呼应，P2 这一段确实是\n基于「记录在案的描述」展开的旧解释。"
+  },
+  {
+   "no": 6,
+   "options": {
+    "A": "conclude",
+    "B": "matter",
+    "C": "indicate",
+    "D": "work"
+   },
+   "answer": "B",
+   "type": "固定搭配",
+   "explain": "无论做了什么，产量都上升",
+   "analysis": "【答案】[ B ] matter\n固定搭配\n【线索】无论做了什么，产量都上升\n线索在本句与紧随其后的分句 It did not __(6)__ what was done in the experiment;\n__(7)__ something was changed, productivity rose——分号后说「只要变了什么，产量\n就上升」，反推前半句要表达「实验里做了什么并不重要」，所以空格动词需是 matter。\n【选项】A) conclude ✗「得出结论」与「不重要」的语义不沾\nconclude 表「下结论」，「它没有就实验做什么得出结论」与下文「只要变了什么产量就升」的\n「无关紧要」之意完全脱节。\nB) matter ✓It doesn't matter wh-clause = 无所谓\nmatter 作动词意为「要紧、重要」，It did not matter what was done「做了什么并不重要」\n是高频固定句型；与分号后 so long as something was changed, productivity rose 形成「不\n在于做了什么、只在于变了什么」的精准呼应。\nC) indicate ✗「表明」需有信息内容，主语错位\nindicate 表「表明、暗示」，主语通常为「数据、事实」，且否定式 did not indicate what was\ndone 变成「没有表明做了什么」，与作者要说「这无关紧要」的主旨南辕北辙。\nD) work ✗「奏效」需有努力或方法对象\nwork 作「起作用、奏效」时主语应是某方法或某事物；It did not work what was done 不合语\n法、也偏离句意，属于硬塞动词。\n【验证】代回得「实验里做了什么并不重要；只要变了什么，产量就上升」，前后语义自洽，与 P2\n「不论光强光弱、只要变化产量都上升」的核心观察完美对应。"
+  },
+  {
+   "no": 7,
+   "options": {
+    "A": "as far as",
+    "B": "for fear that",
+    "C": "in case that",
+    "D": "so long as"
+   },
+   "answer": "D",
+   "type": "逻辑关系",
+   "explain": "「只要……就」的充分条件关系",
+   "analysis": "【答案】[ D ] so long as\n逻辑关系\n【线索】「只要……就」的充分条件关系\n前句 It did not __(6)__ what was done in the experiment 否定「做了什么」的作用，分\n号后想说「只要变了什么，产量就上升」——这是充分条件，对应 so long as「只要」。\n【选项】A) as far as ✗「就……而言」表范围，非条件\nas far as 表「就……而言、在……范围内」，常用 as far as I know，强调范围限度；此处需要的是\n「只要……就」的条件关系，方向不对。\nB) for fear that ✗「以免」带主观目的，与客观条件冲突\nfor fear that 表「唯恐、以免」，前后是主观避免某结果的目的关系，但本句是客观陈述「变化即\n上升」的对应关系，没有人想避免任何事，逻辑错。\nC) in case that ✗「以防、假设」语气与陈述事实不合\nin case that 表「以防、万一」，带假设和预防意味，且 in case 后一般不接 that；本句陈述的是\n反复观察到的客观规律，不是预防性假设。\nD) so long as ✓「只要……就」充分条件，精准契合\nso long as 意为「只要」，表充分条件；与前句「做什么不重要」形成「不重要的是做什么、重\n要的是变化本身」的递进，再加分号后 productivity rose 构成「只要变就升」的对应，是唯一\n逻辑通畅项。\n【验证】代回 __(7)__ something was changed, productivity rose → so long as something was\nchanged, productivity rose，「只要有什么被改变了，产量就上升」，与前句「做了什么\n并不重要」一起，构成「无关具体做法、只看是否有变化」的核心论断，对应 outline 中\nP2「描述反常」一段。"
+  },
+  {
+   "no": 8,
+   "options": {
+    "A": "awareness",
+    "B": "expectation",
+    "C": "sentiment",
+    "D": "illusion"
+   },
+   "answer": "A",
+   "type": "词义辨析",
+   "explain": "「察觉自己在被实验」是事实，不是错觉或期待",
+   "analysis": "【答案】[ A ] awareness\n词义辨析\n【线索】「察觉自己在被实验」是事实，不是错觉或期待\n线索是同位语从句 that they were being experimented upon——工人确实在被实验，这\n是客观事实；他们对此的心理是「意识到、知道」，所以名词应表「知晓、意识」，即\nawareness。这一含义也回指概念定义中的 the very __(3)__ of being experimented\nupon changed subjects' behavior。\n【选项】\nA) awareness ✓「意识到正在被实验」是事实性察觉\nawareness 意为「意识、察觉」，an awareness that ... 表「意识到……这一事实」，与从句内\n容「正在被实验」相符，并精准对接霍桑效应的核心：被试者「意识到自己被观察」就足以改变\n行为。\nB) expectation ✗「期待」指向未来事件，时态不符\nexpectation 表「期望、预期」，所接的从句通常是「将要发生的事」（that something will\nhappen）；这里从句是 they were being experimented upon「正被实验」，时态是正在进行，\n不是期待中的未来事件。\nC) sentiment ✗「情感/观点」与「察觉到事实」错位\nsentiment 表「情绪、看法」，常接介词短语而少接 that-从句作同位语，更不与「正在被实验」\n这类事实陈述匹配；且情绪本身不构成霍桑效应的解释机制。\nD) illusion ✗「错觉」暗示并非事实，与原文矛盾\nillusion 表「错觉、幻觉」，强调与事实不符；但工人确实在被实验，并非错觉，用 illusion 会让\n句子变成「他们错以为自己被实验」，与原文逻辑相反。\n【验证】代回为「工人意识到自己正在被实验，这种意识本身似乎就足以改变他们的行为」，与 P1\n给出的霍桑效应定义 the very __(3)__ of being experimented upon changed subjects'\nbehavior 完全对应，全局自洽。"
+  },
+  {
+   "no": 9,
+   "options": {
+    "A": "suitable",
+    "B": "excessive",
+    "C": "enough",
+    "D": "abundant"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "「单凭这一意识就足以改变行为」的程度副意",
+   "analysis": "【答案】[ C ] enough\n词义辨析\n【线索】「单凭这一意识就足以改变行为」的程度副意\n线索是结尾的 to alter workers' behavior __(10)__ itself——「单凭它自己就改变工人行\n为」。前面 seemed to be ___ to alter 表「似乎足以改变」，意思是「程度足够」，对应\nenough（be enough to do = 足以做……）。\n【选项】A) suitable ✗「合适」强调匹配，不表达「足以」\nsuitable 表「合适、适宜的」，强调与某需求相称，不传达「程度足够引发结果」之意，且\nsuitable to do 远不如 enough to do 常用。\nB) excessive ✗「过量」带负面，与中性陈述不合\nexcessive 表「过度、过量的」，带贬义；作者只是客观说「这种意识足以改变行为」，没有「过\n度」的色彩。\nC) enough ✓be enough to do「足以做……」精准成立\nenough 用作形容词或副词时常构成 be enough to do sth.「足以做某事」；此处「这种意识似\n乎就足以改变工人行为」正是该结构的典型语义，与下个空 by itself「单凭自身」形成「程度足\n够+独立作用」的完整表达。\nD) abundant ✗「丰富」修饰量大事物，不搭抽象「意识」\nabundant 表「丰富、大量的」，多修饰资源、证据等可计量事物（abundant\nresources/evidence），与单数抽象名词 awareness 搭配生硬，且不传达「足以」的关键含义。\n【验证】代回为「这种意识似乎就足以单凭自身改变工人的行为」，与 P2 整段的核心论断「察觉这\n件事本身→改变行为」严丝合缝，与 outline 「P2 提出旧解释」的功能匹配。"
+  },
+  {
+   "no": 10,
+   "options": {
+    "A": "about",
+    "B": "for",
+    "C": "on",
+    "D": "by"
+   },
+   "answer": "D",
+   "type": "固定搭配",
+   "explain": "强调「单凭这种意识自身」改变行为",
+   "analysis": "【答案】[ D ] by\n固定搭配\n【线索】强调「单凭这种意识自身」改变行为\n线索是前面的 A(n) __(8)__ that they were being experimented upon seemed to be\n__(9)__ to alter workers' behavior __(10)__ itself——主语「这种意识」充当唯一原因，意\n思是「单凭它自身就改变行为」，对应 by itself「独自、单凭它自己」。\n【选项】A) about ✗about itself 不构成固定短语\nabout 与 itself 不存在「单凭自身」的搭配义；about itself 通常表「关于它自己」，语义错配。\nB) for ✗for itself 偏「为自身」，非独立作用\nfor 与 itself 搭出 for itself「为它自己」，强调对象/受益方；这里要的是「独自起作用」的方式，\n意思不对。\nC) on ✗on itself 几乎不成立\non 与 itself 几乎不构成习惯短语来表「独自」；on one's own 才是「独自」的常见说法，与本题\n不同。\nD) by ✓by itself「单凭自身」精准对应\nby 与 itself 构成 by itself「单凭它自己、独自地」，正好补足 enough to alter ... by itself「足\n以单凭自身改变……」的完整表达，与霍桑效应「不必额外干预、被观察即可致变」的内涵相\n印证。\n【验证】代回得「这种意识似乎就足以单凭其自身改变工人的行为」，与 P2 整段核心一致，构成定\n义性总结句。"
+  },
+  {
+   "no": 11,
+   "options": {
+    "A": "compared",
+    "B": "shown",
+    "C": "subjected",
+    "D": "conveyed"
+   },
+   "answer": "C",
+   "type": "固定搭配",
+   "explain": "把旧数据「拿来做」计量经济分析",
+   "analysis": "【答案】[ C ] subjected\n固定搭配\n【线索】把旧数据「拿来做」计量经济分析\n线索是 After several decades, the same data were __(11)__ to econometric analysis\n——「几十年后，同一批数据被___给计量分析」。语义是「拿来做某种分析、施以某种检\n验」，对应 be subjected to「被施以、接受」。\n【选项】A) compared ✗「与……比较」需要比较对象，对象不符\ncompared 与 to 搭出 be compared to「与……相比」，需要的是同类比较对象；但\neconometric analysis 是一种「方法」，不能作为被比较的对象，搭配方向错。\nB) shown ✗「被展示给」与「做分析」错位\nshown 接 to + sb. 表「展示给某人」；与「计量经济分析」这种方法搭配不通，且 show to\nanalysis 不构成熟词组。\nC) subjected ✓be subjected to analysis = 被施以分析\nsubjected 与 to 构成 be subjected to「遭受、被施以」，be subjected to analysis 即「接受/\n被施以分析」，是科研文体里的标配；与「几十年后回头用新方法重新分析旧数据」语境精准\n对应。\nD) conveyed ✗「传达给」对象通常是信息接收者\nconveyed 与 to 搭配表「把……传达给某人」，对象通常是人或机构；用于 analysis 不合搭配，意\n思也错。\n【验证】代回为「几十年后，同一批数据被施以计量经济分析」，与下文 no systematic __(13)__\nwas found that levels of productivity were related to changes in lighting 即「重新分\n析后没找到产量与光照相关的证据」相承接，形成 P3「数据复检」的论证骨架。"
+  },
+  {
+   "no": 12,
+   "options": {
+    "A": "Contrary to",
+    "B": "Consistent with",
+    "C": "Parallel with",
+    "D": "Peculiar to"
+   },
+   "answer": "A",
+   "type": "逻辑关系",
+   "explain": "旧记述说有关系、新分析说没关系",
+   "analysis": "【答案】[ A ] Contrary to\n逻辑关系\n【线索】旧记述说有关系、新分析说没关系\n前文 P2 According to __(5)__ of the experiments, their hourly output rose when\nlighting was increased, but also when it was dimmed 显示旧记述说产量随光照变化；\n本句 no systematic __(13)__ was found that levels of productivity were related to\nchanges in lighting 说新分析未发现产量与光照相关的系统性证据——结论相反，对应\nContrary to「与……相反」。\n【选项】\nA) Contrary to ✓「与……相反」对应新旧结论对撞\nContrary to 表「与……相反」，直接呼应前文旧记述「产量随光照变化」与本句「找不到产量与\n光照相关的证据」之间的反差，是 P3 最关键的转折信号。\nB) Consistent with ✗「与……一致」逻辑反向\nConsistent with 表「与……一致」，若代入则等于说「新分析与旧记述一致地未发现相关性」，但\n旧记述明明声称发现了相关性，与本句结论相反，不能用 Consistent with。\nC) Parallel with ✗「与……平行」侧重同向并列\nParallel with 表「与……平行、并列发生」，强调两者同向并存，并未传达对立或反差；用在此处\n仍属逻辑方向不符。\nD) Peculiar to ✗「为……所特有」属性义，逻辑错位\nPeculiar to 表「为某物所特有的」，例如 a disease peculiar to children，描述属性归属；与\n「记述对比新结论」的语境完全错位。\n【验证】代回为「与那些记录在案的描述相反，未发现系统性证据表明产量水平与照明变化有关」，\n与 P2 给出的旧描述形成正面对撞，符合 outline「P3 数据复检、推翻旧解释」的功能；同\n时为 P4 寻找真因铺路。"
+  },
+  {
+   "no": 13,
+   "options": {
+    "A": "evidence",
+    "B": "guidance",
+    "C": "implication",
+    "D": "source"
+   },
+   "answer": "A",
+   "type": "词义辨析",
+   "explain": "「未找到系统性证据表明 X 与 Y 相关」",
+   "analysis": "【答案】[ A ] evidence\n词义辨析\n【线索】「未找到系统性证据表明 X 与 Y 相关」\n线索是整句结构 no systematic __(13)__ was found that levels of productivity were\nrelated to changes in lighting——that-从句陈述的是有待验证的假说「产量与照明相\n关」，能与之搭配的是 evidence「证据」，整句意为「没找到系统性证据表明产量与照明\n相关」。\n【选项】\nA) evidence ✓「系统性证据」+ that-命题，标配搭配\nevidence 表「证据」，systematic evidence that ... 是「系统性证据表明……」的经典搭配，与\n「数据复检未发现产量受光照影响」的论证场景高度吻合。\nB) guidance ✗「指导」与「证据」语义维度不同\nguidance 表「指导、指引」，意指方法上的建议，与论证某结论是否成立无关；systematic\nguidance that 也不构成固定表达。\nC) implication ✗「暗示/含义」未能强力支撑「相关性」结论\nimplication 表「暗示、含义」，强调间接推论；研究语境里 was found 后多接「证据」而非「暗\n示」；且 systematic implication 罕用，不如 evidence 精准。\nD) source ✗「来源」与论证无直接关系\nsource 表「来源、根源」，多接 of + 名词（the source of the problem），不能用 that-从句作\n同位语来说明命题内容，结构与语义均不符。\n【验证】代回为「未找到系统性证据表明产量水平与照明变化有关」，与 12 题 Contrary to ... 形成\n「与旧记述相反、新分析无证据」的完整反驳链，是 P3 段落功能的核心句。"
+  },
+  {
+   "no": 14,
+   "options": {
+    "A": "disputable",
+    "B": "enlightening",
+    "C": "reliable",
+    "D": "misleading"
+   },
+   "answer": "D",
+   "type": "词义辨析",
+   "explain": "实验方式有缺陷→产生「误导性」解读",
+   "analysis": "【答案】[ D ] misleading\n词义辨析\n【线索】实验方式有缺陷→产生「误导性」解读\n线索一是 peculiar way 已暗示问题；线索二是下文 a comparison with data for weeks\nwhen there was no experimentation showed that output always went up on\nMondays——揭示真正的「周一惯性高产」机制，证明 P2 那种「察觉=改变行为」的解读\n其实是误读。所以应填 misleading「误导性的」。\n【选项】A) disputable ✗「有争议」程度太轻\ndisputable 表「有争议的、可被质疑的」，停留在「不确定」层面；但作者已经用数据推翻旧解\n读，远不止有争议而已，应是「误导性的」。\nB) enlightening ✗「启发性的」是褒义，与推翻语境冲突\nenlightening 是「富有启发的」，褒义；但 P4 全段是要拆穿旧解读为误，褒义形容词与作者立场\n反向。\nC) reliable ✗「可靠的」与推翻论调正相反\nreliable 是「可靠的」，褒义；与作者明确否定旧解读的立场冲突，且既然下文用数据证伪，就更\n谈不上「可靠」。\nD) misleading ✓「误导性」契合「奇怪做法→错误结论」\nmisleading 意为「误导性的」，精准对应「实验方式特殊导致对所发生情况的误解」，并为 P4\n后文的真因揭示铺垫，与全文复盘基调一致。\n【验证】代回为「实验的特殊操作方式可能导致对所发生情况的误导性解读」，与 P4 接下来用「周\n一惯性高产」推翻旧解读形成完整论证链，符合 outline P4「真因揭示」功能。"
+  },
+  {
+   "no": 15,
+   "options": {
+    "A": "In contrast",
+    "B": "For example",
+    "C": "In consequence",
+    "D": "As usual"
+   },
+   "answer": "B",
+   "type": "逻辑关系",
+   "explain": "前句概括→本句给出具体做法",
+   "analysis": "【答案】[ B ] For example\n逻辑关系\n【线索】前句概括→本句给出具体做法\n前句 the peculiar way of conducting the experiments may have led to __(14)__\ninterpretations of what happened 是抽象的「特殊做法导致误解」；本句 lighting was\nalways changed on a Sunday 给出「特殊做法」的具体一例——总在周日改光线。这是典\n型的「概括→举例」关系，应填 For example。\n【选项】A) In contrast ✗「对照之下」需有两方对立\nIn contrast 表「与之相反」，前后句之间应有对立的两个对象/观点；但本句只是给前句一个具体\n例子，没有对照对象。\nB) For example ✓「举例说明」精准契合\nFor example 表「例如」，是「前句概括→后句具体例子」的标准标记；前句说做法特殊导致误\n读，本句举出「总在周日调光」这一具体做法作支撑，是教科书级的举例关系。\nC) In consequence ✗「结果」指因果，方向错\nIn consequence 表「因此」，强调结果；但本句不是前句的结果，而是前句的具体例证，关系类\n别不同。\nD) As usual ✗「像往常一样」属习惯描述，非逻辑标记\nAs usual 是描述「按惯例发生」，无法体现「举例」关系；且作者在此并未强调「按惯例」，而是\n要揭示一个具体疏漏。\n【验证】代回为「例如，光线总是在周日变更」，与下文 Monday 产量上升、对比无实验周的数据\n等具体细节，共同构成「奇怪做法→误读」的举例链，符合 P4 揭示真因的功能。"
+  },
+  {
+   "no": 16,
+   "options": {
+    "A": "duly",
+    "B": "accidentally",
+    "C": "unpredictably",
+    "D": "suddenly"
+   },
+   "answer": "A",
+   "type": "词义辨析",
+   "explain": "周一产量上升是「按惯例发生」",
+   "analysis": "【答案】[ A ] duly\n词义辨析\n【线索】周一产量上升是「按惯例发生」\n线索在后文 a comparison with data for weeks when there was no experimentation\nshowed that output always went up on Mondays——「连没做实验的周也是周一产\n量总上升」，说明周一产量上升是规律性事件，不是意外，应填 duly「按期、如约、自然\n而然」。\n【选项】\nA) duly ✓「按预期、如约」契合规律性上升\nduly 表「按预期、如约、恰如其分」，正对应后文 always went up on Mondays「总是在周一\n上升」的规律性，是作者强调这次也不例外的恰当副词。\nB) accidentally ✗「偶然地」与「总是发生」矛盾\naccidentally 表「偶然、意外」，与后文 always went up on Mondays 的规律性直接冲突。\nC) unpredictably ✗「不可预测」与规律相悖\nunpredictably 表「不可预测地」，但作者下文恰恰说每个周一都上升，可预测，副词指向相反。\nD) suddenly ✗「突然」强调骤变，不强调规律\nsuddenly 表「突然」，关注「事件来得快」；这里作者要说的是「按惯例、可预期」的常态变\n化，而非突变。\n【验证】代回为「周一开工时，产量与前一个周六相比按惯例上升了」，与下文 a comparison with\ndata for weeks when there was no experimentation showed that output always went\nup on Mondays 形成「这是周一常态」的呼应，与 P4 揭示真因的脉络一致。"
+  },
+  {
+   "no": 17,
+   "options": {
+    "A": "failed",
+    "B": "ceased",
+    "C": "started",
+    "D": "continued"
+   },
+   "answer": "D",
+   "type": "词义辨析",
+   "explain": "周一上升后接下来几天仍在上升",
+   "analysis": "【答案】[ D ] continued\n词义辨析\n【线索】周一上升后接下来几天仍在上升\n线索是前文 output __(16)__ rose「周一产量已上升」与后续 for the next couple of days\n「接下来几天」——两者用 and 串起来说明上升趋势在后续几天继续，应是 continued\nto rise。\n【选项】A) failed ✗「未能继续上升」与上下文相反\nfailed to rise 表「未能上升」，与上下文「接下来几天仍上升、之后才进入平台期」的描述完全\n相反。\nB) ceased ✗「停止上升」与「持续几天上升」矛盾\nceased to rise 表「停止上升」，但下文还提到 before __(20)__ a plateau and then slackening\noff 说明上升一直到达到平台才结束，并非立即停止。\nC) started ✗「开始上升」否定了周一已上升\nstarted to rise 表「开始上升」，但前半句 output rose 已说周一就上升了，再用 started 会和事\n实冲突，逻辑不连贯。\nD) continued ✓「继续上升」契合数日持续上升\ncontinued to rise 表「继续上升」，正对应「周一已升，接下来几天仍在升」的并列描述，并\n与下一句 before __(20)__ a plateau and then slackening off 的「到达平台前一直上升」连成\n一气。\n【验证】代回为「与前一个周六相比，周一产量按惯例上升了，并在接下来的几天里继续上升」，构\n成「周一开始升→数日内持续升→触顶→回落」的完整曲线，与 P4 真因揭示的描写连贯。"
+  },
+  {
+   "no": 18,
+   "options": {
+    "A": "Therefore",
+    "B": "Furthermore",
+    "C": "However",
+    "D": "Meanwhile"
+   },
+   "answer": "C",
+   "type": "逻辑关系",
+   "explain": "前文说「实验周周一上升似可归因于实验」→本句揭示其实「无实验周也升」",
+   "analysis": "【答案】[ C ] However\n逻辑关系\n【线索】前文说「实验周周一上升似可归因于实验」→本句揭示其实「无实验周也升」\n前文 output __(16)__ rose compared with the previous Saturday and __(17)__ to rise\nfor the next couple of days 还在描述实验周内的产量上升，看似可归因实验；本句 a\ncomparison with data for weeks when there was no experimentation showed that\noutput always went up on Mondays 突然引入「无实验周也升」的对照，是一个推翻前\n面隐含归因的转折，应填 However。\n【选项】A) Therefore ✗「因此」表因果，方向反\nTherefore 表「因此」，若代入会变成「（因为周一上升数日）因此对照显示周一总上升」，因果\n链不成立；本质上后句是推翻前推断的新证据，不是推论结果。\nB) Furthermore ✗「此外」是同向递进，未体现反差\nFurthermore 表「此外」，表示同方向加码；但本句以「无实验周也上升」的事实让前面的实验归\n因不成立，需要的是反差信号。\nC) However ✓「然而」标记新证据推翻旧推断\nHowever 表「然而」，正对应「前面看似归因实验→后面对照数据揭示并非如此」的转折逻辑，\n是 P4 真因揭示的关键标志词。\nD) Meanwhile ✗「同时」表时间并行，不构成逻辑反差\nMeanwhile 表「同时、与此同时」，强调时间维度的并行；本句不是描述同时发生的事，而是给\n出反证证据，逻辑类别不符。\n【验证】代回为「然而，与未开展实验的几周的数据对比显示，产量总是在周一上升」，正是对前文\n「周一上升」隐含归因实验的釜底抽薪，与 outline 「P4 揭示真因」一致。"
+  },
+  {
+   "no": 19,
+   "options": {
+    "A": "attempted",
+    "B": "tended",
+    "C": "chose",
+    "D": "intended"
+   },
+   "answer": "B",
+   "type": "词义辨析",
+   "explain": "「不管怎样、工人每周头几天都更勤奋」是普遍倾向",
+   "analysis": "【答案】[ B ] tended\n词义辨析\n【线索】「不管怎样、工人每周头几天都更勤奋」是普遍倾向\n线索是 Workers __(19)__ to be diligent for the first few days of the week in any case\n中的 in any case「无论如何」，以及下半句 before __(20)__ a plateau and then\nslackening off 表明这是一种规律性的工作节律，描述的是一般倾向，对应 tend to do「倾\n向于」。\n【选项】A) attempted ✗「尝试」强调有意图的努力\nattempted 表「尝试」，带有「主动努力、且不一定成功」的色彩，与「客观规律性高产」的描述\n不符。\nB) tended ✓「倾向于」对应普遍规律\ntended 与 to 搭出 tend to do「倾向于做」，描述群体在某情境下普遍呈现的客观趋势，正契\n合「不管怎样、每周头几天工人都更勤奋」的规律性观察。\nC) chose ✗「选择」突出主观决定\nchose 表「选择」，带主观决断意味；客观规律性现象更适合用 tended，不是 chose。\nD) intended ✗「打算」是主观计划\nintended 表「打算、意图」，强调主观规划；与统计现象「工人在前几天都更勤奋」不在同一描\n述维度。\n【验证】代回为「不管怎样，工人在一周的头几天都倾向于勤奋」，与前文 output always went up\non Mondays 的客观规律一致，并为下一空「达到平台后开始松懈」铺路。"
+  },
+  {
+   "no": 20,
+   "options": {
+    "A": "breaking",
+    "B": "climbing",
+    "C": "surpassing",
+    "D": "hitting Section II Reading Comprehension Part A Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points) Text 1 Of all the changes that have taken place in English-language newspapers during the past quarter-century, perhaps the most far-reaching has been the inexorable decline in the scope and seriousness of their arts coverage. It is difficult to the point of impossibility for the average reader under the age of forty to imagine a time when high-quality arts criticism could be found in most big-city newspapers. Yet a considerable number of the most significant collections of criticism published in the 20th century consisted in large part of newspaper reviews. To read such books today is to marvel at the fact that their learned contents were once deemed suitable for publication in general-circulation dailies. We are even farther removed from the unfocused newspaper reviews published in England between the turn of the 20th century and the eve of World War II, at a time when newsprint was dirt-cheap and stylish arts criticism was considered an ornament to the publications in which it appeared. In those far-off days, it was taken for granted that the critics of major papers would write in detail and at length about the events they covered. Theirs was a serious business, and even those reviewers who wore their learning lightly, like George Bernard Shaw and Ernest Newman, could be trusted to know what they were about. These men believed in journalism as a calling, and were proud to be published in the daily press. \"So few authors have brains enough or literary gift enough to keep their own end up in journalism,\" Newman wrote, \"that I am tempted to define 'journalism' as 'a term of contempt applied by writers who are not read to writers who are'.\" Unfortunately, these critics are virtually forgotten. Neville Cardus, who wrote for the Manchester Guardian from 1917 until shortly before his death in 1975, is now known solely as a writer of essays on the game of cricket. During his lifetime, though, he was also one of England's foremost classical-music critics, and a stylist so widely admired that his Autobiography (1947) became a best-seller. He was knighted in 1967, the first music critic to be so honored. Yet only one of his books is now in print, and his vast body of writings on music is unknown save to specialists. Is there any chance that Cardus's criticism will enjoy a revival? The prospect seems remote. Journalistic tastes had changed long before his death, and postmodern readers have little use for the richly upholstered Vicwardian prose in which he specialized. Moreover, the amateur tradition in music criticism has been in headlong retreat."
+   },
+   "answer": "D",
+   "type": "固定搭配",
+   "explain": "「先上升→到达平台→再回落」的节奏",
+   "analysis": "【答案】[ D ] hitting\n固定搭配\n【线索】「先上升→到达平台→再回落」的节奏\n线索是上下文节奏：前面说工人头几天勤奋（产量上升），紧接 a plateau and then\nslackening off「达到平台然后松懈」——意为「先升到顶点然后回落」。「达到平台期」\n的英语标准说法是 hit a plateau。\n【选项】A) breaking ✗「打破平台」语义反，且非固定搭配\nbreaking a plateau 字面是「打破平台期」，本意是冲出停滞继续向上；与下文 slackening off\n「松懈」矛盾，且本身不是英语固定搭配。\nB) climbing ✗「攀登」无法搭 a plateau\nclimbing 通常接 mountain/hill 等可被攀上的对象；climb a plateau 不构成固定表达，且方向意\n味「向上」，与「到达瓶颈」相反。\nC) surpassing ✗「超越」与下文「松懈」矛盾\nsurpassing 表「超越」，意味突破平台继续上升；但下文 slackening off 是松懈下降，因果链对\n不上。\nD) hitting ✓hit a plateau=触及平台期/触顶\nhitting 与 a plateau 构成 hit a plateau「触及平台期、达到瓶颈」的固定搭配，正对应「头几\n天升、之后触顶、然后松懈」的工作节奏。\n【验证】代回为「工人在每周头几天倾向于勤奋，之后触及平台期，再然后松懈下来」，描述出「升\n→平→落」完整曲线，与 P4 给出的真因——周一惯性高产、随后回落——精准对应。\nO V E R V I E W · 通读建境\n全文主旨与行文脉络\n完形是语篇题——单看空所在的半句往往四个选项都「像」。下面是全文主旨与行文脉\n络，是每个空锁定线索、代入验证时核对的全局工作台。\n全文主旨\n复盘并质疑著名的「霍桑效应」\n文章以1924年霍桑工厂照明实验为例，回溯了所谓「霍桑效应」（被观察这一行为本身改\n变受试者行为）的由来，再用后来的计量经济分析推翻原解读，最后指出真因可能只是工\n人周一惯性高产。基调是冷静、带怀疑的复盘，如开篇 the extremely influential idea that\nthe very __(3)__ of being experimented upon changed subjects' behavior 引出概念，末段\nThis suggests that the alleged \"Hawthorne effect\" is hard to pin down 给出推翻性结论。\n行文脉络\n背景实验→提出效应→数据复检→真因揭示\n全文按四段递进：P1 交代实验缘起与「霍桑效应」概念的诞生（supervise a series of\nexperiments at a telephone-parts factory called the Hawthorne Plant）；P2 描述当年解释\n——无论怎样改动产量都上升（their hourly output rose when lighting was increased, but\nalso when it was dimmed）；P3 用现代计量分析推翻原结论（no systematic __(13)__ was\nfound that levels of productivity were related to changes in lighting）；P4 揭示真因——\n周一本来就高产（output always went up on Mondays）。把握这条「立—破—释」的链条\n是逐空判断转折/因果/举例信号词的关键。\nS E N T E N C E I N S I G H T S · 句子精讲\n7 句真题句逐层精讲\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nInstead, the studies ended up giving their name to the \"Hawthorne effect,\" the\nextremely influential idea that the very act of being experimented upon changed\nsubjects' behavior.\n第1段，第3句\n本句结构较典型，时态不花哨但足以训练“先抓主干、再拆名词后说明”的基本功，适合作为结构与\n时态综合训练材料。它的难点集中而清晰，练完后迁移价值较高。\nThe idea arose because of the perplexing behavior of the women in the plant.\n第2段，第1句\n主谓加原因状语的简单句结构在真题中常见，because of 的用法也是高频考点，但句子整体过于简\n单，不具备复杂句式的代表性。\nIt did not matter what was done in the experiment; so long as something was\nchanged, productivity rose.\n第2段，第3句\n本句成分丰富,涵盖形式主语与真正主语的区分(It 作形式主语、what 从句作真正主语)、主语从句的\n识别、条件状语从句的识别、被动语态中主语的定位、地点状语的判定等多个知识点。形式主语结\n构是易错点,学生容易将 It 误认为真正主语;主语从句和条件状语从句的引导词 what 和 so long as\n也需要准确识别。句子结构清晰但包含典型易错点,适合作为成分划分练习,能帮助学生巩固形式主\n语、名词性从句、状语从句等核心概念。\nA(n) awareness that they were being experimented upon seemed to be enough to\nalter workers' behavior by itself.\n第2段，第4句\n涵盖主语(含同位语从句修饰)、系动词谓语、不定式表语、从句内的被动谓语等多种成分;同位语\n从句是容易与定语从句混淆的考点,主语被从句拉长也是划分易错点,作为成分训练句有较好的练习\n价值。\nIt turns out that the peculiar way of conducting the experiments may have led to\nmisleading interpretations of what happened.\n第4段，第1句\n形式主语 It 结构、that 引导的主语从句、嵌套的名词性从句、介词短语作定语，都是四六级和考研\n真题中的高频句式。情态动词 may 加完成式表推测也是常考语法点。本句结构非常典型，掌握后\n可大量复用到学术文本和考试阅读中。\nWhen work started again on Monday, output duly rose compared with the\nprevious Saturday and continued to rise for the next couple of days.\n第4段，第3句\n\"when引导的时间状语从句 + 主句(并列谓语)\"是考试中常见的句式,\"compared with\"作状语\n和\"continue to do\"结构也是典型用法,具有较好的代表性和迁移价值。\nThis suggests that the alleged \"Hawthorne effect\" is hard to pin down.\n第4段，第6句\n\"主句 + 宾语从句\" 是四六级和考研阅读中的常见句式，从句内的 \"主系表 + 形容词 + 不定式\" 结构\n也较为典型。虽然本句较为简单，但其结构模式具有较好的复用性，学生掌握后可应用于类似句型\n的分析。\nH I G H - F R E Q U E N C Y · 真题高频词\n本篇出现的 28 个考研英语一真题高频词\n下列单词既在本篇完形原文中出现，又是 考研英语一 历年真题的高频词（在该考试真题\n中出现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查\n看该词的释义、音标、词形与真题例句。\nbehavior\nB1\nn. 行为\n本篇3 次 · 真题 52 句\nproductivity\nB2\nn. 生产率\n本篇3 次 · 真题 36 句\ndata\nB1\nn. 数据\n本篇2 次 · 真题 80 句\neffect\nA2\nn. 影响\n本篇2 次 · 真题 80 句\nwould\nA1\naux. （will 的过去式）将要，会\n本篇1 次 · 真题 304 句\naccord\nC1\nn. （国家、团体间的）协议\n本篇1 次 · 真题 172 句\ncase\nA2\nn. 情况\n本篇1 次 · 真题 75 句\ntend\nB1\nv. 倾向于，往往会\n本篇1 次 · 真题 71 句\ndecade\nB1\nn. 十年\n本篇1 次 · 真题 61 句\nevidence\nB1\nn. 证据\n本篇1 次 · 真题 48 句\naccount\nA2\nn. 账户\n本篇1 次 · 真题 42 句\naffect\nB1\nv. 影响\n本篇1 次 · 真题 39 句\nconduct\nB2\nv. 组织并实施\n本篇1 次 · 真题 31 句\nanalysis\nB2\nn. 分析\n本篇1 次 · 真题 24 句\nprevious\nB1\nadj. 先前的\n本篇1 次 · 真题 24 句\nrelated\nB1\nadj. 相关的\n本篇1 次 · 真题 23 句\nseries\nB1\nn. 系列\n本篇1 次 · 真题 21 句\ninfluential\nB2\nadj. 有影响力的;有权势的\n本篇1 次 · 真题 18 句\narise\nB2\nv. 出现;产生;发生\n本篇1 次 · 真题 14 句\nalter\nB2\nv. 改变，更改（使某物与之前不同）\n本篇1 次 · 真题 13 句\nawareness\nB2\nn. 意识\n本篇1 次 · 真题 12 句\ncouncil\nB1\nn. 委员会\n本篇1 次 · 真题 12 句\ninterpretation\nB2\nn. 解释\n本篇1 次 · 真题 11 句\nmisleading\nB2\nadj. 误导性的\n本篇1 次 · 真题 10 句\nextremely\nB1\nadv. 极其\n本篇1 次 · 真题 9 句\ncontrary\nB2\nadj. 相反的\n本篇1 次 · 真题 8 句\npeculiar\nB2\nadj. 奇怪的\n本篇1 次 · 真题 8 句\nsystematic\nC1\nadj. 系统的\n本篇1 次 · 真题 8 句\nV O C A B U L A R Y · 词汇难度分布\n全文 120 词按 CEFR 难度累积覆盖\n带空短文去重后共 120 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」\n的累积占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 6 个 ·\n约 5%。\n49%\nA1\n及以下\n64%\nA2\n及以下\n82%\nB1\n及以下\n95%\nB2\n及以下\n99%\nC1\n及以下\n100%\nC2\n及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 120 个 · 末柱为 100%\n去重总词数\n120\nB2 以上难词\n5%\nB1 及以下覆盖\n82%\n考研英语一\n2010年 · 全卷构成\nSection I\n完形填空（四选一）\n本题\nSection II Part A (1)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (2)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (3)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (4)\n阅读理解（四选一）\n题目解析 →\nSection II Part B\n段落排序\n题目解析 →\nSection II Part C\n英译汉（划线句子翻译）\n题目解析 →\nSection III Part A\n写作\n题目解析 →\nSection III Part B\n写作\n题目解析 →\n2010年 考研英语一阅读理解（四选一） 第 1 篇 · 21–25 题答案与解\n析\nQ U E S T I O N S & A N A L Y S I S ·"
+  }
+ ]
+};

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark light">
+<title>数学一真题精读 · 逐题解析 · 知识体系 · 生题本</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='5' fill='%230f1115'/%3E%3Cpath d='M7 16l3-8 4 10 3-8' stroke='%235b9dff' stroke-width='1.8' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="../../shared/vendor/katex/katex.min.css">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+
+<!-- ================= 顶栏 ================= -->
+<header class="topbar">
+  <div class="brand">
+    <svg class="logo" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"
+         stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M4 20c2.5-7 5.5-11 8-11s5.5 4 8 11"/>
+      <path d="M7.2 8.5h9.6"/>
+    </svg>
+    <span class="brand-t">数学一真题精读</span>
+    <span class="brand-s">逐题解析 · 知识体系 · 生题本</span>
+  </div>
+
+  <div class="tools">
+    <div class="search-wrap">
+      <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+           stroke-linecap="round" aria-hidden="true">
+        <circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/>
+      </svg>
+      <input id="search" type="search" placeholder="题干 / 知识点 / 年份…" autocomplete="off"
+             spellcheck="false" aria-label="搜索题干、知识点或年份">
+    </div>
+
+    <div class="seg" id="view-seg" role="group" aria-label="视图">
+      <button type="button" data-view="paper" class="on" title="试卷精读 (1)">试卷</button>
+      <button type="button" data-view="kb" title="知识体系 (2)">知识体系</button>
+      <button type="button" data-view="wrong" title="生题本 (3)">生题本</button>
+      <button type="button" data-view="stats" title="统计 (4)">统计</button>
+    </div>
+
+    <div class="seg" id="mode-seg" role="group" aria-label="模式">
+      <button type="button" data-mode="study" class="on" title="答案默认展开">精读</button>
+      <button type="button" data-mode="quiz" title="先做再看答案，自动记录错题">自测</button>
+    </div>
+
+    <button id="btn-an" class="tbtn on" type="button" title="展开 / 折叠全部解析 (a)">解析</button>
+
+    <div class="fs">
+      <button id="fs-down" class="tbtn icon" type="button" title="缩小字号">A−</button>
+      <button id="fs-up" class="tbtn icon" type="button" title="放大字号">A+</button>
+    </div>
+
+    <button id="btn-theme" class="tbtn icon" type="button" title="切换深浅色">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true">
+        <path d="M21 12.8A8.5 8.5 0 1 1 11.2 3a6.6 6.6 0 0 0 9.8 9.8z"/>
+      </svg>
+    </button>
+
+    <button id="btn-drawer" class="tbtn" type="button" title="生题本（不会的题）">
+      不会 <span id="wb-count" class="cnt">0</span>
+    </button>
+  </div>
+</header>
+
+<!-- ================= 视图 1：试卷 ================= -->
+<div class="layout" id="view-paper">
+  <aside class="col col-left" aria-label="年份导航">
+    <div class="colhead">年份<span class="spacer" id="year-count"></span></div>
+    <ul class="yearlist" id="yearlist"></ul>
+    <div class="hints">
+      <h4>快捷键</h4>
+      <dl>
+        <dt><kbd>1</kbd>–<kbd>4</kbd></dt><dd>选 A–D（自测）</dd>
+        <dt><kbd>j</kbd> / <kbd>k</kbd></dt><dd>下一题 / 上一题</dd>
+        <dt><kbd>a</kbd></dt><dd>解析开关</dd>
+        <dt><kbd>w</kbd></dt><dd>标记「不会」</dd>
+        <dt><kbd>m</kbd></dt><dd>精读 / 自测</dd>
+        <dt><kbd>/</kbd></dt><dd>搜索</dd>
+        <dt><kbd>Esc</kbd></dt><dd>关闭浮层</dd>
+      </dl>
+      <h4>三科分值</h4>
+      <ul class="legend" id="legend"></ul>
+    </div>
+  </aside>
+
+  <main class="col col-mid">
+    <div class="dochead" id="dochead"></div>
+    <div class="section-tabs" id="tabs" role="tablist"></div>
+    <div class="qlist" id="qlist"></div>
+  </main>
+
+  <aside class="col col-right" id="detail" aria-label="题目详情"></aside>
+</div>
+
+<!-- ================= 视图 2：知识体系 ================= -->
+<div class="layout layout-wide" id="view-kb" hidden>
+  <aside class="col col-left" aria-label="知识树">
+    <div class="colhead">知识体系<span class="spacer" id="kb-count"></span></div>
+    <div class="kbtree" id="kbtree"></div>
+  </aside>
+  <main class="col col-mid" id="kbmain"></main>
+</div>
+
+<!-- ================= 视图 3：生题本 ================= -->
+<div class="layout layout-wide" id="view-wrong" hidden>
+  <main class="col col-mid" id="wrongmain" style="grid-column: 1 / -1"></main>
+</div>
+
+<!-- ================= 视图 4：统计 ================= -->
+<div class="layout layout-wide" id="view-stats" hidden>
+  <main class="col col-mid" id="statsmain" style="grid-column: 1 / -1"></main>
+</div>
+
+<!-- ================= 抽屉：生题本 ================= -->
+<aside class="drawer" id="drawer" hidden>
+  <div class="drawer-h">
+    <strong>生题本 · 不会的题</strong>
+    <span class="spacer"></span>
+    <button type="button" class="x" id="drawer-x" title="关闭 (Esc)">×</button>
+  </div>
+  <div class="drawer-b" id="drawer-b"></div>
+  <div class="drawer-f">
+    <button type="button" class="mini" id="wb-md">导出 Markdown</button>
+    <button type="button" class="mini" id="wb-csv">导出 CSV</button>
+    <button type="button" class="mini danger" id="wb-clear">清空</button>
+  </div>
+</aside>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<!-- ================= 数据 ================= -->
+<script>window.__MATH__ = window.__MATH__ || {};</script>
+<script src="data/kb.js"></script>
+
+<script src="data/paper/2016.js"></script>
+<script src="data/paper/2017.js"></script>
+<script src="data/paper/2018.js"></script>
+<script src="data/paper/2019.js"></script>
+<script src="data/paper/2020.js"></script>
+<script src="data/paper/2021.js"></script>
+<script src="data/paper/2022.js"></script>
+<script src="data/paper/2023.js"></script>
+<script src="data/paper/2024.js"></script>
+<script src="data/paper/2025.js"></script>
+<script src="data/paper/2026.js"></script>
+
+<script src="../../shared/vendor/katex/katex.min.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

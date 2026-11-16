@@ -1,0 +1,253 @@
+{
+ "year": 2010,
+ "paper": "英语一",
+ "section": "完形填空",
+ "topic": "",
+ "source": {
+  "textUrl": "",
+  "answerUrl": ""
+ },
+ "text": "In 1924 America's National Research Council sent two engineers to supervise a series of experiments at a\ntelephone-parts factory called the Hawthorne Plant near Chicago. It hoped they would learn how shop-floor\nlighting [[1]] workers' productivity. Instead, the studies ended [[2]] giving their name to the \"Hawthorne\neffect,\" the extremely influential idea that the very [[3]] of being experimented upon changed subjects'\nbehavior.\n\nThe idea arose because of the [[4]] behavior of the women in the plant. According to [[5]] of the\nexperiments, their hourly output rose when lighting was increased, but also when it was dimmed. It did not\n[[6]] what was done in the experiment; [[7]] something was changed, productivity rose. A(n) [[8]] that\nthey were being experimented upon seemed to be [[9]] to alter workers' behavior [[10]] itself.\n\nAfter several decades, the same data were [[11]] to econometric analysis. The Hawthorne experiments\nhad another surprise in store. [[12]] the descriptions on record, no systematic [[13]] was found that levels\nof productivity were related to changes in lighting.\n\nIt turns out that the peculiar way of conducting the experiments may have led to [[14]] interpretations of\nwhat happened. [[15]], lighting was always changed on a Sunday. When work started again on Monday,\noutput [[16]] rose compared with the previous Saturday and [[17]] to rise for the next couple of days.\n[[18]], a comparison with data for weeks when there was no experimentation showed that output always\nwent up on Mondays. Workers [[19]] to be diligent for the first few days of the week in any case, before\n[[20]] a plateau and then slackening off. This suggests that the alleged \"Hawthorne effect\" is hard to pin\ndown.",
+ "blanks": [
+  {
+   "no": 1,
+   "options": {
+    "A": "affected",
+    "B": "achieved",
+    "C": "extracted",
+    "D": "restored"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 2,
+   "options": {
+    "A": "at",
+    "B": "up",
+    "C": "with",
+    "D": "off"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 3,
+   "options": {
+    "A": "truth",
+    "B": "sight",
+    "C": "act",
+    "D": "proof"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 4,
+   "options": {
+    "A": "controversial",
+    "B": "perplexing",
+    "C": "mischievous",
+    "D": "ambiguous"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 5,
+   "options": {
+    "A": "requirements",
+    "B": "explanations",
+    "C": "accounts",
+    "D": "assessments"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 6,
+   "options": {
+    "A": "conclude",
+    "B": "matter",
+    "C": "indicate",
+    "D": "work"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 7,
+   "options": {
+    "A": "as far as",
+    "B": "for fear that",
+    "C": "in case that",
+    "D": "so long as"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 8,
+   "options": {
+    "A": "awareness",
+    "B": "expectation",
+    "C": "sentiment",
+    "D": "illusion"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 9,
+   "options": {
+    "A": "suitable",
+    "B": "excessive",
+    "C": "enough",
+    "D": "abundant"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 10,
+   "options": {
+    "A": "about",
+    "B": "for",
+    "C": "on",
+    "D": "by"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 11,
+   "options": {
+    "A": "compared",
+    "B": "shown",
+    "C": "subjected",
+    "D": "conveyed"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 12,
+   "options": {
+    "A": "Contrary to",
+    "B": "Consistent with",
+    "C": "Parallel with",
+    "D": "Peculiar to"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 13,
+   "options": {
+    "A": "evidence",
+    "B": "guidance",
+    "C": "implication",
+    "D": "source"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 14,
+   "options": {
+    "A": "disputable",
+    "B": "enlightening",
+    "C": "reliable",
+    "D": "misleading"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 15,
+   "options": {
+    "A": "In contrast",
+    "B": "For example",
+    "C": "In consequence",
+    "D": "As usual"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 16,
+   "options": {
+    "A": "duly",
+    "B": "accidentally",
+    "C": "unpredictably",
+    "D": "suddenly"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 17,
+   "options": {
+    "A": "failed",
+    "B": "ceased",
+    "C": "started",
+    "D": "continued"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 18,
+   "options": {
+    "A": "Therefore",
+    "B": "Furthermore",
+    "C": "However",
+    "D": "Meanwhile"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 19,
+   "options": {
+    "A": "attempted",
+    "B": "tended",
+    "C": "chose",
+    "D": "intended"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 20,
+   "options": {
+    "A": "breaking",
+    "B": "climbing",
+    "C": "surpassing",
+    "D": "hitting Section II Reading Comprehension Part A Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points) Text 1 Of all the changes that have taken place in English-language newspapers during the past quarter-century, perhaps the most far-reaching has been the inexorable decline in the scope and seriousness of their arts coverage. It is difficult to the point of impossibility for the average reader under the age of forty to imagine a time when high-quality arts criticism could be found in most big-city newspapers. Yet a considerable number of the most significant collections of criticism published in the 20th century consisted in large part of newspaper reviews. To read such books today is to marvel at the fact that their learned contents were once deemed suitable for publication in general-circulation dailies. We are even farther removed from the unfocused newspaper reviews published in England between the turn of the 20th century and the eve of World War II, at a time when newsprint was dirt-cheap and stylish arts criticism was considered an ornament to the publications in which it appeared. In those far-off days, it was taken for granted that the critics of major papers would write in detail and at length about the events they covered. Theirs was a serious business, and even those reviewers who wore their learning lightly, like George Bernard Shaw and Ernest Newman, could be trusted to know what they were about. These men believed in journalism as a calling, and were proud to be published in the daily press. \"So few authors have brains enough or literary gift enough to keep their own end up in journalism,\" Newman wrote, \"that I am tempted to define 'journalism' as 'a term of contempt applied by writers who are not read to writers who are'.\" Unfortunately, these critics are virtually forgotten. Neville Cardus, who wrote for the Manchester Guardian from 1917 until shortly before his death in 1975, is now known solely as a writer of essays on the game of cricket. During his lifetime, though, he was also one of England's foremost classical-music critics, and a stylist so widely admired that his Autobiography (1947) became a best-seller. He was knighted in 1967, the first music critic to be so honored. Yet only one of his books is now in print, and his vast body of writings on music is unknown save to specialists. Is there any chance that Cardus's criticism will enjoy a revival? The prospect seems remote. Journalistic tastes had changed long before his death, and postmodern readers have little use for the richly upholstered Vicwardian prose in which he specialized. Moreover, the amateur tradition in music criticism has been in headlong retreat."
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  }
+ ]
+}

@@ -1,0 +1,275 @@
+window.__WX__ = window.__WX__ || {};
+window.__WX__[2009] = {
+ "year": 2009,
+ "paper": "英语一",
+ "section": "完形填空",
+ "topic": "",
+ "difficulty": 0,
+ "source": {
+  "textUrl": "",
+  "answerUrl": ""
+ },
+ "text": "Research on animal intelligence always makes us wonder just how smart humans are. [[1]] the fruit-fly experiments described by Carl Zimmer in the Science Times. Fruit flies who were taught to be smarter than the average fruit fly [[2]] to live shorter lives. This suggests that [[3]] bulbs burn longer, that there is a(n) [[4]] in not being too bright.\n\nIntelligence, it [[5]], is a high-priced option. It takes more upkeep, burns more fuel and is slow [[6]] the starting line because it depends on learning – a(n) [[7]] process – instead of instinct. Plenty of other species are able to learn, and one of the things they've apparently learned is when to [[8]].\n\nIs there an adaptive value to [[9]] intelligence? That's the question behind this new research. Instead of casting a wistful glance [[10]] at all the species we've left in the dust I.Q.-wise, it implicitly asks what the real [[11]] of our own intelligence might be. This is [[12]] the mind of every animal we've ever met.\n\nResearch on animal intelligence also makes us wonder what experiments animals would [[13]] on humans if they had the chance. Every cat with an owner, [[14]], is running a small-scale study in operant conditioning. We believe that [[15]] animals ran the labs, they would test us to [[16]] the limits of our patience, our faithfulness, our memory for locations. They would try to decide what intelligence in humans is really [[17]], not merely how much of it there is. [[18]], they would hope to study a(n) [[19]] question: Are humans actually aware of the world they live in? [[20]] the results are inconclusive.",
+ "blanks": [
+  {
+   "no": 1,
+   "options": {
+    "A": "Suppose",
+    "B": "Consider",
+    "C": "Observe",
+    "D": "Imagine"
+   },
+   "answer": "B",
+   "type": "词义辨析",
+   "explain": "宾语是真实的果蝇实验",
+   "analysis": "【答案】[ B ] Consider\n词义辨析\n【线索】宾语是真实的果蝇实验\n空后宾语是the fruit-fly experiments described by Carl Zimmer in the Science\nTimes.，这是一个真实发生、已被报道的实验，不是假想或假设。这就排除了表“假想”\n的 Suppose/Imagine。\n【选项】A) Suppose ✗用于假设虚构\nSuppose意为“假设”，后接虚拟情境，与“真实存在的实验”冲突。\nB) Consider ✓请读者正视此例\nConsider意为“试想/请看”，常用于将一个真实存在的例证摆到读者面前作为论据，正合此处用果\n蝇实验切入论题的语境。\nC) Observe ✗侧重亲眼观察\nObserve强调亲身观察，而读者并未亲历该实验，只是被请去“考虑/正视”一份已被报道的实验。\nD) Imagine ✗用于想象虚景\nImagine意为“想象”，后接虚构画面，与“已被报道的真实实验”不符。\n【验证】代回后句义为“请看 Carl Zimmer 在 Science Times 报道的果蝇实验”，与下一句立刻展开\n实验细节Fruit flies who were taught to be smarter than the average fruit fly衔接顺\n畅，且呼应第一句的反思基调。\n17. [ A ] at\n[ B ] for\n[ C ] after\n[ D ] with\n18. [ A ] Above all\n[ B ] After all\n[ C ] However\n[ D ] Otherwise\n19. [ A ] fundamental\n[ B ] comprehensive\n[ C ] equivalent\n[ D ] hostile\n20. [ A ] By accident\n[ B ] In time\n[ C ] So far\n[ D ] Better still"
+  },
+  {
+   "no": 2,
+   "options": {
+    "A": "tended",
+    "B": "feared",
+    "C": "happened",
+    "D": "threatened"
+   },
+   "answer": "A",
+   "type": "词义辨析",
+   "explain": "实验现象的普遍结论",
+   "analysis": "【答案】[ A ] tended\n词义辨析\n【线索】实验现象的普遍结论\n本句Fruit flies who were taught to be smarter than the average fruit fly __(2)__ to live\nshorter lives.是在陈述实验里聪明果蝇普遍出现的结果，下一句紧接This suggests that\n__(3)__ bulbs burn longer进一步抽象，可见这是一个倾向性结论。\n【选项】\nA) tended ✓表普遍倾向\ntended to do 表“总体倾向于”，与“聪明的果蝇普遍寿命更短”这一实验结论吻合。\nB) feared ✗果蝇不会惧怕\nfeared意为“害怕”，主语果蝇无此主观情绪，且与中性的实验描述基调不符。\nC) happened ✗偶然个例不合\nhappened to do 表“碰巧”，强调偶然一次，与实验得出的群体性规律相悖。\nD) threatened ✗果蝇非威胁源\nthreatened to do 通常意为“扬言要做”，与无意志的果蝇及客观陈述不搭。\n【验证】代回后“聪明果蝇倾向于寿命更短”，正好被下一句This suggests that __(3)__ bulbs burn\nlonger作为论据进一步抽象，与全文“聪明有代价”的主线对接。"
+  },
+  {
+   "no": 3,
+   "options": {
+    "A": "thinner",
+    "B": "stabler",
+    "C": "lighter",
+    "D": "dimmer"
+   },
+   "answer": "D",
+   "type": "词义辨析",
+   "explain": "上一句说to live shorter lives——聪明的果蝇活得短，本句用__(3)__ bulbs burn longer作",
+   "analysis": "【答案】[ D ] dimmer\n词义辨析\n【线索】聪明对应明亮\n上一句说to live shorter lives——聪明的果蝇活得短，本句用__(3)__ bulbs burn longer作\n类比，并紧接that there is a(n) __(4)__ in not being too bright.，其中 bright 既指“明亮”\n也指“聪明”，反向暗示本空应是“不那么亮”的灯泡。\n【选项】A) thinner ✗薄不对应聪明\nthinner指“更薄”，与“聪明/迟钝”这一对照无关联。\nB) stabler ✗稳定与亮度无关\nstabler指“更稳定”，无法与下一句的 bright 形成呼应。\nC) lighter ✗更亮反义颠倒\nlighter意为“更亮/更轻”，若取“更亮”反而与“迟钝—长寿”这条主线相反，正话反说。\nD) dimmer ✓更暗暗指更迟钝\ndimmer意为“更暗的”，与下一句的 bright 形成对照，对应“不那么聪明”，恰好支撑“迟钝的灯泡\n烧得更久”这一比喻。\n【验证】代回后dim bulbs burn longer既保留灯泡比喻，又与紧邻的in not being too bright构成\ndim—bright 的双关对仗，与全文“聪明有代价”一致。"
+  },
+  {
+   "no": 4,
+   "options": {
+    "A": "tendency",
+    "B": "advantage",
+    "C": "inclination",
+    "D": "priority"
+   },
+   "answer": "B",
+   "type": "词义辨析",
+   "explain": "上文dim bulbs burn longer已把“迟钝”与“活得久”挂钩，本句there is a(n) __(4)__ in not",
+   "analysis": "【答案】[ B ] advantage\n词义辨析\n【线索】迟钝带来好处\n上文dim bulbs burn longer已把“迟钝”与“活得久”挂钩，本句there is a(n) __(4)__ in not\nbeing too bright.需要一个名词承接“不太聪明”竟然是一种________的判断。\n【选项】A) tendency ✗倾向不含褒义\ntendency意为“倾向”，是中性描述，无法表达“反而是件好事”的判断。\nB) advantage ✓优势精准对应\nadvantage意为“优势/好处”，对应上文“迟钝反而活得久”这一正向结论，且 there is an\nadvantage in doing 是固定表达。\nC) inclination ✗偏好不表好处\ninclination意为“偏爱/倾向”，描述主观偏好，与客观“好处”不同。\nD) priority ✗优先级偏题\npriority意为“优先事项”，与“好处”不同，无法承接反差结论。\n【验证】代回后there is an advantage in not being too bright.恰好把上一句的隐喻翻译成结论\n——“不太聪明是有好处的”，呼应全文主线“聪明是高代价选项”。"
+  },
+  {
+   "no": 5,
+   "options": {
+    "A": "insists on",
+    "B": "sums up",
+    "C": "turns out",
+    "D": "puts forward"
+   },
+   "answer": "C",
+   "type": "固定搭配",
+   "explain": "本句Intelligence, it __(5)__, is a high-priced option.是对前文实验结论的转述：把上一段",
+   "analysis": "【答案】[ C ] turns out\n固定搭配\n【线索】插入语转述结论\n本句Intelligence, it __(5)__, is a high-priced option.是对前文实验结论的转述：把上一段\n果蝇实验得出的“聪明有代价”抽象为一般结论。插入语承担“原来/结果证明”之意。\n【选项】A) insists on ✗结构不合主谓\ninsists on意为“坚持”，需要明确施动主语，与 it 作形式主语的插入语结构不搭。\nB) sums up ✗不能用作插入语\nsums up意为“总结”，不能放在“, it ___,”这种插入语位置作“结果证明”用。\nC) turns out ✓结果证明地道\nturns out意为“结果证明是”，是“, it turns out,”这种插入语的标准搭配，恰好引出对前段实验的\n概括结论。\nD) puts forward ✗提出需具体主语\nputs forward意为“提出（观点）”，需具体施动主语，与插入语结构冲突。\n【验证】代回后Intelligence, it turns out, is a high-priced option.，把上段果蝇实验得到的结论自\n然抬升为一般论断，开启第二段对“代价”的展开。"
+  },
+  {
+   "no": 6,
+   "options": {
+    "A": "off",
+    "B": "behind",
+    "C": "over",
+    "D": "along"
+   },
+   "answer": "A",
+   "type": "固定搭配",
+   "explain": "起跑线的语境暗示",
+   "analysis": "【答案】[ A ] off\n固定搭配\n【线索】起跑线的语境暗示\nis slow __(6)__ the starting line because it depends on learning里的 starting line 是赛\n跑比喻；后文给出原因——智力依赖学习，所以“起步”慢。所需介词须能搭配“起步/离开起\n跑线”。\n【选项】\nA) off ✓起跑离线最地道\noff the starting line 是固定表达，意为“起跑/离开起跑线”，slow off the starting line 即“起步\n慢”，与下句“依赖学习”因果一致。\nB) behind ✗落后语义偏离\nbehind the starting line 字面是“在起跑线后”，无标准英语习语表“起步慢”。\nC) over ✗越过线则已开跑\nover the starting line 表“越过起跑线”，已是开跑之后，与“起步慢”逻辑相反。\nD) along ✗沿线意象不通\nalong the starting line 表“沿起跑线”，方向上不指起步动作，搭配不成立。\n【验证】代回后is slow off the starting line是地道的赛跑隐喻，与紧接的because it depends on\nlearning构成自然因果，呼应主线“智力是高价选项”。"
+  },
+  {
+   "no": 7,
+   "options": {
+    "A": "incredible",
+    "B": "spontaneous",
+    "C": "inevitable",
+    "D": "gradual"
+   },
+   "answer": "D",
+   "type": "词义辨析",
+   "explain": "because it depends on learning – a(n) __(7)__ process – instead of instinct.中 instead",
+   "analysis": "【答案】[ D ] gradual\n词义辨析\n【线索】学习与本能对照\nbecause it depends on learning – a(n) __(7)__ process – instead of instinct.中 instead\nof instinct 是关键：本能是瞬发的，与之相对的 learning 必须是“渐进/逐步”的，方能解释\n为何“起步慢”。\n【选项】A) incredible ✗难以置信偏题\nincredible意为“难以置信的”，描述主观感受，与本能/学习的对照无关。\nB) spontaneous ✗自发反与本能同义\nspontaneous意为“自发的、本能的”，恰是本能的属性，与 learning 反义不符。\nC) inevitable ✗不可避免偏题\ninevitable意为“不可避免的”，与“慢”和“依赖学习”的逻辑无关。\nD) gradual ✓渐进契合学习\ngradual意为“逐步的、渐进的”，正好刻画学习相较于本能的“一步步累积”特征，解释“起步慢”。\n【验证】代回后learning – a gradual process – instead of instinct，渐进的学习与瞬发的本能形成\n对照，因果链与“起步慢”自洽。"
+  },
+  {
+   "no": 8,
+   "options": {
+    "A": "fight",
+    "B": "doubt",
+    "C": "stop",
+    "D": "think"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "动物学会的是停下",
+   "analysis": "【答案】[ C ] stop\n词义辨析\n【线索】动物学会的是停下\nPlenty of other species are able to learn, and one of the things they've apparently\nlearned is when to __(8)__.说其他物种也会学习，它们学会的恰恰是“何时 ___”。结合前面\nthere is an advantage in not being too bright，物种学到的是知道何时止步，而不是何\n时再思考。\n【选项】A) fight ✗搏斗偏题\nfight意为“争斗”，与“别太聪明”这条主线无关。\nB) doubt ✗怀疑反加思考\ndoubt意为“怀疑”，反而是更费脑的活动，与“何必太聪明”相反。\nC) stop ✓知止恰对主线\nstop意为“停下”，when to stop（知道何时止步）正是对前文“别太聪明有好处”的延伸。\nD) think ✗思考反成代价\nthink意为“思考”，与全段“聪明是高代价”的主线相反，是干扰陷阱。\n【验证】代回后when to stop承接“聪明是高代价”——动物学到的关键是“知道何时止步”，与全文反\n讽基调一致。"
+  },
+  {
+   "no": 9,
+   "options": {
+    "A": "invisible",
+    "B": "limited",
+    "C": "indefinite",
+    "D": "different"
+   },
+   "answer": "B",
+   "type": "词义辨析",
+   "explain": "when to stop承上，Is there an adaptive value to __(9)__ intelligence?承下：止步意味",
+   "analysis": "【答案】[ B ] limited\n词义辨析\n【线索】止步对应有限\nwhen to stop承上，Is there an adaptive value to __(9)__ intelligence?承下：止步意味\n着不无限地用智力，对应“有限度的智力”。\n【选项】A) invisible ✗隐形偏题\ninvisible意为“看不见的”，与“何时止步”无关联。\nB) limited ✓有限承接止步\nlimited意为“有限的”，承接上句“知道何时止步”，引出本段反思“有限度的智力是否反而有适应\n价值”。\nC) indefinite ✗无限度逻辑相反\nindefinite意为“无限期的、不确定的”，与“何时止步”逻辑相反。\nD) different ✗不同太过空泛\ndifferent意为“不同的”，过于宽泛，没有承接上文“止步”的具体含义。\n【验证】代回后Is there an adaptive value to limited intelligence?恰好把上段“知止”抽象成“有限\n智力”，提出本段核心问题，与下文“反思人类自身”衔接顺畅。"
+  },
+  {
+   "no": 10,
+   "options": {
+    "A": "upward",
+    "B": "forward",
+    "C": "afterward",
+    "D": "backward"
+   },
+   "answer": "D",
+   "type": "固定搭配",
+   "explain": "回望被甩在身后的物种",
+   "analysis": "【答案】[ D ] backward\n固定搭配\n【线索】回望被甩在身后的物种\ncasting a wistful glance __(10)__ at all the species we've left in the dust I.Q.-wise中\nleft in the dust 表示“被远远甩在身后”。要怀念地看这些已被甩开的对象，必须向后看。\n【选项】A) upward ✗向上不合方位\nupward向上，与“甩在身后”方位不合。\nB) forward ✗向前与身后冲突\nforward向前，与“向身后那些物种投以一瞥”矛盾。\nC) afterward ✗时间副词非方位\nafterward指“随后”，是时间副词，不修饰 glance 的方向。\nD) backward ✓回望最贴语境\nbackward意为“向后”，glance backward at … 正是“回头望向…”，对应被甩在身后的物种。\n【验证】代回后casting a wistful glance backward at all the species we've left in the dust I.Q.-\nwise描绘“回头眷恋地看那些智商上被我们甩开的物种”，与下一句把视角拉回反思自身的智\n力相衔接。"
+  },
+  {
+   "no": 11,
+   "options": {
+    "A": "features",
+    "B": "influences",
+    "C": "results",
+    "D": "costs"
+   },
+   "answer": "D",
+   "type": "词义辨析",
+   "explain": "高价选项的人类版",
+   "analysis": "【答案】[ D ] costs\n词义辨析\n【线索】高价选项的人类版\nIntelligence, it __(5)__, is a high-priced option.已把 intelligence 定性为高价之物；it\nimplicitly asks what the real __(11)__ of our own intelligence might be.在同一主线上追\n问人类智力的“真实代价”。\n【选项】A) features ✗特征太中性\nfeatures意为“特点”，描述中性，未回扣“高价”主线。\nB) influences ✗影响太宽泛\ninfluences意为“影响”，方向不明，未指向代价。\nC) results ✗结果偏后效\nresults意为“结果”，关注后效，不等于“成本”。\nD) costs ✓代价精准回扣\ncosts意为“代价”，紧扣 high-priced option，将动物层面的代价类比到人类，主线一致。\n【验证】代回后what the real costs of our own intelligence might be，把第二段“智力是高价选\n项”的论断推到“人类自己的智力代价是什么”，主线无缝衔接。"
+  },
+  {
+   "no": 12,
+   "options": {
+    "A": "outside",
+    "B": "on",
+    "C": "by",
+    "D": "across"
+   },
+   "answer": "B",
+   "type": "固定搭配",
+   "explain": "动物心头惦记着的问题",
+   "analysis": "【答案】[ B ] on\n固定搭配\n【线索】动物心头惦记着的问题\nThis is __(12)__ the mind of every animal we've ever met.意在说前文那个反问“人类智力\n的真正代价是什么”，是每只动物都惦记着的问题。be on one's mind 是固定搭配。\n【选项】A) outside ✗心外不合习语\noutside one's mind 不构成固定搭配，逻辑也不通。\nB) on ✓心头习语命中\non one's mind 是固定习语，表“惦记着”，正合此句意。\nC) by ✗by 心非地道\nby the mind of 不构成习语。\nD) across ✗穿越心智偏题\nacross one's mind 多用于 cross sb.'s mind（闪过心头）而非 across。\n【验证】代回后This is on the mind of every animal we've ever met.意为“这是我们见过的每只动\n物都惦记的事”，作者借此反讽人类自以为聪明，与全文基调一致。"
+  },
+  {
+   "no": 13,
+   "options": {
+    "A": "deliver",
+    "B": "carry",
+    "C": "perform",
+    "D": "apply"
+   },
+   "answer": "C",
+   "type": "固定搭配",
+   "explain": "what experiments animals would __(13)__ on humans if they had the chance.要表达",
+   "analysis": "【答案】[ C ] perform\n固定搭配\n【线索】对人类做实验\nwhat experiments animals would __(13)__ on humans if they had the chance.要表达\n“动物会对人类做什么实验”，介词是 on，动词需与 experiments…on 形成固定搭配。\n【选项】A) deliver ✗递交不搭实验\ndeliver意为“递送/发表”，不与 experiments 搭配。\nB) carry ✗缺 out 不成搭配\ncarry 必须搭 out 才能构成 carry out an experiment，单用 carry 不与 experiments 搭。\nC) perform ✓执行实验地道\nperform experiments on sb 是地道搭配，意为“对某人做实验”。\nD) apply ✗应用对象不符\napply 后通常接“理论/方法”，并搭配 to，不直接接 experiments on。\n【验证】代回后what experiments animals would perform on humans if they had the chance.\n地道地表达“动物若有机会会对人类做什么实验”，与下文“每只有主人的猫都在做小型实验”\n对接顺畅。"
+  },
+  {
+   "no": 14,
+   "options": {
+    "A": "by chance",
+    "B": "in contrast",
+    "C": "as usual",
+    "D": "for instance"
+   },
+   "answer": "D",
+   "type": "逻辑关系",
+   "explain": "猫例呼应一般论断",
+   "analysis": "【答案】[ D ] for instance\n逻辑关系\n【线索】猫例呼应一般论断\n上一句Research on animal intelligence also makes us wonder what experiments\nanimals would __(13)__ on humans if they had the chance.提出一般论断；本句Every\ncat with an owner, __(14)__, is running a small-scale study in operant conditioning.立\n刻给出“每只有主人的猫”这一具体例子。\n【选项】A) by chance ✗偶然偏题\nby chance意为“偶然”，无法承接“给个例子”的逻辑。\nB) in contrast ✗对比无对照对象\nin contrast意为“与之相反”，上下句不是对比关系。\nC) as usual ✗一如往常偏题\nas usual意为“一如既往”，不表举例。\nD) for instance ✓举例衔接精准\nfor instance意为“例如”，恰好把“有主人的猫”作为上一句论断的例子引出。\n【验证】代回后Every cat with an owner, for instance, is running a small-scale study in operant\nconditioning.，由前句的一般论断顺利切入具体例子，与后文“假如动物管实验室”继续展开\n论证一致。"
+  },
+  {
+   "no": 15,
+   "options": {
+    "A": "if",
+    "B": "unless",
+    "C": "as",
+    "D": "lest"
+   },
+   "answer": "A",
+   "type": "",
+   "explain": "would 触发虚拟条件",
+   "analysis": "【答案】[ A ] if\n语法形态\n【线索】would 触发虚拟条件\nif animals ran the labs, they would test us：主句 they would test us 是 would do，从\n句 ran the labs 是一般过去式，构成 if 引导的与现在事实相反的虚拟条件句。\n【选项】\nA) if ✓虚拟条件标配\nif引导虚拟条件句，与 would test 形成“假如…就会…”的对应。\nB) unless ✗除非语义相反\nunless意为“除非”，会把意思变成“除非动物管实验室，否则会测试我们”，逻辑混乱。\nC) as ✗as 不引虚拟\nas通常引时间/原因从句，不引虚拟条件。\nD) lest ✗以免反义偏题\nlest意为“以免”，与“假如”的逻辑相反。\n【验证】代回后if animals ran the labs, they would test us构成标准的虚拟条件句，承接上一句“有\n主人的猫做小实验”，把视角推到“动物若管实验室”的更大设想。"
+  },
+  {
+   "no": 16,
+   "options": {
+    "A": "moderate",
+    "B": "overcome",
+    "C": "determine",
+    "D": "reach"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "they would test us to __(16)__ the limits of our patience, our faithfulness, our",
+   "analysis": "【答案】[ C ] determine\n词义辨析\n【线索】测试以确定极限\nthey would test us to __(16)__ the limits of our patience, our faithfulness, our\nmemory for locations.，test 是手段，目的应是“查明、确定”这些极限到底有多大。\n【选项】A) moderate ✗缓和偏题\nmoderate意为“缓和”，与“测试目的”不合。\nB) overcome ✗克服指对抗\novercome意为“克服”，动物并非要克服人类的极限。\nC) determine ✓确定极限契合\ndetermine意为“查明/确定”，正好作为 test 的目的：摸清耐心、忠诚、空间记忆的极限。\nD) reach ✗达到改变主语\nreach 后接极限时多表“达到极限”，主语应是被测者本身，逻辑不顺。\n【验证】代回后they would test us to determine the limits of our patience, our faithfulness,\nour memory for locations.，意为动物会通过测试来确定我们这些品质的极限，承接前文\ntest 的目的。"
+  },
+  {
+   "no": 17,
+   "options": {
+    "A": "at",
+    "B": "for",
+    "C": "after",
+    "D": "with"
+   },
+   "answer": "B",
+   "type": "固定搭配",
+   "explain": "They would try to decide what intelligence in humans is really __(17)__, not merely",
+   "analysis": "【答案】[ B ] for\n固定搭配\n【线索】真正用来做什么\nThey would try to decide what intelligence in humans is really __(17)__, not merely\nhow much of it there is.中 not merely how much of it there is 提示对比的不是数量，而\n是“真正的用途/作用”，即 what X is for。\n【选项】A) at ✗at 非用途介词\nat 不构成 what … at 的“用途”习语。\nB) for ✓用途习语首选\nfor 与 what … for 构成习语“…是用来做什么的”，正合本句“真正的智力是用来做什么”。\nC) after ✗after 时间副介词\nafter 不与 what 构成用途疑问，搭配不成立。\nD) with ✗with 不表用途\nwith 不构成 what … with 表“用途”的习语，与本意不符。\n【验证】代回后what intelligence in humans is really for地道地问“人类智力真正的用途是什么”，\n与 not merely how much of it there is 形成“用途 vs 数量”的整齐对比。"
+  },
+  {
+   "no": 18,
+   "options": {
+    "A": "Above all",
+    "B": "After all",
+    "C": "However",
+    "D": "Otherwise"
+   },
+   "answer": "A",
+   "type": "逻辑关系",
+   "explain": "升级到最重要的问题",
+   "analysis": "【答案】[ A ] Above all\n逻辑关系\n【线索】升级到最重要的问题\n前句They would try to decide what intelligence in humans is really __(17)__, not\nmerely how much of it there is.已经在追问“真正的用途”；后句they would hope to\nstudy a(n) __(19)__ question: Are humans actually aware of the world they live in?进\n一步把镜头推到“最根本的问题”。这是层层递进，把“最最关键”的问题挑出来。\n【选项】\nA) Above all ✓最重要的是契合\nAbove all意为“最重要的是”，正好把后面那个“人类是否真正意识到自己所处世界”的根本问题挑\n出来。\nB) After all ✗毕竟解释偏离\nAfter all意为“毕竟”，引出解释或让步原因，与递进到最关键问题不符。\nC) However ✗转折无对立面\nHowever意为“然而”，前后不是对立关系，是递进关系。\nD) Otherwise ✗否则偏假设\nOtherwise意为“否则”，前后无因果假设关系。\n【验证】代回后Above all, they would hope to study a(n) __(19)__ question把镜头从“用途与数\n量”推到“最根本的问题”，与下文给出最终反问无缝衔接。"
+  },
+  {
+   "no": 19,
+   "options": {
+    "A": "fundamental",
+    "B": "comprehensive",
+    "C": "equivalent",
+    "D": "hostile"
+   },
+   "answer": "A",
+   "type": "词义辨析",
+   "explain": "根本问题对应根本词",
+   "analysis": "【答案】[ A ] fundamental\n词义辨析\n【线索】根本问题对应根本词\nAbove all, they would hope to study a(n) __(19)__ question: Are humans actually\naware of the world they live in?，问号后揭示的问题是“人类是否真正意识到所处世\n界”——这是带哲学色彩的根本性问题。\n【选项】\nA) fundamental ✓根本最贴语境\nfundamental意为“根本的”，与 Above all 的递进高潮以及后文哲学性反问完全契合。\nB) comprehensive ✗全面偏量度\ncomprehensive意为“全面的”，关注面广，但不强调“最根本”，与 Above all 不对位。\nC) equivalent ✗等同偏题\nequivalent意为“等同的”，与 question 搭配无意义。\nD) hostile ✗敌意色彩不符\nhostile意为“敌对的”，色彩词不符合科学反思的中性基调。\n【验证】代回后a fundamental question: Are humans actually aware of the world they live\nin?，根本问题正是 Above all 之后应被点名的高潮，回到全文“人类自以为聪明”的反讽\n主线。"
+  },
+  {
+   "no": 20,
+   "options": {
+    "A": "By accident",
+    "B": "In time",
+    "C": "So far",
+    "D": "Better still Section II Reading Comprehension Part A Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points) Text 1 Habits are a funny thing. We reach for them mindlessly, setting our brains on auto-pilot and relaxing into the unconscious comfort of familiar routine. \"Not choice, but habit rules the unreflecting herd,\" William Wordsworth said in the 19th century. In the ever-changing 21st century, even the word \"habit\" carries a negative implication. So it seems paradoxical to talk about habits in the same context as creativity and innovation. But brain researchers have discovered that when we consciously develop new habits, we create parallel paths, and even entirely new brain cells, that can jump our trains of thought onto new, innovative tracks. Rather than dismissing ourselves as unchangeable creatures of habit, we can instead direct our own change by consciously developing new habits. In fact, the more new things we try – the more we step outside our comfort zone – the more inherently creative we become, both in the workplace and in our personal lives. But don't bother trying to kill off old habits; once those ruts of procedure are worn into the brain, they're there to stay. Instead, the new habits we deliberately press into ourselves create parallel pathways that can bypass those old roads. \"The first thing needed for innovation is a fascination with wonder,\" says Dawna Markova, author of The Open Mind. \"But we are taught instead to 'decide', just as our president calls himself 'the Decider'.\" She adds, however, that \"to decide is to kill off all possibilities but one. A good innovational thinker is always exploring the many other possibilities.\" All of us work through problems in ways of which we're unaware, she says. Researchers in the late 1960s discovered that humans are born with the capacity to approach challenges in four primary ways: analytically, procedurally, relationally (or collaboratively) and innovatively. At the end of adolescence, however, the brain shuts down half of that capacity, preserving only those modes of thought that have seemed most valuable during the first decade or so of life. The current emphasis on standardized testing highlights analysis and procedure, meaning that few of us inherently use our innovative and collaborative modes of thought. \"This breaks the major rule in the American belief system – that anyone can do anything,\" explains M. J. Ryan, author of the 2006 book This Year I Will… and Ms. Markova's business partner. \"That's a lie that we have perpetuated, and it fosters commonness. Knowing what you're good at and doing even more of it creates excellence.\" This is where developing new habits comes in."
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "__(20)__ the results are inconclusive.作结尾句，呼应全文反讽：对“人类是否真意识到所",
+   "analysis": "【答案】[ C ] So far\n词义辨析\n【线索】迄今结论尚无\n__(20)__ the results are inconclusive.作结尾句，呼应全文反讽：对“人类是否真意识到所\n处世界”这一根本问题，至今没有定论。\n【选项】A) By accident ✗偶然不合结论句\nBy accident意为“偶然”，与“结果尚无定论”的中性时间状语不符。\nB) In time ✗及时偏题\nIn time意为“及时”，与“至今无定论”不搭。\nC) So far ✓迄今为止贴切\nSo far意为“迄今为止”，自然搭配“研究结果仍无定论”，作为全文收尾。\nD) Better still ✗更好不合结论\nBetter still意为“更妙的是”，引出补充优势，与“无定论”相反。\n【验证】代回后So far the results are inconclusive.作为全文最后一句，干净利落地呼应“动物若研\n究人类，对最根本问题至今无定论”的反讽收尾。\nO V E R V I E W · 通读建境\n全文主旨与行文脉络\n完形是语篇题——单看空所在的半句往往四个选项都「像」。下面是全文主旨与行文脉\n络，是每个空锁定线索、代入验证时核对的全局工作台。\n全文主旨\n高智商未必有适应优势\n文章借果蝇实验切入，反思Research on animal intelligence always makes us wonder just\nhow smart humans are.这一命题：聪明并非无代价，作者借Intelligence, it __(5)__, is a\nhigh-priced option.点明智力是高成本选项，并设想动物若反过来研究人类，会追问Are\nhumans actually aware of the world they live in?这一根本问题，整体基调带着自我反讽。\n行文脉络\n实验—代价—反问—反向研究\n第一段以果蝇实验引出反差：聪明的果蝇to live shorter lives，得出dim bulbs burn longer\n的隐喻；第二段展开聪明的代价It takes more upkeep, burns more fuel and is slow __(6)__\nthe starting line；第三段把视角拉回人类，追问what the real __(11)__ of our own\nintelligence might be；第四段反转视角，设想动物对人类做实验，落到Are humans\nactually aware of the world they live in?这一终极反问。\nS E N T E N C E I N S I G H T S · 句子精讲\n6 句真题句逐层精讲\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nResearch on animal intelligence always makes us wonder just how smart humans\nare.\n第1段，第1句\n使役动词 make 加宾语补足语的结构，以及动词后接宾语从句表达思考或疑问的内容，都是四六级\n和考研阅读中的高频句式。本句结构具有较强的代表性，掌握后可迁移到大量类似表达上。\nThis suggests that dimmer bulbs burn longer, that there is a(n) advantage in not\nbeing too bright.\n第1段，第4句\nsuggest 后接 that 宾语从句是四六级和考研阅读中的高频句式；两个 that 从句并列作宾语的结构\n也较为典型，常见于议论文和说明文；there be 存在句同样是常考结构。掌握本句的分析方法可以\n迁移到大量类似句子。\nIntelligence, it turns out, is a high-priced option.\n第2段，第1句\n涵盖主语、系动词谓语、表语三个核心成分，且插入语的识别是一个值得练习的知识点，可以训练\n学生区分插入成分与主干成分的能力，成分种类虽不算丰富但有实用训练价值\nEvery cat with an owner, for instance, is running a small-scale study in operant\nconditioning.\n第4段，第2句\n这种“主语 + 插入语 + 进行体谓语 + 宾语 + 介词短语修饰”的句型很常见，阅读中经常会出现。掌\n握后，处理类似的简单句扩展结构有较强迁移性。\nWe believe that if animals ran the labs, they would test us to determine the limits\nof our patience, our faithfulness, our memory for locations.\n第4段，第3句\n本句结构有层级但不过分怪异，既有典型的宾语性内容，又有条件假设和目的表达，适合作为结构\n与时态结合训练的材料。对提升分层阅读和虚拟条件判断都很有价值。\nAbove all, they would hope to study a(n) fundamental question: Are humans\nactually aware of the world they live in?\n第4段，第5句\n主句+冒号引出同位语分句、定语从句修饰名词,这种结构在四六级和考研阅读中非常常见,尤其是用\n冒号或破折号引出解释性同位语,以及省略关系代词的定语从句,都是高频考点,典型性强\nH I G H - F R E Q U E N C Y · 真题高频词\n本篇出现的 20 个考研英语（旧卷）真题高频词\n下列单词既在本篇完形原文中出现，又是 考研英语（旧卷） 历年真题的高频词（在该考\n试真题中出现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点\n击可查看该词的释义、音标、词形与真题例句。\nintelligence\nB2\nn. 智力\n本篇6 次 · 真题 48 句\nwould\nA1\naux. （will 的过去式）将要，会\n本篇4 次 · 真题 304 句\nspecies\nB2\nn. 物种\n本篇2 次 · 真题 36 句\nprocess\nB1\nn. 过程\n本篇1 次 · 真题 80 句\ntend\nB1\nv. 倾向于，往往会\n本篇1 次 · 真题 71 句\naverage\nA2\nadj. 平均的\n本篇1 次 · 真题 55 句\nactually\nA2\nadv. 实际上，事实上（用于纠正或补充信息）\n本篇1 次 · 真题 42 句\nlimit\nB1\nn. 限度\n本篇1 次 · 真题 42 句\nlearning\nA1\nn. 学习\n本篇1 次 · 真题 22 句\ndetermine\nB2\nv. 决定\n本篇1 次 · 真题 21 句\nlimited\nB1\nadj. 有限的\n本篇1 次 · 真题 19 句\noption\nB1\nn. 选择\n本篇1 次 · 真题 19 句\nperform\nB1\nv. 执行\n本篇1 次 · 真题 19 句\ninstance\nB2\nn. 例子\n本篇1 次 · 真题 17 句\nfundamental\nB2\nadj. 基本的\n本篇1 次 · 真题 15 句\nfuel\nB1\nn. 燃料\n本篇1 次 · 真题 14 句\napparently\nB2\nadv. 显然，看来（根据外表或所见所闻判断）\n本篇1 次 · 真题 11 句\naware\nA2\nadj. 知道的\n本篇1 次 · 真题 11 句\nmerely\nB2\nadv. 仅仅，只不过\n本篇1 次 · 真题 11 句\nlocation\nB1\nn. 地点，位置\n本篇1 次 · 真题 9 句\nV O C A B U L A R Y · 词汇难度分布\n全文 118 词按 CEFR 难度累积覆盖\n带空短文去重后共 118 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」\n的累积占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 3 个 ·\n约 3%。\n47%\nA1\n及以下\n73%\nA2\n及以下\n86%\nB1\n及以下\n97%\nB2\n及以下\n100%\nC1\n及以下\n100%\nC2\n及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 118 个 · 末柱为 100%\n去重总词数\n118\nB2 以上难词\n3%\nB1 及以下覆盖\n86%\n考研英语（旧卷）\n2009年 · 全卷构成\nSection I\n完形填空（四选一）\n本题\nSection II Part A (1)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (2)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (3)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (4)\n阅读理解（四选一）\n题目解析 →\nSection II Part B\n选句填空（7选5）\n题目解析 →\nSection II Part C\n英译汉（划线句子翻译）\n题目解析 →\nSection III Part A\n写作\n题目解析 →\nSection III Part B\n写作\n题目解析 →\n2009年 考研英语（旧卷）阅读理解（四选一） 第 1 篇 · 21–25 题答\n案与解析\nQ U E S T I O N S & A N A L Y S I S ·"
+  }
+ ]
+};

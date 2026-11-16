@@ -1,0 +1,49 @@
+# 依赖与构建产物（本项目不需要构建，但保留以防）
+node_modules/
+dist/
+build/
+.cache/
+.parcel-cache/
+*.tsbuildinfo
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志与临时
+*.log
+npm-debug.log*
+yarn-error.log
+pnpm-debug.log
+_tmp/
+tmp/
+99_临时/
+
+# Python（数据生产脚本会用到）
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 本地私有
+.env
+.env.*
+!.env.example
+*.local
+.secrets/
+
+# 扫描原图（体积大，只在本机）
+_png/
+*.pdf
+!docs/**/*.pdf
+
+# 开发期截图（正式截图在 docs/screenshots/）
+assets/_shot_*.png
+assets/_v2_*.png
+assets/_selftest*.py
+*_chk.py

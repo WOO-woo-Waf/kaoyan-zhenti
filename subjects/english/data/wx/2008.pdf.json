@@ -1,0 +1,253 @@
+{
+ "year": 2008,
+ "paper": "英语一",
+ "section": "完形填空",
+ "topic": "",
+ "source": {
+  "textUrl": "",
+  "answerUrl": ""
+ },
+ "text": "The idea that some groups of people may be more intelligent than others is one of those hypotheses that\ndare not speak its name. But Gregory Cochran is [[1]] to say it anyway. He is that [[2]] bird, a scientist\nwho works independently [[3]] any institution. He helped popularize the idea that some diseases not [[4]]\nthought to have a bacterial cause were actually infections, which aroused much controversy when it was first\nsuggested.\n\n[[5]] he, however, might tremble at the [[6]] of what he is about to do. Together with another two\nscientists, he is publishing a paper which not only [[7]] that one group of humanity is more intelligent than\nthe others, but explains the process that has brought this about. The group in [[8]] is a particular people\noriginated from central Europe. The process is natural selection.\n\nThis group generally does well in IQ test, [[9]] 12-15 points above the [[10]] value of 100, and has\ncontributed [[11]] to the intellectual and cultural life of the West, as the [[12]] of their elites, including\nseveral world-renowned scientists, [[13]]. They also suffer more often than most people from a number of\nnasty genetic diseases, such as breast cancer. These facts, [[14]], have previously been thought unrelated.\nThe former has been [[15]] to social effects, such as a strong tradition of [[16]] education. The latter was\nseen as a (an) [[17]] of genetic isolation. Dr. Cochran suggests that the intelligence and diseases are\nintimately [[18]]. His argument is that the unusual history of these people has [[19]] them to unique\nevolutionary pressures that have resulted in this [[20]] state of affairs.",
+ "blanks": [
+  {
+   "no": 1,
+   "options": {
+    "A": "selected",
+    "B": "prepared",
+    "C": "obliged",
+    "D": "pleased"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 2,
+   "options": {
+    "A": "unique",
+    "B": "particular",
+    "C": "special",
+    "D": "rare"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 3,
+   "options": {
+    "A": "of",
+    "B": "with",
+    "C": "in",
+    "D": "against"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 4,
+   "options": {
+    "A": "subsequently",
+    "B": "presently",
+    "C": "previously",
+    "D": "lately"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 5,
+   "options": {
+    "A": "Only",
+    "B": "So",
+    "C": "Even",
+    "D": "Hence"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 6,
+   "options": {
+    "A": "thought",
+    "B": "sight",
+    "C": "cost",
+    "D": "risk"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 7,
+   "options": {
+    "A": "advises",
+    "B": "suggests",
+    "C": "protests",
+    "D": "objects"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 8,
+   "options": {
+    "A": "progress",
+    "B": "fact",
+    "C": "need",
+    "D": "question"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 9,
+   "options": {
+    "A": "attaining",
+    "B": "scoring",
+    "C": "reaching",
+    "D": "calculating"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 10,
+   "options": {
+    "A": "normal",
+    "B": "common",
+    "C": "mean",
+    "D": "total"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 11,
+   "options": {
+    "A": "unconsciously",
+    "B": "disproportionately",
+    "C": "indefinitely",
+    "D": "unaccountably"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 12,
+   "options": {
+    "A": "missions",
+    "B": "fortunes",
+    "C": "interests",
+    "D": "careers"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 13,
+   "options": {
+    "A": "affirm",
+    "B": "witness",
+    "C": "observe",
+    "D": "approve"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 14,
+   "options": {
+    "A": "moreover",
+    "B": "therefore",
+    "C": "however",
+    "D": "meanwhile"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 15,
+   "options": {
+    "A": "given up",
+    "B": "got over",
+    "C": "carried on",
+    "D": "put down"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 16,
+   "options": {
+    "A": "assessing",
+    "B": "supervising",
+    "C": "administering",
+    "D": "valuing"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 17,
+   "options": {
+    "A": "development",
+    "B": "origin",
+    "C": "consequence",
+    "D": "instrument"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 18,
+   "options": {
+    "A": "linked",
+    "B": "integrated",
+    "C": "woven",
+    "D": "combined"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 19,
+   "options": {
+    "A": "limited",
+    "B": "subjected",
+    "C": "converted",
+    "D": "directed"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 20,
+   "options": {
+    "A": "paradoxical",
+    "B": "incompatible",
+    "C": "inevitable",
+    "D": "continuous Section II Reading Comprehension Part A Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points) Text 1 While still catching up to men in some spheres of modern life, women appear to be way ahead in at least one undesirable category. \"Women are particularly susceptible to developing depression and anxiety disorders in response to stress compared to men,\" according to Dr. Yehuda, chief psychiatrist at New York's Veteran's Administration Hospital. Studies of both animals and humans have shown that sex hormones somehow affect the stress response, causing females under stress to produce more of the trigger chemicals than do males under the same conditions. In several of the studies, when stressed-out female rats had their ovaries (the female reproductive organs) removed, their chemical responses became equal to those of the males. Adding to a woman's increased dose of stress chemicals, are her increased \"opportunities\" for stress. \"It's not necessarily that women don't cope as well. It's just that they have so much more to cope with,\" says Dr. Yehuda. \"Their capacity for tolerating stress may even be greater than men's,\" she observes, \"it's just that they're dealing with so many more things that they become worn out from it more visibly and sooner.\" Dr. Yehuda notes another difference between the sexes. \"I think that the kinds of things that women are exposed to tend to be in more of a chronic or repeated nature. Men go to war and are exposed to combat stress. Men are exposed to more acts of random physical violence. The kinds of interpersonal violence that women are exposed to tend to be in domestic situations, by, unfortunately, parents or other family members, and they tend not to be one-shot deals. The wear-and-tear that comes from these longer relationships can be quite devastating.\" Adeline Alvarez married at 18 and gave birth to a son, but was determined to finish college. \"I struggled a lot to get the college degree. I was living in so much frustration that that was my escape, to go to school, and get ahead and do better.\" Later, her marriage ended and she became a single mother. \"It's the hardest thing to take care of a teenager, have a job, pay the rent, pay the car payment, and pay the debt. I lived from paycheck to paycheck.\" Not everyone experiences the kinds of severe chronic stresses Alvarez describes. But most women today are coping with a lot of obligations, with few breaks, and feeling the strain. Alvarez's experience demonstrates the importance of finding ways to diffuse stress before it threatens your health and your ability to function."
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  }
+ ]
+}

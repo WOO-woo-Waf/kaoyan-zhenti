@@ -1,0 +1,253 @@
+{
+ "year": 2026,
+ "paper": "英语一",
+ "section": "完形填空",
+ "topic": "",
+ "source": {
+  "textUrl": "",
+  "answerUrl": ""
+ },
+ "text": "Advances in artificial intelligence (AI) are rapidly changing every aspect of human life. The world of AI is\nbuzzing with an exciting potential to improve and enrich our lives. [[1]], AI also has the potential hazard of\n[[2]] our experiences in ways we might find difficult to control. One such [[3]] is how we understand\nand experience beauty.\n\nAI can be a collaborative tool in a wide range of creative endeavors. [[4]] human creativity and AI\nalgorithms can lead to unique artistic [[5]] that are beautiful to the human eye. These collaborations are\nlikely to become increasingly common. [[6]], as convenient and provocative, AI enables virtual try-on\nexperiences where you can virtually [[7]] makeup, hairstyles, clothing, and even cosmetic procedures [[8]]\nmaking any physical changes. Individuals can now experiment with different looks and [[9]] their\npreferences, potentially expanding the range of beauty ideals.\n\nAI algorithms can [[10]] facial features and skin conditions to provide personalized beauty\nrecommendations. This [[11]] approach aims to cater to individual preferences and enhance the concept of\nbeauty tailored to each person's unique characteristics. [[12]], AI can be a fun vehicle for self-discovery.\n\nWhile AI offers exciting possibilities, it also raises ethical [[13]]. There is a risk of deepening societal\nbeauty [[14]] and perpetuating unattainable beauty standards. [[15]], AI-powered beauty filters and\nediting tools can lead to distorted self-perception and [[16]] body dissatisfaction. As summarized in a recent\npost on \"The Hidden Dangers of Online Beauty Filters\", [[17]] on this technology for social presentation can\ncause harm [[18]] body image issues, lower self-esteem, and social anxiety.\n\nIt's important to note that while AI can enhance our [[19]] of beauty, it should not [[20]] the\ngenuine human experience and the emotional connections we derive from seeing the beauty in each other.",
+ "blanks": [
+  {
+   "no": 1,
+   "options": {
+    "A": "Still",
+    "B": "Therefore",
+    "C": "Afterward",
+    "D": "Instead"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 2,
+   "options": {
+    "A": "reviewing",
+    "B": "narrating",
+    "C": "ignoring",
+    "D": "dominating"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 3,
+   "options": {
+    "A": "reason",
+    "B": "area",
+    "C": "clue",
+    "D": "belief"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 4,
+   "options": {
+    "A": "Balancing",
+    "B": "Distinguishing",
+    "C": "Combining",
+    "D": "Introducing"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 5,
+   "options": {
+    "A": "prospects",
+    "B": "outcomes",
+    "C": "ambitions",
+    "D": "sentiments"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 6,
+   "options": {
+    "A": "At first",
+    "B": "By comparison",
+    "C": "For instance",
+    "D": "In general"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 7,
+   "options": {
+    "A": "test",
+    "B": "copy",
+    "C": "link",
+    "D": "save"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 8,
+   "options": {
+    "A": "upon",
+    "B": "beyond",
+    "C": "through",
+    "D": "before"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 9,
+   "options": {
+    "A": "explore",
+    "B": "recall",
+    "C": "simplify",
+    "D": "cherish"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 10,
+   "options": {
+    "A": "recover",
+    "B": "arrange",
+    "C": "reserve",
+    "D": "analyze"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 11,
+   "options": {
+    "A": "localized",
+    "B": "normalized",
+    "C": "randomized",
+    "D": "customized"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 12,
+   "options": {
+    "A": "At best",
+    "B": "To the contrary",
+    "C": "By definition",
+    "D": "In this way"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 13,
+   "options": {
+    "A": "divisions",
+    "B": "expectations",
+    "C": "concerns",
+    "D": "values"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 14,
+   "options": {
+    "A": "pressures",
+    "B": "mysteries",
+    "C": "understandings",
+    "D": "suspicions"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 15,
+   "options": {
+    "A": "Approximately",
+    "B": "Additionally",
+    "C": "Alternatively",
+    "D": "Accidentally"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 16,
+   "options": {
+    "A": "deal with",
+    "B": "result from",
+    "C": "contribute to",
+    "D": "focus on"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 17,
+   "options": {
+    "A": "starting",
+    "B": "checking",
+    "C": "relying",
+    "D": "working"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 18,
+   "options": {
+    "A": "apart from",
+    "B": "such as",
+    "C": "regardless of",
+    "D": "prior to"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 19,
+   "options": {
+    "A": "imitation",
+    "B": "appreciation",
+    "C": "preservation",
+    "D": "consumption"
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  },
+  {
+   "no": 20,
+   "options": {
+    "A": "replace",
+    "B": "seize",
+    "C": "share",
+    "D": "reflect Section II Reading Comprehension Part A Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points) Text 1 For thousands of years, donkeys have been critical for propelling human civilizations forward. They've helped pull wheeled vehicles, carry travelers and move goods across the world. But where and when these animals first became intertwined with humans has been a mystery. Now, researchers have used genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa — about 3,000 years before humans tamed horses. The team published their findings in the journal Science this month. \"Through their DNA, the animals are telling their history themselves,\" co-author Samantha Brooks, an equine researcher at the University of Florida, says in a statement. \"We usually only get the human's side of history through written accounts, but of course written history does not always record exactly how something happened. Looking at these DNA sequences, we get a biological testimony to the environment these animals lived in and the experiences they survived.\" The researchers examined 207 genomes from modern donkeys living in 31 countries across the globe. They also looked at genomes from 15 wild equids and 31 earlier donkeys that lived between about 4,000 and 100 years ago. The team reconstructed the animals' evolutionary tree and used computer models to pinpoint the domestication event when herders in Kenya and the Horn of Africa tamed wild asses. They then traced how the animals spread across the rest of the continent into Europe and Asia about 2,500 years later. Though it's still unclear why the original domestication happened, Science News' Freda Kreier reports that the event coincided with the Sahara growing larger and drier. \"Donkeys are champions when it comes to carrying stuff and are good at crossing deserts,\" co-author Ludovic Orlando, an evolutionary biologist at Paul Sabatier University in France, tells the publication. Prehistoric humans may have tamed donkeys to help navigate the expanding Sahara. Researchers say these findings could help put donkeys in the spotlight. The animals could benefit from more research: Currently, there are no published genomes from donkeys located south of the Equator in Africa. But understanding where the animals were first domesticated could guide archaeologists to a narrow region to search for insights about the original tamed donkeys. Not only does understanding the equines' genetic makeup help reveal their contribution to human history, but it also might improve their management in the future, as climate change alters the planet's environment, write the authors."
+   },
+   "answer": "",
+   "type": "",
+   "explain": ""
+  }
+ ]
+}

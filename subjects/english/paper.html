@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark" class="view-sent">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark light">
+<title>考研英语整卷精读器 · 文章与题目两栏同屏 · 逐句精读</title>
+<!-- 内联 favicon（data URI）：避免 file:// 与本地 http 下出现 404 请求 -->
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='5' fill='%230f1115'/%3E%3Cpath d='M7 6h10M7 10h10M7 14h6' stroke='%236aa9ff' stroke-width='1.8' stroke-linecap='round'/%3E%3C/svg%3E">
+<!-- 视觉语言完全沿用已有完形精读器：style.css 只读复用，paper.css 只做本页新增与覆盖 -->
+<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/paper.css">
+</head>
+<body>
+
+<!-- ============ 顶栏 ============ -->
+<header class="topbar">
+  <div class="brand">
+    <svg class="logo" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"
+         stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M4 4.5A1.5 1.5 0 0 1 5.5 3H19v14.5H5.5A1.5 1.5 0 0 0 4 19z"/>
+      <path d="M4 19v1.5A1.5 1.5 0 0 0 5.5 22H19v-4.5"/>
+      <path d="M8 7.5h7M8 11h4.5"/>
+    </svg>
+    <span class="brand-t">考研英语精读器</span>
+    <span class="brand-s">文章 ＋ 题目 · 逐句精读</span>
+  </div>
+
+  <div class="tools">
+    <div class="search-wrap">
+      <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+           stroke-linecap="round" aria-hidden="true">
+        <circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/>
+      </svg>
+      <input id="search" type="search" placeholder="年份 / 题型 / 题干…" autocomplete="off" spellcheck="false" aria-label="搜索年份、题型或题干关键词">
+    </div>
+
+    <div class="seg" id="view-seg" role="group" aria-label="文章显示方式">
+      <button type="button" data-view="para" title="整段英文 (v)">整段</button>
+      <button type="button" data-view="sent" class="on" title="逐句精读 (v)">逐句</button>
+    </div>
+
+    <button id="btn-deep" class="tbtn" type="button" title="精读全开 / 全关 (d)">精读</button>
+    <button id="btn-zh" class="tbtn on" type="button" title="显示 / 隐藏中文译文 (z)">中文</button>
+    <button id="btn-an" class="tbtn on" type="button" title="展开 / 折叠全部解析 (a)">解析</button>
+
+    <div class="fs">
+      <button id="fs-down" class="tbtn icon" type="button" title="缩小字号">A−</button>
+      <button id="fs-up" class="tbtn icon" type="button" title="放大字号">A+</button>
+    </div>
+
+    <button id="btn-theme" class="tbtn icon" type="button" title="切换深浅色">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true">
+        <path d="M21 12.8A8.5 8.5 0 1 1 11.2 3a6.6 6.6 0 0 0 9.8 9.8z"/>
+      </svg>
+    </button>
+
+    <button id="btn-drawer" class="tbtn" type="button" title="生词本">
+      生词本 <span id="wb-count" class="cnt">0</span>
+    </button>
+  </div>
+</header>
+
+<!-- ============ 布局：左年份 + 主区（文章 / 题目 两栏同屏） ============ -->
+<div class="layout">
+
+  <aside class="col col-left" aria-label="年份导航">
+    <div class="colhead">
+      年份
+      <span class="spacer" id="year-count"></span>
+    </div>
+    <ul class="yearlist" id="yearlist"></ul>
+    <div class="hints">
+      <h4>快捷键</h4>
+      <dl>
+        <dt><kbd>v</kbd></dt><dd>整段 / 逐句</dd>
+        <dt><kbd>d</kbd></dt><dd>精读全开 / 全关</dd>
+        <dt><kbd>z</kbd></dt><dd>中文译文开关</dd>
+        <dt><kbd>a</kbd></dt><dd>解析展开 / 折叠</dd>
+        <dt><kbd>j</kbd> / <kbd>k</kbd></dt><dd>下一题 / 上一题</dd>
+        <dt><kbd>/</kbd></dt><dd>聚焦搜索</dd>
+        <dt><kbd>Esc</kbd></dt><dd>关闭浮层</dd>
+      </dl>
+    </div>
+  </aside>
+
+  <main class="main" aria-label="试卷正文">
+
+    <div class="dochead">
+      <div class="dochead-in">
+        <div class="tabs" id="tabs" role="tablist" aria-label="题型">
+          <button type="button" data-tab="wx" role="tab">完形<span class="tb-n" data-n="wx"></span></button>
+          <button type="button" data-tab="reading" role="tab">阅读<span class="tb-n" data-n="reading"></span></button>
+          <button type="button" data-tab="partB" role="tab">新题型<span class="tb-n" data-n="partB"></span></button>
+          <button type="button" data-tab="partC" role="tab">翻译<span class="tb-n" data-n="partC"></span></button>
+          <button type="button" data-tab="writing" role="tab">写作<span class="tb-n" data-n="writing"></span></button>
+        </div>
+        <div class="subrow" id="subtabs" hidden></div>
+        <div class="doc-title">
+          <span class="doc-year" id="doc-year">—</span>
+          <span class="doc-meta" id="doc-meta"></span>
+        </div>
+        <p class="doc-topic" id="doc-topic"></p>
+      </div>
+    </div>
+
+    <div class="work">
+      <!-- 左：文章 -->
+      <section class="pane pane-passage" id="passage" aria-label="文章"></section>
+      <!-- 右：题目（题干 + 选项 + 答案 + 解析，全部内联展开） -->
+      <section class="pane pane-questions" id="questions" aria-label="题目"></section>
+    </div>
+
+  </main>
+</div>
+
+<!-- ============ 划词工具条（行为与 app.js 的 #selbar 一致） ============ -->
+<div class="selbar" id="selbar" hidden role="toolbar" aria-label="划词工具条">
+  <span class="sw" id="selbar-word">word</span>
+  <button type="button" data-act="copy" title="复制单词，给划词翻译插件用">复制</button>
+  <a href="#" data-act="youdao" target="_blank" rel="noopener noreferrer">有道</a>
+  <a href="#" data-act="cambridge" target="_blank" rel="noopener noreferrer">剑桥</a>
+  <button type="button" data-act="star" class="star" title="加入生词本">★ 生词本</button>
+</div>
+
+<!-- ============ 生词本抽屉 ============ -->
+<aside class="drawer" id="drawer" hidden aria-label="生词本">
+  <div class="dw-h">
+    <h2>生词本</h2>
+    <span class="cnt2" id="wb-cnt2">0 个词</span>
+    <button type="button" class="x" id="dw-close" title="关闭 (Esc)">×</button>
+  </div>
+  <ul class="wb-list" id="wb-list"></ul>
+  <div class="dw-f">
+    <button type="button" class="mini pri" id="wb-copy">复制全部</button>
+    <button type="button" class="mini" id="wb-csv">导出 CSV</button>
+    <button type="button" class="mini danger" id="wb-clear">清空</button>
+  </div>
+</aside>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<!-- ============ 数据（file:// 友好：script 注入，缺失静默） ============ -->
+<script>window.__PAPER__ = window.__PAPER__ || {};</script>
+<script>window.__WX__ = window.__WX__ || {};</script>
+
+<script src="data/paper/2007.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2008.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2009.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2010.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2011.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2012.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2013.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2014.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2015.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2016.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2017.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2018.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2019.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2020.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2021.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2022.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2023.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2024.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2025.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/paper/2026.js" onerror="this.dataset.missing='1'"></script>
+
+<script src="data/wx/2007.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2008.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2009.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2010.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2011.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2012.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2013.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2014.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2015.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2016.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2017.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2018.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2019.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2020.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2021.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2022.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2023.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2024.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2025.js" onerror="this.dataset.missing='1'"></script>
+<script src="data/wx/2026.js" onerror="this.dataset.missing='1'"></script>
+
+<script src="assets/paper.js"></script>
+</body>
+</html>

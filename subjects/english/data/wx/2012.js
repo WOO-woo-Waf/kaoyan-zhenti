@@ -1,0 +1,275 @@
+window.__WX__ = window.__WX__ || {};
+window.__WX__[2012] = {
+ "year": 2012,
+ "paper": "英语一",
+ "section": "完形填空",
+ "topic": "",
+ "difficulty": 0,
+ "source": {
+  "textUrl": "",
+  "answerUrl": ""
+ },
+ "text": "The ethical judgments of the Supreme Court justices have become an important issue recently. The court cannot [[1]] its legitimacy as guardian of the rule of law [[2]] justices behave like politicians. Yet, in several instances, justices acted in ways that [[3]] the court's reputation for being independent and impartial.\n\nJustice Antonin Scalia, for example, appeared at political events. That kind of activity makes it less likely that the court's decisions will be [[4]] as impartial judgments. Part of the problem is that the justices are not [[5]] by an ethics code. At the very least, the court should make itself [[6]] to the code of conduct that [[7]] to the rest of the federal judiciary.\n\nThis and other similar cases [[8]] the question of whether there is still a [[9]] between the court and politics.\n\nThe framers of the Constitution envisioned law [[10]] having authority apart from politics. They gave justices permanent positions [[11]] they would be free to [[12]] those in power and have no need to [[13]] political support. Our legal system was designed to set law apart from politics precisely because they are so closely [[14]].\n\nConstitutional law is political because it results from choices rooted in fundamental social [[15]] like liberty and property. When the court deals with social policy decisions, the law it [[16]] is inescapably political – which is why decisions split along ideological lines are so easily [[17]] as unjust.\n\nThe justices must [[18]] doubts about the court's legitimacy by making themselves [[19]] to the code of conduct. That would make rulings more likely to be seen as separate from politics and, [[20]], convincing as law.",
+ "blanks": [
+  {
+   "no": 1,
+   "options": {
+    "A": "emphasize",
+    "B": "maintain",
+    "C": "modify",
+    "D": "recognize"
+   },
+   "answer": "B",
+   "type": "词义辨析",
+   "explain": "本段标题句＋下文\"损害声誉\"反向印证",
+   "analysis": "【答案】[ B ] maintain\n词义辨析\n【线索】本段标题句＋下文\"损害声誉\"反向印证\n本句框架是 The court cannot __(1)__ its legitimacy as guardian of the rule of law\n__(2)__ justices behave like politicians.，紧跟着的 justices acted in ways that __(3)__\nthe court's reputation for being independent and impartial 说明\"行为像政客\"会\"削弱\n声誉\"。反过来推：法院\"无法保住/维持\"其合法性。线索指向\"保持、维系\"这一语义。\n【选项】A) emphasize ✗义近但方向偏\"强调\"非\"维持\"\nemphasize 是\"强调\"，强调合法性并不等于\"保住\"合法性；句意要求的是法院\"在何种条件下能继\n续拥有\"合法性，不是\"强调\"它。\nB) maintain ✓\"维持/保住合法性\"语义完全对位\nmaintain 与 legitimacy 构成高频搭配 maintain legitimacy（维持合法性），完全契合\"若大法\n官行为像政客，法院就无法保住其合法性\"的因果逻辑，与下文 reputation 的\"声誉\"链条同向。\nC) modify ✗\"修改\"与合法性不搭\nmodify 指\"修改、调整\"，合法性这种属性不是被\"修改\"的对象，搭配不当。\nD) recognize ✗\"承认\"主体错位\nrecognize 是\"承认、认识到\"，是外界对法院合法性的态度；这里主语是 the court（法院自\n己），不可能\"自己承认自己的合法性\"。\n【验证】代回后：The court cannot maintain its legitimacy as guardian of the rule of law\n__(2)__ justices behave like politicians. 意为\"若大法官行为像政客，法院就无法维持其作\n为法治守护者的合法性\"，与全文\"伦理失守→合法性受损\"的总纲（见 overview.outline）\n完全自洽。"
+  },
+  {
+   "no": 2,
+   "options": {
+    "A": "when",
+    "B": "lest",
+    "C": "before",
+    "D": "unless"
+   },
+   "answer": "A",
+   "type": "逻辑关系",
+   "explain": "主句否定 + 从句条件构成\"在……之时不能\"",
+   "analysis": "【答案】[ A ] when\n逻辑关系\n【线索】主句否定 + 从句条件构成\"在……之时不能\"\n本句 That kind of activity makes it less likely that the court's decisions will be __(4)__\nas impartial judgments. 与下文 Scalia 出席政治活动的例证一起证实：当 justices\nbehave like politicians 时，法院无法维系合法性。即\"在大法官像政客行事的时候\"。\n【选项】\nA) when ✓\"当……之时\"恰好契合\nwhen 引导时间状语，\"当大法官行为像政客时，法院无法维持合法性\"，与下文 P2 列举 Scalia\n在政治场合露面的情景吻合。\nB) lest ✗\"以免\"逻辑反\nlest 意为\"以免、唯恐\"，搭配的是\"防止某种坏事发生\"的语义，且通常要求虚拟语气；这里主句已\n是 cannot maintain，再说\"以免大法官像政客\"语义自相矛盾。\nC) before ✗\"在……之前\"时间方向错\nbefore 表示\"在……之前\"，但本句不是\"在政客化之前法院就失去了合法性\"，时间逻辑错位。\nD) unless ✗与主句否定叠加致语义反转\nunless 是\"除非\"。主句 cannot maintain 已是否定，再用 unless 等于\"除非大法官像政客，否则\n就无法维持合法性\"——彻底反了。\n【验证】代回：The court cannot __(1)__ its legitimacy as guardian of the rule of law when\njustices behave like politicians. 意为\"当大法官行事像政客时，法院无法维系其合法性\"，\n与下文 P2 用 Scalia 例子佐证完全顺承。"
+  },
+  {
+   "no": 3,
+   "options": {
+    "A": "restored",
+    "B": "weakened",
+    "C": "established",
+    "D": "eliminated"
+   },
+   "answer": "B",
+   "type": "词义辨析",
+   "explain": "Yet 转折＋\"impartial 反面\"反向锁定贬义",
+   "analysis": "【答案】[ B ] weakened\n词义辨析\n【线索】Yet 转折＋\"impartial 反面\"反向锁定贬义\n本句 Yet, in several instances, justices acted in ways that __(3)__ the court's\nreputation for being independent and impartial. 句首 Yet 与上句 The court cannot\n__(1)__ its legitimacy as guardian of the rule of law __(2)__ justices behave like\npoliticians. 形成转折，意思是\"然而大法官的某些行为伤害了独立、公正的声誉\"。线索指\n向\"贬义、削弱\"。\n【选项】A) restored ✗\"恢复\"褒义，方向错\nrestored 表\"恢复\"，与 Yet 的转折逻辑相反——前文若呼吁维系合法性，转折后应是\"损害\"。\nB) weakened ✓\"削弱声誉\"褒贬与程度都对位\nweakened 即\"削弱\"，与 Yet 的转折语气、\"以政客方式行事\"的行为后果完全契合。weaken\none's reputation 也是地道搭配。\nC) established ✗\"建立声誉\"方向错\nestablished 是\"建立\"，意味着声誉本不存在——与 the court's reputation（既有的声誉）冲突。\nD) eliminated ✗\"消除\"程度过重\neliminated 表\"彻底清除\"，几次 instances（实例）远不至于\"彻底消除\"法院声誉，程度严重\n过头。\n【验证】代回：justices acted in ways that weakened the court's reputation for being\nindependent and impartial——\"以削弱了法院独立公正声誉的方式行事\"，与全文\"行为像\n政客→损害声誉\"链条一致。"
+  },
+  {
+   "no": 4,
+   "options": {
+    "A": "challenged",
+    "B": "compromised",
+    "C": "suspected",
+    "D": "accepted"
+   },
+   "answer": "D",
+   "type": "固定搭配",
+   "explain": "本句即可定的搭配，并由 less likely 反向锁定",
+   "analysis": "【答案】[ D ] accepted\n固定搭配\n【线索】本句即可定的搭配，并由 less likely 反向锁定\nThat kind of activity makes it less likely that the court's decisions will be __(4)__ as\nimpartial judgments. 关键在 makes it less likely——\"使……不太可能\"。被填动词要表\n达\"被人们视/接受为公正判决\"。\n【选项】A) challenged ✗搭配不合\"as 公正判决\"\nchallenged 与 as 搭配少见，\"被挑战为公正判决\"语义不通。\nB) compromised ✗语义+搭配双错\ncompromised 意为\"妥协、有损\"，be compromised as 不构成正常搭配，且\"被有损为公正判\n决\"语义不通。\nC) suspected ✗\"被怀疑为公正\"语义反\nsuspected 后接 as 通常带负面对象（suspected as a spy）；与 impartial judgments（正面对\n象）搭配反向。\nD) accepted ✓be accepted as 是地道搭配，语义到位\naccepted 与 as 构成 be accepted as（被认作/被接受为），\"裁决不太可能被接受为公正判\n决\"贴合\"政治活动→公信力受损\"链条。\n【验证】代回：the court's decisions will be accepted as impartial judgments——\"法院的裁决\n会被接受为公正判决\"，与上句 Justice Antonin Scalia, for example, appeared at\npolitical events. 的负面诱因＋ less likely 的逻辑完全顺承。"
+  },
+  {
+   "no": 5,
+   "options": {
+    "A": "advanced",
+    "B": "caught",
+    "C": "bound",
+    "D": "founded"
+   },
+   "answer": "C",
+   "type": "固定搭配",
+   "explain": "下文呼吁 subject to the code of conduct 是同指改述",
+   "analysis": "【答案】[ C ] bound\n固定搭配\n【线索】下文呼吁 subject to the code of conduct 是同指改述\nAt the very least, the court should make itself __(6)__ to the code of conduct that\n__(7)__ to the rest of the federal judiciary. 与本句构成同义改述：被填动词的语义应等同\n于 subject/bound（受约束）。\n【选项】A) advanced ✗\"被推进\"不与 by ethics code 搭\nadvanced 是\"推进、提出\"，be advanced by a code 不通。\nB) caught ✗\"被抓住\"语义错\ncaught 表\"抓住\"，与 ethics code 搭配毫无意义。\nC) bound ✓be bound by 是约束的地道搭配\nbound 与 by 构成 be bound by（受……约束），\"大法官不受伦理守则约束\"恰好对应下文应承\n担守则的对策。\nD) founded ✗\"被创立\"主语错位\nfounded 表\"创立\"，be founded by 通常指公司、组织被某人创立，与 the justices 不匹配。\n【验证】代回：the justices are not bound by an ethics code——\"大法官不受伦理守则约束\"，恰\n好与下句\"法院应至少 subject to the code of conduct\"形成\"问题→对策\"的因果。"
+  },
+  {
+   "no": 6,
+   "options": {
+    "A": "resistant",
+    "B": "subject",
+    "C": "immune",
+    "D": "prone"
+   },
+   "answer": "B",
+   "type": "固定搭配",
+   "explain": "与上空 bound 同指 + 下文 code of conduct",
+   "analysis": "【答案】[ B ] subject\n固定搭配\n【线索】与上空 bound 同指 + 下文 code of conduct\n本句紧接上文 the justices are not __(5)__ by an ethics code，是\"问题→对策\"的对策侧；\n同时再次呼应 P6 的 making themselves __(19)__ to the code of conduct，三处构成同\n义链。\n【选项】A) resistant ✗\"抗拒\"方向反\nresistant 是\"抗拒……的\"，be resistant to 表\"抗拒\"，与作者呼吁\"接受守则\"的语义相反。\nB) subject ✓be subject to=\"受……约束\"地道搭配\nsubject 与 to 构成 be subject to（受……约束/服从于）；make itself subject to the code of\nconduct 即\"使自己受守则约束\"，与作者主张完全吻合。\nC) immune ✗\"免于\"方向反\nimmune 表\"不受影响、豁免\"，be immune to=\"对……免疫\"，与\"接受约束\"语义反向。\nD) prone ✗\"倾向于\"对象不搭\nprone 是 be prone to=\"易于、倾向于\"，后接的多是负面后果（prone to errors），与\"行为守\n则\"不搭。\n【验证】代回：the court should make itself subject to the code of conduct that __(7)__ to the\nrest of the federal judiciary.——\"法院至少应使自己服从适用于其余联邦司法机构的行为\n守则\"，与上句问题描述完全对位。"
+  },
+  {
+   "no": 7,
+   "options": {
+    "A": "resorts",
+    "B": "sticks",
+    "C": "leads",
+    "D": "applies"
+   },
+   "answer": "D",
+   "type": "固定搭配",
+   "explain": "主语 code of conduct + 对象 federal judiciary 即\"规则适用于司法机构\"",
+   "analysis": "【答案】[ D ] applies\n固定搭配\n【线索】主语 code of conduct + 对象 federal judiciary 即\"规则适用于司法机构\"\n本句主语是 the code of conduct（行为守则），to 后是 the rest of the federal judiciary\n（其余联邦司法机构），逻辑只能是\"该守则适用于其余联邦司法机构\"。\n【选项】A) resorts ✗\"求助于\"主语不匹配\nresorts 与 to 构成 resort to（诉诸、求助于），主语通常是人/机构，不是规则本身。\nB) sticks ✗\"坚持\"主语反置\nsticks 与 to 构成 stick to（坚持、固守），主语应是\"遵守者\"，而非\"被遵守的规则\"。\nC) leads ✗\"导致\"语义不通\nleads 与 to 构成 lead to（导致），\"行为守则导致其余司法机构\"语义荒谬。\nD) applies ✓apply to=\"适用于\"完美对位\napplies 与 to 构成 apply to（适用于），\"该行为守则适用于其余联邦司法机构\"完全自然。\n【验证】代回：the code of conduct that applies to the rest of the federal judiciary——\"适用\n于其余联邦司法机构的那套行为守则\"，与本段对策完全契合。"
+  },
+  {
+   "no": 8,
+   "options": {
+    "A": "evade",
+    "B": "raise",
+    "C": "deny",
+    "D": "settle"
+   },
+   "answer": "B",
+   "type": "固定搭配",
+   "explain": "句中 This and other similar cases 是引子，后接的是一个疑问",
+   "analysis": "【答案】[ B ] raise\n固定搭配\n【线索】句中 This and other similar cases 是引子，后接的是一个疑问\n句子结构是\"这些案例引出/提出 + 是否还有界线 的问题\"。whether there is still a __(9)__\nbetween the court and politics 是问题内容，本句基调是\"提出问题\"。\n【选项】A) evade ✗\"回避\"主语错位\nevade 是\"回避\"，案例本身不会回避问题，回避的应是当事人。\nB) raise ✓raise the question 是\"引出/提出问题\"高频搭配\nraise 与 the question 搭配自然，This and other similar cases raise the question of …\n——\"这些案例引出了……的问题\"。\nC) deny ✗\"否认\"语义荒谬\ndeny 是\"否认\"，否认一个问题语义不通，且与后文\"是否还有界线\"的开放疑问基调相反。\nD) settle ✗\"解决\"与下文留问反向\nsettle 是\"解决\"，与下文留下的开放疑问 whether there is still a __(9)__ between the court and\npolitics 矛盾。\n【验证】代回：This and other similar cases raise the question of whether there is still a\n__(9)__ between the court and politics.——\"这些案例引出了司法与政治是否仍有界线的\n问题\"，过渡自然，承上段问题、启下段思考。"
+  },
+  {
+   "no": 9,
+   "options": {
+    "A": "line",
+    "B": "barrier",
+    "C": "similarity",
+    "D": "conflict"
+   },
+   "answer": "A",
+   "type": "词义辨析",
+   "explain": "下段制宪意图\"司法与政治分开\"是关键同指",
+   "analysis": "【答案】[ A ] line\n词义辨析\n【线索】下段制宪意图\"司法与政治分开\"是关键同指\nThe framers of the Constitution envisioned law __(10)__ having authority apart from\npolitics. 与 Our legal system was designed to set law apart from politics precisely\nbecause they are so closely __(14)__. 表明\"司法与政治应分开\"。所以\"两者之间\"应\n是\"界线\"。\n【选项】\nA) line ✓\"界线\"最契合 apart from 同指\nline 指\"界线、分界\"，draw a line between 是常用语；对应 set law apart from politics 的\"分\n开\"含义最贴。\nB) barrier ✗\"壁垒\"程度过重\nbarrier 是\"壁垒、屏障\"，语气过强；文章不是说要在司法与政治之间筑墙，而是讨论它们\"是否仍\n有分界\"。\nC) similarity ✗\"相似\"方向反\nsimilarity 表\"相似\"，与作者\"应分开\"的立场反向。\nD) conflict ✗\"冲突\"偏题\nconflict 是\"冲突\"，本文焦点是\"是否还有界线\"而非\"是否冲突\"；且\"冲突\"本身不构成\"分开\"的同义\n表达。\n【验证】代回：whether there is still a line between the court and politics——\"司法与政治之间\n是否仍有界线\"，与下段\"应将法律与政治分开\"的立法本意呼应。"
+  },
+  {
+   "no": 10,
+   "options": {
+    "A": "by",
+    "B": "as",
+    "C": "through",
+    "D": "towards"
+   },
+   "answer": "B",
+   "type": "",
+   "explain": "envision … as having 的固定句式",
+   "analysis": "【答案】[ B ] as\n语法形态\n【线索】envision … as having 的固定句式\nenvisioned law __(10)__ having authority 本身就指向 envision sth as doing\nsth=\"把……设想为做某事\"。\n【选项】A) by ✗\"通过\"与 envision 不搭\nby 不是 envision 的固定介词搭配，\"通过具有权威\"语义不通。\nB) as ✓envision ... as having 是固定句型\nas 构成 envision sth as doing sth，\"将法律设想为具有独立于政治的权威\"，最准确表达了制宪\n者的设想。\nC) through ✗\"通过\"语义错位\nthrough 表\"穿过、通过\"，与 envision 不搭配。\nD) towards ✗\"朝向\"方向词错\ntowards 表方向，与 envision 后接\"被设想为何\"的语义不对位。\n【验证】代回：envisioned law as having authority apart from politics——\"将法律设想为拥有独\n立于政治的权威\"，与下文\"赋予大法官终身职位\"等护航制度顺承。"
+  },
+  {
+   "no": 11,
+   "options": {
+    "A": "so",
+    "B": "since",
+    "C": "provided",
+    "D": "though"
+   },
+   "answer": "A",
+   "type": "逻辑关系",
+   "explain": "\"赋终身职→使其能独立\"是目的关系",
+   "analysis": "【答案】[ A ] so\n逻辑关系\n【线索】\"赋终身职→使其能独立\"是目的关系\n主句 They gave justices permanent positions 与从句 they would be free to __(12)__\nthose in power 是\"制度安排→预期目的\"链条；so + 从句即\"以便\"。\n【选项】\nA) so ✓目的连词最对位\nso 引导目的状语，\"赋予终身职位以便他们能自由地……\"，承上启下。\nB) since ✗\"因为\"因果颠倒\nsince 是\"既然/因为\"，\"因为他们能自由地……，所以给终身职\"颠倒了因果。\nC) provided ✗\"如果\"条件方向错\nprovided 表\"只要、如果\"，把目的关系硬扭成条件关系。\nD) though ✗\"虽然\"让步关系错\nthough 是\"尽管\"，主从句无让步意味。\n【验证】代回：They gave justices permanent positions so they would be free to __(12)__\nthose in power and have no need to __(13)__ political support.——\"给予终身职以便他\n们能自由地……且无需……\"，与本段\"法律应独立于政治\"完全自洽。"
+  },
+  {
+   "no": 12,
+   "options": {
+    "A": "serve",
+    "B": "satisfy",
+    "C": "upset",
+    "D": "replace"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "free to + 动词、与下空\"无需迎合政治支持\"并列",
+   "analysis": "【答案】[ C ] upset\n词义辨析\n【线索】free to + 动词、与下空\"无需迎合政治支持\"并列\nthey would be free to __(12)__ those in power and have no need to __(13)__ political\nsupport. 两个并列动作描绘\"独立\"——独立体现在\"敢于对抗权贵\"且\"不必经营政治支持\"。\n【选项】A) serve ✗\"服务\"方向反\nserve 是\"服务\"，与\"独立、敢于对抗\"反向。\nB) satisfy ✗\"取悦\"方向反\nsatisfy 表\"满足、取悦\"，与下句\"不必迎合政治支持\"反向。\nC) upset ✓\"敢于触怒权贵\"对应制度独立\nupset 是\"使不安、扰乱\"，free to upset those in power=\"能自由地触怒/挑战权贵\"，恰是 \"司\n法独立\"的具象表现。\nD) replace ✗\"取代\"越界\nreplace 是\"取代\"，司法不应取代行政权力，越界。\n【验证】代回：they would be free to upset those in power and have no need to __(13)__\npolitical support.——\"能自由地得罪权贵且无需经营政治支持\"，与制宪者意图严丝合缝。"
+  },
+  {
+   "no": 13,
+   "options": {
+    "A": "confirm",
+    "B": "express",
+    "C": "cultivate",
+    "D": "offer"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "have no need to + 动词 与上文\"独立\"主题对应",
+   "analysis": "【答案】[ C ] cultivate\n词义辨析\n【线索】have no need to + 动词 与上文\"独立\"主题对应\nhave no need to __(13)__ political support 与\"自由对抗权贵\"并列；\"无需……政治支\n持\"的动作应是政客对支持的常规动作——经营、培植。\n【选项】A) confirm ✗\"确认\"搭配荒谬\nconfirm 是\"确认\"，confirm political support 不构成正常表达。\nB) express ✗\"表达\"主体错位\nexpress 是\"表达\"，应是支持者表达支持，不是被支持者表达。\nC) cultivate ✓cultivate political support=\"经营/培植政治支持\"\ncultivate 与 support 搭配自然且形象，\"大法官无需经营政治支持\"贴合本段独立性主题。\nD) offer ✗\"提供\"主体反\noffer 是\"提供\"，应是大法官接受支持，而非提供支持。\n【验证】代回：have no need to cultivate political support——\"无需经营/培植政治支持\"，与终\n身制设计意图（让大法官无须迎合政治）严丝合缝。"
+  },
+  {
+   "no": 14,
+   "options": {
+    "A": "guarded",
+    "B": "followed",
+    "C": "studied",
+    "D": "tied"
+   },
+   "answer": "D",
+   "type": "词义辨析",
+   "explain": "precisely because they are so closely ___ 是反讽式因果",
+   "analysis": "【答案】[ D ] tied\n词义辨析\n【线索】precisely because they are so closely ___ 是反讽式因果\nOur legal system was designed to set law apart from politics precisely because they\nare so closely __(14)__. 全句意思是\"正因为它们如此紧密交织，制度上才要刻意把它们分\n开\"——这里要的是\"紧密相连/纠缠\"。\n【选项】A) guarded ✗\"被守护\"语义不对\nguarded 是\"被守卫\"，无法表达\"两者紧密相连\"。\nB) followed ✗\"被追随\"搭配错位\nfollowed 表\"被跟随\"，与 closely 搭配可成 closely followed，但表示\"被密切关注\"，与\"两者关系\n紧密\"不同。\nC) studied ✗\"被研究\"语义偏\nstudied 是\"被研究\"，与\"法律和政治本质上紧密关联\"无关。\nD) tied ✓closely tied=\"紧密关联\"\ntied 与 closely 构成 closely tied（紧密关联），完美承载\"两者本就紧密相连，故立法刻意切\n开\"的反差。\n【验证】代回：precisely because they are so closely tied.——\"正因为它们紧密相连，立法才要\n刻意把它们分开\"，与下段\"宪法本就是政治的\"承接自然。"
+  },
+  {
+   "no": 15,
+   "options": {
+    "A": "concepts",
+    "B": "theories",
+    "C": "divisions",
+    "D": "conventions"
+   },
+   "answer": "A",
+   "type": "词义辨析",
+   "explain": "like liberty and property 是例证锚点",
+   "analysis": "【答案】[ A ] concepts\n词义辨析\n【线索】like liberty and property 是例证锚点\nchoices rooted in fundamental social __(15)__ like liberty and property. 中 liberty 和\nproperty 是抽象观念，最自然的上位词是\"基本社会观念/概念\"。\n【选项】\nA) concepts ✓\"基本社会观念\"恰好涵盖自由/财产\nconcepts 表\"概念、观念\"，liberty 和 property 是典型的基本社会观念，匹配最佳。\nB) theories ✗\"理论\"层级不对\ntheories 表\"理论\"，liberty 和 property 不是\"理论\"，是观念本身。\nC) divisions ✗\"分裂\"语义错\ndivisions 表\"分裂、分隔\"，与 liberty/property 完全无关。\nD) conventions ✗\"惯例\"层级偏\nconventions 表\"惯例、公约\"，比\"观念\"更偏制度化、不如 concepts 自然。\n【验证】代回：choices rooted in fundamental social concepts like liberty and property.\n——\"植根于自由、财产等基本社会观念的选择\"，与本段\"宪法本就政治\"的解释链一致。"
+  },
+  {
+   "no": 16,
+   "options": {
+    "A": "excludes",
+    "B": "questions",
+    "C": "shapes",
+    "D": "controls"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "上下文是\"法院处理社会政策决策\"",
+   "analysis": "【答案】[ C ] shapes\n词义辨析\n【线索】上下文是\"法院处理社会政策决策\"\nWhen the court deals with social policy decisions, the law it __(16)__ is inescapably\npolitical——法院在处理社会政策时\"塑造的法律\"必然带有政治色彩。\"塑造\"对应 shapes。\n【选项】A) excludes ✗\"排除\"语义反\nexcludes 表\"排除\"，法院不是在排除法律，而是在解释和塑造法律。\nB) questions ✗\"质疑\"主体倒置\nquestions 表\"质疑\"，法院通常是裁断者而非质疑者。\nC) shapes ✓\"塑造\"对位\nshapes 表\"塑造、形成\"，the law it shapes=\"它所塑造的法律\"，与\"法院判例塑造法律走向\"的\n事实严丝合缝。\nD) controls ✗\"控制\"程度过强\ncontrols 表\"控制\"，过度强调权力关系，与\"塑造\"相比缺少\"通过判例形塑\"的精细含义。\n【验证】代回：the law it shapes is inescapably political——\"它所塑造的法律不可避免地带有政\n治性\"，与\"宪法本就政治\"的论证完全顺畅。"
+  },
+  {
+   "no": 17,
+   "options": {
+    "A": "dismissed",
+    "B": "released",
+    "C": "ranked",
+    "D": "distorted"
+   },
+   "answer": "A",
+   "type": "词义辨析",
+   "explain": "as unjust 是补足语，决定动词性质",
+   "analysis": "【答案】[ A ] dismissed\n词义辨析\n【线索】as unjust 是补足语，决定动词性质\ndecisions split along ideological lines are so easily __(17)__ as unjust.——\"沿意识形态\n分裂的裁决很容易被……为不公正\"。be V-ed as unjust 即\"被斥为不公正\"，dismissed as\n是地道的\"驳斥为\"。\n【选项】\nA) dismissed ✓be dismissed as=\"被斥为\"地道搭配\ndismissed 与 as 构成 be dismissed as（被驳斥/否定为），\"轻易被斥为不公正\"承接\"沿意识形\n态分裂的裁决\"的负面后果完全自然。\nB) released ✗\"被释放\"搭配错\nreleased 表\"被释放\"，be released as 无此用法。\nC) ranked ✗\"被排名\"语义偏\nranked 表\"排名\"，be ranked as 通常接等级，不接 unjust 这类道德评价。\nD) distorted ✗\"扭曲\"搭配不通\ndistorted 表\"扭曲\"，be distorted as 极少见，且语义\"被扭曲为不公正\"不通——裁决本身就被认\n为不公正，而不是被扭曲为不公正。\n【验证】代回：decisions split along ideological lines are so easily dismissed as unjust.——\"按\n意识形态分裂的裁决很容易被斥为不公正\"，与全篇\"政治化损害公信力\"的论证一致。"
+  },
+  {
+   "no": 18,
+   "options": {
+    "A": "suppress",
+    "B": "exploit",
+    "C": "address",
+    "D": "ignore"
+   },
+   "answer": "C",
+   "type": "词义辨析",
+   "explain": "下文 by making themselves accountable… 是方式状语，证明动作是\"消除疑虑\"",
+   "analysis": "【答案】[ C ] address\n词义辨析\n【线索】下文 by making themselves accountable… 是方式状语，证明动作是\"消除疑虑\"\nThe justices must __(18)__ doubts about the court's legitimacy by making\nthemselves __(19)__ to the code of conduct. by 后给出的是建设性方式（接受守则），\n所以前面动作必是建设性的\"处理/消除\"。\n【选项】A) suppress ✗\"压制\"方向反\nsuppress 表\"压制\"，压制疑虑不是建设性回应。\nB) exploit ✗\"利用\"方向反\nexploit 表\"利用\"，与正向方式矛盾。\nC) address ✓address doubts=\"处理/消除疑虑\"\naddress 在此熟词僻义为\"处理、应对\"，address doubts 是地道搭配，且与 by 后的正向方式\n呼应。\nD) ignore ✗\"忽略\"方向反\nignore 表\"忽视\"，与后文\"通过接受守则消除疑虑\"的方式句矛盾。\n【验证】代回：The justices must address doubts about the court's legitimacy by making\nthemselves __(19)__ to the code of conduct.——\"大法官必须通过让自己对行为守则负责\n来消除关于法院合法性的疑虑\"，正向闭合。"
+  },
+  {
+   "no": 19,
+   "options": {
+    "A": "accessible",
+    "B": "amiable",
+    "C": "agreeable",
+    "D": "accountable"
+   },
+   "answer": "D",
+   "type": "固定搭配",
+   "explain": "make themselves + ___ + to + the code of conduct",
+   "analysis": "【答案】[ D ] accountable\n固定搭配\n【线索】make themselves + ___ + to + the code of conduct\nmaking themselves accountable 中的目标对象是\"守则\"，要的是\"对守则负责\"——be\naccountable to=\"对……负责\"是地道搭配。\n【选项】A) accessible ✗\"可接近\"语义偏\naccessible 是\"可接近的\"，make oneself accessible to the public 还能讲通，但与\"行为守则\"搭\n配偏题。\nB) amiable ✗\"友好\"语义错\namiable 表\"和蔼可亲\"，描述人际态度，与守则无关。\nC) agreeable ✗\"令人愉快\"语义偏\nagreeable 表\"令人愉快、可同意的\"，与\"对守则负责\"不对应。\nD) accountable ✓accountable to=\"对……负责\"地道搭配\naccountable 与 to 构成 be accountable to（对……负责），make themselves accountable\nto the code of conduct=\"使自己对行为守则负责\"，与全文呼吁完全契合。\n【验证】代回：making themselves accountable to the code of conduct.——\"让自己对行为守\n则负责\"，结尾立场鲜明，与全文\"接受职业伦理约束\"的对策呼应。"
+  },
+  {
+   "no": 20,
+   "options": {
+    "A": "by all means",
+    "B": "at all costs",
+    "C": "in a word",
+    "D": "as a result Section II Reading Comprehension Part A Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points) Text 1 Come on – Everybody's doing it. That whispered message, half invitation and half forcing, is what most of us think of when we hear the words peer pressure. It usually leads to no good—drinking, drugs and casual sex. But in her new book Join the Club, Tina Rosenberg contends that peer pressure can also be a positive force through what she calls the social cure, in which organizations and officials use the power of group dynamics to help individuals improve their lives and possibly the world. Rosenberg, the recipient of a Pulitzer Prize, offers a host of examples of the social cure in action: In South Carolina, a state-sponsored antismoking program called Rage Against the Haze sets out to make cigarettes uncool. In South Africa, an HIV-prevention initiative known as loveLife recruits young people to promote safe sex among their peers. The idea seems promising, and Rosenberg is a perceptive observer. Her critique of the lameness of many public-health campaigns is spot-on: they fail to mobilize peer pressure for healthy habits, and they demonstrate a seriously flawed understanding of psychology. \"Dare to be different, please don't smoke!\" pleads one billboard campaign aimed at reducing smoking among teenagers—teenagers, who desire nothing more than fitting in. Rosenberg argues convincingly that public-health advocates ought to take a page from advertisers, so skilled at applying peer pressure. But on the general effectiveness of the social cure, Rosenberg is less persuasive. Join the Club is filled with too much irrelevant detail and not enough exploration of the social and biological factors that make peer pressure so powerful. The most glaring flaw of the social cure as it's presented here is that it doesn't work very well for very long. Rage Against the Haze failed once state funding was cut. Evidence that the loveLife program produces lasting changes is limited and mixed. There's no doubt that our peer groups exert enormous influence on our behavior. An emerging body of research shows that positive health habits—as well as negative ones—spread through networks of friends via social communication. This is a subtle form of peer pressure: we unconsciously imitate the behavior we see every day. Far less certain, however, is how successfully experts and bureaucrats can select our peer groups and steer their activities in virtuous directions. It's like the teacher who breaks up the troublemakers in the back row by pairing them with better-behaved classmates. The tactic never really works. And that's the problem with a social cure engineered from the outside: in the real world, as in school, we insist on choosing our own friends."
+   },
+   "answer": "D",
+   "type": "逻辑关系",
+   "explain": "前面\"看上去与政治分开\"→后面\"作为法律令人信服\"是因果",
+   "analysis": "【答案】[ D ] as a result\n逻辑关系\n【线索】前面\"看上去与政治分开\"→后面\"作为法律令人信服\"是因果\nThat would make rulings more likely to be seen as separate from politics and,\n__(20)__, convincing as law. 前后用 and 并列两个结果状语：\"裁决看上去与政治分开\"是直\n接结果，\"作为法律具有说服力\"是连带的进一步结果。本质是因果链。\n【选项】A) by all means ✗\"务必\"语义错位\nby all means 表\"无论如何、务必\"，是态度强调而非因果衔接。\nB) at all costs ✗\"不惜代价\"语气错位\nat all costs 表\"不惜一切代价\"，与本句因果链不搭。\nC) in a word ✗\"总之\"用于全文小结\nin a word 是\"一言以蔽之\"，用于多点总结后做结论；这里只有两个并列后果，且文章已近尾声但\n无多点总结，过强。\nD) as a result ✓\"因此\"承接因果\nas a result 表\"因此、结果\"，恰好连接\"被视为与政治分开\"与\"作为法律有说服力\"的因果——\"看\n上去独立，因此就更令人信服\"。\n【验证】代回：make rulings more likely to be seen as separate from politics and, as a result,\nconvincing as law.——\"使裁决看上去与政治分开，并因此作为法律更具说服力\"，全文以\n此对策为收束，逻辑自洽。\nO V E R V I E W · 通读建境\n全文主旨与行文脉络\n完形是语篇题——单看空所在的半句往往四个选项都「像」。下面是全文主旨与行文脉\n络，是每个空锁定线索、代入验证时核对的全局工作台。\n全文主旨\n最高法院大法官应受职业伦理约束以维护司法独立形象\n文章开门见山即定调：The ethical judgments of the Supreme Court justices have become\nan important issue recently.，随后反复强调法官行为若像政客就会损害法院作为法治守护\n者的合法性，全文基调是说理＋建议（呼吁大法官接受行为守则）。\n行文脉络\n提出问题→举例佐证→引出疑问→历史立意→现实困境→给出方案\n可清晰切成六个走向：P1 提出大法官伦理成隐忧（The court cannot __(1)__ its legitimacy\nas guardian of the rule of law __(2)__ justices behave like politicians.）→ P2 以 Scalia 出席\n政治活动为例并指出缺少伦理守则（Part of the problem is that the justices are not __(5)__\nby an ethics code.）→ P3 引出\"司法与政治还有无界线\"之问（This and other similar cases\n__(8)__ the question of whether there is still a __(9)__ between the court and politics.）→\nP4 回溯制宪者本意（The framers of the Constitution envisioned law __(10)__ having\nauthority apart from politics.）→ P5 承认宪法本就与政治纠缠（Constitutional law is\npolitical because it results from choices rooted in fundamental social __(15)__ like\nliberty and property.）→ P6 给出对策——大法官应承担行为守则（The justices must\n__(18)__ doubts about the court's legitimacy by making themselves __(19)__ to the code\nof conduct.）。\nS E N T E N C E I N S I G H T S · 句子精讲\n6 句真题句逐层精讲\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nThat kind of activity makes it less likely that the court's decisions will be accepted\nas impartial judgments.\n第2段，第2句\nmake it + 形容词 + that 从句 结构在四六级和考研阅读中高频出现，是复合句的经典句式。掌握这\n一结构后，可迁移到 find it、consider it、think it 等类似动词，复用性极强。本句是该句式的标准\n范例。\nThe framers of the Constitution envisioned law as having authority apart from\npolitics.\n第4段，第1句\n\"envision A as B\" 是四六级和考研阅读中常见的动词结构，类似的还有 \"regard A as B\"、\"see A as\nB\"、\"view A as B\" 等，掌握此句型可迁移到大量同类句子。简单句 + 宾语补足语的组合在真题中\n频繁出现，具有较高的代表性和复用价值。\nThey gave justices permanent positions so they would be free to upset those in\npower and have no need to cultivate political support.\n第4段，第2句\n本句涵盖双宾语结构（gave justices permanent positions）、主系表结构（would be free）、并列\n谓语（would be ... and have）、不定式作目的状语（to upset、to cultivate），成分种类丰富。双\n宾语和并列谓语都是学习者常混淆的点，目的状语的识别也有一定训练价值。作为成分划分练习\n句，能够覆盖多个重要语法点。\nOur legal system was designed to set law apart from politics precisely because they\nare so closely tied.\n第4段，第3句\n本句体现了被动语态加不定式状语的经典搭配,以及 \"because\" 引导的原因状语从句,这两种结构在\n四六级和考研阅读中极为常见。主从句时态对比、被动结构的理解、目的与原因的逻辑关系都是考\n试高频考点,具有很强的代表性和复用价值。\nWhen the court deals with social policy decisions, the law it shapes is inescapably\npolitical – which is why decisions split along ideological lines are so easily\ndismissed as unjust.\n第5段，第2句\n全句覆盖主谓宾、主系表、定语从句(限制性与非限制性)、状语从句、表语从句、省略关系代词、\n被动语态、后置定语、宾语补足语等多种成分和结构,且存在省略和嵌套等易错点。作为划分成分\n的练习句,能够同时训练多个高频考点,训练价值高。\nThat would make rulings more likely to be seen as separate from politics and, as a\nresult, convincing as law.\n第6段，第2句\nmake 加宾语加宾补的使役结构是四六级和考研阅读中的高频句式,且宾补部分包含不定式被动、并\n列、插入语等典型修饰手法,学习后可大量复用于类似结构的理解。\nH I G H - F R E Q U E N C Y · 真题高频词\n本篇出现的 43 个考研英语一真题高频词\n下列单词既在本篇完形原文中出现，又是 考研英语一 历年真题的高频词（在该考试真题\n中出现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查\n看该词的释义、音标、词形与真题例句。\ncourt\nA2\nn. 法院\n本篇8 次 · 真题 82 句\njustice\nB2\nn. 公正;正义\n本篇7 次 · 真题 36 句\npolitical\nB1\nadj. 政治的\n本篇4 次 · 真题 54 句\npolitics\nB1\nn. 政治\n本篇4 次 · 真题 20 句\ncode\nB1\nn. 代码\n本篇3 次 · 真题 15 句\nwould\nA1\naux. （will 的过去式）将要，会\n本篇2 次 · 真题 304 句\nlikely\nA2\nadj. 很可能的\n本篇2 次 · 真题 89 句\nconduct\nB2\nv. 组织并实施\n本篇2 次 · 真题 31 句\njudgment\nB2\nn. 判断力;识别力\n本篇2 次 · 真题 14 句\nless\nA1\ndet. 较少的\n本篇1 次 · 真题 150 句\nsystem\nA2\nn. 系统\n本篇1 次 · 真题 107 句\npower\nA2\nn. 权力\n本篇1 次 · 真题 90 句\nissue\nB1\nn. 问题\n本篇1 次 · 真题 89 句\nsupport\nA2\nv. 支持\n本篇1 次 · 真题 87 句\nfederal\nB2\nadj. 联邦（制）的\n本篇1 次 · 真题 81 句\ncase\nA2\nn. 情况\n本篇1 次 · 真题 75 句\npolicy\nB1\nn. 政策\n本篇1 次 · 真题 69 句\nleast\nA2\ndet. 最少的\n本篇1 次 · 真题 63 句\ndesign\nB1\nn. 设计\n本篇1 次 · 真题 52 句\nlegal\nB1\nadj. 法律的\n本篇1 次 · 真题 44 句\nrecently\nA2\nadv. 最近\n本篇1 次 · 真题 37 句\nevent\nA2\nn. 事件\n本篇1 次 · 真题 36 句\napply\nA2\nv. 申请\n本篇1 次 · 真题 33 句\nauthority\nB2\nn. 权力\n本篇1 次 · 真题 33 句\nmaintain\nB1\nv. 维持\n本篇1 次 · 真题 31 句\nconcept\nB2\nn. 概念\n本篇1 次 · 真题 29 句\nsupreme\nC1\nadj. 最高的\n本篇1 次 · 真题 28 句\neasily\nA2\nadv. 容易地\n本篇1 次 · 真题 25 句\nruling\nB2\nn. 裁决\n本篇1 次 · 真题 23 句\ninstance\nB2\nn. 例子\n本篇1 次 · 真题 17 句\nethics\nC1\nn. 道德准则\n本篇1 次 · 真题 16 句\nreputation\nB2\nn. 名声\n本篇1 次 · 真题 16 句\nfundamental\nB2\nadj. 基本的\n本篇1 次 · 真题 15 句\nroot\nA2\nn. 根\n本篇1 次 · 真题 15 句\nethical\nB2\nadj. 道德的\n本篇1 次 · 真题 14 句\nconstitution\nC1\nn. 宪法\n本篇1 次 · 真题 13 句\nprecisely\nB2\nadv. 精确地，准确地\n本篇1 次 · 真题 13 句\npolitician\nB2\nn. 政治家\n本篇1 次 · 真题 12 句\nproperty\nB1\nn. 财产\n本篇1 次 · 真题 11 句\nclosely\nB1\nadv. 紧密地\n本篇1 次 · 真题 10 句\npermanent\nB2\nadj. 永久的\n本篇1 次 · 真题 10 句\nweaken\nB2\nv. 使变弱\n本篇1 次 · 真题 10 句\nconstitutional\nC1\nadj. 宪法的\n本篇1 次 · 真题 8 句\nV O C A B U L A R Y · 词汇难度分布\n全文 121 词按 CEFR 难度累积覆盖\n带空短文去重后共 121 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」\n的累积占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 13 个 ·\n约 11%。\n35%\nA1\n及以下\n55%\nA2\n及以下\n75%\nB1\n及以下\n89%\nB2\n及以下\n100%\nC1\n及以下\n100%\nC2\n及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 121 个 · 末柱为 100%\n去重总词数\n121\nB2 以上难词\n11%\nB1 及以下覆盖\n75%\n考研英语一\n2012年 · 全卷构成\nSection I\n完形填空（四选一）\n本题\nSection II Part A (1)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (2)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (3)\n阅读理解（四选一）\n题目解析 →\nSection II Part A (4)\n阅读理解（四选一）\n题目解析 →\nSection II Part B\n选句填空（7选5）\n题目解析 →\nSection II Part C\n英译汉（划线句子翻译）\n题目解析 →\nSection III Part A\n写作\n题目解析 →\nSection III Part B\n写作\n题目解析 →\n2012年 考研英语一阅读理解（四选一） 第 1 篇 · 21–25 题答案与解\n析\nQ U E S T I O N S & A N A L Y S I S ·"
+  }
+ ]
+};
