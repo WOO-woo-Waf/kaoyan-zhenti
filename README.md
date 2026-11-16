@@ -7,6 +7,10 @@
 
 ![总入口](docs/screenshots/hub.png)
 
+生题本总账按「科目 → 知识点」跨科聚合，一屏看完今天该攻哪几个点：
+
+![生题本总账](docs/screenshots/hub-wrongbook.png)
+
 ---
 
 ## 三科入口
