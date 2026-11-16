@@ -1,6 +1,6 @@
 /* ============================================================
    考研真题精读库 · 总入口样式
-   自包含（不依赖 subjects/*/assets/style.css），令牌与各科一致
+   自包含（不依赖各科 assets/style.css），令牌与三科逐字一致
    ============================================================ */
 
 :root {
@@ -336,6 +336,8 @@ a { color: inherit; text-decoration: none; }
   flex-wrap: wrap;
   gap: 5px;
   margin-bottom: 14px;
+  min-height: 48px;          /* 预留两行，三科卡片高度对齐 */
+  align-content: flex-start;
 }
 
 .chip {
