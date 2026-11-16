@@ -1,7 +1,7 @@
 /* =========================================================
    408 真题精读系统 · app.css
    复用 style.css 的设计令牌（配色 / 圆角 / 徽章 / 抽屉 / Toast）
-   本文件只做 408 专属：三栏布局、题目卡、选项、代码块、知识树、统计
+   本文件只做 408 专属：导航与两栏工作区、题目卡、选项、代码块、知识树、统计
    ========================================================= */
 
 /* ---------- 0. 学科色 ---------- */
@@ -30,7 +30,7 @@ html[data-theme="light"] {
 /* ---------- 1. 布局 ---------- */
 .layout {
   display: grid;
-  grid-template-columns: 252px minmax(0, 1fr) 500px;
+  grid-template-columns: 252px minmax(0, 1fr);
   height: calc(100% - 56px);
   overflow: hidden;
 }
@@ -85,14 +85,14 @@ html[data-theme="light"] {
 .work {
   flex: 1 1 auto; min-height: 0;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 500px);
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
   grid-template-rows: minmax(0, 1fr);
   gap: 18px; padding: 0 16px 16px;
 }
 .work-single { grid-template-columns: minmax(0, 1fr); }
 
 .pane {
-  min-height: 0; overflow-y: auto; overflow-x: hidden;
+  min-width: 0; min-height: 0; overflow-y: auto; overflow-x: hidden;
   padding: 16px 18px 80px;
   background: var(--card); border: 1px solid var(--line-soft); border-radius: 12px;
   overscroll-behavior: contain;
@@ -167,7 +167,7 @@ html[data-theme="light"] .qcard { background: var(--card-2); }
   margin: 0 0 9px; padding: 10px 12px;
   background: var(--code-bg); border: 1px solid var(--line); border-radius: 8px;
   font-family: var(--mono); font-size: 12.5px; line-height: 1.72; color: #c8d3e3;
-  white-space: pre; overflow-x: auto;
+  white-space: pre-wrap; overflow-wrap: anywhere; overflow-x: auto;
 }
 html[data-theme="light"] .code { color: #2b3340; }
 .code .cm { color: #6b7482; }
@@ -176,10 +176,9 @@ html[data-theme="light"] .code { color: #2b3340; }
 .code .nm { color: #ffcb6b; }
 
 /* 代码块 + 全屏 */
-.qcode { position: relative; }
-.qcode .code { padding-right: 60px; }
+.qcode { display: flex; flex-direction: column; align-items: stretch; }
 .code-fs {
-  position: absolute; top: 6px; right: 6px;
+  align-self: flex-end; margin: 0 0 5px; order: -1;
   padding: 3px 7px; border-radius: 6px; cursor: pointer;
   background: rgba(120,140,170,.16); border: 1px solid var(--line);
   color: var(--fg-dim); font-size: 10.5px; font-family: var(--font);
@@ -228,6 +227,7 @@ html[data-theme="light"] .code { color: #2b3340; }
 html[data-theme="light"] .qopt { background: var(--card); }
 .qopt:hover { border-color: var(--line); color: var(--fg); }
 .qopt b { flex: 0 0 auto; font-family: var(--mono); font-size: 11px; font-weight: 700; color: var(--fg-faint); }
+.qopt span { min-width: 0; overflow-wrap: anywhere; }
 .qopt.correct { background: var(--ok-dim); border-color: rgba(63, 185, 80, .52); color: var(--ok); }
 .qopt.correct b { color: var(--ok); }
 .qopt.wrong { background: var(--bad-dim); border-color: rgba(248, 81, 73, .52); color: var(--bad); }
@@ -355,10 +355,10 @@ html[data-theme="light"] .wrow { background: var(--card-2); }
 
 /* ---------- 11. 响应式 ---------- */
 @media (max-width: 1400px) {
-  .layout { grid-template-columns: 220px minmax(0, 1fr) 430px; }
+  .layout { grid-template-columns: 220px minmax(0, 1fr); }
   .layout-wide { grid-template-columns: 270px minmax(0, 1fr); }
 }
-@media (max-width: 1180px) {
+@media (max-width: 1279px) {
   html, body { height: auto; min-height: 100%; overflow: auto; }
   .layout { grid-template-columns: minmax(0, 1fr); height: auto; overflow: visible; }
   .layout-wide { grid-template-columns: minmax(0, 1fr); }

@@ -2,8 +2,10 @@
 window.__MANIFEST__ = {
   "name": "考研真题精读库",
   "description": "英语（一）、数学（一）、408 计算机学科专业基础 —— 近十余年真题逐题解析，纯静态离线可用",
-  "generatedAt": "2026-11-16T02:05:14.392Z",
-  "examDate": "2026-12-20T14:00:00+08:00",
+  "generatedAt": "2026-11-16T04:21:35.922Z",
+  "examDate": "2026-12-19T08:30:00+08:00",
+  "examEndDate": "2026-12-20T17:00:00+08:00",
+  "examDateSource": "https://yz.chsi.com.cn/kyzx/jybzc/202609/20260924/2293971511.html",
   "subjects": [
     {
       "id": "408",

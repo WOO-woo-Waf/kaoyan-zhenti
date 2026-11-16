@@ -1,0 +1,12 @@
+/* 三科共用的主目录入口。 */
+.home-link {
+  flex: 0 0 auto; padding: 3px 8px;
+  border: 1px solid var(--line); border-radius: 6px;
+  font-size: 12px; color: var(--fg-dim); white-space: nowrap;
+}
+.home-link:hover, .home-link:focus-visible {
+  color: var(--accent); border-color: var(--accent); text-decoration: none;
+}
+@media (max-width: 1500px) {
+  .brand-s { display: none; }
+}

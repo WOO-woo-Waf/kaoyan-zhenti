@@ -39,15 +39,30 @@
   function renderCountdown() {
     var el = $('#countdown');
     if (!el) return;
-    var exam = new Date(M.examDate || '2026-12-20T14:00:00+08:00');
+    var exam = new Date(M.examDate);
+    var end = new Date(M.examEndDate || M.examDate);
+    if (!Number.isFinite(exam.getTime()) || !Number.isFinite(end.getTime())) {
+      el.textContent = '考试日期待确认';
+      return;
+    }
     var now = new Date();
-    var days = Math.ceil((exam - now) / 86400000);
+    // 按北京时间的日历日计算，同一天内不因开考时刻或浏览器时区多算一天。
+    function beijingDay(date) { return Math.floor((date.getTime() + 8 * 3600000) / 86400000); }
+    var days = beijingDay(exam) - beijingDay(now);
+    function dateLabel(date) {
+      return new Intl.DateTimeFormat('zh-CN', {
+        timeZone: 'Asia/Shanghai', year: 'numeric', month: 'long', day: 'numeric'
+      }).format(date);
+    }
+    el.title = '考研初试：' + dateLabel(exam) + '—' + dateLabel(end) + '（北京时间）';
     if (days > 0) {
-      el.innerHTML = '距考试 <b>' + days + '</b> 天';
+      el.innerHTML = '距初试 <b>' + days + '</b> 天';
+    } else if (now > end) {
+      el.textContent = '初试已结束';
     } else if (days === 0) {
-      el.innerHTML = '<b>今天</b> 考试';
+      el.innerHTML = '<b>今天</b> 初试';
     } else {
-      el.innerHTML = '已考完 <b>' + (-days) + '</b> 天';
+      el.innerHTML = '<b>初试进行中</b>';
     }
   }
 
@@ -192,13 +207,13 @@
     var rf = $('#btn-refresh');
     if (rf) rf.addEventListener('click', function () {
       var w = collectWrong();
-      renderOverview(w); renderCards(w); renderWrongBook(w);
+      renderOverview(w); renderCards(w); renderWrongBook(w); renderCountdown();
     });
 
     // 从浏览器后退回来时刷新进度
     window.addEventListener('pageshow', function () {
       var w = collectWrong();
-      renderOverview(w); renderCards(w); renderWrongBook(w);
+      renderOverview(w); renderCards(w); renderWrongBook(w); renderCountdown();
     });
   }
 

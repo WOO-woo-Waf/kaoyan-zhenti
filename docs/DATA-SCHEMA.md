@@ -13,7 +13,9 @@
 ```jsonc
 {
   "name": "考研真题精读库",
-  "examDate": "2026-12-20T14:00:00+08:00",
+  "examDate": "2026-12-19T08:30:00+08:00", // 初试首场开考时间（北京时间）
+  "examEndDate": "2026-12-20T17:00:00+08:00", // 本库三科所在初试周期结束时间
+  "examDateSource": "https://yz.chsi.com.cn/kyzx/jybzc/202609/20260924/2293971511.html",
   "subjects": [
     {
       "id": "math",                  // 408 | math | english
@@ -147,7 +149,7 @@ window.__PAPER__[2026] = {
 
 ```jsonc
 window.__KB__ = {
-  "examDate": "2026-12-20T14:00:00+08:00",
+  "examDate": "2026-12-19T08:30:00+08:00",
   "total": 150,
   "subjects": [
     {
